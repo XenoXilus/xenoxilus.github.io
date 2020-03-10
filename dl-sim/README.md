@@ -1,6 +1,6 @@
 
 # DPS simulator for Dragalia Lost
-This is a fork of the [Dagalia Lost DPS simulator](https://github.com/b1ueb1ues/dl) originally created by b1ueb1ues
+This is a fork of the [Dragalia Lost DPS simulator](https://github.com/b1ueb1ues/dl) originally created by b1ueb1ues
 
 ## Useful links
 - [Python simulator](https://github.com/mushymato/dl)
