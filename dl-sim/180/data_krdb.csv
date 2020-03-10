@@ -238,8 +238,8 @@
 11679,Yaten,5*,shadow,sword,7049,[The_Shining_Overlord+Beautiful_Nothingness][Fatalis][HDT2],<hp70>,,attack:2883,force_strike:1323,skill_1:5681,skill_2:0,skill_3:0,team_buff:0,team_energy:577,s1_boost:1213
 11128,_c_Yaten,5*,shadow,sword,6678,[The_Shining_Overlord+Beautiful_Nothingness][Fatalis][HDT2],!<hp70>,,attack:2738,force_strike:1256,skill_1:5399,skill_2:0,skill_3:0,team_buff:0,team_energy:577,s1_boost:1155
 9912,Yue,4*,flame,axe,3927,[Kung_Fu_Masters+Flower_in_the_Fray][Arctos][Agito],<>,,attack:4236,force_strike:585,skill_1:5089,skill_2:0,skill_3:0,team_buff:0
-8483,Yuya,4*,flame,dagger,3857,[Twinfold_Bonds+Levins_Champion][Konohana_Sakuya][Agito],<hit15 & hp70 & hp60>,,attack:2800,force_strike:854,skill_1:4828,skill_2:0,skill_3:0,team_buff:0
-4815,_c_Yuya,4*,flame,dagger,3857,[Twinfold_Bonds+Levins_Champion][Konohana_Sakuya][Agito],!<hit15 & hp70 & hp60>,,attack:1781,force_strike:478,skill_1:2555,skill_2:0,skill_3:0,team_buff:0
+9772,Yuya,4*,flame,dagger,7022,[Twinfold_Bonds+The_Lurker_in_the_Woods][Dreadking_Rathalos][Agito],<hit15 & hp60>,,attack:2242,force_strike:4340,skill_1:3189,skill_2:0,skill_3:0,team_buff:0
+6950,_c_Yuya,4*,flame,dagger,5417,[Twinfold_Bonds+The_Lurker_in_the_Woods][Dreadking_Rathalos][Agito],!<hit15 & hp60>,,attack:1595,force_strike:3088,skill_1:2266,skill_2:0,skill_3:0,team_buff:0
 8860,Zace,3*,shadow,lance,3620,[Resounding_Rendition+Jewels_of_the_Sun][Fatalis][HDT2],<hp70>,,attack:1995,force_strike:286,skill_1:3502,skill_2:1556,skill_3:1519,team_buff:0
 6814,_c_Zace,3*,shadow,lance,3620,[Resounding_Rendition+Jewels_of_the_Sun][Fatalis][HDT2],!<hp70>,,attack:1820,force_strike:196,skill_1:2481,skill_2:1193,skill_3:1121,team_buff:0
 10626,Zardin,3*,water,sword,3712,[The_Shining_Overlord+Beautiful_Nothingness][Siren][HDT2],<hp100 & hp70>,,attack:1840,force_strike:846,skill_1:4320,skill_2:1872,skill_3:1745,team_buff:0
