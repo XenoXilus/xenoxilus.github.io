@@ -284,6 +284,8 @@
 7873,_c_Summer_Luca,4*,light,axe,6299,[Kung_Fu_Masters+Heralds_of_Hinomoto][Cupid][HDT2],!<hp70>,,attack:2825,force_strike:264,skill_1:3736,skill_2:0,skill_3:1045,team_buff:0
 14145,Natalie,5*,shadow,blade,5228,[Heralds_of_Hinomoto+Dear_Diary][Shinobi][HDT2],<hp30 every 180s & hp=20%>,s2 without str buff,attack:2663,force_strike:0,skill_1:8737,skill_2:0,skill_3:2744,team_buff:0
 9909,_c_Natalie,5*,shadow,blade,5228,[Heralds_of_Hinomoto+Dear_Diary][Shinobi][HDT2],!<hp30 every 180s & hp=20%>,s2 without str buff,attack:2432,force_strike:0,skill_1:4955,skill_2:0,skill_3:2521,team_buff:0
+16249,Mitsuba,5*,water,dagger,4450,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],<hit15 & 0 frostbite res>,80% frostbite uptime,attack:1455,force_strike:0,skill_1:13175,skill_2:0,skill_3:0,team_buff:460,team_inspiration:560,s1_frostbite:599
+7757,_c_Mitsuba,5*,water,dagger,4450,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],!<hit15 & 0 frostbite res>,,attack:1032,force_strike:0,skill_1:5707,skill_2:0,skill_3:0,team_buff:458,team_inspiration:560
 13396,Victor,5*,wind,blade,3845,[Heralds_of_Hinomoto+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,,attack:1924,force_strike:0,skill_1:3968,skill_2:1335,skill_3:1284,team_buff:0,s1_bleed:4883
 9861,_c_Victor,5*,wind,blade,3845,[Resounding_Rendition+Jewels_of_the_Sun][Vayu][HDT2],!<hp70>,,attack:1602,force_strike:0,skill_1:2909,skill_2:1034,skill_3:862,team_buff:0,s1_bleed:3452
 12127,Summer_Cleo,5*,light,bow,3548,[Forest_Bonds+Dear_Diary][Corsaint_Phoenix][HDT2],<buff all team & hp30 every 90s & 0 paralysis res>,nofs; 81% paralysis uptime,attack:2927,force_strike:0,skill_1:4229,skill_2:0,skill_3:1716,team_buff:891,s1_paralysis:1050,s1_boost:1312
@@ -296,3 +298,5 @@
 9735,_c_Sazanka,4*,shadow,axe,3834,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi][HDT2],!<hp70 & 80 sleep res>,,attack:2032,force_strike:257,skill_1:3109,skill_2:0,skill_3:1194,team_buff:0,s1_bleed:3100,fs_boost:41
 12236,Mega_Man,5*,flame,wand,7272,[Primal_Crisis+Dear_Diary][Cerberus][Agito],<hp30 every 90s & hit15>,16 hits leaf shield (max 32 hits),attack:2063,force_strike:0,skill_1:0,skill_2:0,skill_3:0,team_buff:0,x_metal_blade:302,x_leaf_shield:5442,x_bleed:4427
 9161,_c_Mega_Man,5*,flame,wand,6611,[Primal_Crisis+Dear_Diary][Cerberus][Agito],!<hp30 every 90s & hit15>,16 hits leaf shield (max 32 hits),attack:1529,force_strike:0,skill_1:0,skill_2:0,skill_3:0,team_buff:0,x_metal_blade:230,x_leaf_shield:4029,x_bleed:3371
+13744,Valerio,5*,water,blade,5085,[Resounding_Rendition+Primal_Crisis][Siren][HDT2],<hp70 & hit15 & 0 frostbite res>,77% frostbite uptime,attack:2258,force_strike:0,skill_1:6265,skill_2:0,skill_3:2882,team_buff:1406,team_inspiration:426,s1_frostbite:505
+9705,_c_Valerio,5*,water,blade,5085,[Resounding_Rendition+Primal_Crisis][Siren][HDT2],!<hp70 & hit15 & 0 frostbite res>,,attack:1768,force_strike:0,skill_1:3887,skill_2:0,skill_3:2254,team_buff:1394,team_inspiration:400
