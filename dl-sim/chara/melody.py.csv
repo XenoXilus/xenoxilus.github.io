@@ -1,144 +1,144 @@
 -,60,_
-9146,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3346,force_strike:0,skill_1:0,skill_2:1291,skill_3:1074,team_buff:3434
-7878,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2616,force_strike:0,skill_1:0,skill_2:1021,skill_3:806,team_buff:3434
+10523,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3426,skill_3:1510,team_buff:5586
+10032,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3085,skill_3:1360,team_buff:5586
 -,60,k
-9146,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3346,force_strike:0,skill_1:0,skill_2:1291,skill_3:1074,team_buff:3434
-7878,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2616,force_strike:0,skill_1:0,skill_2:1021,skill_3:806,team_buff:3434
+10523,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3426,skill_3:1510,team_buff:5586
+10032,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3085,skill_3:1360,team_buff:5586
 -,60,r
-9501,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3346,force_strike:0,skill_1:0,skill_2:1485,skill_3:1235,team_buff:3434
-8153,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2616,force_strike:0,skill_1:0,skill_2:1174,skill_3:927,team_buff:3434
+10750,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3426,skill_3:1737,team_buff:5586
+10236,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3085,skill_3:1564,team_buff:5586
 -,60,kr
-9501,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3346,force_strike:0,skill_1:0,skill_2:1485,skill_3:1235,team_buff:3434
-8153,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2616,force_strike:0,skill_1:0,skill_2:1174,skill_3:927,team_buff:3434
+10750,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3426,skill_3:1737,team_buff:5586
+10236,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3085,skill_3:1564,team_buff:5586
 -,60,d
-9501,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3554,force_strike:0,skill_1:0,skill_2:1372,skill_3:1141,team_buff:3434
-7878,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2616,force_strike:0,skill_1:0,skill_2:1021,skill_3:806,team_buff:3434
+10830,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3639,skill_3:1604,team_buff:5586
+10339,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3298,skill_3:1454,team_buff:5586
 -,60,kd
-9501,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3554,force_strike:0,skill_1:0,skill_2:1372,skill_3:1141,team_buff:3434
-7878,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2616,force_strike:0,skill_1:0,skill_2:1021,skill_3:806,team_buff:3434
+10830,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3639,skill_3:1604,team_buff:5586
+10339,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3298,skill_3:1454,team_buff:5586
 -,60,rd
-9878,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3554,force_strike:0,skill_1:0,skill_2:1577,skill_3:1312,team_buff:3434
-8153,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2616,force_strike:0,skill_1:0,skill_2:1174,skill_3:927,team_buff:3434
+11071,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3639,skill_3:1845,team_buff:5586
+10557,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3298,skill_3:1672,team_buff:5586
 -,60,krd
-9878,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3554,force_strike:0,skill_1:0,skill_2:1577,skill_3:1312,team_buff:3434
-8153,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2616,force_strike:0,skill_1:0,skill_2:1174,skill_3:927,team_buff:3434
+11071,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3639,skill_3:1845,team_buff:5586
+10557,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3298,skill_3:1672,team_buff:5586
 -,60,b
-10133,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3861,force_strike:311,skill_1:0,skill_2:0,skill_3:1207,team_buff:4753
-7878,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2616,force_strike:0,skill_1:0,skill_2:1021,skill_3:806,team_buff:3434
+11588,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3421,skill_3:1538,team_buff:6628
+11095,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3081,skill_3:1385,team_buff:6628
 -,60,kb
-10133,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3861,force_strike:311,skill_1:0,skill_2:0,skill_3:1207,team_buff:4753
-7878,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2616,force_strike:0,skill_1:0,skill_2:1021,skill_3:806,team_buff:3434
+11588,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3421,skill_3:1538,team_buff:6628
+11095,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3081,skill_3:1385,team_buff:6628
 -,60,rb
-10314,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3861,force_strike:311,skill_1:0,skill_2:0,skill_3:1388,team_buff:4753
-8153,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2616,force_strike:0,skill_1:0,skill_2:1174,skill_3:927,team_buff:3434
+11819,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3421,skill_3:1769,team_buff:6628
+11303,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3081,skill_3:1593,team_buff:6628
 -,60,krb
-10314,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3861,force_strike:311,skill_1:0,skill_2:0,skill_3:1388,team_buff:4753
-8153,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2616,force_strike:0,skill_1:0,skill_2:1174,skill_3:927,team_buff:3434
+11819,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3421,skill_3:1769,team_buff:6628
+11303,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3081,skill_3:1593,team_buff:6628
 -,60,db
-10468,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4101,force_strike:330,skill_1:0,skill_2:0,skill_3:1282,team_buff:4753
-7878,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2616,force_strike:0,skill_1:0,skill_2:1021,skill_3:806,team_buff:3434
+11897,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3634,skill_3:1633,team_buff:6628
+11403,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3294,skill_3:1480,team_buff:6628
 -,60,kdb
-10468,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4101,force_strike:330,skill_1:0,skill_2:0,skill_3:1282,team_buff:4753
-7878,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2616,force_strike:0,skill_1:0,skill_2:1021,skill_3:806,team_buff:3434
+11897,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3634,skill_3:1633,team_buff:6628
+11403,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3294,skill_3:1480,team_buff:6628
 -,60,rdb
-10660,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4101,force_strike:330,skill_1:0,skill_2:0,skill_3:1475,team_buff:4753
-8153,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2616,force_strike:0,skill_1:0,skill_2:1174,skill_3:927,team_buff:3434
+12142,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3634,skill_3:1878,team_buff:6628
+11626,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3294,skill_3:1703,team_buff:6628
 -,60,krdb
-10660,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4101,force_strike:330,skill_1:0,skill_2:0,skill_3:1475,team_buff:4753
-8153,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2616,force_strike:0,skill_1:0,skill_2:1174,skill_3:927,team_buff:3434
+12142,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3634,skill_3:1878,team_buff:6628
+11626,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3294,skill_3:1703,team_buff:6628
 -,120,_
-9855,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3378,force_strike:0,skill_1:0,skill_2:1561,skill_3:1106,team_buff:3808
-8425,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2587,force_strike:0,skill_1:0,skill_2:1197,skill_3:830,team_buff:3808
+11737,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3533,skill_3:1300,team_buff:6902
+11256,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3181,skill_3:1171,team_buff:6902
 -,120,k
-9855,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3378,force_strike:0,skill_1:0,skill_2:1561,skill_3:1106,team_buff:3808
-8425,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2587,force_strike:0,skill_1:0,skill_2:1197,skill_3:830,team_buff:3808
+11737,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3533,skill_3:1300,team_buff:6902
+11256,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3181,skill_3:1171,team_buff:6902
 -,120,r
-10255,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3378,force_strike:0,skill_1:0,skill_2:1795,skill_3:1272,team_buff:3808
-8729,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2587,force_strike:0,skill_1:0,skill_2:1377,skill_3:955,team_buff:3808
+11932,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3533,skill_3:1495,team_buff:6902
+11431,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3181,skill_3:1346,team_buff:6902
 -,120,kr
-10255,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3378,force_strike:0,skill_1:0,skill_2:1795,skill_3:1272,team_buff:3808
-8729,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2587,force_strike:0,skill_1:0,skill_2:1377,skill_3:955,team_buff:3808
+11932,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3533,skill_3:1495,team_buff:6902
+11431,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3181,skill_3:1346,team_buff:6902
 -,120,d
-10231,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3588,force_strike:0,skill_1:0,skill_2:1658,skill_3:1175,team_buff:3808
-8425,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2587,force_strike:0,skill_1:0,skill_2:1197,skill_3:830,team_buff:3808
+12037,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3753,skill_3:1381,team_buff:6902
+11556,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3401,skill_3:1251,team_buff:6902
 -,120,kd
-10231,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3588,force_strike:0,skill_1:0,skill_2:1658,skill_3:1175,team_buff:3808
-8425,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2587,force_strike:0,skill_1:0,skill_2:1197,skill_3:830,team_buff:3808
+12037,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3753,skill_3:1381,team_buff:6902
+11556,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3401,skill_3:1251,team_buff:6902
 -,120,rd
-10656,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3588,force_strike:0,skill_1:0,skill_2:1907,skill_3:1351,team_buff:3808
-8729,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2587,force_strike:0,skill_1:0,skill_2:1377,skill_3:955,team_buff:3808
+12244,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3753,skill_3:1588,team_buff:6902
+11744,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3401,skill_3:1439,team_buff:6902
 -,120,krd
-10656,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3588,force_strike:0,skill_1:0,skill_2:1907,skill_3:1351,team_buff:3808
-8729,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2587,force_strike:0,skill_1:0,skill_2:1377,skill_3:955,team_buff:3808
+12244,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3753,skill_3:1588,team_buff:6902
+11744,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3401,skill_3:1439,team_buff:6902
 -,120,b
-11237,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4023,force_strike:324,skill_1:0,skill_2:0,skill_3:1560,team_buff:5328
-8425,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2587,force_strike:0,skill_1:0,skill_2:1197,skill_3:830,team_buff:3808
+12575,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3454,skill_3:1811,team_buff:7307
+12051,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3111,skill_3:1631,team_buff:7307
 -,120,kb
-11237,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4023,force_strike:324,skill_1:0,skill_2:0,skill_3:1560,team_buff:5328
-8425,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2587,force_strike:0,skill_1:0,skill_2:1197,skill_3:830,team_buff:3808
+12575,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3454,skill_3:1811,team_buff:7307
+12051,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3111,skill_3:1631,team_buff:7307
 -,120,rb
-11471,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4023,force_strike:324,skill_1:0,skill_2:0,skill_3:1794,team_buff:5328
-8729,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2587,force_strike:0,skill_1:0,skill_2:1377,skill_3:955,team_buff:3808
+12846,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3454,skill_3:2083,team_buff:7307
+12295,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3111,skill_3:1876,team_buff:7307
 -,120,krb
-11471,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4023,force_strike:324,skill_1:0,skill_2:0,skill_3:1794,team_buff:5328
-8729,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2587,force_strike:0,skill_1:0,skill_2:1377,skill_3:955,team_buff:3808
+12846,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3454,skill_3:2083,team_buff:7307
+12295,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3111,skill_3:1876,team_buff:7307
 -,120,db
-11604,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4274,force_strike:345,skill_1:0,skill_2:0,skill_3:1657,team_buff:5328
-8425,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2587,force_strike:0,skill_1:0,skill_2:1197,skill_3:830,team_buff:3808
+12902,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3669,skill_3:1924,team_buff:7307
+12378,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3326,skill_3:1744,team_buff:7307
 -,120,kdb
-11604,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4274,force_strike:345,skill_1:0,skill_2:0,skill_3:1657,team_buff:5328
-8425,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2587,force_strike:0,skill_1:0,skill_2:1197,skill_3:830,team_buff:3808
+12902,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3669,skill_3:1924,team_buff:7307
+12378,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3326,skill_3:1744,team_buff:7307
 -,120,rdb
-11852,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4274,force_strike:345,skill_1:0,skill_2:0,skill_3:1905,team_buff:5328
-8729,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2587,force_strike:0,skill_1:0,skill_2:1377,skill_3:955,team_buff:3808
+13191,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3669,skill_3:2213,team_buff:7307
+12640,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3326,skill_3:2005,team_buff:7307
 -,120,krdb
-11852,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4274,force_strike:345,skill_1:0,skill_2:0,skill_3:1905,team_buff:5328
-8729,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2587,force_strike:0,skill_1:0,skill_2:1377,skill_3:955,team_buff:3808
+13191,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3669,skill_3:2213,team_buff:7307
+12640,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3326,skill_3:2005,team_buff:7307
 -,180,_
-10329,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3355,force_strike:0,skill_1:0,skill_2:1652,skill_3:1308,team_buff:4013
-8806,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2553,force_strike:0,skill_1:0,skill_2:1257,skill_3:981,team_buff:4013
+12053,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3540,skill_3:1395,team_buff:7117
+11562,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3188,skill_3:1256,team_buff:7117
 -,180,k
-10329,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3355,force_strike:0,skill_1:0,skill_2:1652,skill_3:1308,team_buff:4013
-8806,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2553,force_strike:0,skill_1:0,skill_2:1257,skill_3:981,team_buff:4013
+12053,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3540,skill_3:1395,team_buff:7117
+11562,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3188,skill_3:1256,team_buff:7117
 -,180,r
-10773,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3355,force_strike:0,skill_1:0,skill_2:1900,skill_3:1504,team_buff:4013
-9141,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2553,force_strike:0,skill_1:0,skill_2:1446,skill_3:1129,team_buff:4013
+12262,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3540,skill_3:1604,team_buff:7117
+11750,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3188,skill_3:1444,team_buff:7117
 -,180,kr
-10773,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3355,force_strike:0,skill_1:0,skill_2:1900,skill_3:1504,team_buff:4013
-9141,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2553,force_strike:0,skill_1:0,skill_2:1446,skill_3:1129,team_buff:4013
+12262,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3540,skill_3:1604,team_buff:7117
+11750,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3188,skill_3:1444,team_buff:7117
 -,180,d
-10722,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3564,force_strike:0,skill_1:0,skill_2:1755,skill_3:1389,team_buff:4013
-8806,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2553,force_strike:0,skill_1:0,skill_2:1257,skill_3:981,team_buff:4013
+12360,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3760,skill_3:1481,team_buff:7117
+11869,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3408,skill_3:1343,team_buff:7117
 -,180,kd
-10722,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3564,force_strike:0,skill_1:0,skill_2:1755,skill_3:1389,team_buff:4013
-8806,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2553,force_strike:0,skill_1:0,skill_2:1257,skill_3:981,team_buff:4013
+12360,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3760,skill_3:1481,team_buff:7117
+11869,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3408,skill_3:1343,team_buff:7117
 -,180,rd
-11194,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3564,force_strike:0,skill_1:0,skill_2:2018,skill_3:1598,team_buff:4013
-9141,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2553,force_strike:0,skill_1:0,skill_2:1446,skill_3:1129,team_buff:4013
+12582,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3760,skill_3:1704,team_buff:7117
+12070,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3408,skill_3:1544,team_buff:7117
 -,180,krd
-11194,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:3564,force_strike:0,skill_1:0,skill_2:2018,skill_3:1598,team_buff:4013
-9141,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2553,force_strike:0,skill_1:0,skill_2:1446,skill_3:1129,team_buff:4013
+12582,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3760,skill_3:1704,team_buff:7117
+12070,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3408,skill_3:1544,team_buff:7117
 -,180,b
-11580,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4051,force_strike:314,skill_1:0,skill_2:0,skill_3:1676,team_buff:5538
-8806,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2553,force_strike:0,skill_1:0,skill_2:1257,skill_3:981,team_buff:4013
+12782,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3473,skill_3:1748,team_buff:7559
+12262,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3128,skill_3:1574,team_buff:7559
 -,180,kb
-11580,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4051,force_strike:314,skill_1:0,skill_2:0,skill_3:1676,team_buff:5538
-8806,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2553,force_strike:0,skill_1:0,skill_2:1257,skill_3:981,team_buff:4013
+12782,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3473,skill_3:1748,team_buff:7559
+12262,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3128,skill_3:1574,team_buff:7559
 -,180,rb
-11831,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4051,force_strike:314,skill_1:0,skill_2:0,skill_3:1927,team_buff:5538
-9141,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2553,force_strike:0,skill_1:0,skill_2:1446,skill_3:1129,team_buff:4013
+13044,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3473,skill_3:2011,team_buff:7559
+12499,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3128,skill_3:1811,team_buff:7559
 -,180,krb
-11831,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4051,force_strike:314,skill_1:0,skill_2:0,skill_3:1927,team_buff:5538
-9141,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2553,force_strike:0,skill_1:0,skill_2:1446,skill_3:1129,team_buff:4013
+13044,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3473,skill_3:2011,team_buff:7559
+12499,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3128,skill_3:1811,team_buff:7559
 -,180,db
-11956,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4303,force_strike:334,skill_1:0,skill_2:0,skill_3:1780,team_buff:5538
-8806,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2553,force_strike:0,skill_1:0,skill_2:1257,skill_3:981,team_buff:4013
+13106,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3689,skill_3:1857,team_buff:7559
+12587,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3343,skill_3:1683,team_buff:7559
 -,180,kdb
-11956,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4303,force_strike:334,skill_1:0,skill_2:0,skill_3:1780,team_buff:5538
-8806,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2553,force_strike:0,skill_1:0,skill_2:1257,skill_3:981,team_buff:4013
+13106,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3689,skill_3:1857,team_buff:7559
+12587,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3343,skill_3:1683,team_buff:7559
 -,180,rdb
-12223,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4303,force_strike:334,skill_1:0,skill_2:0,skill_3:2047,team_buff:5538
-9141,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2553,force_strike:0,skill_1:0,skill_2:1446,skill_3:1129,team_buff:4013
+13385,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3689,skill_3:2136,team_buff:7559
+12839,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3343,skill_3:1936,team_buff:7559
 -,180,krdb
-12223,Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],<maintain shield & hp100 & hp70>,no s2,attack:4303,force_strike:334,skill_1:0,skill_2:0,skill_3:2047,team_buff:5538
-9141,_c_Melody,3*,wind,blade,3805,[Resounding_Rendition+A_Dogs_Day][AC011_Garland][HDT2],!<maintain shield & hp100 & hp70>,no s2,attack:2553,force_strike:0,skill_1:0,skill_2:1446,skill_3:1129,team_buff:4013
+13385,Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],<hp100 & hp70>,,attack:3689,skill_3:2136,team_buff:7559
+12839,_c_Melody,3*,wind,blade,6276,[Resounding_Rendition+A_Dogs_Day][Ariel][HDT2],!<hp100 & hp70>,,attack:3343,skill_3:1936,team_buff:7559

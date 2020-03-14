@@ -1,144 +1,144 @@
 -,60,_
-7446,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2418,force_strike:0,skill_1:3498,skill_2:0,skill_3:655,team_buff:0,s1_powerup:874
-6325,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2054,force_strike:0,skill_1:2971,skill_2:0,skill_3:556,team_buff:0,s1_powerup:742
+12202,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:4839,force_strike:225,skill_1:4815,s1_powerup:1486,skill_3:835
+6413,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:2647,force_strike:128,skill_1:2514,s1_powerup:718,skill_3:403
 -,60,k
-8190,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2660,force_strike:0,skill_1:3848,skill_2:0,skill_3:720,team_buff:0,s1_powerup:962
-6957,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2259,force_strike:0,skill_1:3268,skill_2:0,skill_3:612,team_buff:0,s1_powerup:817
+13423,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:5856,force_strike:248,skill_1:5296,s1_powerup:1635,skill_3:918
+7054,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:3203,force_strike:141,skill_1:2766,s1_powerup:790,skill_3:444
 -,60,r
-8200,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2418,force_strike:0,skill_1:4023,skill_2:0,skill_3:753,team_buff:0,s1_powerup:1005
-6965,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2054,force_strike:0,skill_1:3417,skill_2:0,skill_3:639,team_buff:0,s1_powerup:854
+13273,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:4839,force_strike:225,skill_1:5537,s1_powerup:1709,skill_3:960
+6959,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:2647,force_strike:128,skill_1:2892,s1_powerup:826,skill_3:464
 -,60,kr
-9020,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2660,force_strike:0,skill_1:4425,skill_2:0,skill_3:828,team_buff:0,s1_powerup:1106
-7662,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2259,force_strike:0,skill_1:3759,skill_2:0,skill_3:703,team_buff:0,s1_powerup:939
+14600,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:5856,force_strike:248,skill_1:6091,s1_powerup:1880,skill_3:1056
+7655,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:3203,force_strike:141,skill_1:3181,s1_powerup:908,skill_3:510
 -,60,d
-7882,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2559,force_strike:0,skill_1:3703,skill_2:0,skill_3:693,team_buff:0,s1_powerup:925
-6325,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2054,force_strike:0,skill_1:2971,skill_2:0,skill_3:556,team_buff:0,s1_powerup:742
+13182,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:5239,force_strike:245,skill_1:5202,s1_powerup:1596,skill_3:897
+7177,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:2962,force_strike:143,skill_1:2814,s1_powerup:804,skill_3:451
 -,60,kd
-8670,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2815,force_strike:0,skill_1:4073,skill_2:0,skill_3:762,team_buff:0,s1_powerup:1018
-6957,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2259,force_strike:0,skill_1:3268,skill_2:0,skill_3:612,team_buff:0,s1_powerup:817
+14500,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:6339,force_strike:270,skill_1:5722,s1_powerup:1756,skill_3:986
+7894,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:3585,force_strike:157,skill_1:3095,s1_powerup:884,skill_3:496
 -,60,rd
-8680,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2559,force_strike:0,skill_1:4258,skill_2:0,skill_3:797,team_buff:0,s1_powerup:1064
-6965,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2054,force_strike:0,skill_1:3417,skill_2:0,skill_3:639,team_buff:0,s1_powerup:854
+14336,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:5239,force_strike:245,skill_1:5982,s1_powerup:1836,skill_3:1031
+7787,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:2962,force_strike:143,skill_1:3236,s1_powerup:924,skill_3:519
 -,60,krd
-9548,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2815,force_strike:0,skill_1:4684,skill_2:0,skill_3:877,team_buff:0,s1_powerup:1171
-7662,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2259,force_strike:0,skill_1:3759,skill_2:0,skill_3:703,team_buff:0,s1_powerup:939
+15770,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:6339,force_strike:270,skill_1:6581,s1_powerup:2020,skill_3:1134
+8566,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:3585,force_strike:157,skill_1:3560,s1_powerup:1017,skill_3:571
 -,60,b
-8606,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2242,force_strike:0,skill_1:3960,skill_2:0,skill_3:1271,team_buff:0,s1_powerup:1131
-6325,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2054,force_strike:0,skill_1:2971,skill_2:0,skill_3:556,team_buff:0,s1_powerup:742
+12313,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:4880,force_strike:228,skill_1:4860,s1_powerup:1500,skill_3:842
+6467,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:2666,force_strike:129,skill_1:2538,s1_powerup:725,skill_3:407
 -,60,kb
-9467,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2466,force_strike:0,skill_1:4356,skill_2:0,skill_3:1398,team_buff:0,s1_powerup:1244
-6957,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2259,force_strike:0,skill_1:3268,skill_2:0,skill_3:612,team_buff:0,s1_powerup:817
+13544,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:5905,force_strike:250,skill_1:5346,s1_powerup:1650,skill_3:927
+7114,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:3225,force_strike:142,skill_1:2792,s1_powerup:797,skill_3:448
 -,60,rb
-9561,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2242,force_strike:0,skill_1:4555,skill_2:0,skill_3:1462,team_buff:0,s1_powerup:1301
-6965,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2054,force_strike:0,skill_1:3417,skill_2:0,skill_3:639,team_buff:0,s1_powerup:854
+13394,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:4880,force_strike:228,skill_1:5589,s1_powerup:1725,skill_3:969
+7018,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:2666,force_strike:129,skill_1:2919,s1_powerup:834,skill_3:468
 -,60,krb
-10517,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2466,force_strike:0,skill_1:5010,skill_2:0,skill_3:1608,team_buff:0,s1_powerup:1431
-7662,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2259,force_strike:0,skill_1:3759,skill_2:0,skill_3:703,team_buff:0,s1_powerup:939
+14733,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:5905,force_strike:250,skill_1:6148,s1_powerup:1898,skill_3:1066
+7720,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:3225,force_strike:142,skill_1:3211,s1_powerup:917,skill_3:515
 -,60,db
-9110,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2373,force_strike:0,skill_1:4192,skill_2:0,skill_3:1346,team_buff:0,s1_powerup:1197
-6325,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2054,force_strike:0,skill_1:2971,skill_2:0,skill_3:556,team_buff:0,s1_powerup:742
+13300,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:5283,force_strike:247,skill_1:5251,s1_powerup:1612,skill_3:905
+7237,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:2983,force_strike:144,skill_1:2840,s1_powerup:811,skill_3:456
 -,60,kdb
-10021,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2611,force_strike:0,skill_1:4611,skill_2:0,skill_3:1480,team_buff:0,s1_powerup:1317
-6957,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2259,force_strike:0,skill_1:3268,skill_2:0,skill_3:612,team_buff:0,s1_powerup:817
+14630,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:6392,force_strike:272,skill_1:5776,s1_powerup:1773,skill_3:996
+7961,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:3610,force_strike:159,skill_1:3124,s1_powerup:892,skill_3:501
 -,60,rdb
-10120,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2373,force_strike:0,skill_1:4821,skill_2:0,skill_3:1547,team_buff:0,s1_powerup:1377
-6965,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2054,force_strike:0,skill_1:3417,skill_2:0,skill_3:639,team_buff:0,s1_powerup:854
+14466,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:5283,force_strike:247,skill_1:6039,s1_powerup:1853,skill_3:1041
+7853,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:2983,force_strike:144,skill_1:3266,s1_powerup:933,skill_3:524
 -,60,krdb
-11132,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2611,force_strike:0,skill_1:5303,skill_2:0,skill_3:1702,team_buff:0,s1_powerup:1515
-7662,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2259,force_strike:0,skill_1:3759,skill_2:0,skill_3:703,team_buff:0,s1_powerup:939
+15912,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:6392,force_strike:272,skill_1:6643,s1_powerup:2039,skill_3:1145
+8639,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:3610,force_strike:159,skill_1:3593,s1_powerup:1026,skill_3:576
 -,120,_
-8241,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2416,force_strike:0,skill_1:3495,skill_2:0,skill_3:1309,team_buff:0,s1_powerup:1019
-7000,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2052,force_strike:0,skill_1:2969,skill_2:0,skill_3:1112,team_buff:0,s1_powerup:866
+14061,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:5366,force_strike:113,skill_1:5034,s1_powerup:1867,skill_3:1678
+7056,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:2749,force_strike:64,skill_1:2527,s1_powerup:902,skill_3:811
 -,120,k
-9065,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2658,force_strike:0,skill_1:3845,skill_2:0,skill_3:1440,team_buff:0,s1_powerup:1121
-7700,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2258,force_strike:0,skill_1:3266,skill_2:0,skill_3:1223,team_buff:0,s1_powerup:952
+15467,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:6493,force_strike:124,skill_1:5538,s1_powerup:2054,skill_3:1846
+7761,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3326,force_strike:70,skill_1:2780,s1_powerup:993,skill_3:892
 -,120,r
-9114,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2416,force_strike:0,skill_1:4019,skill_2:0,skill_3:1505,team_buff:0,s1_powerup:1172
-7742,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2052,force_strike:0,skill_1:3414,skill_2:0,skill_3:1278,team_buff:0,s1_powerup:995
+15348,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:5366,force_strike:113,skill_1:5790,s1_powerup:2147,skill_3:1930
+7692,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:2749,force_strike:64,skill_1:2907,s1_powerup:1038,skill_3:933
 -,120,kr
-10026,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2658,force_strike:0,skill_1:4421,skill_2:0,skill_3:1656,team_buff:0,s1_powerup:1289
-8516,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2258,force_strike:0,skill_1:3756,skill_2:0,skill_3:1406,team_buff:0,s1_powerup:1095
+16883,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:6493,force_strike:124,skill_1:6369,s1_powerup:2362,skill_3:2123
+8461,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3326,force_strike:70,skill_1:3197,s1_powerup:1142,skill_3:1026
 -,120,d
-8723,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2558,force_strike:0,skill_1:3700,skill_2:0,skill_3:1385,team_buff:0,s1_powerup:1079
-7000,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2052,force_strike:0,skill_1:2969,skill_2:0,skill_3:1112,team_buff:0,s1_powerup:866
+15143,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:5785,force_strike:123,skill_1:5423,s1_powerup:2006,skill_3:1803
+7896,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3076,force_strike:72,skill_1:2828,s1_powerup:1010,skill_3:908
 -,120,kd
-9595,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2814,force_strike:0,skill_1:4070,skill_2:0,skill_3:1524,team_buff:0,s1_powerup:1187
-7700,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2258,force_strike:0,skill_1:3266,skill_2:0,skill_3:1223,team_buff:0,s1_powerup:952
+16658,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:7000,force_strike:135,skill_1:5966,s1_powerup:2207,skill_3:1984
+8685,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3722,force_strike:79,skill_1:3111,s1_powerup:1111,skill_3:999
 -,120,rd
-9648,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2558,force_strike:0,skill_1:4255,skill_2:0,skill_3:1593,team_buff:0,s1_powerup:1241
-7742,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2052,force_strike:0,skill_1:3414,skill_2:0,skill_3:1278,team_buff:0,s1_powerup:995
+16528,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:5785,force_strike:123,skill_1:6237,s1_powerup:2307,skill_3:2074
+8608,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3076,force_strike:72,skill_1:3253,s1_powerup:1161,skill_3:1044
 -,120,krd
-10613,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2814,force_strike:0,skill_1:4680,skill_2:0,skill_3:1753,team_buff:0,s1_powerup:1365
-8516,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2258,force_strike:0,skill_1:3756,skill_2:0,skill_3:1406,team_buff:0,s1_powerup:1095
+18181,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:7000,force_strike:135,skill_1:6861,s1_powerup:2538,skill_3:2281
+9469,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3722,force_strike:79,skill_1:3578,s1_powerup:1278,skill_3:1148
 -,120,b
-8688,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2259,force_strike:0,skill_1:4000,skill_2:0,skill_3:1284,team_buff:0,s1_powerup:1143
-7000,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2052,force_strike:0,skill_1:2969,skill_2:0,skill_3:1112,team_buff:0,s1_powerup:866
+14056,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:5347,force_strike:113,skill_1:5042,s1_powerup:1870,skill_3:1681
+7051,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:2737,force_strike:64,skill_1:2531,s1_powerup:904,skill_3:812
 -,120,kb
-9557,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2485,force_strike:0,skill_1:4400,skill_2:0,skill_3:1412,team_buff:0,s1_powerup:1257
-7700,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2258,force_strike:0,skill_1:3266,skill_2:0,skill_3:1223,team_buff:0,s1_powerup:952
+15461,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:6469,force_strike:125,skill_1:5547,s1_powerup:2057,skill_3:1849
+7757,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3312,force_strike:71,skill_1:2785,s1_powerup:994,skill_3:894
 -,120,rb
-9652,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2259,force_strike:0,skill_1:4600,skill_2:0,skill_3:1477,team_buff:0,s1_powerup:1314
-7742,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2052,force_strike:0,skill_1:3414,skill_2:0,skill_3:1278,team_buff:0,s1_powerup:995
+15345,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:5347,force_strike:113,skill_1:5799,s1_powerup:2151,skill_3:1933
+7689,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:2737,force_strike:64,skill_1:2911,s1_powerup:1039,skill_3:934
 -,120,krb
-10617,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2485,force_strike:0,skill_1:5061,skill_2:0,skill_3:1624,team_buff:0,s1_powerup:1446
-8516,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2258,force_strike:0,skill_1:3756,skill_2:0,skill_3:1406,team_buff:0,s1_powerup:1095
+16880,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:6469,force_strike:125,skill_1:6379,s1_powerup:2366,skill_3:2127
+8458,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3312,force_strike:71,skill_1:3202,s1_powerup:1143,skill_3:1028
 -,120,db
-9196,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2392,force_strike:0,skill_1:4235,skill_2:0,skill_3:1359,team_buff:0,s1_powerup:1210
-7000,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2052,force_strike:0,skill_1:2969,skill_2:0,skill_3:1112,team_buff:0,s1_powerup:866
+15137,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:5764,force_strike:123,skill_1:5432,s1_powerup:2009,skill_3:1806
+7891,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3063,force_strike:72,skill_1:2833,s1_powerup:1011,skill_3:909
 -,120,kdb
-10116,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2631,force_strike:0,skill_1:4658,skill_2:0,skill_3:1495,team_buff:0,s1_powerup:1331
-7700,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2258,force_strike:0,skill_1:3266,skill_2:0,skill_3:1223,team_buff:0,s1_powerup:952
+16651,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:6975,force_strike:136,skill_1:5975,s1_powerup:2210,skill_3:1987
+8680,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3707,force_strike:79,skill_1:3116,s1_powerup:1113,skill_3:1000
 -,120,rdb
-10217,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2392,force_strike:0,skill_1:4870,skill_2:0,skill_3:1563,team_buff:0,s1_powerup:1391
-7742,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2052,force_strike:0,skill_1:3414,skill_2:0,skill_3:1278,team_buff:0,s1_powerup:995
+16524,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:5764,force_strike:123,skill_1:6247,s1_powerup:2311,skill_3:2077
+8604,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3063,force_strike:72,skill_1:3258,s1_powerup:1163,skill_3:1046
 -,120,krdb
-11239,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2631,force_strike:0,skill_1:5357,skill_2:0,skill_3:1719,team_buff:0,s1_powerup:1530
-8516,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2258,force_strike:0,skill_1:3756,skill_2:0,skill_3:1406,team_buff:0,s1_powerup:1095
+18177,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:6975,force_strike:136,skill_1:6872,s1_powerup:2542,skill_3:2285
+9465,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3707,force_strike:79,skill_1:3584,s1_powerup:1280,skill_3:1150
 -,180,_
-8328,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2408,force_strike:0,skill_1:3523,skill_2:0,skill_3:1319,team_buff:0,s1_powerup:1076
-7074,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2046,force_strike:0,skill_1:2993,skill_2:0,skill_3:1121,team_buff:0,s1_powerup:914
+14767,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:5524,force_strike:75,skill_1:5379,s1_powerup:2112,skill_3:1675
+7310,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:2773,force_strike:42,skill_1:2663,s1_powerup:1021,skill_3:809
 -,180,k
-9161,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2649,force_strike:0,skill_1:3875,skill_2:0,skill_3:1451,team_buff:0,s1_powerup:1184
-7782,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2250,force_strike:0,skill_1:3292,skill_2:0,skill_3:1233,team_buff:0,s1_powerup:1005
+16244,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:6684,force_strike:83,skill_1:5917,s1_powerup:2323,skill_3:1843
+8041,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3355,force_strike:47,skill_1:2929,s1_powerup:1123,skill_3:890
 -,180,r
-9216,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2408,force_strike:0,skill_1:4052,skill_2:0,skill_3:1517,team_buff:0,s1_powerup:1238
-7828,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2046,force_strike:0,skill_1:3441,skill_2:0,skill_3:1289,team_buff:0,s1_powerup:1051
+16142,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:5524,force_strike:75,skill_1:6186,s1_powerup:2429,skill_3:1926
+7985,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:2773,force_strike:42,skill_1:3062,s1_powerup:1174,skill_3:931
 -,180,kr
-10138,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2649,force_strike:0,skill_1:4457,skill_2:0,skill_3:1669,team_buff:0,s1_powerup:1361
-8611,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2250,force_strike:0,skill_1:3786,skill_2:0,skill_3:1418,team_buff:0,s1_powerup:1156
+17756,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:6684,force_strike:83,skill_1:6804,s1_powerup:2672,skill_3:2119
+8783,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3355,force_strike:47,skill_1:3368,s1_powerup:1291,skill_3:1024
 -,180,d
-8816,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2549,force_strike:0,skill_1:3729,skill_2:0,skill_3:1396,team_buff:0,s1_powerup:1139
-7074,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2046,force_strike:0,skill_1:2993,skill_2:0,skill_3:1121,team_buff:0,s1_powerup:914
+15889,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:5948,force_strike:82,skill_1:5789,s1_powerup:2269,skill_3:1800
+8181,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3103,force_strike:48,skill_1:2980,s1_powerup:1142,skill_3:906
 -,180,kd
-9697,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2804,force_strike:0,skill_1:4102,skill_2:0,skill_3:1536,team_buff:0,s1_powerup:1253
-7782,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2250,force_strike:0,skill_1:3292,skill_2:0,skill_3:1233,team_buff:0,s1_powerup:1005
+17478,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:7197,force_strike:90,skill_1:6368,s1_powerup:2496,skill_3:1980
+8999,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3755,force_strike:52,skill_1:3278,s1_powerup:1256,skill_3:997
 -,180,rd
-9755,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2549,force_strike:0,skill_1:4289,skill_2:0,skill_3:1606,team_buff:0,s1_powerup:1310
-7828,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2046,force_strike:0,skill_1:3441,skill_2:0,skill_3:1289,team_buff:0,s1_powerup:1051
+17368,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:5948,force_strike:82,skill_1:6657,s1_powerup:2609,skill_3:2070
+8935,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3103,force_strike:48,skill_1:3427,s1_powerup:1314,skill_3:1042
 -,180,krd
-10731,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2804,force_strike:0,skill_1:4718,skill_2:0,skill_3:1767,team_buff:0,s1_powerup:1441
-8611,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2250,force_strike:0,skill_1:3786,skill_2:0,skill_3:1418,team_buff:0,s1_powerup:1156
+19105,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:7197,force_strike:90,skill_1:7323,s1_powerup:2870,skill_3:2277
+9829,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3755,force_strike:52,skill_1:3769,s1_powerup:1445,skill_3:1146
 -,180,b
-8815,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2266,force_strike:0,skill_1:4016,skill_2:0,skill_3:1289,team_buff:0,s1_powerup:1243
-7074,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2046,force_strike:0,skill_1:2993,skill_2:0,skill_3:1121,team_buff:0,s1_powerup:914
+14814,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:5516,force_strike:75,skill_1:5411,s1_powerup:2124,skill_3:1685
+7333,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:2768,force_strike:43,skill_1:2678,s1_powerup:1027,skill_3:814
 -,180,kb
-9697,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2492,force_strike:0,skill_1:4418,skill_2:0,skill_3:1418,team_buff:0,s1_powerup:1367
-7782,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2250,force_strike:0,skill_1:3292,skill_2:0,skill_3:1233,team_buff:0,s1_powerup:1005
+16296,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:6675,force_strike:83,skill_1:5952,s1_powerup:2337,skill_3:1853
+8066,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3350,force_strike:47,skill_1:2946,s1_powerup:1129,skill_3:896
 -,180,rb
-9798,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2266,force_strike:0,skill_1:4619,skill_2:0,skill_3:1483,team_buff:0,s1_powerup:1429
-7828,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2046,force_strike:0,skill_1:3441,skill_2:0,skill_3:1289,team_buff:0,s1_powerup:1051
+16197,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:5516,force_strike:75,skill_1:6222,s1_powerup:2443,skill_3:1938
+8011,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:2768,force_strike:43,skill_1:3080,s1_powerup:1181,skill_3:936
 -,180,krb
-10778,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2492,force_strike:0,skill_1:5081,skill_2:0,skill_3:1631,team_buff:0,s1_powerup:1572
-8611,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2250,force_strike:0,skill_1:3786,skill_2:0,skill_3:1418,team_buff:0,s1_powerup:1156
+17817,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:6675,force_strike:83,skill_1:6845,s1_powerup:2688,skill_3:2132
+8812,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3350,force_strike:47,skill_1:3388,s1_powerup:1299,skill_3:1030
 -,180,db
-9331,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2398,force_strike:0,skill_1:4252,skill_2:0,skill_3:1365,team_buff:0,s1_powerup:1316
-7074,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2046,force_strike:0,skill_1:2993,skill_2:0,skill_3:1121,team_buff:0,s1_powerup:914
+15940,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:5940,force_strike:82,skill_1:5823,s1_powerup:2283,skill_3:1810
+8206,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3098,force_strike:48,skill_1:2997,s1_powerup:1149,skill_3:911
 -,180,kdb
-10265,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2638,force_strike:0,skill_1:4677,skill_2:0,skill_3:1501,team_buff:0,s1_powerup:1447
-7782,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2250,force_strike:0,skill_1:3292,skill_2:0,skill_3:1233,team_buff:0,s1_powerup:1005
+17534,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:7187,force_strike:90,skill_1:6405,s1_powerup:2511,skill_3:1991
+9026,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3749,force_strike:53,skill_1:3297,s1_powerup:1264,skill_3:1002
 -,180,rdb
-10371,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2398,force_strike:0,skill_1:4889,skill_2:0,skill_3:1569,team_buff:0,s1_powerup:1513
-7828,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2046,force_strike:0,skill_1:3441,skill_2:0,skill_3:1289,team_buff:0,s1_powerup:1051
+17428,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:5940,force_strike:82,skill_1:6697,s1_powerup:2625,skill_3:2082
+8965,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3098,force_strike:48,skill_1:3447,s1_powerup:1321,skill_3:1048
 -,180,krdb
-11409,Lin_You,5*,wind,axe,3789,[Kung_Fu_Masters+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,2in1 ,attack:2638,force_strike:0,skill_1:5378,skill_2:0,skill_3:1726,team_buff:0,s1_powerup:1664
-8611,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2250,force_strike:0,skill_1:3786,skill_2:0,skill_3:1418,team_buff:0,s1_powerup:1156
+19170,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:7187,force_strike:90,skill_1:7366,s1_powerup:2887,skill_3:2290
+9861,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ,attack:3749,force_strike:53,skill_1:3792,s1_powerup:1454,skill_3:1153

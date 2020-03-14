@@ -1,144 +1,144 @@
 -,60,_
-8519,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2078,force_strike:168,skill_1:3167,skill_2:0,skill_3:1822,team_buff:276,s1_poison:1005
-5006,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1365,force_strike:112,skill_1:2085,skill_2:0,skill_3:1166,team_buff:276
+8589,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 89% poison uptime,attack:2078,force_strike:168,skill_1:3167,s1_poison:1005,skill_3:1822,team_buff:346
+5076,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1365,force_strike:112,skill_1:2085,s1_poison:0,skill_3:1166,team_buff:346
 -,60,k
-9344,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2286,force_strike:185,skill_1:3484,skill_2:0,skill_3:2004,team_buff:276,s1_poison:1105
-5479,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1501,force_strike:123,skill_1:2293,skill_2:0,skill_3:1283,team_buff:276
+9413,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 89% poison uptime,attack:2515,force_strike:185,skill_1:3484,s1_poison:1105,skill_3:2004,team_buff:346
+5549,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1651,force_strike:123,skill_1:2293,s1_poison:0,skill_3:1283,team_buff:346
 -,60,r
-9419,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2078,force_strike:168,skill_1:3643,skill_2:0,skill_3:2095,team_buff:276,s1_poison:1155
-5494,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1365,force_strike:112,skill_1:2397,skill_2:0,skill_3:1341,team_buff:276
+9488,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 89% poison uptime,attack:2078,force_strike:168,skill_1:3643,s1_poison:1155,skill_3:2095,team_buff:346
+5564,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1365,force_strike:112,skill_1:2397,s1_poison:0,skill_3:1341,team_buff:346
 -,60,kr
-10333,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2286,force_strike:185,skill_1:4007,skill_2:0,skill_3:2305,team_buff:276,s1_poison:1271
-6016,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1501,force_strike:123,skill_1:2637,skill_2:0,skill_3:1476,team_buff:276
+10403,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 89% poison uptime,attack:2515,force_strike:185,skill_1:4007,s1_poison:1271,skill_3:2305,team_buff:346
+6086,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1651,force_strike:123,skill_1:2637,s1_poison:0,skill_3:1476,team_buff:346
 -,60,d
-9059,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2214,force_strike:179,skill_1:3375,skill_2:0,skill_3:1941,team_buff:276,s1_poison:1070
-5006,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1365,force_strike:112,skill_1:2085,skill_2:0,skill_3:1166,team_buff:276
+9128,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 89% poison uptime,attack:2214,force_strike:179,skill_1:3375,s1_poison:1070,skill_3:1941,team_buff:346
+5403,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1459,force_strike:120,skill_1:2229,s1_poison:0,skill_3:1247,team_buff:346
 -,60,kd
-9937,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2436,force_strike:197,skill_1:3712,skill_2:0,skill_3:2135,team_buff:276,s1_poison:1177
-5479,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1501,force_strike:123,skill_1:2293,skill_2:0,skill_3:1283,team_buff:276
+10007,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 89% poison uptime,attack:2679,force_strike:197,skill_1:3712,s1_poison:1177,skill_3:2135,team_buff:346
+5908,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1765,force_strike:132,skill_1:2451,s1_poison:0,skill_3:1372,team_buff:346
 -,60,rd
-10017,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2214,force_strike:179,skill_1:3881,skill_2:0,skill_3:2232,team_buff:276,s1_poison:1231
-5494,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1365,force_strike:112,skill_1:2397,skill_2:0,skill_3:1341,team_buff:276
+10086,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 89% poison uptime,attack:2214,force_strike:179,skill_1:3881,s1_poison:1231,skill_3:2232,team_buff:346
+5924,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1459,force_strike:120,skill_1:2563,s1_poison:0,skill_3:1434,team_buff:346
 -,60,krd
-10991,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2436,force_strike:197,skill_1:4269,skill_2:0,skill_3:2456,team_buff:276,s1_poison:1354
-6016,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1501,force_strike:123,skill_1:2637,skill_2:0,skill_3:1476,team_buff:276
+11060,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 89% poison uptime,attack:2679,force_strike:197,skill_1:4269,s1_poison:1354,skill_3:2456,team_buff:346
+6482,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1765,force_strike:132,skill_1:2819,s1_poison:0,skill_3:1577,team_buff:346
 -,60,b
-8649,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 92% poison uptime,attack:2140,force_strike:169,skill_1:3709,skill_2:0,skill_3:1232,team_buff:320,s1_poison:1077
-5006,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1365,force_strike:112,skill_1:2085,skill_2:0,skill_3:1166,team_buff:276
+8677,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2140,force_strike:169,skill_1:3709,s1_poison:1077,skill_3:1232,team_buff:347
+5083,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1401,force_strike:113,skill_1:2432,s1_poison:0,skill_3:789,team_buff:347
 -,60,kb
-9482,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 92% poison uptime,attack:2354,force_strike:186,skill_1:4080,skill_2:0,skill_3:1355,team_buff:320,s1_poison:1185
-5479,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1501,force_strike:123,skill_1:2293,skill_2:0,skill_3:1283,team_buff:276
+9509,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2589,force_strike:186,skill_1:4080,s1_poison:1185,skill_3:1355,team_buff:347
+5556,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1695,force_strike:124,skill_1:2675,s1_poison:0,skill_3:868,team_buff:347
 -,60,rb
-9552,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 92% poison uptime,attack:2140,force_strike:169,skill_1:4265,skill_2:0,skill_3:1417,team_buff:320,s1_poison:1239
-5494,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1365,force_strike:112,skill_1:2397,skill_2:0,skill_3:1341,team_buff:276
+9580,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2140,force_strike:169,skill_1:4265,s1_poison:1239,skill_3:1417,team_buff:347
+5566,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1401,force_strike:113,skill_1:2796,s1_poison:0,skill_3:907,team_buff:347
 -,60,krb
-10475,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 92% poison uptime,attack:2354,force_strike:186,skill_1:4692,skill_2:0,skill_3:1559,team_buff:320,s1_poison:1363
-6016,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1501,force_strike:123,skill_1:2637,skill_2:0,skill_3:1476,team_buff:276
+10503,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2589,force_strike:186,skill_1:4692,s1_poison:1363,skill_3:1559,team_buff:347
+6088,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1695,force_strike:124,skill_1:3076,s1_poison:0,skill_3:998,team_buff:347
 -,60,db
-9194,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 92% poison uptime,attack:2280,force_strike:180,skill_1:3952,skill_2:0,skill_3:1313,team_buff:320,s1_poison:1148
-5006,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1365,force_strike:112,skill_1:2085,skill_2:0,skill_3:1166,team_buff:276
+9221,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2280,force_strike:180,skill_1:3952,s1_poison:1148,skill_3:1313,team_buff:347
+5409,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1497,force_strike:120,skill_1:2599,s1_poison:0,skill_3:843,team_buff:347
 -,60,kdb
-10082,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 92% poison uptime,attack:2508,force_strike:198,skill_1:4347,skill_2:0,skill_3:1444,team_buff:320,s1_poison:1263
-5479,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1501,force_strike:123,skill_1:2293,skill_2:0,skill_3:1283,team_buff:276
+10109,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2759,force_strike:198,skill_1:4347,s1_poison:1263,skill_3:1444,team_buff:347
+5916,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1812,force_strike:132,skill_1:2859,s1_poison:0,skill_3:927,team_buff:347
 -,60,rdb
-10156,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 92% poison uptime,attack:2280,force_strike:180,skill_1:4545,skill_2:0,skill_3:1510,team_buff:320,s1_poison:1320
-5494,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1365,force_strike:112,skill_1:2397,skill_2:0,skill_3:1341,team_buff:276
+10184,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2280,force_strike:180,skill_1:4545,s1_poison:1320,skill_3:1510,team_buff:347
+5926,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1497,force_strike:120,skill_1:2989,s1_poison:0,skill_3:970,team_buff:347
 -,60,krdb
-11140,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 92% poison uptime,attack:2508,force_strike:198,skill_1:4999,skill_2:0,skill_3:1661,team_buff:320,s1_poison:1452
-6016,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1501,force_strike:123,skill_1:2637,skill_2:0,skill_3:1476,team_buff:276
+11167,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2759,force_strike:198,skill_1:4999,s1_poison:1452,skill_3:1661,team_buff:347
+6484,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1812,force_strike:132,skill_1:3288,s1_poison:0,skill_3:1067,team_buff:347
 -,120,_
-8741,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2152,force_strike:150,skill_1:3464,skill_2:0,skill_3:1554,team_buff:418,s1_poison:1000
-5210,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1408,force_strike:100,skill_1:2284,skill_2:0,skill_3:997,team_buff:418
+8847,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2152,force_strike:150,skill_1:3464,s1_poison:1000,skill_3:1554,team_buff:523
+5315,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1408,force_strike:100,skill_1:2284,s1_poison:0,skill_3:997,team_buff:523
 -,120,k
-9574,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2367,force_strike:165,skill_1:3811,skill_2:0,skill_3:1709,team_buff:418,s1_poison:1100
-5689,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1549,force_strike:110,skill_1:2512,skill_2:0,skill_3:1097,team_buff:418
+9679,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2604,force_strike:165,skill_1:3811,s1_poison:1100,skill_3:1709,team_buff:523
+5794,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1704,force_strike:110,skill_1:2512,s1_poison:0,skill_3:1097,team_buff:523
 -,120,r
-9644,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2152,force_strike:150,skill_1:3984,skill_2:0,skill_3:1787,team_buff:418,s1_poison:1150
-5702,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1408,force_strike:100,skill_1:2627,skill_2:0,skill_3:1147,team_buff:418
+9749,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2152,force_strike:150,skill_1:3984,s1_poison:1150,skill_3:1787,team_buff:523
+5807,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1408,force_strike:100,skill_1:2627,s1_poison:0,skill_3:1147,team_buff:523
 -,120,kr
-10567,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2367,force_strike:165,skill_1:4382,skill_2:0,skill_3:1966,team_buff:418,s1_poison:1265
-6230,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1549,force_strike:110,skill_1:2889,skill_2:0,skill_3:1262,team_buff:418
+10672,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2604,force_strike:165,skill_1:4382,s1_poison:1265,skill_3:1966,team_buff:523
+6335,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1704,force_strike:110,skill_1:2889,s1_poison:0,skill_3:1262,team_buff:523
 -,120,d
-9286,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2293,force_strike:160,skill_1:3691,skill_2:0,skill_3:1656,team_buff:418,s1_poison:1066
-5210,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1408,force_strike:100,skill_1:2284,skill_2:0,skill_3:997,team_buff:418
+9391,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2293,force_strike:160,skill_1:3691,s1_poison:1066,skill_3:1656,team_buff:523
+5645,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1506,force_strike:107,skill_1:2442,s1_poison:0,skill_3:1066,team_buff:523
 -,120,kd
-10173,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2522,force_strike:176,skill_1:4060,skill_2:0,skill_3:1821,team_buff:418,s1_poison:1172
-5689,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1549,force_strike:110,skill_1:2512,skill_2:0,skill_3:1097,team_buff:418
+10278,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2775,force_strike:176,skill_1:4060,s1_poison:1172,skill_3:1821,team_buff:523
+6158,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1822,force_strike:118,skill_1:2686,s1_poison:0,skill_3:1173,team_buff:523
 -,120,rd
-10248,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2293,force_strike:160,skill_1:4245,skill_2:0,skill_3:1904,team_buff:418,s1_poison:1226
-5702,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1408,force_strike:100,skill_1:2627,skill_2:0,skill_3:1147,team_buff:418
+10353,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2293,force_strike:160,skill_1:4245,s1_poison:1226,skill_3:1904,team_buff:523
+6172,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1506,force_strike:107,skill_1:2808,s1_poison:0,skill_3:1226,team_buff:523
 -,120,krd
-11231,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2522,force_strike:176,skill_1:4669,skill_2:0,skill_3:2094,team_buff:418,s1_poison:1348
-6230,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1549,force_strike:110,skill_1:2889,skill_2:0,skill_3:1262,team_buff:418
+11336,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2775,force_strike:176,skill_1:4669,s1_poison:1348,skill_3:2094,team_buff:523
+6737,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1822,force_strike:118,skill_1:3089,s1_poison:0,skill_3:1349,team_buff:523
 -,120,b
-9049,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 91% poison uptime,attack:2102,force_strike:174,skill_1:3731,skill_2:0,skill_3:1553,team_buff:419,s1_poison:1066
-5210,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1408,force_strike:100,skill_1:2284,skill_2:0,skill_3:997,team_buff:418
+9154,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2102,force_strike:174,skill_1:3731,s1_poison:1066,skill_3:1553,team_buff:524
+5473,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1375,force_strike:115,skill_1:2458,s1_poison:0,skill_3:999,team_buff:524
 -,120,kb
-9912,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 91% poison uptime,attack:2313,force_strike:192,skill_1:4104,skill_2:0,skill_3:1709,team_buff:419,s1_poison:1173
-5689,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1549,force_strike:110,skill_1:2512,skill_2:0,skill_3:1097,team_buff:418
+10017,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2544,force_strike:192,skill_1:4104,s1_poison:1173,skill_3:1709,team_buff:524
+5968,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1663,force_strike:127,skill_1:2704,s1_poison:0,skill_3:1099,team_buff:524
 -,120,rb
-10002,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 91% poison uptime,attack:2102,force_strike:174,skill_1:4291,skill_2:0,skill_3:1786,team_buff:419,s1_poison:1226
-5702,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1408,force_strike:100,skill_1:2627,skill_2:0,skill_3:1147,team_buff:418
+10107,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2102,force_strike:174,skill_1:4291,s1_poison:1226,skill_3:1786,team_buff:524
+5992,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1375,force_strike:115,skill_1:2827,s1_poison:0,skill_3:1149,team_buff:524
 -,120,krb
-10960,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 91% poison uptime,attack:2313,force_strike:192,skill_1:4720,skill_2:0,skill_3:1965,team_buff:419,s1_poison:1349
-6230,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1549,force_strike:110,skill_1:2889,skill_2:0,skill_3:1262,team_buff:418
+11065,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2544,force_strike:192,skill_1:4720,s1_poison:1349,skill_3:1965,team_buff:524
+6538,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1663,force_strike:127,skill_1:3110,s1_poison:0,skill_3:1263,team_buff:524
 -,120,db
-9613,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 91% poison uptime,attack:2240,force_strike:186,skill_1:3975,skill_2:0,skill_3:1655,team_buff:419,s1_poison:1136
-5210,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1408,force_strike:100,skill_1:2284,skill_2:0,skill_3:997,team_buff:418
+9719,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2240,force_strike:186,skill_1:3975,s1_poison:1136,skill_3:1655,team_buff:524
+5815,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1470,force_strike:123,skill_1:2628,s1_poison:0,skill_3:1068,team_buff:524
 -,120,kdb
-10533,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 91% poison uptime,attack:2464,force_strike:204,skill_1:4373,skill_2:0,skill_3:1821,team_buff:419,s1_poison:1250
-5689,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1549,force_strike:110,skill_1:2512,skill_2:0,skill_3:1097,team_buff:418
+10638,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2710,force_strike:204,skill_1:4373,s1_poison:1250,skill_3:1821,team_buff:524
+6344,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1778,force_strike:136,skill_1:2891,s1_poison:0,skill_3:1174,team_buff:524
 -,120,rdb
-10628,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 91% poison uptime,attack:2240,force_strike:186,skill_1:4571,skill_2:0,skill_3:1903,team_buff:419,s1_poison:1307
-5702,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1408,force_strike:100,skill_1:2627,skill_2:0,skill_3:1147,team_buff:418
+10734,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2240,force_strike:186,skill_1:4571,s1_poison:1307,skill_3:1903,team_buff:524
+6369,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1470,force_strike:123,skill_1:3022,s1_poison:0,skill_3:1228,team_buff:524
 -,120,krdb
-11649,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 91% poison uptime,attack:2464,force_strike:204,skill_1:5029,skill_2:0,skill_3:2094,team_buff:419,s1_poison:1437
-6230,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1549,force_strike:110,skill_1:2889,skill_2:0,skill_3:1262,team_buff:418
+11755,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 90% poison uptime,attack:2710,force_strike:204,skill_1:5029,s1_poison:1437,skill_3:2094,team_buff:524
+6954,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1778,force_strike:136,skill_1:3325,s1_poison:0,skill_3:1351,team_buff:524
 -,180,_
-8608,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 84% poison uptime,attack:2114,force_strike:142,skill_1:3339,skill_2:0,skill_3:1645,team_buff:465,s1_poison:901
-5255,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1397,force_strike:95,skill_1:2230,skill_2:0,skill_3:1065,team_buff:465
+8724,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 84% poison uptime,attack:2114,force_strike:142,skill_1:3339,s1_poison:901,skill_3:1645,team_buff:581
+5372,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1397,force_strike:95,skill_1:2230,s1_poison:0,skill_3:1065,team_buff:581
 -,180,k
-9422,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 84% poison uptime,attack:2325,force_strike:156,skill_1:3672,skill_2:0,skill_3:1809,team_buff:465,s1_poison:991
-5734,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1537,force_strike:105,skill_1:2453,skill_2:0,skill_3:1172,team_buff:465
+9539,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 84% poison uptime,attack:2558,force_strike:156,skill_1:3672,s1_poison:991,skill_3:1809,team_buff:581
+5851,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1691,force_strike:105,skill_1:2453,s1_poison:0,skill_3:1172,team_buff:581
 -,180,r
-9490,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 84% poison uptime,attack:2114,force_strike:142,skill_1:3839,skill_2:0,skill_3:1892,team_buff:465,s1_poison:1036
-5749,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1397,force_strike:95,skill_1:2565,skill_2:0,skill_3:1225,team_buff:465
+9607,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 84% poison uptime,attack:2114,force_strike:142,skill_1:3839,s1_poison:1036,skill_3:1892,team_buff:581
+5866,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1397,force_strike:95,skill_1:2565,s1_poison:0,skill_3:1225,team_buff:581
 -,180,kr
-10393,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 84% poison uptime,attack:2325,force_strike:156,skill_1:4223,skill_2:0,skill_3:2081,team_buff:465,s1_poison:1140
-6278,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1537,force_strike:105,skill_1:2822,skill_2:0,skill_3:1348,team_buff:465
+10510,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 84% poison uptime,attack:2558,force_strike:156,skill_1:4223,s1_poison:1140,skill_3:2081,team_buff:581
+6395,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1691,force_strike:105,skill_1:2822,s1_poison:0,skill_3:1348,team_buff:581
 -,180,d
-9140,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 84% poison uptime,attack:2252,force_strike:151,skill_1:3557,skill_2:0,skill_3:1753,team_buff:465,s1_poison:960
-5255,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1397,force_strike:95,skill_1:2230,skill_2:0,skill_3:1065,team_buff:465
+9257,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 84% poison uptime,attack:2252,force_strike:151,skill_1:3557,s1_poison:960,skill_3:1753,team_buff:581
+5702,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1494,force_strike:102,skill_1:2384,s1_poison:0,skill_3:1139,team_buff:581
 -,180,kd
-10008,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 84% poison uptime,attack:2478,force_strike:167,skill_1:3913,skill_2:0,skill_3:1928,team_buff:465,s1_poison:1056
-5734,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1537,force_strike:105,skill_1:2453,skill_2:0,skill_3:1172,team_buff:465
+10125,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 84% poison uptime,attack:2725,force_strike:167,skill_1:3913,s1_poison:1056,skill_3:1928,team_buff:581
+6215,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1807,force_strike:112,skill_1:2623,s1_poison:0,skill_3:1253,team_buff:581
 -,180,rd
-10081,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 84% poison uptime,attack:2252,force_strike:151,skill_1:4091,skill_2:0,skill_3:2016,team_buff:465,s1_poison:1104
-5749,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1397,force_strike:95,skill_1:2565,skill_2:0,skill_3:1225,team_buff:465
+10198,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 84% poison uptime,attack:2252,force_strike:151,skill_1:4091,s1_poison:1104,skill_3:2016,team_buff:581
+6231,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1494,force_strike:102,skill_1:2742,s1_poison:0,skill_3:1310,team_buff:581
 -,180,krd
-11043,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 84% poison uptime,attack:2478,force_strike:167,skill_1:4500,skill_2:0,skill_3:2217,team_buff:465,s1_poison:1214
-6278,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1537,force_strike:105,skill_1:2822,skill_2:0,skill_3:1348,team_buff:465
+11159,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 84% poison uptime,attack:2725,force_strike:167,skill_1:4500,s1_poison:1214,skill_3:2217,team_buff:581
+6796,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1807,force_strike:112,skill_1:3016,s1_poison:0,skill_3:1441,team_buff:581
 -,180,b
-8972,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 85% poison uptime,attack:2062,force_strike:173,skill_1:3685,skill_2:0,skill_3:1633,team_buff:464,s1_poison:954
-5255,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1397,force_strike:95,skill_1:2230,skill_2:0,skill_3:1065,team_buff:465
+9073,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 85% poison uptime,attack:2057,force_strike:172,skill_1:3676,s1_poison:957,skill_3:1629,team_buff:578
+5559,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1357,force_strike:114,skill_1:2447,s1_poison:0,skill_3:1060,team_buff:578
 -,180,kb
-9823,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 85% poison uptime,attack:2268,force_strike:190,skill_1:4053,skill_2:0,skill_3:1796,team_buff:464,s1_poison:1049
-5734,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1537,force_strike:105,skill_1:2453,skill_2:0,skill_3:1172,team_buff:465
+9923,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 85% poison uptime,attack:2489,force_strike:190,skill_1:4044,s1_poison:1053,skill_3:1792,team_buff:578
+6058,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1641,force_strike:126,skill_1:2692,s1_poison:0,skill_3:1167,team_buff:578
 -,180,rb
-9913,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 85% poison uptime,attack:2062,force_strike:173,skill_1:4238,skill_2:0,skill_3:1878,team_buff:464,s1_poison:1097
-5749,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1397,force_strike:95,skill_1:2565,skill_2:0,skill_3:1225,team_buff:465
+10013,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 85% poison uptime,attack:2057,force_strike:172,skill_1:4228,s1_poison:1101,skill_3:1873,team_buff:578
+6086,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1357,force_strike:114,skill_1:2814,s1_poison:0,skill_3:1220,team_buff:578
 -,180,krb
-10858,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 85% poison uptime,attack:2268,force_strike:190,skill_1:4661,skill_2:0,skill_3:2066,team_buff:464,s1_poison:1207
-6278,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1537,force_strike:105,skill_1:2822,skill_2:0,skill_3:1348,team_buff:465
+10956,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 85% poison uptime,attack:2489,force_strike:190,skill_1:4651,s1_poison:1211,skill_3:2061,team_buff:578
+6637,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1641,force_strike:126,skill_1:3096,s1_poison:0,skill_3:1342,team_buff:578
 -,180,db
-9529,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 85% poison uptime,attack:2197,force_strike:184,skill_1:3926,skill_2:0,skill_3:1740,team_buff:464,s1_poison:1016
-5255,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1397,force_strike:95,skill_1:2230,skill_2:0,skill_3:1065,team_buff:465
+9629,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 85% poison uptime,attack:2192,force_strike:184,skill_1:3917,s1_poison:1020,skill_3:1736,team_buff:578
+5903,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1450,force_strike:122,skill_1:2616,s1_poison:0,skill_3:1134,team_buff:578
 -,180,kdb
-10435,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 85% poison uptime,attack:2417,force_strike:202,skill_1:4318,skill_2:0,skill_3:1914,team_buff:464,s1_poison:1118
-5734,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1537,force_strike:105,skill_1:2453,skill_2:0,skill_3:1172,team_buff:465
+10534,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 85% poison uptime,attack:2652,force_strike:202,skill_1:4309,s1_poison:1122,skill_3:1909,team_buff:578
+6436,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1755,force_strike:135,skill_1:2878,s1_poison:0,skill_3:1247,team_buff:578
 -,180,rdb
-10531,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 85% poison uptime,attack:2197,force_strike:184,skill_1:4515,skill_2:0,skill_3:2001,team_buff:464,s1_poison:1169
-5749,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1397,force_strike:95,skill_1:2565,skill_2:0,skill_3:1225,team_buff:465
+10630,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 85% poison uptime,attack:2192,force_strike:184,skill_1:4504,s1_poison:1173,skill_3:1996,team_buff:578
+6466,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1450,force_strike:122,skill_1:3009,s1_poison:0,skill_3:1304,team_buff:578
 -,180,krdb
-11538,Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 85% poison uptime,attack:2417,force_strike:202,skill_1:4966,skill_2:0,skill_3:2201,team_buff:464,s1_poison:1286
-6278,_c_Sylas,5*,wind,lance,3744,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1537,force_strike:105,skill_1:2822,skill_2:0,skill_3:1348,team_buff:465
+11635,Sylas,5*,wind,lance,5541,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res>,not consider skill haste for team; 85% poison uptime,attack:2652,force_strike:202,skill_1:4955,s1_poison:1290,skill_3:2196,team_buff:578
+7055,_c_Sylas,5*,wind,lance,4492,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res>,not consider skill haste for team,attack:1755,force_strike:135,skill_1:3310,s1_poison:0,skill_3:1434,team_buff:578

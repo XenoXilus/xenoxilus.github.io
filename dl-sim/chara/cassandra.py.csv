@@ -1,144 +1,144 @@
 -,60,_
-12983,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 100% poison uptime,attack:3106,force_strike:0,skill_1:4422,skill_2:2137,skill_3:2059,team_buff:0,s1_poison:984,s2_reflect:273
-8206,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2160,force_strike:0,skill_1:3182,skill_2:1429,skill_3:1432,team_buff:0
+14678,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:4260,skill_1:5419,s1_poison:1270,skill_2:3727
+9361,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:2980,skill_1:3886,s1_poison:0,skill_2:2493
 -,60,k
-14282,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 100% poison uptime,attack:3416,force_strike:0,skill_1:4865,skill_2:2351,skill_3:2265,team_buff:0,s1_poison:1082,s2_reflect:300
-9026,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2376,force_strike:0,skill_1:3501,skill_2:1572,skill_3:1575,team_buff:0
+16145,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:5154,skill_1:5961,s1_poison:1397,skill_2:4100
+10297,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3605,skill_1:4275,s1_poison:0,skill_2:2743
 -,60,r
-12983,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 100% poison uptime,attack:3106,force_strike:0,skill_1:4422,skill_2:2137,skill_3:2059,team_buff:0,s1_poison:984,s2_reflect:273
-8206,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2160,force_strike:0,skill_1:3182,skill_2:1429,skill_3:1432,team_buff:0
+14678,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:4260,skill_1:5419,s1_poison:1270,skill_2:3727
+9361,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:2980,skill_1:3886,s1_poison:0,skill_2:2493
 -,60,kr
-14282,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 100% poison uptime,attack:3416,force_strike:0,skill_1:4865,skill_2:2351,skill_3:2265,team_buff:0,s1_poison:1082,s2_reflect:300
-9026,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2376,force_strike:0,skill_1:3501,skill_2:1572,skill_3:1575,team_buff:0
+16145,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:5154,skill_1:5961,s1_poison:1397,skill_2:4100
+10297,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3605,skill_1:4275,s1_poison:0,skill_2:2743
 -,60,d
-13861,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 100% poison uptime,attack:3320,force_strike:0,skill_1:4728,skill_2:2284,skill_3:2201,team_buff:0,s1_poison:1052,s2_reflect:273
-8206,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2160,force_strike:0,skill_1:3182,skill_2:1429,skill_3:1432,team_buff:0
+15691,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:4554,skill_1:5793,s1_poison:1357,skill_2:3985
+10007,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3185,skill_1:4155,s1_poison:0,skill_2:2666
 -,60,kd
-15247,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 100% poison uptime,attack:3652,force_strike:0,skill_1:5201,skill_2:2513,skill_3:2421,team_buff:0,s1_poison:1157,s2_reflect:300
-9026,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2376,force_strike:0,skill_1:3501,skill_2:1572,skill_3:1575,team_buff:0
+17260,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:5510,skill_1:6373,s1_poison:1493,skill_2:4383
+11008,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3854,skill_1:4570,s1_poison:0,skill_2:2932
 -,60,rd
-13861,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 100% poison uptime,attack:3320,force_strike:0,skill_1:4728,skill_2:2284,skill_3:2201,team_buff:0,s1_poison:1052,s2_reflect:273
-8206,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2160,force_strike:0,skill_1:3182,skill_2:1429,skill_3:1432,team_buff:0
+15691,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:4554,skill_1:5793,s1_poison:1357,skill_2:3985
+10007,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3185,skill_1:4155,s1_poison:0,skill_2:2666
 -,60,krd
-15247,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 100% poison uptime,attack:3652,force_strike:0,skill_1:5201,skill_2:2513,skill_3:2421,team_buff:0,s1_poison:1157,s2_reflect:300
-9026,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2376,force_strike:0,skill_1:3501,skill_2:1572,skill_3:1575,team_buff:0
+17260,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:5510,skill_1:6373,s1_poison:1493,skill_2:4383
+11008,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3854,skill_1:4570,s1_poison:0,skill_2:2932
 -,60,b
-12963,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 100% poison uptime,attack:2991,force_strike:0,skill_1:4447,skill_2:2149,skill_3:2070,team_buff:0,s1_poison:1029,s2_reflect:274
-8206,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2160,force_strike:0,skill_1:3182,skill_2:1429,skill_3:1432,team_buff:0
+15341,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,96% poison uptime,attack:4119,skill_1:6170,s1_poison:1342,skill_2:3708
+9784,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:2883,skill_1:4419,s1_poison:0,skill_2:2481
 -,60,kb
-14259,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 100% poison uptime,attack:3291,force_strike:0,skill_1:4892,skill_2:2364,skill_3:2277,team_buff:0,s1_poison:1132,s2_reflect:302
-9026,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2376,force_strike:0,skill_1:3501,skill_2:1572,skill_3:1575,team_buff:0
+16875,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,96% poison uptime,attack:4984,skill_1:6787,s1_poison:1476,skill_2:4079
+10762,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3489,skill_1:4861,s1_poison:0,skill_2:2729
 -,60,rb
-12963,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 100% poison uptime,attack:2991,force_strike:0,skill_1:4447,skill_2:2149,skill_3:2070,team_buff:0,s1_poison:1029,s2_reflect:274
-8206,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2160,force_strike:0,skill_1:3182,skill_2:1429,skill_3:1432,team_buff:0
+15341,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,96% poison uptime,attack:4119,skill_1:6170,s1_poison:1342,skill_2:3708
+9784,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:2883,skill_1:4419,s1_poison:0,skill_2:2481
 -,60,krb
-14259,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 100% poison uptime,attack:3291,force_strike:0,skill_1:4892,skill_2:2364,skill_3:2277,team_buff:0,s1_poison:1132,s2_reflect:302
-9026,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2376,force_strike:0,skill_1:3501,skill_2:1572,skill_3:1575,team_buff:0
+16875,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,96% poison uptime,attack:4984,skill_1:6787,s1_poison:1476,skill_2:4079
+10762,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3489,skill_1:4861,s1_poison:0,skill_2:2729
 -,60,db
-13839,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 100% poison uptime,attack:3198,force_strike:0,skill_1:4754,skill_2:2297,skill_3:2213,team_buff:0,s1_poison:1100,s2_reflect:274
-8206,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2160,force_strike:0,skill_1:3182,skill_2:1429,skill_3:1432,team_buff:0
+16400,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,96% poison uptime,attack:4404,skill_1:6596,s1_poison:1435,skill_2:3964
+10459,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3082,skill_1:4724,s1_poison:0,skill_2:2652
 -,60,kdb
-15223,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 100% poison uptime,attack:3518,force_strike:0,skill_1:5230,skill_2:2527,skill_3:2435,team_buff:0,s1_poison:1210,s2_reflect:302
-9026,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2376,force_strike:0,skill_1:3501,skill_2:1572,skill_3:1575,team_buff:0
+18040,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,96% poison uptime,attack:5328,skill_1:7255,s1_poison:1578,skill_2:4361
+11505,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3730,skill_1:5196,s1_poison:0,skill_2:2917
 -,60,rdb
-13839,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 100% poison uptime,attack:3198,force_strike:0,skill_1:4754,skill_2:2297,skill_3:2213,team_buff:0,s1_poison:1100,s2_reflect:274
-8206,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2160,force_strike:0,skill_1:3182,skill_2:1429,skill_3:1432,team_buff:0
+16400,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,96% poison uptime,attack:4404,skill_1:6596,s1_poison:1435,skill_2:3964
+10459,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3082,skill_1:4724,s1_poison:0,skill_2:2652
 -,60,krdb
-15223,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 100% poison uptime,attack:3518,force_strike:0,skill_1:5230,skill_2:2527,skill_3:2435,team_buff:0,s1_poison:1210,s2_reflect:302
-9026,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2376,force_strike:0,skill_1:3501,skill_2:1572,skill_3:1575,team_buff:0
+18040,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,96% poison uptime,attack:5328,skill_1:7255,s1_poison:1578,skill_2:4361
+11505,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3730,skill_1:5196,s1_poison:0,skill_2:2917
 -,120,_
-12825,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 95% poison uptime,attack:3399,force_strike:0,skill_1:4209,skill_2:2223,skill_3:1740,team_buff:0,s1_poison:978,s2_reflect:273
-7859,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2315,force_strike:0,skill_1:2918,skill_2:1430,skill_3:1194,team_buff:0
+14379,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:4480,skill_1:5375,s1_poison:1205,skill_2:3317
+9287,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3159,skill_1:3884,s1_poison:0,skill_2:2243
 -,120,k
-14108,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 95% poison uptime,attack:3739,force_strike:0,skill_1:4630,skill_2:2446,skill_3:1914,team_buff:0,s1_poison:1076,s2_reflect:300
-8645,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2547,force_strike:0,skill_1:3210,skill_2:1573,skill_3:1313,team_buff:0
+15817,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:5421,skill_1:5913,s1_poison:1326,skill_2:3648
+10215,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3822,skill_1:4272,s1_poison:0,skill_2:2467
 -,120,r
-12825,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 95% poison uptime,attack:3399,force_strike:0,skill_1:4209,skill_2:2223,skill_3:1740,team_buff:0,s1_poison:978,s2_reflect:273
-7859,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2315,force_strike:0,skill_1:2918,skill_2:1430,skill_3:1194,team_buff:0
+14379,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:4480,skill_1:5375,s1_poison:1205,skill_2:3317
+9287,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3159,skill_1:3884,s1_poison:0,skill_2:2243
 -,120,kr
-14108,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 95% poison uptime,attack:3739,force_strike:0,skill_1:4630,skill_2:2446,skill_3:1914,team_buff:0,s1_poison:1076,s2_reflect:300
-8645,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2547,force_strike:0,skill_1:3210,skill_2:1573,skill_3:1313,team_buff:0
+15817,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:5421,skill_1:5913,s1_poison:1326,skill_2:3648
+10215,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3822,skill_1:4272,s1_poison:0,skill_2:2467
 -,120,d
-13692,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 95% poison uptime,attack:3634,force_strike:0,skill_1:4500,skill_2:2377,skill_3:1860,team_buff:0,s1_poison:1046,s2_reflect:273
-7859,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2315,force_strike:0,skill_1:2918,skill_2:1430,skill_3:1194,team_buff:0
+15372,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:4789,skill_1:5747,s1_poison:1289,skill_2:3546
+9928,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3377,skill_1:4152,s1_poison:0,skill_2:2398
 -,120,kd
-15061,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 95% poison uptime,attack:3997,force_strike:0,skill_1:4950,skill_2:2615,skill_3:2046,team_buff:0,s1_poison:1150,s2_reflect:300
-8645,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2547,force_strike:0,skill_1:3210,skill_2:1573,skill_3:1313,team_buff:0
+16909,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:5795,skill_1:6321,s1_poison:1418,skill_2:3900
+10921,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:4086,skill_1:4567,s1_poison:0,skill_2:2637
 -,120,rd
-13692,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 95% poison uptime,attack:3634,force_strike:0,skill_1:4500,skill_2:2377,skill_3:1860,team_buff:0,s1_poison:1046,s2_reflect:273
-7859,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2315,force_strike:0,skill_1:2918,skill_2:1430,skill_3:1194,team_buff:0
+15372,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:4789,skill_1:5747,s1_poison:1289,skill_2:3546
+9928,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3377,skill_1:4152,s1_poison:0,skill_2:2398
 -,120,krd
-15061,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 95% poison uptime,attack:3997,force_strike:0,skill_1:4950,skill_2:2615,skill_3:2046,team_buff:0,s1_poison:1150,s2_reflect:300
-8645,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2547,force_strike:0,skill_1:3210,skill_2:1573,skill_3:1313,team_buff:0
+16909,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:5795,skill_1:6321,s1_poison:1418,skill_2:3900
+10921,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:4086,skill_1:4567,s1_poison:0,skill_2:2637
 -,120,b
-13261,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 94% poison uptime,attack:3082,force_strike:0,skill_1:4573,skill_2:2162,skill_3:2135,team_buff:0,s1_poison:1032,s2_reflect:273
-7859,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2315,force_strike:0,skill_1:2918,skill_2:1430,skill_3:1194,team_buff:0
+15483,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:4321,skill_1:6181,s1_poison:1287,skill_2:3692
+9979,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3044,skill_1:4441,s1_poison:0,skill_2:2493
 -,120,kb
-14587,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 94% poison uptime,attack:3390,force_strike:0,skill_1:5031,skill_2:2379,skill_3:2348,team_buff:0,s1_poison:1136,s2_reflect:301
-8645,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2547,force_strike:0,skill_1:3210,skill_2:1573,skill_3:1313,team_buff:0
+17032,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:5228,skill_1:6800,s1_poison:1416,skill_2:4062
+10977,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3684,skill_1:4885,s1_poison:0,skill_2:2742
 -,120,rb
-13261,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 94% poison uptime,attack:3082,force_strike:0,skill_1:4573,skill_2:2162,skill_3:2135,team_buff:0,s1_poison:1032,s2_reflect:273
-7859,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2315,force_strike:0,skill_1:2918,skill_2:1430,skill_3:1194,team_buff:0
+15483,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:4321,skill_1:6181,s1_poison:1287,skill_2:3692
+9979,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3044,skill_1:4441,s1_poison:0,skill_2:2493
 -,120,krb
-14587,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 94% poison uptime,attack:3390,force_strike:0,skill_1:5031,skill_2:2379,skill_3:2348,team_buff:0,s1_poison:1136,s2_reflect:301
-8645,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2547,force_strike:0,skill_1:3210,skill_2:1573,skill_3:1313,team_buff:0
+17032,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:5228,skill_1:6800,s1_poison:1416,skill_2:4062
+10977,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3684,skill_1:4885,s1_poison:0,skill_2:2742
 -,120,db
-14157,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 94% poison uptime,attack:3295,force_strike:0,skill_1:4889,skill_2:2312,skill_3:2282,team_buff:0,s1_poison:1104,s2_reflect:273
-7859,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2315,force_strike:0,skill_1:2918,skill_2:1430,skill_3:1194,team_buff:0
+16552,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:4619,skill_1:6608,s1_poison:1376,skill_2:3947
+10668,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3254,skill_1:4747,s1_poison:0,skill_2:2665
 -,120,kdb
-15573,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 94% poison uptime,attack:3624,force_strike:0,skill_1:5378,skill_2:2543,skill_3:2511,team_buff:0,s1_poison:1214,s2_reflect:301
-8645,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2547,force_strike:0,skill_1:3210,skill_2:1573,skill_3:1313,team_buff:0
+18207,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:5589,skill_1:7269,s1_poison:1513,skill_2:4342
+11735,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3938,skill_1:5222,s1_poison:0,skill_2:2932
 -,120,rdb
-14157,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 94% poison uptime,attack:3295,force_strike:0,skill_1:4889,skill_2:2312,skill_3:2282,team_buff:0,s1_poison:1104,s2_reflect:273
-7859,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2315,force_strike:0,skill_1:2918,skill_2:1430,skill_3:1194,team_buff:0
+16552,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:4619,skill_1:6608,s1_poison:1376,skill_2:3947
+10668,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3254,skill_1:4747,s1_poison:0,skill_2:2665
 -,120,krdb
-15573,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 94% poison uptime,attack:3624,force_strike:0,skill_1:5378,skill_2:2543,skill_3:2511,team_buff:0,s1_poison:1214,s2_reflect:301
-8645,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2547,force_strike:0,skill_1:3210,skill_2:1573,skill_3:1313,team_buff:0
+18207,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:5589,skill_1:7269,s1_poison:1513,skill_2:4342
+11735,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3938,skill_1:5222,s1_poison:0,skill_2:2932
 -,180,_
-12656,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 87% poison uptime,attack:3440,force_strike:0,skill_1:4163,skill_2:2000,skill_3:1915,team_buff:0,s1_poison:892,s2_reflect:244
-7712,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2316,force_strike:0,skill_1:2841,skill_2:1276,skill_3:1278,team_buff:0
+14167,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4463,skill_1:5273,s1_poison:1046,skill_2:3382
+9408,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3199,skill_1:3882,s1_poison:0,skill_2:2325
 -,180,k
-13922,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 87% poison uptime,attack:3784,force_strike:0,skill_1:4580,skill_2:2200,skill_3:2106,team_buff:0,s1_poison:981,s2_reflect:268
-8484,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2547,force_strike:0,skill_1:3125,skill_2:1403,skill_3:1406,team_buff:0
+15583,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5401,skill_1:5800,s1_poison:1151,skill_2:3720
+10348,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3871,skill_1:4271,s1_poison:0,skill_2:2557
 -,180,r
-12656,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 87% poison uptime,attack:3440,force_strike:0,skill_1:4163,skill_2:2000,skill_3:1915,team_buff:0,s1_poison:892,s2_reflect:244
-7712,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2316,force_strike:0,skill_1:2841,skill_2:1276,skill_3:1278,team_buff:0
+14167,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4463,skill_1:5273,s1_poison:1046,skill_2:3382
+9408,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3199,skill_1:3882,s1_poison:0,skill_2:2325
 -,180,kr
-13922,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 87% poison uptime,attack:3784,force_strike:0,skill_1:4580,skill_2:2200,skill_3:2106,team_buff:0,s1_poison:981,s2_reflect:268
-8484,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2547,force_strike:0,skill_1:3125,skill_2:1403,skill_3:1406,team_buff:0
+15583,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5401,skill_1:5800,s1_poison:1151,skill_2:3720
+10348,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3871,skill_1:4271,s1_poison:0,skill_2:2557
 -,180,d
-13513,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 87% poison uptime,attack:3678,force_strike:0,skill_1:4451,skill_2:2138,skill_3:2047,team_buff:0,s1_poison:953,s2_reflect:244
-7712,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2316,force_strike:0,skill_1:2841,skill_2:1276,skill_3:1278,team_buff:0
+15145,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4772,skill_1:5637,s1_poison:1119,skill_2:3615
+10057,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3420,skill_1:4150,s1_poison:0,skill_2:2485
 -,180,kd
-14865,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 87% poison uptime,attack:4046,force_strike:0,skill_1:4896,skill_2:2352,skill_3:2252,team_buff:0,s1_poison:1049,s2_reflect:268
-8484,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2547,force_strike:0,skill_1:3125,skill_2:1403,skill_3:1406,team_buff:0
+16659,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5774,skill_1:6200,s1_poison:1231,skill_2:3977
+11063,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:4138,skill_1:4566,s1_poison:0,skill_2:2734
 -,180,rd
-13513,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 87% poison uptime,attack:3678,force_strike:0,skill_1:4451,skill_2:2138,skill_3:2047,team_buff:0,s1_poison:953,s2_reflect:244
-7712,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2316,force_strike:0,skill_1:2841,skill_2:1276,skill_3:1278,team_buff:0
+15145,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4772,skill_1:5637,s1_poison:1119,skill_2:3615
+10057,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3420,skill_1:4150,s1_poison:0,skill_2:2485
 -,180,krd
-14865,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 87% poison uptime,attack:4046,force_strike:0,skill_1:4896,skill_2:2352,skill_3:2252,team_buff:0,s1_poison:1049,s2_reflect:268
-8484,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2547,force_strike:0,skill_1:3125,skill_2:1403,skill_3:1406,team_buff:0
+16659,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5774,skill_1:6200,s1_poison:1231,skill_2:3977
+11063,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:4138,skill_1:4566,s1_poison:0,skill_2:2734
 -,180,b
-13203,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 86% poison uptime,attack:3237,force_strike:0,skill_1:4637,skill_2:2221,skill_3:1897,team_buff:0,s1_poison:936,s2_reflect:273
-7712,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2316,force_strike:0,skill_1:2841,skill_2:1276,skill_3:1278,team_buff:0
+14775,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4278,skill_1:6012,s1_poison:1104,skill_2:3378
+9786,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3064,skill_1:4409,s1_poison:0,skill_2:2310
 -,180,kb
-14523,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 86% poison uptime,attack:3561,force_strike:0,skill_1:5100,skill_2:2443,skill_3:2087,team_buff:0,s1_poison:1029,s2_reflect:300
-8484,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2547,force_strike:0,skill_1:3125,skill_2:1403,skill_3:1406,team_buff:0
+16252,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5177,skill_1:6613,s1_poison:1215,skill_2:3716
+10764,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3708,skill_1:4850,s1_poison:0,skill_2:2542
 -,180,rb
-13203,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 86% poison uptime,attack:3237,force_strike:0,skill_1:4637,skill_2:2221,skill_3:1897,team_buff:0,s1_poison:936,s2_reflect:273
-7712,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2316,force_strike:0,skill_1:2841,skill_2:1276,skill_3:1278,team_buff:0
+14775,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4278,skill_1:6012,s1_poison:1104,skill_2:3378
+9786,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3064,skill_1:4409,s1_poison:0,skill_2:2310
 -,180,krb
-14523,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 86% poison uptime,attack:3561,force_strike:0,skill_1:5100,skill_2:2443,skill_3:2087,team_buff:0,s1_poison:1029,s2_reflect:300
-8484,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2547,force_strike:0,skill_1:3125,skill_2:1403,skill_3:1406,team_buff:0
+16252,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5177,skill_1:6613,s1_poison:1215,skill_2:3716
+10764,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3708,skill_1:4850,s1_poison:0,skill_2:2542
 -,180,db
-14096,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 86% poison uptime,attack:3461,force_strike:0,skill_1:4957,skill_2:2374,skill_3:2028,team_buff:0,s1_poison:1000,s2_reflect:273
-7712,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2316,force_strike:0,skill_1:2841,skill_2:1276,skill_3:1278,team_buff:0
+15795,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4574,skill_1:6427,s1_poison:1180,skill_2:3611
+10461,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3276,skill_1:4714,s1_poison:0,skill_2:2470
 -,180,kdb
-15505,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 86% poison uptime,attack:3807,force_strike:0,skill_1:5453,skill_2:2612,skill_3:2231,team_buff:0,s1_poison:1100,s2_reflect:300
-8484,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2547,force_strike:0,skill_1:3125,skill_2:1403,skill_3:1406,team_buff:0
+17374,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5534,skill_1:7070,s1_poison:1298,skill_2:3973
+11507,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3964,skill_1:5185,s1_poison:0,skill_2:2717
 -,180,rdb
-14096,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 86% poison uptime,attack:3461,force_strike:0,skill_1:4957,skill_2:2374,skill_3:2028,team_buff:0,s1_poison:1000,s2_reflect:273
-7712,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2316,force_strike:0,skill_1:2841,skill_2:1276,skill_3:1278,team_buff:0
+15795,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4574,skill_1:6427,s1_poison:1180,skill_2:3611
+10461,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3276,skill_1:4714,s1_poison:0,skill_2:2470
 -,180,krdb
-15505,Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 86% poison uptime,attack:3807,force_strike:0,skill_1:5453,skill_2:2612,skill_3:2231,team_buff:0,s1_poison:1100,s2_reflect:300
-8484,_c_Cassandra,5*,shadow,wand,3881,[Candy_Couriers+The_Plaguebringer][Fatalis][HDT2],!<hp30 every 90s & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2547,force_strike:0,skill_1:3125,skill_2:1403,skill_3:1406,team_buff:0
+17374,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5534,skill_1:7070,s1_poison:1298,skill_2:3973
+11507,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3964,skill_1:5185,s1_poison:0,skill_2:2717
