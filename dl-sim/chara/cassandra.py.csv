@@ -1,144 +1,144 @@
 -,60,_
-14678,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:4260,skill_1:5419,s1_poison:1270,skill_2:3727
-9361,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:2980,skill_1:3886,s1_poison:0,skill_2:2493
+14639,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:4274,skill_1:5412,s1_poison:1230,skill_2:3722
+9363,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:2990,skill_1:3881,s1_poison:0,skill_2:2490
 -,60,k
-16145,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:5154,skill_1:5961,s1_poison:1397,skill_2:4100
-10297,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3605,skill_1:4275,s1_poison:0,skill_2:2743
+16103,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:5172,skill_1:5953,s1_poison:1353,skill_2:4094
+10299,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3618,skill_1:4269,s1_poison:0,skill_2:2739
 -,60,r
-14678,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:4260,skill_1:5419,s1_poison:1270,skill_2:3727
-9361,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:2980,skill_1:3886,s1_poison:0,skill_2:2493
+14639,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:4274,skill_1:5412,s1_poison:1230,skill_2:3722
+9363,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:2990,skill_1:3881,s1_poison:0,skill_2:2490
 -,60,kr
-16145,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:5154,skill_1:5961,s1_poison:1397,skill_2:4100
-10297,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3605,skill_1:4275,s1_poison:0,skill_2:2743
+16103,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:5172,skill_1:5953,s1_poison:1353,skill_2:4094
+10299,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3618,skill_1:4269,s1_poison:0,skill_2:2739
 -,60,d
-15691,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:4554,skill_1:5793,s1_poison:1357,skill_2:3985
-10007,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3185,skill_1:4155,s1_poison:0,skill_2:2666
+15650,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:4569,skill_1:5785,s1_poison:1315,skill_2:3979
+10009,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3197,skill_1:4149,s1_poison:0,skill_2:2662
 -,60,kd
-17260,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:5510,skill_1:6373,s1_poison:1493,skill_2:4383
-11008,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3854,skill_1:4570,s1_poison:0,skill_2:2932
+17215,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:5529,skill_1:6364,s1_poison:1446,skill_2:4377
+11010,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3868,skill_1:4564,s1_poison:0,skill_2:2928
 -,60,rd
-15691,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:4554,skill_1:5793,s1_poison:1357,skill_2:3985
-10007,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3185,skill_1:4155,s1_poison:0,skill_2:2666
+15650,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:4569,skill_1:5785,s1_poison:1315,skill_2:3979
+10009,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3197,skill_1:4149,s1_poison:0,skill_2:2662
 -,60,krd
-17260,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:5510,skill_1:6373,s1_poison:1493,skill_2:4383
-11008,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3854,skill_1:4570,s1_poison:0,skill_2:2932
+17215,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:5529,skill_1:6364,s1_poison:1446,skill_2:4377
+11010,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3868,skill_1:4564,s1_poison:0,skill_2:2928
 -,60,b
-15341,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,96% poison uptime,attack:4119,skill_1:6170,s1_poison:1342,skill_2:3708
-9784,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:2883,skill_1:4419,s1_poison:0,skill_2:2481
+15360,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:4147,skill_1:6165,s1_poison:1341,skill_2:3705
+9797,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:2902,skill_1:4415,s1_poison:0,skill_2:2479
 -,60,kb
-16875,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,96% poison uptime,attack:4984,skill_1:6787,s1_poison:1476,skill_2:4079
-10762,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3489,skill_1:4861,s1_poison:0,skill_2:2729
+16896,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:5018,skill_1:6781,s1_poison:1475,skill_2:4076
+10777,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3512,skill_1:4857,s1_poison:0,skill_2:2727
 -,60,rb
-15341,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,96% poison uptime,attack:4119,skill_1:6170,s1_poison:1342,skill_2:3708
-9784,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:2883,skill_1:4419,s1_poison:0,skill_2:2481
+15360,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:4147,skill_1:6165,s1_poison:1341,skill_2:3705
+9797,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:2902,skill_1:4415,s1_poison:0,skill_2:2479
 -,60,krb
-16875,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,96% poison uptime,attack:4984,skill_1:6787,s1_poison:1476,skill_2:4079
-10762,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3489,skill_1:4861,s1_poison:0,skill_2:2729
+16896,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:5018,skill_1:6781,s1_poison:1475,skill_2:4076
+10777,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3512,skill_1:4857,s1_poison:0,skill_2:2727
 -,60,db
-16400,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,96% poison uptime,attack:4404,skill_1:6596,s1_poison:1435,skill_2:3964
-10459,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3082,skill_1:4724,s1_poison:0,skill_2:2652
+16420,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:4433,skill_1:6590,s1_poison:1433,skill_2:3961
+10474,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3102,skill_1:4720,s1_poison:0,skill_2:2650
 -,60,kdb
-18040,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,96% poison uptime,attack:5328,skill_1:7255,s1_poison:1578,skill_2:4361
-11505,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3730,skill_1:5196,s1_poison:0,skill_2:2917
+18062,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:5365,skill_1:7249,s1_poison:1577,skill_2:4357
+11521,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3754,skill_1:5192,s1_poison:0,skill_2:2915
 -,60,rdb
-16400,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,96% poison uptime,attack:4404,skill_1:6596,s1_poison:1435,skill_2:3964
-10459,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3082,skill_1:4724,s1_poison:0,skill_2:2652
+16420,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:4433,skill_1:6590,s1_poison:1433,skill_2:3961
+10474,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3102,skill_1:4720,s1_poison:0,skill_2:2650
 -,60,krdb
-18040,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,96% poison uptime,attack:5328,skill_1:7255,s1_poison:1578,skill_2:4361
-11505,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3730,skill_1:5196,s1_poison:0,skill_2:2917
+18062,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:5365,skill_1:7249,s1_poison:1577,skill_2:4357
+11521,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3754,skill_1:5192,s1_poison:0,skill_2:2915
 -,120,_
-14379,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:4480,skill_1:5375,s1_poison:1205,skill_2:3317
-9287,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3159,skill_1:3884,s1_poison:0,skill_2:2243
+14393,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:4509,skill_1:5377,s1_poison:1167,skill_2:3337
+9314,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3184,skill_1:3885,s1_poison:0,skill_2:2243
 -,120,k
-15817,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:5421,skill_1:5913,s1_poison:1326,skill_2:3648
-10215,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3822,skill_1:4272,s1_poison:0,skill_2:2467
+15832,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:5457,skill_1:5915,s1_poison:1284,skill_2:3671
+10246,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3853,skill_1:4273,s1_poison:0,skill_2:2468
 -,120,r
-14379,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:4480,skill_1:5375,s1_poison:1205,skill_2:3317
-9287,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3159,skill_1:3884,s1_poison:0,skill_2:2243
+14393,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:4509,skill_1:5377,s1_poison:1167,skill_2:3337
+9314,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3184,skill_1:3885,s1_poison:0,skill_2:2243
 -,120,kr
-15817,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:5421,skill_1:5913,s1_poison:1326,skill_2:3648
-10215,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3822,skill_1:4272,s1_poison:0,skill_2:2467
+15832,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:5457,skill_1:5915,s1_poison:1284,skill_2:3671
+10246,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3853,skill_1:4273,s1_poison:0,skill_2:2468
 -,120,d
-15372,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:4789,skill_1:5747,s1_poison:1289,skill_2:3546
-9928,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3377,skill_1:4152,s1_poison:0,skill_2:2398
+15387,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:4821,skill_1:5748,s1_poison:1248,skill_2:3568
+9957,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3404,skill_1:4153,s1_poison:0,skill_2:2398
 -,120,kd
-16909,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:5795,skill_1:6321,s1_poison:1418,skill_2:3900
-10921,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:4086,skill_1:4567,s1_poison:0,skill_2:2637
+16925,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:5833,skill_1:6323,s1_poison:1373,skill_2:3925
+10953,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:4119,skill_1:4569,s1_poison:0,skill_2:2638
 -,120,rd
-15372,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:4789,skill_1:5747,s1_poison:1289,skill_2:3546
-9928,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3377,skill_1:4152,s1_poison:0,skill_2:2398
+15387,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:4821,skill_1:5748,s1_poison:1248,skill_2:3568
+9957,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3404,skill_1:4153,s1_poison:0,skill_2:2398
 -,120,krd
-16909,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:5795,skill_1:6321,s1_poison:1418,skill_2:3900
-10921,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:4086,skill_1:4567,s1_poison:0,skill_2:2637
+16925,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,93% poison uptime,attack:5833,skill_1:6323,s1_poison:1373,skill_2:3925
+10953,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:4119,skill_1:4569,s1_poison:0,skill_2:2638
 -,120,b
-15483,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:4321,skill_1:6181,s1_poison:1287,skill_2:3692
-9979,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3044,skill_1:4441,s1_poison:0,skill_2:2493
+14943,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:4258,skill_1:5739,s1_poison:1253,skill_2:3692
+9648,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3000,skill_1:4157,s1_poison:0,skill_2:2489
 -,120,kb
-17032,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:5228,skill_1:6800,s1_poison:1416,skill_2:4062
-10977,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3684,skill_1:4885,s1_poison:0,skill_2:2742
+16438,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:5152,skill_1:6313,s1_poison:1378,skill_2:4061
+10612,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3630,skill_1:4573,s1_poison:0,skill_2:2738
 -,120,rb
-15483,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:4321,skill_1:6181,s1_poison:1287,skill_2:3692
-9979,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3044,skill_1:4441,s1_poison:0,skill_2:2493
+14943,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:4258,skill_1:5739,s1_poison:1253,skill_2:3692
+9648,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3000,skill_1:4157,s1_poison:0,skill_2:2489
 -,120,krb
-17032,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:5228,skill_1:6800,s1_poison:1416,skill_2:4062
-10977,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3684,skill_1:4885,s1_poison:0,skill_2:2742
+16438,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:5152,skill_1:6313,s1_poison:1378,skill_2:4061
+10612,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3630,skill_1:4573,s1_poison:0,skill_2:2738
 -,120,db
-16552,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:4619,skill_1:6608,s1_poison:1376,skill_2:3947
-10668,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3254,skill_1:4747,s1_poison:0,skill_2:2665
+15975,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:4552,skill_1:6135,s1_poison:1340,skill_2:3947
+10314,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3207,skill_1:4444,s1_poison:0,skill_2:2661
 -,120,kdb
-18207,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:5589,skill_1:7269,s1_poison:1513,skill_2:4342
-11735,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3938,skill_1:5222,s1_poison:0,skill_2:2932
+17573,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:5508,skill_1:6748,s1_poison:1474,skill_2:4341
+11345,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3881,skill_1:4888,s1_poison:0,skill_2:2927
 -,120,rdb
-16552,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:4619,skill_1:6608,s1_poison:1376,skill_2:3947
-10668,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3254,skill_1:4747,s1_poison:0,skill_2:2665
+15975,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:4552,skill_1:6135,s1_poison:1340,skill_2:3947
+10314,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3207,skill_1:4444,s1_poison:0,skill_2:2661
 -,120,krdb
-18207,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:5589,skill_1:7269,s1_poison:1513,skill_2:4342
-11735,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3938,skill_1:5222,s1_poison:0,skill_2:2932
+17573,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,94% poison uptime,attack:5508,skill_1:6748,s1_poison:1474,skill_2:4341
+11345,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3881,skill_1:4888,s1_poison:0,skill_2:2927
 -,180,_
-14167,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4463,skill_1:5273,s1_poison:1046,skill_2:3382
-9408,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3199,skill_1:3882,s1_poison:0,skill_2:2325
+13916,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4458,skill_1:5027,s1_poison:1022,skill_2:3408
+9210,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3197,skill_1:3691,s1_poison:0,skill_2:2321
 -,180,k
-15583,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5401,skill_1:5800,s1_poison:1151,skill_2:3720
-10348,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3871,skill_1:4271,s1_poison:0,skill_2:2557
+15308,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5394,skill_1:5529,s1_poison:1124,skill_2:3749
+10131,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3868,skill_1:4060,s1_poison:0,skill_2:2553
 -,180,r
-14167,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4463,skill_1:5273,s1_poison:1046,skill_2:3382
-9408,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3199,skill_1:3882,s1_poison:0,skill_2:2325
+13916,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4458,skill_1:5027,s1_poison:1022,skill_2:3408
+9210,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3197,skill_1:3691,s1_poison:0,skill_2:2321
 -,180,kr
-15583,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5401,skill_1:5800,s1_poison:1151,skill_2:3720
-10348,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3871,skill_1:4271,s1_poison:0,skill_2:2557
+15308,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5394,skill_1:5529,s1_poison:1124,skill_2:3749
+10131,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3868,skill_1:4060,s1_poison:0,skill_2:2553
 -,180,d
-15145,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4772,skill_1:5637,s1_poison:1119,skill_2:3615
-10057,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3420,skill_1:4150,s1_poison:0,skill_2:2485
+14877,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4766,skill_1:5374,s1_poison:1092,skill_2:3644
+9846,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3417,skill_1:3946,s1_poison:0,skill_2:2481
 -,180,kd
-16659,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5774,skill_1:6200,s1_poison:1231,skill_2:3977
-11063,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:4138,skill_1:4566,s1_poison:0,skill_2:2734
+16365,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5767,skill_1:5911,s1_poison:1201,skill_2:4008
+10830,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:4135,skill_1:4341,s1_poison:0,skill_2:2729
 -,180,rd
-15145,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4772,skill_1:5637,s1_poison:1119,skill_2:3615
-10057,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3420,skill_1:4150,s1_poison:0,skill_2:2485
+14877,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4766,skill_1:5374,s1_poison:1092,skill_2:3644
+9846,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3417,skill_1:3946,s1_poison:0,skill_2:2481
 -,180,krd
-16659,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5774,skill_1:6200,s1_poison:1231,skill_2:3977
-11063,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:4138,skill_1:4566,s1_poison:0,skill_2:2734
+16365,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5767,skill_1:5911,s1_poison:1201,skill_2:4008
+10830,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:4135,skill_1:4341,s1_poison:0,skill_2:2729
 -,180,b
-14775,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4278,skill_1:6012,s1_poison:1104,skill_2:3378
-9786,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3064,skill_1:4409,s1_poison:0,skill_2:2310
+14672,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4258,skill_1:5715,s1_poison:1079,skill_2:3619
+9759,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3048,skill_1:4231,s1_poison:0,skill_2:2479
 -,180,kb
-16252,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5177,skill_1:6613,s1_poison:1215,skill_2:3716
-10764,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3708,skill_1:4850,s1_poison:0,skill_2:2542
+16139,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5152,skill_1:6286,s1_poison:1187,skill_2:3981
+10735,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3688,skill_1:4654,s1_poison:0,skill_2:2726
 -,180,rb
-14775,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4278,skill_1:6012,s1_poison:1104,skill_2:3378
-9786,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3064,skill_1:4409,s1_poison:0,skill_2:2310
+14672,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4258,skill_1:5715,s1_poison:1079,skill_2:3619
+9759,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3048,skill_1:4231,s1_poison:0,skill_2:2479
 -,180,krb
-16252,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5177,skill_1:6613,s1_poison:1215,skill_2:3716
-10764,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3708,skill_1:4850,s1_poison:0,skill_2:2542
+16139,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5152,skill_1:6286,s1_poison:1187,skill_2:3981
+10735,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3688,skill_1:4654,s1_poison:0,skill_2:2726
 -,180,db
-15795,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4574,skill_1:6427,s1_poison:1180,skill_2:3611
-10461,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3276,skill_1:4714,s1_poison:0,skill_2:2470
+15685,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4552,skill_1:6109,s1_poison:1153,skill_2:3869
+10432,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3258,skill_1:4523,s1_poison:0,skill_2:2650
 -,180,kdb
-17374,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5534,skill_1:7070,s1_poison:1298,skill_2:3973
-11507,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3964,skill_1:5185,s1_poison:0,skill_2:2717
+17254,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5508,skill_1:6720,s1_poison:1269,skill_2:4256
+11476,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3943,skill_1:4975,s1_poison:0,skill_2:2915
 -,180,rdb
-15795,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4574,skill_1:6427,s1_poison:1180,skill_2:3611
-10461,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3276,skill_1:4714,s1_poison:0,skill_2:2470
+15685,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:4552,skill_1:6109,s1_poison:1153,skill_2:3869
+10432,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3258,skill_1:4523,s1_poison:0,skill_2:2650
 -,180,krdb
-17374,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5534,skill_1:7070,s1_poison:1298,skill_2:3973
-11507,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3964,skill_1:5185,s1_poison:0,skill_2:2717
+17254,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,86% poison uptime,attack:5508,skill_1:6720,s1_poison:1269,skill_2:4256
+11476,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3943,skill_1:4975,s1_poison:0,skill_2:2915

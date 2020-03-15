@@ -2,16 +2,16 @@
 5462,_c_Aeleen,4*,wind,lance,5560,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],!<maintain shield & hp70>,,attack:2115,force_strike:295,skill_1:2468,skill_3:774
 12361,Alain,3*,flame,lance,4782,[Resounding_Rendition+Elegant_Escort][Konohana_Sakuya][Agito],<hp70 & 0 burn res>,86% burn uptime,attack:3109,force_strike:324,skill_1:5271,s1_burn:1024,skill_2:2346,s2_burn:566
 8202,_c_Alain,3*,flame,lance,4782,[Resounding_Rendition+Elegant_Escort][Konohana_Sakuya][Agito],!<hp70 & 0 burn res>,,attack:2360,force_strike:248,skill_1:4035,s1_burn:0,skill_2:1771,s2_burn:0
-14043,Albert,5*,light,sword,5658,[The_Shining_Overlord+Sisters_Day_Out][Corsaint_Phoenix][HDT2],<big hitbox & 0 paralysis res>,48% paralysis uptime,attack:1653,force_strike:2058,fs_paralysis:1413,skill_1:3951,s1_hit2:209,s1_hit3:209,s1_hit4:209,s1_hit5:209,s1_hit6:209,s1_s2boost:2923,skill_3:1143
-10841,_c_Albert,5*,light,sword,5658,[The_Shining_Overlord+Sisters_Day_Out][Corsaint_Phoenix][HDT2],!<big hitbox & 0 paralysis res>,,attack:1482,force_strike:1861,fs_paralysis:0,skill_1:3604,s1_hit2:175,s1_hit3:175,s1_hit4:175,s1_s2boost:2437,skill_3:1064
+13849,Albert,5*,light,sword,5658,[The_Shining_Overlord+Sisters_Day_Out][Corsaint_Phoenix][HDT2],<big hitbox & 0 paralysis res>,49% paralysis uptime,attack:1747,force_strike:2182,fs_paralysis:1409,skill_1:3567,s1_hit2:209,s1_hit3:209,s1_hit4:209,s1_hit5:209,s1_hit6:209,s1_s2boost:2914,skill_3:1139
+10645,_c_Albert,5*,light,sword,5658,[The_Shining_Overlord+Sisters_Day_Out][Corsaint_Phoenix][HDT2],!<big hitbox & 0 paralysis res>,,attack:1573,force_strike:1978,fs_paralysis:0,skill_1:3221,s1_hit2:174,s1_hit3:174,s1_hit4:174,s1_s2boost:2429,skill_3:1061
 13565,Alex,4*,shadow,dagger,6715,[Twinfold_Bonds+The_Plaguebringer][Fatalis][Agito],<hp100 & hit15 & 0 poison res>,not consider bk boost of her s2; 90% poison uptime,attack:4051,force_strike:500,skill_1:5386,s1_poison:1167,skill_2:2279,team_buff:547
 8362,_c_Alex,4*,shadow,dagger,6715,[Twinfold_Bonds+The_Plaguebringer][Fatalis][Agito],!<hp100 & hit15 & 0 poison res>,not consider bk boost of her s2,attack:3085,force_strike:383,skill_1:3270,s1_poison:0,skill_2:1355,team_buff:547
 9899,Alfonse,5*,light,sword,8445,[The_Shining_Overlord+Beautiful_Nothingness][Cupid][HDT2],<last offense & hp70>,,attack:2949,force_strike:1226,skill_1:2849,skill_2:1803,skill_3:1336
 8686,_c_Alfonse,5*,light,sword,5961,[The_Shining_Overlord+Beautiful_Nothingness][Cupid][HDT2],!<last offense & hp70>,,attack:2552,force_strike:1060,skill_1:2463,skill_2:1583,skill_3:1258
 9792,Althemia,3*,shadow,wand,7105,[Candy_Couriers+Primal_Crisis][Fatalis][Agito],<hp100 & hit15>,,attack:3881,skill_1:4320,skill_2:1943
 7386,_c_Althemia,3*,shadow,wand,7105,[Candy_Couriers+Primal_Crisis][Fatalis][Agito],!<hp100 & hit15>,,attack:3326,skill_1:3008,skill_2:1352
-9741,Amane,4*,light,wand,6315,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2],<hit15>,,attack:3890,skill_1:4723,skill_3:1480
-7264,_c_Amane,4*,light,wand,6315,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2],!<hit15>,,attack:2875,skill_1:3571,skill_3:1077
+9222,Amane,4*,light,wand,6315,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2],<hit15>,,attack:3987,skill_1:4099,skill_3:1498
+6906,_c_Amane,4*,light,wand,6315,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2],!<hit15>,,attack:2965,skill_1:3118,skill_3:1090
 7959,Annelie,5*,light,lance,6512,[Resounding_Rendition+Beautiful_Nothingness][Cupid][HDT2],<hp70>,1121,attack:2493,force_strike:325,skill_1:3441,skill_2:550,skill_3:1208,team_energy:166
 6212,_c_Annelie,5*,light,lance,6129,[Resounding_Rendition+Beautiful_Nothingness][Cupid][HDT2],!<hp70>,1121,attack:2234,force_strike:291,skill_1:2480,skill_2:388,skill_3:853,team_energy:166
 13098,Aoi,3*,flame,blade,5537,[Resounding_Rendition+Elegant_Escort][Konohana_Sakuya][Agito],<hp70 & 0 burn res>,82% burn uptime,attack:3637,skill_1:5386,s1_burn:1037,skill_2:2472,s2_burn:564
@@ -22,10 +22,10 @@
 6457,_c_Beautician_Zardin,5*,light,blade,6693,[Resounding_Rendition+Jewels_of_the_Sun][Cupid][HDT2],!<hp70>,no s2,attack:2449,skill_1:2581,skill_3:1161,team_buff:262
 9997,Berserker,4*,shadow,sword,9138,[The_Shining_Overlord+Beautiful_Nothingness][Fatalis][Agito],<last offense & hp70>,,attack:3942,force_strike:1532,skill_1:4881
 8941,_c_Berserker,4*,shadow,sword,6660,[The_Shining_Overlord+Beautiful_Nothingness][Fatalis][Agito],!<last offense & hp70>,,attack:3484,force_strike:1369,skill_1:4404
-19562,Botan,4*,shadow,lance,5068,[Resounding_Rendition+Jewels_of_the_Sun][Shinobi][Agito],<buff all team & hp70>,,attack:2988,skill_1:6671,s1_bleed:6847,team_buff:3325
-16517,_c_Botan,4*,shadow,lance,4678,[Resounding_Rendition+Jewels_of_the_Sun][Shinobi][Agito],!<buff all team & hp70>,,attack:2630,skill_1:5873,s1_bleed:6028,team_buff:2224
-17260,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:5510,skill_1:6373,s1_poison:1493,skill_2:4383
-11008,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3854,skill_1:4570,s1_poison:0,skill_2:2932
+18781,Botan,4*,shadow,lance,5068,[Resounding_Rendition+Jewels_of_the_Sun][Shinobi][Agito],<buff all team & hp70>,,attack:3371,skill_1:5487,s1_bleed:6884,team_buff:3344
+15826,_c_Botan,4*,shadow,lance,4678,[Resounding_Rendition+Jewels_of_the_Sun][Shinobi][Agito],!<buff all team & hp70>,,attack:2967,skill_1:4830,s1_bleed:6060,team_buff:2236
+17215,Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],<hp30 every 180s & 0 poison res & hp=80%>,97% poison uptime,attack:5529,skill_1:6364,s1_poison:1446,skill_2:4377
+11010,_c_Cassandra,5*,shadow,wand,7544,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito],!<hp30 every 180s & 0 poison res & hp=80%>,,attack:3868,skill_1:4564,s1_poison:0,skill_2:2928
 7826,Celliera,4*,water,blade,5797,[Resounding_Rendition+Jewels_of_the_Sun][Siren][HDT2],<hp70>,,attack:2322,skill_1:3672,skill_3:1831
 6471,_c_Celliera,4*,water,blade,5041,[Resounding_Rendition+Jewels_of_the_Sun][Siren][HDT2],!<hp70>,,attack:1920,skill_1:3036,skill_3:1514
 10203,Chelsea,5*,flame,bow,5958,[Forest_Bonds+Dear_Diary][Dreadking_Rathalos][Agito],<hp30 every 180s>,,attack:2593,force_strike:2565,skill_1:5279
@@ -48,18 +48,18 @@
 4644,_c_Delphi,5*,shadow,dagger,4866,[Mega_Friends+The_Fires_of_Hate][Fatalis][Agito],!<hp100 & s1 defdown for 10s & 0 poison res>,,attack:1994,force_strike:1857,fs_boost:85,fs_poison:0,skill_1:528,skill_2:359,s2_poison:0
 15927,Durant,4*,shadow,blade,8959,[Seaside_Princess+Luck_of_the_Draw][Fatalis][Agito],<hp100>,,attack:15927
 11813,_c_Durant,4*,shadow,blade,7753,[Seaside_Princess+Luck_of_the_Draw][Fatalis][Agito],!<hp100>,,attack:11813
-9665,Eleonora,4*,wind,bow,4899,[Dear_Diary+The_Fires_of_Hate][Vayu][HDT2],<hp30 every 180s & hp100 & 0 poison res>,94% poison uptime,attack:1721,force_strike:954,skill_1:3437,s1_poison:938,skill_2:1682,s2_poison:363,skill_3:724
-5715,_c_Eleonora,4*,wind,bow,4354,[Dear_Diary+The_Fires_of_Hate][Vayu][HDT2],!<hp30 every 180s & hp100 & 0 poison res>,,attack:1177,force_strike:642,skill_1:2380,s1_poison:0,skill_2:1133,s2_poison:0,skill_3:487
+8970,Eleonora,4*,wind,bow,4899,[Dear_Diary+The_Fires_of_Hate][Vayu][HDT2],<hp30 every 180s & hp100 & 0 poison res>,87% poison uptime,attack:1754,force_strike:938,skill_1:2844,s1_poison:856,skill_2:1680,s2_poison:332,skill_3:723
+5348,_c_Eleonora,4*,wind,bow,4354,[Dear_Diary+The_Fires_of_Hate][Vayu][HDT2],!<hp30 every 180s & hp100 & 0 poison res>,,attack:1217,force_strike:641,skill_1:1981,s1_poison:0,skill_2:1131,s2_poison:0,skill_3:487
 7499,Elias,4*,light,bow,7527,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2],<last offense & hit15 & hp30 every 180s>,,attack:2164,force_strike:1185,skill_1:3341,skill_3:1004
 5521,_c_Elias,4*,light,bow,5376,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2],!<last offense & hit15 & hp30 every 180s>,,attack:1558,force_strike:850,skill_1:2466,skill_3:786
-12093,Elisanne,4*,water,lance,3777,[Beach_Battle+From_Whence_He_Comes][Halloween_Maritimus][HDT2],<>,no s2 or s3,attack:2826,team_buff:9522
+12090,Elisanne,4*,water,lance,3777,[Beach_Battle+From_Whence_He_Comes][Halloween_Maritimus][HDT2],<>,no s2 or s3,attack:2815,team_buff:9530
 15231,Emma,4*,flame,lance,6035,[Castle_Cheer_Corps+From_Whence_He_Comes][Dreadking_Rathalos][Agito],<buff all team>,,attack:4179,force_strike:923,team_buff:10507
 4723,_c_Emma,4*,flame,lance,6035,[Castle_Cheer_Corps+From_Whence_He_Comes][Dreadking_Rathalos][Agito],!<buff all team>,,attack:4179,force_strike:923
 11458,Erik,3*,shadow,axe,7005,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito],<>,,attack:4796,force_strike:691,skill_1:4621,skill_2:1783
-16575,Euden,4*,flame,sword,6258,[The_Shining_Overlord+Elegant_Escort][Dreadking_Rathalos][Agito],<0 burn res>,92% burn uptime,attack:3512,force_strike:2623,skill_1:6312,s1_burn:1518,skill_2:2294,team_buff:631
-12069,_c_Euden,4*,flame,sword,6258,[The_Shining_Overlord+Elegant_Escort][Dreadking_Rathalos][Agito],!<0 burn res>,,attack:2772,force_strike:2078,skill_1:5067,s1_burn:0,skill_2:1770,team_buff:631
-9752,Fjorm,5*,water,lance,6562,[Resounding_Rendition+Beautiful_Nothingness][Siren][HDT2],<hp70>,,attack:1557,force_strike:133,skill_1:3145,skill_2:2435,skill_3:1131,team_buff:1490
-8753,_c_Fjorm,5*,water,lance,6057,[Resounding_Rendition+Beautiful_Nothingness][Siren][HDT2],!<hp70>,,attack:1368,force_strike:117,skill_1:2765,skill_2:2141,skill_3:994,team_buff:1490
+18127,Euden,4*,flame,sword,6258,[The_Shining_Overlord+Elegant_Escort][Dreadking_Rathalos][Agito],<0 burn res>,91% burn uptime,attack:1872,force_strike:1330,skill_1:3315,s1_burn:767,skill_2:1212,team_buff:315,dx:7431,ds_burn:673,ds:1378
+13171,_c_Euden,4*,flame,sword,6258,[The_Shining_Overlord+Elegant_Escort][Dreadking_Rathalos][Agito],!<0 burn res>,,attack:1500,force_strike:1066,skill_1:2652,s1_burn:0,skill_2:944,team_buff:315,dx:5763,ds:1063
+9917,Fjorm,5*,water,lance,6562,[Resounding_Rendition+Beautiful_Nothingness][Siren][HDT2],<hp70>,,attack:1631,force_strike:40,skill_1:3153,skill_2:2441,skill_3:1304,team_buff:1493
+8898,_c_Fjorm,5*,water,lance,6057,[Resounding_Rendition+Beautiful_Nothingness][Siren][HDT2],!<hp70>,,attack:1433,force_strike:35,skill_1:2771,skill_2:2146,skill_3:1146,team_buff:1493
 15757,Fleur,4*,light,dagger,5851,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2],<hp70 & hit15 & hp100 & 0 paralysis res>,c4fs; 86% paralysis uptime,attack:3743,force_strike:925,skill_1:7043,s1_paralysis:2372,skill_3:2012
 5940,_c_Fleur,4*,light,dagger,5668,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2],!<hp70 & hit15 & hp100 & 0 paralysis res>,c4fs,attack:2215,force_strike:554,skill_1:2258,s1_paralysis:0,skill_3:1112
 7251,Francesca,3*,wind,dagger,5278,[Twinfold_Bonds+Levins_Champion][AC011_Garland][HDT2],<maintain shield & hit15 & hp70>,,attack:2385,force_strike:637,skill_1:2316,skill_2:1034,skill_3:989,team_buff:104
@@ -68,10 +68,10 @@
 6006,_c_Fritz,4*,light,dagger,5607,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2],!<hit15 & hp70>,,attack:2418,force_strike:242,fs_boost:229,skill_1:2148,skill_3:758,team_buff:429
 27101,Gala_Cleo,5*,shadow,wand,5211,[Candy_Couriers+Jewels_of_the_Sun][Shinobi][Agito],<hp70 & always in a1>,(the true cleo is here),attack:3952,force_strike:0,skill_1:12607,skill_2:1793,team_buff:9107
 14463,_c_Gala_Cleo,5*,shadow,wand,4810,[Candy_Couriers+Jewels_of_the_Sun][Shinobi][Agito],!<hp70 & always in a1>,(the true cleo is here),attack:2869,force_strike:0,skill_1:8169,skill_2:1253,team_buff:2431
-14365,Gala_Elisanne,5*,water,axe,4177,[Beach_Battle+From_Whence_He_Comes][Halloween_Maritimus][HDT2],<buff all team>,,attack:3427,force_strike:410,team_buff:10837
-3527,_c_Gala_Elisanne,5*,water,axe,4177,[Beach_Battle+From_Whence_He_Comes][Halloween_Maritimus][HDT2],!<buff all team>,,attack:3427,force_strike:410
-12837,Gala_Euden,5*,light,sword,6020,[The_Shining_Overlord+Sisters_Day_Out][Cupid][HDT2],<s1 buff for 10s & draconic charge & 0 paralysis res>,c2+fs; 22% paralysis uptime,attack:2032,force_strike:1873,skill_1:1575,skill_2:1209,s2_paralysis:188,skill_3:1410,team_buff:4732
-7435,_c_Gala_Euden,5*,light,sword,6020,[The_Shining_Overlord+Sisters_Day_Out][Cupid][HDT2],!<s1 buff for 10s & draconic charge & 0 paralysis res>,c2+fs,attack:1707,force_strike:1585,skill_1:1416,skill_2:1007,s2_paralysis:0,skill_3:1124,team_buff:747
+12283,Gala_Elisanne,5*,water,axe,3798,[Beach_Battle+From_Whence_He_Comes][Halloween_Maritimus][HDT2],<buff all team>,,attack:3274,force_strike:385,team_buff:8920
+3363,_c_Gala_Elisanne,5*,water,axe,3798,[Beach_Battle+From_Whence_He_Comes][Halloween_Maritimus][HDT2],!<buff all team>,,attack:3274,force_strike:385
+12193,Gala_Euden,5*,light,sword,6020,[The_Shining_Overlord+Sisters_Day_Out][Cupid][HDT2],<s1 buff for 10s & draconic charge & 0 paralysis res>,c2+fs; 21% paralysis uptime,attack:2047,force_strike:1916,skill_1:1281,skill_2:1193,s2_paralysis:186,skill_3:1674,team_buff:4080
+7660,_c_Gala_Euden,5*,light,sword,6020,[The_Shining_Overlord+Sisters_Day_Out][Cupid][HDT2],!<s1 buff for 10s & draconic charge & 0 paralysis res>,c2+fs,attack:1761,force_strike:1660,skill_1:1203,skill_2:994,s2_paralysis:0,skill_3:1462,team_buff:737
 10008,Gala_Mym,5*,flame,lance,5144,[Resounding_Rendition+Beautiful_Nothingness][Konohana_Sakuya][Agito],<hp70>,,attack:2524,force_strike:340,skill_1:5285,skill_2:2086
 8797,_c_Gala_Mym,5*,flame,lance,4748,[Resounding_Rendition+Beautiful_Nothingness][Konohana_Sakuya][Agito],!<hp70>,,attack:2219,force_strike:299,skill_1:4646,skill_2:1834
 11286,Gala_Ranzal,5*,wind,sword,5788,[Jewels_of_the_Sun+The_Shining_Overlord][AC011_Garland][HDT2],<maintain shield & hp70>,no s2,attack:2419,force_strike:1202,skill_1:4783,s1_boost:1693,skill_3:1406
@@ -90,8 +90,8 @@
 7295,_c_Hawk,5*,wind,bow,4578,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res & 80 stun res>,,attack:1623,force_strike:442,fs_poison:0,skill_1:4300,skill_2:1075
 7720,Irfan,3*,light,dagger,5584,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2],<hit15 & hp70>,,attack:2819,force_strike:303,skill_1:2838,skill_2:1033,skill_3:980
 5741,_c_Irfan,3*,light,dagger,5584,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2],!<hit15 & hp70>,,attack:2120,force_strike:231,skill_1:2094,skill_2:762,skill_3:723
-6035,Jakob,3*,water,lance,5834,[Resounding_Rendition+Beautiful_Nothingness][Dragonyule_Jeanne][HDT2],<hp70 & 100 bog res>,,attack:2533,force_strike:367,skill_1:2496,skill_3:867
-5405,_c_Jakob,3*,water,lance,5457,[Resounding_Rendition+Beautiful_Nothingness][Dragonyule_Jeanne][HDT2],!<hp70 & 100 bog res>,,attack:2268,force_strike:329,skill_1:2236,skill_3:776
+6062,Jakob,3*,water,lance,5834,[Resounding_Rendition+Beautiful_Nothingness][Dragonyule_Jeanne][HDT2],<hp70 & 100 bog res>,,attack:2628,force_strike:314,skill_1:2492,skill_3:865
+5430,_c_Jakob,3*,water,lance,5457,[Resounding_Rendition+Beautiful_Nothingness][Dragonyule_Jeanne][HDT2],!<hp70 & 100 bog res>,,attack:2354,force_strike:281,skill_1:2232,skill_3:775
 12316,Joe,3*,flame,bow,6134,[Mega_Friends+Dear_Diary][Dreadking_Rathalos][Agito],<hp30 every 180s & hp100 & 0 burn res>,80% burn uptime,attack:2817,force_strike:3146,skill_1:3903,s1_burn:881,skill_2:1357,s2_burn:466
 10114,_c_Joe,3*,flame,bow,6134,[Mega_Friends+Dear_Diary][Dreadking_Rathalos][Agito],!<hp30 every 180s & hp100 & 0 burn res>,,attack:2594,force_strike:2898,skill_1:3603,s1_burn:0,skill_2:1252,s2_burn:0
 8465,Johanna,3*,wind,axe,5975,[Kung_Fu_Masters+Crystalian_Envoy][AC011_Garland][HDT2],<maintain shield & hp70>,,attack:3514,force_strike:423,skill_1:2682,skill_2:1494,skill_3:670
@@ -99,8 +99,8 @@
 7401,Julietta,5*,light,axe,6195,[Kung_Fu_Masters+Flower_in_the_Fray][Cupid][HDT2],<>,no fs & no s2,attack:3610,skill_1:3489,skill_3:628
 7877,Jurota,3*,water,blade,5607,[Resounding_Rendition+Beautiful_Nothingness][Siren][HDT2],<hp70>,,attack:2322,skill_1:4088,skill_3:1465
 6925,_c_Jurota,3*,water,blade,5175,[Resounding_Rendition+Beautiful_Nothingness][Siren][HDT2],!<hp70>,,attack:2042,skill_1:3594,skill_3:1288
-8760,Karina,4*,water,axe,4950,[Kung_Fu_Masters+Crystalian_Envoy][Siren][HDT2],<hp70>,,attack:2391,force_strike:259,skill_1:4249,s1_boost:0,skill_2:1340,skill_3:736
-7903,_c_Karina,4*,water,axe,4466,[Kung_Fu_Masters+Crystalian_Envoy][Siren][HDT2],!<hp70>,,attack:2157,force_strike:233,skill_1:3833,s1_boost:0,skill_2:1209,skill_3:664
+8146,Karina,4*,water,axe,4950,[Kung_Fu_Masters+Crystalian_Envoy][Siren][HDT2],<hp70>,,attack:2488,force_strike:259,skill_1:3544,s1_boost:0,skill_2:1342,skill_3:737
+7350,_c_Karina,4*,water,axe,4466,[Kung_Fu_Masters+Crystalian_Envoy][Siren][HDT2],!<hp70>,,attack:2245,force_strike:234,skill_1:3198,s1_boost:0,skill_2:1211,skill_3:665
 16805,Karl,4*,flame,sword,7070,[The_Lurker_in_the_Woods+Primal_Crisis][Dreadking_Rathalos][Agito],<hit15 & hp70>,,attack:6021,force_strike:7078,team_buff:4252
 13600,_c_Karl,4*,flame,sword,6446,[The_Lurker_in_the_Woods+Primal_Crisis][Dreadking_Rathalos][Agito],!<hit15 & hp70>,,attack:4491,force_strike:5264,team_buff:4252
 11569,Kleimann,4*,shadow,wand,7133,[Candy_Couriers+Primal_Crisis][Fatalis][Agito],<hit15>,,attack:3734,force_strike:947,skill_1:5294,skill_2:1932
@@ -115,8 +115,8 @@
 5464,_c_Laxi,4*,flame,blade,5323,[Heralds_of_Hinomoto+Dear_Diary][Konohana_Sakuya][Agito],!<hp30 every 180s>,a1 proc at 0s,attack:2395,skill_1:1659,s1_boost:1409
 11456,Lea,5*,flame,sword,6068,[The_Shining_Overlord+Elegant_Escort][Dreadking_Rathalos][Agito],<0 burn res>,c2+fs; 94% burn uptime,attack:1804,force_strike:2556,skill_1:4232,s1_burn:1353,skill_2:1673
 7963,_c_Lea,5*,flame,sword,6068,[The_Shining_Overlord+Elegant_Escort][Dreadking_Rathalos][Agito],!<0 burn res>,c2+fs,attack:1429,force_strike:2024,skill_1:3352,s1_burn:0,skill_2:1287
-9399,Lily,5*,water,wand,5821,[Candy_Couriers+Seaside_Princess][Siren][HDT2],<hp100>,,attack:1975,skill_1:3791,skill_2:2288,skill_3:1522
-7340,_c_Lily,5*,water,wand,4657,[Candy_Couriers+Seaside_Princess][Siren][HDT2],!<hp100>,,attack:1543,skill_1:2960,skill_2:1787,skill_3:1189
+9362,Lily,5*,water,wand,5821,[Candy_Couriers+Seaside_Princess][Siren][HDT2],<hp100>,,attack:1968,skill_1:3776,skill_2:2279,skill_3:1516
+7312,_c_Lily,5*,water,wand,4657,[Candy_Couriers+Seaside_Princess][Siren][HDT2],!<hp100>,,attack:1537,skill_1:2949,skill_2:1780,skill_3:1184
 7666,Linus,3*,light,axe,6129,[Kung_Fu_Masters+Flower_in_the_Fray][Cupid][HDT2],<>,,attack:3216,force_strike:261,skill_1:2839,skill_2:1021,skill_3:619
 15770,Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:6339,force_strike:270,skill_1:6581,s1_powerup:2020,skill_3:1134
 8566,_c_Lin_You,5*,wind,axe,5717,[The_Wyrmclan_Duo+Primal_Crisis][Long_Long][HDT2],!<hp70 & hit25 & hit50 & hit15>,2in1 ; 11% sleep uptime,attack:3585,force_strike:157,skill_1:3560,s1_powerup:1017,skill_3:571
@@ -132,8 +132,8 @@
 6918,_c_Malka,3*,light,lance,6065,[Resounding_Rendition+Beautiful_Nothingness][Cupid][HDT2],!<hp70>,,attack:2444,force_strike:287,skill_1:2571,skill_3:842,team_buff:994
 8105,Malora,3*,light,bow,5598,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2],<hit15 & hp30 every 180s>,,attack:2094,force_strike:584,skill_1:3001,skill_2:1247,skill_3:1087,team_buff:280
 6423,_c_Malora,3*,light,bow,5598,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2],!<hit15 & hp30 every 180s>,,attack:1658,force_strike:457,skill_1:2349,skill_2:976,skill_3:851,team_buff:280
-12107,Maribelle,5*,wind,wand,6018,[Candy_Couriers+Primal_Crisis][AC011_Garland][HDT2],<maintain shield & hp100 & hit15>,,attack:3117,skill_1:4720,skill_2:2499,skill_3:1615,team_buff:437
-7708,_c_Maribelle,5*,wind,wand,6018,[Candy_Couriers+Primal_Crisis][AC011_Garland][HDT2],!<maintain shield & hp100 & hit15>,,attack:2286,skill_1:2793,skill_2:1441,skill_3:957,team_buff:437
+12885,Maribelle,5*,wind,wand,6018,[Candy_Couriers+Primal_Crisis][AC011_Garland][HDT2],<maintain shield & hp100 & hit15>,,attack:3096,skill_1:4755,skill_2:2506,skill_3:2368,team_buff:438
+8191,_c_Maribelle,5*,wind,wand,6018,[Candy_Couriers+Primal_Crisis][AC011_Garland][HDT2],!<maintain shield & hp100 & hit15>,,attack:2259,skill_1:2813,skill_2:1445,skill_3:1439,team_buff:438
 14823,Marth,5*,flame,sword,6054,[Mega_Friends+Primal_Crisis][Dreadking_Rathalos][Agito],<hit15>,c2fs,attack:2662,force_strike:3591,skill_1:4864,skill_2:2226,team_buff:1719
 11972,_c_Marth,5*,flame,sword,6054,[Mega_Friends+Primal_Crisis][Dreadking_Rathalos][Agito],!<hit15>,c2fs,attack:2081,force_strike:2808,skill_1:3751,skill_2:1799,team_buff:1719
 10361,Marty,3*,flame,sword,6232,[Mega_Friends+Beautiful_Nothingness][Dreadking_Rathalos][Agito],<hp70>,,attack:2691,force_strike:3631,skill_1:4282
@@ -158,8 +158,8 @@
 7557,_c_Norwin,4*,shadow,bow,6669,[Forest_Bonds+Dear_Diary][Fatalis][Agito],!<hp30 every 180s & 80 blind res>,,attack:3024,skill_1:4807
 11950,Odetta,4*,light,sword,6591,[Resounding_Rendition+The_Lurker_in_the_Woods][Cupid][HDT2],<buff all team & hp70>,c2+fs,attack:2408,force_strike:2430,skill_1:3103,skill_3:1315,team_buff:2911
 8613,_c_Odetta,4*,light,sword,6203,[Resounding_Rendition+The_Lurker_in_the_Woods][Cupid][HDT2],!<buff all team & hp70>,c2+fs,attack:2155,force_strike:2174,skill_1:2777,skill_3:1176,team_buff:524
-9861,Orion,4*,shadow,dagger,6701,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],<hit15>,,attack:3715,force_strike:545,skill_1:4088,skill_2:1848
-7831,_c_Orion,4*,shadow,dagger,6701,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],!<hit15>,,attack:2951,force_strike:427,skill_1:3273,skill_2:1447
+9621,Orion,4*,shadow,dagger,6701,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],<hit15>,,attack:3916,force_strike:489,skill_1:3705,skill_2:1866
+7654,_c_Orion,4*,shadow,dagger,6701,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],!<hit15>,,attack:3119,force_strike:383,skill_1:2973,skill_2:1461
 8779,Orsem,4*,water,dagger,4467,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],<hit15 & hp70>,,attack:1864,force_strike:339,skill_1:3666,skill_2:1566,skill_3:1511
 6400,_c_Orsem,4*,water,dagger,4467,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],!<hit15 & hp70>,,attack:1388,force_strike:253,skill_1:2654,skill_2:1134,skill_3:1094
 7760,Philia,3*,wind,bow,5780,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,42% paralysis uptime,attack:2878,skill_1:2481,skill_2:1235,s2_paralysis:189,skill_3:1236
