@@ -299,7 +299,7 @@
 14901,_c_Ezelith,5*,flame,dagger,6131,[Twinfold_Bonds+Levins_Champion][Arctos][Agito],!<hit15 & hp70>,,attack:6493,force_strike:732,skill_1:7680,team_buff:585
 13233,Sazanka,4*,shadow,axe,5128,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi][Agito],<hp70 & 80 sleep res>,,attack:3541,force_strike:395,fs_boost:67,skill_1:5120,s1_bleed:4430
 12441,_c_Sazanka,4*,shadow,axe,4627,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi][Agito],!<hp70 & 80 sleep res>,,attack:3181,force_strike:356,fs_boost:61,skill_1:4578,s1_bleed:4551
-11894,Mega_Man,5*,flame,wand,6281,[Primal_Crisis+Dear_Diary][Cerberus][Agito],<hp30 every 180s & hit15>,16 hits leaf shield (max 32 hits),attack:13083
-9448,_c_Mega_Man,5*,flame,wand,6281,[Primal_Crisis+Dear_Diary][Cerberus][Agito],!<hp30 every 180s & hit15>,16 hits leaf shield (max 32 hits),attack:10392
+11880,Mega_Man,5*,flame,wand,6281,[Primal_Crisis+Dear_Diary][Cerberus][Agito],<hp30 every 180s & hit15>,16 hits leaf shield (max 32 hits),attack:6894,o_leaf_shield:5319,o_metal_blade:293
+9448,_c_Mega_Man,5*,flame,wand,6281,[Primal_Crisis+Dear_Diary][Cerberus][Agito],!<hp30 every 180s & hit15>,16 hits leaf shield (max 32 hits),attack:5464,o_leaf_shield:4269,o_metal_blade:211
 14837,Valerio,5*,water,blade,6147,[The_Wyrmclan_Duo+Primal_Crisis][Dragonyule_Jeanne][HDT2],<hp70 & hit15 & 0 frostbite res>,76% frostbite uptime,attack:6187,skill_1:4383,s1_frostbite:413,skill_3:1825,team_buff:1526,team_inspiration:499
 10990,_c_Valerio,5*,water,blade,6147,[The_Wyrmclan_Duo+Primal_Crisis][Dragonyule_Jeanne][HDT2],!<hp70 & hit15 & 0 frostbite res>,,attack:4777,skill_1:2791,s1_frostbite:0,skill_3:1393,team_buff:1527,team_inspiration:499
