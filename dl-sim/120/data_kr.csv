@@ -301,5 +301,5 @@
 10765,_c_Sazanka,4*,shadow,axe,4627,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi][Agito],!<hp70 & 80 sleep res>,,attack:2979,force_strike:342,fs_boost:54,skill_1:4098,s1_bleed:3561
 10950,Mega_Man,5*,flame,wand,6281,[Primal_Crisis+Dear_Diary][Cerberus][Agito],<hp30 every 180s & hit15>,16 hits leaf shield (max 32 hits),attack:12045
 8740,_c_Mega_Man,5*,flame,wand,6281,[Primal_Crisis+Dear_Diary][Cerberus][Agito],!<hp30 every 180s & hit15>,16 hits leaf shield (max 32 hits),attack:9614
-13180,Valerio,5*,water,blade,5085,[Resounding_Rendition+Primal_Crisis][Siren][HDT2],<hp70 & hit15 & 0 frostbite res>,74% frostbite uptime,attack:2379,skill_1:6211,s1_frostbite:467,skill_3:2043,team_buff:1580,team_inspiration:498
-8628,_c_Valerio,5*,water,blade,5085,[Resounding_Rendition+Primal_Crisis][Siren][HDT2],!<hp70 & hit15 & 0 frostbite res>,,attack:1811,skill_1:3258,s1_frostbite:0,skill_3:1573,team_buff:1486,team_inspiration:498
+13575,Valerio,5*,water,blade,6147,[The_Wyrmclan_Duo+Primal_Crisis][Dragonyule_Jeanne][HDT2],<hp70 & hit15 & 0 frostbite res>,74% frostbite uptime,attack:5710,skill_1:3997,s1_frostbite:385,skill_3:1597,team_buff:1434,team_inspiration:449
+10396,_c_Valerio,5*,water,blade,6147,[The_Wyrmclan_Duo+Primal_Crisis][Dragonyule_Jeanne][HDT2],!<hp70 & hit15 & 0 frostbite res>,,attack:4515,skill_1:2646,s1_frostbite:0,skill_3:1346,team_buff:1438,team_inspiration:449
