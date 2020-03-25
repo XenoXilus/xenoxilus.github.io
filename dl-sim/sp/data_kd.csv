@@ -1,4 +1,4 @@
-18281,Xander,5*,water,sword,7359,[Wily_Warriors_Metal_and_Quick+Resounding_Rendition][Siren][HDT2],<hit10 & hp70>,10 stacks striker's strength,attack:2554,force_strike:2296,skill_1:5995,s1_boost:2997,skill_2:2703,skill_3:1966
+17498,Xander,5*,water,sword,7359,[Wily_Warriors_Metal_and_Quick+Resounding_Rendition][Siren][HDT2],<hit10 & hp70>,10 stacks striker's strength,attack:2447,force_strike:2200,skill_1:5736,s1_boost:2868,skill_2:2586,skill_3:1881
 14826,_c_Xander,5*,water,sword,7359,[Wily_Warriors_Metal_and_Quick+Resounding_Rendition][Siren][HDT2],!<hit10 & hp70>,10 stacks striker's strength,attack:2076,force_strike:1867,skill_1:4857,s1_boost:2428,skill_2:2190,skill_3:1592
 19049,Veronica,5*,shadow,wand,15905,[Candy_Couriers+Primal_Crisis][Shinobi][Agito],<hit15 & hp=1>,,attack:3427,force_strike:411,skill_1:15268,team_buff:252
 8612,_c_Veronica,5*,shadow,wand,15905,[Candy_Couriers+Primal_Crisis][Shinobi][Agito],!<hit15 & hp=1>,,attack:2771,force_strike:331,skill_1:5508,team_buff:252
@@ -29,7 +29,7 @@
 19063,_c_Gala_Cleo,5*,shadow,wand,4810,[Candy_Couriers+Jewels_of_the_Sun][Shinobi][Agito],!<hp70 & always in a1>,4 GCleo,attack:4429,force_strike:0,skill_1:13325,skill_2:1710
 14861,Gala_Luca,5*,light,blade,6484,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2],<hit15 & hp70>,7 buff icons from team (buff value not considered); use VC/FitF if HP<70,attack:5106,skill_1:7658,skill_3:2096
 10022,_c_Gala_Luca,5*,light,blade,6484,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2],!<hit15 & hp70>,7 buff icons from team (buff value not considered); use VC/FitF if HP<70,attack:3204,skill_1:5541,skill_3:1276
-1792,Halloween_Lowen,4*,flame,staff,3811,[From_Whence_He_Comes+The_Bridal_Dragon][PopStar_Siren][Agito],<hp60>,hlowen dps <= burn DoT,attack:1950,force_strike:18
+1778,Halloween_Lowen,4*,flame,staff,3811,[From_Whence_He_Comes+The_Bridal_Dragon][PopStar_Siren][Agito],<hp60>,hlowen dps <= burn DoT,attack:1935,force_strike:18
 1707,_c_Halloween_Lowen,4*,flame,staff,3630,[From_Whence_He_Comes+The_Bridal_Dragon][PopStar_Siren][Agito],!<hp60>,hlowen dps <= burn DoT,attack:1858,force_strike:17
 19543,Natalie,5*,shadow,blade,6119,[Heralds_of_Hinomoto+Primal_Crisis][Shinobi][Agito],<hit15 & hp=1>,,attack:4396,skill_1:15146
 9863,_c_Natalie,5*,shadow,blade,6119,[Heralds_of_Hinomoto+Primal_Crisis][Shinobi][Agito],!<hit15 & hp=1>,,attack:3638,skill_1:6224
