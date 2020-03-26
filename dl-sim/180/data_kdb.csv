@@ -57,8 +57,8 @@
 16803,Emma,4*,flame,lance,6035,[Castle_Cheer_Corps+From_Whence_He_Comes][Dreadking_Rathalos][Agito],<buff all team>,,attack:4419,force_strike:843,team_buff:11941
 4862,_c_Emma,4*,flame,lance,6035,[Castle_Cheer_Corps+From_Whence_He_Comes][Dreadking_Rathalos][Agito],!<buff all team>,,attack:4419,force_strike:843
 11146,Erik,3*,shadow,axe,7005,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito],<>,,attack:4470,force_strike:760,skill_1:4418,skill_2:1902
-18489,Euden,4*,flame,sword,6258,[The_Shining_Overlord+Elegant_Escort][Dreadking_Rathalos][Agito],<0 burn res>,75% burn uptime,attack:2841,force_strike:2070,skill_1:4102,s1_burn:843,skill_2:1986,team_buff:473,dx:5265,ds_burn:307,ds:855
-14510,_c_Euden,4*,flame,sword,6258,[The_Shining_Overlord+Elegant_Escort][Dreadking_Rathalos][Agito],!<0 burn res>,,attack:2345,force_strike:1720,skill_1:3511,s1_burn:0,skill_2:1627,team_buff:473,dx:4358,ds:686
+14205,Euden,4*,flame,sword,6258,[The_Shining_Overlord+Elegant_Escort][Dreadking_Rathalos][Agito],<0 burn res>,77% burn uptime,attack:3315,force_strike:2416,skill_1:4926,s1_burn:937,skill_2:2226,team_buff:683
+11114,_c_Euden,4*,flame,sword,6258,[The_Shining_Overlord+Elegant_Escort][Dreadking_Rathalos][Agito],!<0 burn res>,,attack:2707,force_strike:1990,skill_1:4183,s1_burn:0,skill_2:1795,team_buff:683
 7761,Fjorm,5*,water,lance,6562,[Resounding_Rendition+Beautiful_Nothingness][Siren][HDT2],<hp70>,,attack:1579,force_strike:80,skill_1:3025,skill_2:1853,skill_3:868,team_buff:496
 6882,_c_Fjorm,5*,water,lance,6057,[Resounding_Rendition+Beautiful_Nothingness][Siren][HDT2],!<hp70>,,attack:1388,force_strike:71,skill_1:2659,skill_2:1629,skill_3:763,team_buff:496
 14877,Fleur,4*,light,dagger,5851,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2],<hp70 & hit15 & hp100 & 0 paralysis res>,c4fs; 84% paralysis uptime,attack:3705,force_strike:705,skill_1:6830,s1_paralysis:1999,skill_3:1972
