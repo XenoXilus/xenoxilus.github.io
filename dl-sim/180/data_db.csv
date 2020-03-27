@@ -292,6 +292,8 @@
 3443,_c_Tobias,5*,wind,blade,3832,[Castle_Cheer_Corps+A_Dogs_Day][Freyja][HDT2],!<buff all team>,,attack:3443
 6842,Templar_Hope,4*,wind,sword,5750,[Resounding_Rendition+Brothers_in_Arms][AC011_Garland][HDT2],<maintain shield & hp60 & hp70>,,attack:2242,force_strike:1371,skill_2:1850,skill_3:1377
 5271,_c_Templar_Hope,4*,wind,sword,5476,[Resounding_Rendition+Brothers_in_Arms][AC011_Garland][HDT2],!<maintain shield & hp60 & hp70>,,attack:1728,force_strike:1056,skill_2:1422,skill_3:1063
+35233,Gala_Alex,5*,shadow,sword,5161,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito],<hp100 & 0 poison res>,no bk bonus in sim; 86% poison uptime,attack:4801,force_strike:957,skill_1:26166,skill_2:1584,s2_poison:713,team_buff:1009
+9072,_c_Gala_Alex,5*,shadow,sword,4587,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito],!<hp100 & 0 poison res>,no bk bonus in sim,attack:2024,force_strike:380,skill_2:6667,s2_poison:0
 11927,Victor,5*,wind,blade,6048,[Heralds_of_Hinomoto+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,,attack:1924,skill_1:3449,s1_bleed:4270,skill_2:1161,skill_3:1120
 10630,_c_Victor,5*,wind,blade,5075,[Heralds_of_Hinomoto+Jewels_of_the_Sun][Vayu][HDT2],!<hp70>,,attack:1605,skill_1:2873,s1_bleed:4220,skill_2:965,skill_3:965
 9945,Summer_Cleo,5*,light,bow,5322,[Forest_Bonds+Dear_Diary][Corsaint_Phoenix][HDT2],<buff all team & hp30 every 180s & 0 paralysis res>,nofs; 81% paralysis uptime,attack:2551,s1_big_missile:2015,s1_boost:989,s1_missile:1185,s1_paralysis:803,skill_3:1309,team_buff:1090
