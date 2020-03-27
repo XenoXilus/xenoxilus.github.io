@@ -292,7 +292,7 @@
 3221,_c_Tobias,5*,wind,blade,3832,[Castle_Cheer_Corps+A_Dogs_Day][Freyja][HDT2],!<buff all team>,,attack:3220
 7064,Templar_Hope,4*,wind,sword,5750,[Resounding_Rendition+Brothers_in_Arms][AC011_Garland][HDT2],<maintain shield & hp60 & hp70>,,attack:2546,force_strike:1416,skill_2:1910,skill_3:1422
 5424,_c_Templar_Hope,4*,wind,sword,5476,[Resounding_Rendition+Brothers_in_Arms][AC011_Garland][HDT2],!<maintain shield & hp60 & hp70>,,attack:1956,force_strike:1086,skill_2:1463,skill_3:1094
-36224,Gala_Alex,5*,shadow,sword,5161,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito],<hp100 & 0 poison res>,no bk bonus in sim; 86% poison uptime,attack:5434,force_strike:984,skill_1:26924,skill_2:1630,s2_poison:734,team_buff:1009
+35779,Gala_Alex,5*,shadow,sword,5161,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito],<hp100 & 0 poison res>,no bk bonus in sim; 86% poison uptime,attack:5404,force_strike:961,skill_1:26550,skill_2:1632,s2_poison:725,team_buff:996
 9335,_c_Gala_Alex,5*,shadow,sword,4587,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito],!<hp100 & 0 poison res>,no bk bonus in sim,attack:2291,force_strike:391,skill_2:6860,s2_poison:0
 11150,Victor,5*,wind,blade,6048,[Heralds_of_Hinomoto+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,,attack:1801,skill_1:3228,s1_bleed:3988,skill_2:1085,skill_3:1045
 9041,_c_Victor,5*,wind,blade,5075,[Heralds_of_Hinomoto+Jewels_of_the_Sun][Vayu][HDT2],!<hp70>,,attack:1504,skill_1:2684,s1_bleed:3048,skill_2:901,skill_3:901
