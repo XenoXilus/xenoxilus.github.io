@@ -292,8 +292,8 @@
 2901,_c_Tobias,5*,wind,blade,3832,[Castle_Cheer_Corps+A_Dogs_Day][Freyja][HDT2],!<buff all team>,,attack:2901
 7274,Templar_Hope,4*,wind,sword,5750,[Resounding_Rendition+Brothers_in_Arms][AC011_Garland][HDT2],<maintain shield & hp60 & hp70>,,attack:2468,force_strike:1372,skill_2:1962,skill_3:1695
 5726,_c_Templar_Hope,4*,wind,sword,5476,[Resounding_Rendition+Brothers_in_Arms][AC011_Garland][HDT2],!<maintain shield & hp60 & hp70>,,attack:1949,force_strike:1080,skill_2:1536,skill_3:1337
-39335,Gala_Alex,5*,shadow,sword,5161,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito],<hp100 & 0 poison res>,no bk bonus in sim; s2 c4fs [s1 c4fs]*5, use s1/s2 only when charge>=2; 96% poison uptime,attack:5579,force_strike:1459,skill_1:27488,skill_2:3060,s2_poison:1296,team_buff:957
-15096,_c_Gala_Alex,5*,shadow,sword,4587,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito],!<hp100 & 0 poison res>,no bk bonus in sim; s2 c4fs [s1 c4fs]*5, use s1/s2 only when charge>=2,attack:2191,force_strike:579,skill_2:12524,s2_poison:0
+39335,Gala_Alex,5*,shadow,sword,5161,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito],<hp100 & 0 poison res>,no bk bonus in sim; s2 c4fs [s1 c4fs]*5 & use s1/s2 only when charge>=2; 96% poison uptime,attack:5579,force_strike:1459,skill_1:27488,skill_2:3060,s2_poison:1296,team_buff:957
+15096,_c_Gala_Alex,5*,shadow,sword,4587,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito],!<hp100 & 0 poison res>,no bk bonus in sim; s2 c4fs [s1 c4fs]*5 & use s1/s2 only when charge>=2,attack:2191,force_strike:579,skill_2:12524,s2_poison:0
 11596,Victor,5*,wind,blade,6048,[Heralds_of_Hinomoto+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,,attack:1869,skill_1:3656,s1_bleed:3659,skill_2:1227,skill_3:1182
 10092,_c_Victor,5*,wind,blade,5075,[Heralds_of_Hinomoto+Jewels_of_the_Sun][Vayu][HDT2],!<hp70>,,attack:1591,skill_1:3065,s1_bleed:3376,skill_2:1029,skill_3:1029
 10676,Summer_Cleo,5*,light,bow,5322,[Forest_Bonds+Dear_Diary][Corsaint_Phoenix][HDT2],<buff all team & hp30 every 180s & 0 paralysis res>,nofs; 86% paralysis uptime,attack:3062,s1_big_missile:2345,s1_boost:888,s1_missile:1381,s1_paralysis:1009,skill_3:1434,team_buff:831
