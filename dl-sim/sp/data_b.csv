@@ -13,6 +13,8 @@
 9136,_c_Kirsty,5*,wind,lance,5673,[Resounding_Rendition+The_Fires_of_Hate][AC011_Garland][HDT2],!<maintain shield & hp60 & hp70 & hp100 & maintain Dauntless Strength>,100% poison uptime,attack:2892,skill_1:3212,skill_3:1031,simulated_poison:0,team_buff:1999
 26366,Curran,5*,shadow,axe,8903,[Kung_Fu_Masters+The_Fires_of_Hate][Shinobi][Agito],<last offense & hp100>,100% poison uptime,attack:4647,skill_1:13453,skill_2:7002,simulated_poison:0,team_buff:1263
 22764,_c_Curran,5*,shadow,axe,4946,[Kung_Fu_Masters+The_Fires_of_Hate][Shinobi][Agito],!<last offense & hp100>,100% poison uptime,attack:3941,skill_1:11657,skill_2:5902,simulated_poison:0,team_buff:1263
+22101,Erik,3*,shadow,axe,5935,[Kung_Fu_Masters+The_Fires_of_Hate][Shinobi][Agito],<hp100>,100% poison uptime,attack:3503,force_strike:595,skill_1:11871,skill_2:6129,simulated_poison:0
+19645,_c_Erik,3*,shadow,axe,5276,[Kung_Fu_Masters+The_Fires_of_Hate][Shinobi][Agito],!<hp100>,100% poison uptime,attack:3113,force_strike:529,skill_1:10552,skill_2:5448,simulated_poison:0
 23316,Lathna,5*,shadow,lance,5452,[Resounding_Rendition+The_Fires_of_Hate][Shinobi][Agito],<hp70 & hp100>,99% poison uptime,attack:2105,skill_1:10688,skill_2:4942,simulated_poison:0,dx:3890,ds_poison:482,ds:1206
 19640,_c_Lathna,5*,shadow,lance,4846,[Resounding_Rendition+The_Fires_of_Hate][Shinobi][Agito],!<hp70 & hp100>,99% poison uptime,attack:1774,skill_1:9003,skill_2:4163,simulated_poison:0,dx:3276,ds_poison:406,ds:1016
 12318,Audric,4*,shadow,sword,4901,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi][Agito],<hp70>,,attack:1492,force_strike:454,skill_1:3277,skill_2:1443,team_energy:693,dx:3469,ds:1487
