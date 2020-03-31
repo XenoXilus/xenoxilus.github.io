@@ -8,8 +8,8 @@
 8573,_c_Alex,4*,shadow,dagger,6715,[Twinfold_Bonds+The_Plaguebringer][Fatalis][Agito],!<hp100 & hit15 & 0 poison res>,not consider bk boost of her s2,attack:2923,force_strike:379,skill_1:3594,s1_poison:0,skill_2:1341,team_buff:600
 10455,Alfonse,5*,light,sword,8854,[The_Shining_Overlord+Jewels_of_the_Sun][Cupid][HDT2],<last offense & hp60 & hp70>,,attack:2858,force_strike:1067,skill_1:3403,skill_2:1891,skill_3:1492
 8728,_c_Alfonse,5*,light,sword,5980,[The_Shining_Overlord+Jewels_of_the_Sun][Cupid][HDT2],!<last offense & hp60 & hp70>,,attack:2386,force_strike:889,skill_1:2856,skill_2:1588,skill_3:1222
-11310,Althemia,3*,shadow,wand,7105,[Candy_Couriers+Primal_Crisis][Fatalis][Agito],<hp100 & hit15>,,attack:4046,skill_1:5041,skill_2:2591
-8465,_c_Althemia,3*,shadow,wand,7105,[Candy_Couriers+Primal_Crisis][Fatalis][Agito],!<hp100 & hit15>,,attack:3466,skill_1:3509,skill_2:1803
+29509,Althemia,3*,shadow,wand,8015,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito],<hp100 & 0 poison res>,88% poison uptime,attack:6312,skill_1:13270,s1_poison:1466,skill_2:9033
+15956,_c_Althemia,3*,shadow,wand,7399,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito],!<hp100 & 0 poison res>,,attack:4960,skill_1:7904,s1_poison:0,skill_2:3541
 10008,Amane,4*,light,wand,6315,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2],<hit15>,,attack:3882,skill_1:4762,skill_3:1716
 7477,_c_Amane,4*,light,wand,6315,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2],!<hit15>,,attack:2888,skill_1:3600,skill_3:1249
 8494,Annelie,5*,light,lance,6512,[Resounding_Rendition+Beautiful_Nothingness][Cupid][HDT2],<hp70>,1121,attack:2371,force_strike:321,skill_1:3404,skill_2:1088,skill_3:1195,team_energy:328
@@ -56,7 +56,7 @@
 14026,_c_Elisanne,4*,water,lance,3777,[Beach_Battle+From_Whence_He_Comes][Halloween_Maritimus][HDT2],!<hp60>,no s2 or s3,attack:2941,team_buff:11351
 15231,Emma,4*,flame,lance,6035,[Castle_Cheer_Corps+From_Whence_He_Comes][Dreadking_Rathalos][Agito],<buff all team>,,attack:4179,force_strike:923,team_buff:10507
 4723,_c_Emma,4*,flame,lance,6035,[Castle_Cheer_Corps+From_Whence_He_Comes][Dreadking_Rathalos][Agito],!<buff all team>,,attack:4179,force_strike:923
-11261,Erik,3*,shadow,axe,7005,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito],<>,,attack:4504,force_strike:787,skill_1:4602,skill_2:1776
+16212,Erik,3*,shadow,axe,7282,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito],<>,,attack:5150,force_strike:818,skill_1:7315,skill_2:3396
 16040,Euden,4*,flame,sword,6258,[The_Shining_Overlord+Elegant_Escort][Dreadking_Rathalos][Agito],<0 burn res>,92% burn uptime,attack:3429,force_strike:2481,skill_1:5580,s1_burn:1441,skill_2:2801,team_buff:617
 11671,_c_Euden,4*,flame,sword,6258,[The_Shining_Overlord+Elegant_Escort][Dreadking_Rathalos][Agito],!<0 burn res>,,attack:2703,force_strike:1963,skill_1:4468,s1_burn:0,skill_2:2163,team_buff:617
 10343,Fjorm,5*,water,lance,6562,[Resounding_Rendition+Beautiful_Nothingness][Siren][HDT2],<hp70>,,attack:1515,force_strike:40,skill_1:3702,skill_2:2433,skill_3:1299,team_buff:1488
@@ -215,8 +215,8 @@
 10727,_c_Vanessa,4*,flame,axe,6235,[Kung_Fu_Masters+Mega_Friends][Dreadking_Rathalos][Agito],!<last offense & hp60>,,attack:3793,force_strike:1094,skill_1:4563,skill_2:1271,team_buff:348
 14194,Veronica,5*,shadow,wand,15905,[Candy_Couriers+Primal_Crisis][Shinobi][Agito],<hit15 & hp=80%>,,attack:2708,force_strike:482,skill_1:7002,skill_2:3488,team_buff:756
 11577,_c_Veronica,5*,shadow,wand,15905,[Candy_Couriers+Primal_Crisis][Shinobi][Agito],!<hit15 & hp=80%>,,attack:2205,force_strike:388,skill_1:5503,skill_2:2922,team_buff:756
-9752,Vice,3*,shadow,dagger,6874,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],<hit15>,,attack:3619,force_strike:455,skill_1:4479,skill_2:1526
-8246,_c_Vice,3*,shadow,dagger,6874,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],!<hit15>,,attack:3083,force_strike:390,skill_1:3767,skill_2:1284
+30667,Vice,3*,shadow,dagger,4866,[Twinfold_Bonds+The_Plaguebringer][Shinobi][Agito],<hit15 & 0 poison res>,71% poison uptime,attack:3366,force_strike:197,fs_poison:274,skill_1:19209,skill_2:7925
+16779,_c_Vice,3*,shadow,dagger,4866,[Twinfold_Bonds+The_Plaguebringer][Shinobi][Agito],!<hit15 & 0 poison res>,,attack:2562,force_strike:151,fs_poison:0,skill_1:10044,skill_2:4253
 9438,Vida,3*,shadow,dagger,6674,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],<hit15>,,attack:4212,force_strike:796,skill_1:4812
 7983,_c_Vida,3*,shadow,dagger,6674,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],!<hit15>,,attack:3581,force_strike:679,skill_1:4047
 9026,Wedding_Aoi,5*,wind,dagger,5337,[Twinfold_Bonds+Levins_Champion][AC011_Garland][HDT2],<big hitbox & maintain shield & hit15 & hp70 & 80 sleep res>,,attack:2452,force_strike:141,skill_1:3587,s1_hit1:525,s1_hit2:537,s1_hit3:537,s1_hit4:537,skill_3:513,team_buff:415
