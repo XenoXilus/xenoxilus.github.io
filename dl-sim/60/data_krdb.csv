@@ -252,8 +252,8 @@
 7408,_c_Hanabusa,4*,light,blade,6651,[Resounding_Rendition+Jewels_of_the_Sun][Cupid][HDT2],!<hp70>,,attack:2513,skill_1:3190,skill_3:955,team_buff:749
 17442,Mitsuhide,5*,light,dagger,5896,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2],<hit15 & hp100 & 0 paralysis res>,91% paralysis uptime,attack:4159,force_strike:774,skill_1:4927,s1_paralysis:1489,skill_2:4107,skill_3:2362
 7656,_c_Mitsuhide,5*,light,dagger,5711,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2],!<hit15 & hp100 & 0 paralysis res>,,attack:2077,force_strike:397,skill_1:2324,s1_paralysis:0,skill_2:1929,skill_3:1115
-18251,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3297,force_strike:219,skill_1:4601,s1_boost:7215,skill_2:2917
-12581,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2350,force_strike:156,skill_1:3146,s1_boost:4933,skill_2:1994
+19127,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3297,force_strike:219,skill_1:4601,s1_boost:7215,skill_2:2917,s2_boost:875
+13180,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2350,force_strike:156,skill_1:3146,s1_boost:4933,skill_2:1994,s2_boost:598
 12253,Kirsty,5*,wind,lance,6030,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],<maintain shield & hp60 & hp70 & maintain Dauntless Strength>,no poison,attack:4498,skill_1:5385,skill_3:1777,team_buff:999
 7467,_c_Kirsty,5*,wind,lance,5653,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],!<maintain shield & hp60 & hp70 & maintain Dauntless Strength>,no poison,attack:2636,skill_1:3113,skill_3:956,team_buff:999
 15360,Joachim,4*,wind,bow,5262,[Dear_Diary+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp30 every 180s & hp100 & 0 poison res>,88% poison uptime,attack:3204,skill_1:6339,s1_poison:3042,skill_3:2065,team_buff:999

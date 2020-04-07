@@ -1,144 +1,144 @@
 -,60,_
-13662,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3182,force_strike:348,skill_1:3712,s1_boost:4850,skill_2:1568
-9380,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2251,force_strike:242,skill_1:2522,s1_boost:3296,skill_2:1066
+14255,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3207,force_strike:279,skill_1:3769,s1_boost:4925,skill_2:1593,s2_boost:477
+9784,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2269,force_strike:196,skill_1:2562,s1_boost:3347,skill_2:1082,s2_boost:324
 -,60,k
-13662,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3182,force_strike:348,skill_1:3712,s1_boost:4850,skill_2:1568
-9380,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2251,force_strike:242,skill_1:2522,s1_boost:3296,skill_2:1066
+14255,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3207,force_strike:279,skill_1:3769,s1_boost:4925,skill_2:1593,s2_boost:477
+9784,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2269,force_strike:196,skill_1:2562,s1_boost:3347,skill_2:1082,s2_boost:324
 -,60,r
-15182,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3182,force_strike:348,skill_1:4268,s1_boost:5578,skill_2:1804
-10412,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2251,force_strike:242,skill_1:2901,s1_boost:3791,skill_2:1226
+15870,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3207,force_strike:279,skill_1:4335,s1_boost:5664,skill_2:1832,s2_boost:549
+10881,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2269,force_strike:196,skill_1:2946,s1_boost:3849,skill_2:1245,s2_boost:373
 -,60,kr
-15182,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3182,force_strike:348,skill_1:4268,s1_boost:5578,skill_2:1804
-10412,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2251,force_strike:242,skill_1:2901,s1_boost:3791,skill_2:1226
+15870,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3207,force_strike:279,skill_1:4335,s1_boost:5664,skill_2:1832,s2_boost:549
+10881,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2269,force_strike:196,skill_1:2946,s1_boost:3849,skill_2:1245,s2_boost:373
 -,60,d
-14518,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3382,force_strike:370,skill_1:3944,s1_boost:5153,skill_2:1666
-10027,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2407,force_strike:259,skill_1:2696,s1_boost:3524,skill_2:1139
+15147,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3409,force_strike:297,skill_1:4005,s1_boost:5234,skill_2:1692,s2_boost:507
+10459,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2426,force_strike:209,skill_1:2738,s1_boost:3578,skill_2:1157,s2_boost:347
 -,60,kd
-14518,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3382,force_strike:370,skill_1:3944,s1_boost:5153,skill_2:1666
-10027,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2407,force_strike:259,skill_1:2696,s1_boost:3524,skill_2:1139
+15147,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3409,force_strike:297,skill_1:4005,s1_boost:5234,skill_2:1692,s2_boost:507
+10459,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2426,force_strike:209,skill_1:2738,s1_boost:3578,skill_2:1157,s2_boost:347
 -,60,rd
-16133,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3382,force_strike:370,skill_1:4535,s1_boost:5927,skill_2:1917
-11131,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2407,force_strike:259,skill_1:3101,s1_boost:4052,skill_2:1310
+16863,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3409,force_strike:297,skill_1:4606,s1_boost:6019,skill_2:1946,s2_boost:584
+11632,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2426,force_strike:209,skill_1:3149,s1_boost:4115,skill_2:1331,s2_boost:399
 -,60,krd
-16133,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3382,force_strike:370,skill_1:4535,s1_boost:5927,skill_2:1917
-11131,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2407,force_strike:259,skill_1:3101,s1_boost:4052,skill_2:1310
+16863,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3409,force_strike:297,skill_1:4606,s1_boost:6019,skill_2:1946,s2_boost:584
+11632,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2426,force_strike:209,skill_1:3149,s1_boost:4115,skill_2:1331,s2_boost:399
 -,60,b
-15367,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3102,force_strike:206,skill_1:3766,s1_boost:5905,skill_2:2387
-10540,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2198,force_strike:145,skill_1:2559,s1_boost:4013,skill_2:1622
+16083,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3102,force_strike:206,skill_1:3766,s1_boost:5905,skill_2:2387,s2_boost:716
+11026,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2198,force_strike:145,skill_1:2559,s1_boost:4013,skill_2:1622,s2_boost:486
 -,60,kb
-15367,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3102,force_strike:206,skill_1:3766,s1_boost:5905,skill_2:2387
-10540,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2198,force_strike:145,skill_1:2559,s1_boost:4013,skill_2:1622
+16083,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3102,force_strike:206,skill_1:3766,s1_boost:5905,skill_2:2387,s2_boost:716
+11026,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2198,force_strike:145,skill_1:2559,s1_boost:4013,skill_2:1622,s2_boost:486
 -,60,rb
-17176,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3102,force_strike:206,skill_1:4330,s1_boost:6791,skill_2:2745
-11769,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2198,force_strike:145,skill_1:2943,s1_boost:4615,skill_2:1865
+18000,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3102,force_strike:206,skill_1:4330,s1_boost:6791,skill_2:2745,s2_boost:823
+12329,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2198,force_strike:145,skill_1:2943,s1_boost:4615,skill_2:1865,s2_boost:559
 -,60,krb
-17176,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3102,force_strike:206,skill_1:4330,s1_boost:6791,skill_2:2745
-11769,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2198,force_strike:145,skill_1:2943,s1_boost:4615,skill_2:1865
+18000,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3102,force_strike:206,skill_1:4330,s1_boost:6791,skill_2:2745,s2_boost:823
+12329,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2198,force_strike:145,skill_1:2943,s1_boost:4615,skill_2:1865,s2_boost:559
 -,60,db
-16330,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3297,force_strike:219,skill_1:4001,s1_boost:6274,skill_2:2536
-11267,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2350,force_strike:156,skill_1:2736,s1_boost:4290,skill_2:1734
+17091,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3297,force_strike:219,skill_1:4001,s1_boost:6274,skill_2:2536,s2_boost:761
+11788,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2350,force_strike:156,skill_1:2736,s1_boost:4290,skill_2:1734,s2_boost:520
 -,60,kdb
-16330,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3297,force_strike:219,skill_1:4001,s1_boost:6274,skill_2:2536
-11267,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2350,force_strike:156,skill_1:2736,s1_boost:4290,skill_2:1734
+17091,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3297,force_strike:219,skill_1:4001,s1_boost:6274,skill_2:2536,s2_boost:761
+11788,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2350,force_strike:156,skill_1:2736,s1_boost:4290,skill_2:1734,s2_boost:520
 -,60,rdb
-18251,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3297,force_strike:219,skill_1:4601,s1_boost:7215,skill_2:2917
-12581,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2350,force_strike:156,skill_1:3146,s1_boost:4933,skill_2:1994
+19127,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3297,force_strike:219,skill_1:4601,s1_boost:7215,skill_2:2917,s2_boost:875
+13180,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2350,force_strike:156,skill_1:3146,s1_boost:4933,skill_2:1994,s2_boost:598
 -,60,krdb
-18251,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3297,force_strike:219,skill_1:4601,s1_boost:7215,skill_2:2917
-12581,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2350,force_strike:156,skill_1:3146,s1_boost:4933,skill_2:1994
+19127,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3297,force_strike:219,skill_1:4601,s1_boost:7215,skill_2:2917,s2_boost:875
+13180,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2350,force_strike:156,skill_1:3146,s1_boost:4933,skill_2:1994,s2_boost:598
 -,120,_
-15246,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3273,force_strike:359,skill_1:3750,s1_boost:5881,skill_2:1981
-10409,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2269,force_strike:247,skill_1:2549,s1_boost:3997,skill_2:1346
+15296,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3321,force_strike:249,skill_1:3753,s1_boost:5394,skill_2:1982,s2_boost:594
+10444,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2301,force_strike:172,skill_1:2550,s1_boost:3666,skill_2:1347,s2_boost:404
 -,120,k
-15246,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3273,force_strike:359,skill_1:3750,s1_boost:5881,skill_2:1981
-10409,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2269,force_strike:247,skill_1:2549,s1_boost:3997,skill_2:1346
+15296,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3321,force_strike:249,skill_1:3753,s1_boost:5394,skill_2:1982,s2_boost:594
+10444,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2301,force_strike:172,skill_1:2550,s1_boost:3666,skill_2:1347,s2_boost:404
 -,120,r
-16988,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3273,force_strike:359,skill_1:4313,s1_boost:6763,skill_2:2278
-11593,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2269,force_strike:247,skill_1:2931,s1_boost:4596,skill_2:1548
+17055,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3321,force_strike:249,skill_1:4316,s1_boost:6204,skill_2:2280,s2_boost:684
+11639,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2301,force_strike:172,skill_1:2933,s1_boost:4216,skill_2:1549,s2_boost:464
 -,120,kr
-16988,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3273,force_strike:359,skill_1:4313,s1_boost:6763,skill_2:2278
-11593,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2269,force_strike:247,skill_1:2931,s1_boost:4596,skill_2:1548
+17055,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3321,force_strike:249,skill_1:4316,s1_boost:6204,skill_2:2280,s2_boost:684
+11639,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2301,force_strike:172,skill_1:2933,s1_boost:4216,skill_2:1549,s2_boost:464
 -,120,d
-16200,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3478,force_strike:381,skill_1:3985,s1_boost:6249,skill_2:2105
-11128,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2426,force_strike:264,skill_1:2725,s1_boost:4272,skill_2:1439
+16254,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3529,force_strike:265,skill_1:3988,s1_boost:5732,skill_2:2106,s2_boost:632
+11164,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2460,force_strike:184,skill_1:2726,s1_boost:3919,skill_2:1440,s2_boost:432
 -,120,kd
-16200,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3478,force_strike:381,skill_1:3985,s1_boost:6249,skill_2:2105
-11128,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2426,force_strike:264,skill_1:2725,s1_boost:4272,skill_2:1439
+16254,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3529,force_strike:265,skill_1:3988,s1_boost:5732,skill_2:2106,s2_boost:632
+11164,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2460,force_strike:184,skill_1:2726,s1_boost:3919,skill_2:1440,s2_boost:432
 -,120,rd
-18051,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3478,force_strike:381,skill_1:4583,s1_boost:7186,skill_2:2421
-12394,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2426,force_strike:264,skill_1:3133,s1_boost:4913,skill_2:1655
+18123,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3529,force_strike:265,skill_1:4586,s1_boost:6592,skill_2:2422,s2_boost:726
+12442,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2460,force_strike:184,skill_1:3136,s1_boost:4507,skill_2:1656,s2_boost:497
 -,120,krd
-18051,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3478,force_strike:381,skill_1:4583,s1_boost:7186,skill_2:2421
-12394,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2426,force_strike:264,skill_1:3133,s1_boost:4913,skill_2:1655
+18123,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3529,force_strike:265,skill_1:4586,s1_boost:6592,skill_2:2422,s2_boost:726
+12442,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2460,force_strike:184,skill_1:3136,s1_boost:4507,skill_2:1656,s2_boost:497
 -,120,b
-15492,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3222,force_strike:213,skill_1:3764,s1_boost:5903,skill_2:2386
-10576,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2235,force_strike:147,skill_1:2558,s1_boost:4012,skill_2:1622
+16208,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3222,force_strike:213,skill_1:3764,s1_boost:5903,skill_2:2386,s2_boost:716
+11063,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2235,force_strike:147,skill_1:2558,s1_boost:4012,skill_2:1622,s2_boost:486
 -,120,kb
-15492,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3222,force_strike:213,skill_1:3764,s1_boost:5903,skill_2:2386
-10576,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2235,force_strike:147,skill_1:2558,s1_boost:4012,skill_2:1622
+16208,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3222,force_strike:213,skill_1:3764,s1_boost:5903,skill_2:2386,s2_boost:716
+11063,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2235,force_strike:147,skill_1:2558,s1_boost:4012,skill_2:1622,s2_boost:486
 -,120,rb
-17300,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3222,force_strike:213,skill_1:4329,s1_boost:6789,skill_2:2744
-11805,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2235,force_strike:147,skill_1:2942,s1_boost:4614,skill_2:1865
+18123,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3222,force_strike:213,skill_1:4329,s1_boost:6789,skill_2:2744,s2_boost:823
+12365,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2235,force_strike:147,skill_1:2942,s1_boost:4614,skill_2:1865,s2_boost:559
 -,120,krb
-17300,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3222,force_strike:213,skill_1:4329,s1_boost:6789,skill_2:2744
-11805,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2235,force_strike:147,skill_1:2942,s1_boost:4614,skill_2:1865
+18123,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3222,force_strike:213,skill_1:4329,s1_boost:6789,skill_2:2744,s2_boost:823
+12365,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2235,force_strike:147,skill_1:2942,s1_boost:4614,skill_2:1865,s2_boost:559
 -,120,db
-16461,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3424,force_strike:226,skill_1:4000,s1_boost:6272,skill_2:2536
-11306,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2389,force_strike:158,skill_1:2735,s1_boost:4289,skill_2:1734
+17222,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3424,force_strike:226,skill_1:4000,s1_boost:6272,skill_2:2536,s2_boost:760
+11827,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2389,force_strike:158,skill_1:2735,s1_boost:4289,skill_2:1734,s2_boost:520
 -,120,kdb
-16461,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3424,force_strike:226,skill_1:4000,s1_boost:6272,skill_2:2536
-11306,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2389,force_strike:158,skill_1:2735,s1_boost:4289,skill_2:1734
+17222,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3424,force_strike:226,skill_1:4000,s1_boost:6272,skill_2:2536,s2_boost:760
+11827,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2389,force_strike:158,skill_1:2735,s1_boost:4289,skill_2:1734,s2_boost:520
 -,120,rdb
-18383,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3424,force_strike:226,skill_1:4600,s1_boost:7213,skill_2:2916
-12620,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2389,force_strike:158,skill_1:3145,s1_boost:4932,skill_2:1994
+19258,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3424,force_strike:226,skill_1:4600,s1_boost:7213,skill_2:2916,s2_boost:874
+13219,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2389,force_strike:158,skill_1:3145,s1_boost:4932,skill_2:1994,s2_boost:598
 -,120,krdb
-18383,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3424,force_strike:226,skill_1:4600,s1_boost:7213,skill_2:2916
-12620,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2389,force_strike:158,skill_1:3145,s1_boost:4932,skill_2:1994
+19258,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3424,force_strike:226,skill_1:4600,s1_boost:7213,skill_2:2916,s2_boost:874
+13219,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2389,force_strike:158,skill_1:3145,s1_boost:4932,skill_2:1994,s2_boost:598
 -,180,_
-15437,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3306,force_strike:350,skill_1:3761,s1_boost:5898,skill_2:2119
-10523,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2276,force_strike:240,skill_1:2556,s1_boost:4008,skill_2:1440
+15991,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3367,force_strike:251,skill_1:3748,s1_boost:5877,skill_2:2112,s2_boost:633
+10900,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2318,force_strike:172,skill_1:2547,s1_boost:3994,skill_2:1435,s2_boost:430
 -,180,k
-15437,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3306,force_strike:350,skill_1:3761,s1_boost:5898,skill_2:2119
-10523,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2276,force_strike:240,skill_1:2556,s1_boost:4008,skill_2:1440
+15991,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3367,force_strike:251,skill_1:3748,s1_boost:5877,skill_2:2112,s2_boost:633
+10900,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2318,force_strike:172,skill_1:2547,s1_boost:3994,skill_2:1435,s2_boost:430
 -,180,r
-17204,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3306,force_strike:350,skill_1:4325,s1_boost:6783,skill_2:2437
-11724,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2276,force_strike:240,skill_1:2940,s1_boost:4610,skill_2:1656
+17847,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3367,force_strike:251,skill_1:4310,s1_boost:6759,skill_2:2429,s2_boost:728
+12161,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2318,force_strike:172,skill_1:2929,s1_boost:4593,skill_2:1650,s2_boost:495
 -,180,kr
-17204,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3306,force_strike:350,skill_1:4325,s1_boost:6783,skill_2:2437
-11724,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2276,force_strike:240,skill_1:2940,s1_boost:4610,skill_2:1656
+17847,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3367,force_strike:251,skill_1:4310,s1_boost:6759,skill_2:2429,s2_boost:728
+12161,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2318,force_strike:172,skill_1:2929,s1_boost:4593,skill_2:1650,s2_boost:495
 -,180,d
-16403,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3513,force_strike:372,skill_1:3997,s1_boost:6267,skill_2:2252
-11250,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2434,force_strike:256,skill_1:2733,s1_boost:4285,skill_2:1540
+16992,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3578,force_strike:267,skill_1:3983,s1_boost:6245,skill_2:2244,s2_boost:673
+11652,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2478,force_strike:184,skill_1:2723,s1_boost:4270,skill_2:1534,s2_boost:460
 -,180,kd
-16403,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3513,force_strike:372,skill_1:3997,s1_boost:6267,skill_2:2252
-11250,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2434,force_strike:256,skill_1:2733,s1_boost:4285,skill_2:1540
+16992,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3578,force_strike:267,skill_1:3983,s1_boost:6245,skill_2:2244,s2_boost:673
+11652,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2478,force_strike:184,skill_1:2723,s1_boost:4270,skill_2:1534,s2_boost:460
 -,180,rd
-18280,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3513,force_strike:372,skill_1:4596,s1_boost:7207,skill_2:2590
-12533,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2434,force_strike:256,skill_1:3143,s1_boost:4928,skill_2:1771
+18964,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3578,force_strike:267,skill_1:4580,s1_boost:7182,skill_2:2581,s2_boost:774
+13001,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2478,force_strike:184,skill_1:3132,s1_boost:4911,skill_2:1764,s2_boost:529
 -,180,krd
-18280,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3513,force_strike:372,skill_1:4596,s1_boost:7207,skill_2:2590
-12533,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2434,force_strike:256,skill_1:3143,s1_boost:4928,skill_2:1771
+18964,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3578,force_strike:267,skill_1:4580,s1_boost:7182,skill_2:2581,s2_boost:774
+13001,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2478,force_strike:184,skill_1:3132,s1_boost:4911,skill_2:1764,s2_boost:529
 -,180,b
-15573,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3272,force_strike:228,skill_1:3770,s1_boost:5911,skill_2:2390
-10616,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2254,force_strike:157,skill_1:2562,s1_boost:4017,skill_2:1624
+16290,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3272,force_strike:228,skill_1:3770,s1_boost:5911,skill_2:2390,s2_boost:717
+11103,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2254,force_strike:157,skill_1:2562,s1_boost:4017,skill_2:1624,s2_boost:487
 -,180,kb
-15573,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3272,force_strike:228,skill_1:3770,s1_boost:5911,skill_2:2390
-10616,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2254,force_strike:157,skill_1:2562,s1_boost:4017,skill_2:1624
+16290,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3272,force_strike:228,skill_1:3770,s1_boost:5911,skill_2:2390,s2_boost:717
+11103,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2254,force_strike:157,skill_1:2562,s1_boost:4017,skill_2:1624,s2_boost:487
 -,180,rb
-17384,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3272,force_strike:228,skill_1:4335,s1_boost:6798,skill_2:2748
-11846,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2254,force_strike:157,skill_1:2946,s1_boost:4620,skill_2:1868
+18208,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3272,force_strike:228,skill_1:4335,s1_boost:6798,skill_2:2748,s2_boost:824
+12407,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2254,force_strike:157,skill_1:2946,s1_boost:4620,skill_2:1868,s2_boost:560
 -,180,krb
-17384,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3272,force_strike:228,skill_1:4335,s1_boost:6798,skill_2:2748
-11846,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2254,force_strike:157,skill_1:2946,s1_boost:4620,skill_2:1868
+18208,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3272,force_strike:228,skill_1:4335,s1_boost:6798,skill_2:2748,s2_boost:824
+12407,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2254,force_strike:157,skill_1:2946,s1_boost:4620,skill_2:1868,s2_boost:560
 -,180,db
-16548,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3477,force_strike:242,skill_1:4006,s1_boost:6281,skill_2:2539
-11349,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2409,force_strike:168,skill_1:2739,s1_boost:4295,skill_2:1736
+17309,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3477,force_strike:242,skill_1:4006,s1_boost:6281,skill_2:2539,s2_boost:761
+11870,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2409,force_strike:168,skill_1:2739,s1_boost:4295,skill_2:1736,s2_boost:520
 -,180,kdb
-16548,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3477,force_strike:242,skill_1:4006,s1_boost:6281,skill_2:2539
-11349,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2409,force_strike:168,skill_1:2739,s1_boost:4295,skill_2:1736
+17309,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3477,force_strike:242,skill_1:4006,s1_boost:6281,skill_2:2539,s2_boost:761
+11870,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2409,force_strike:168,skill_1:2739,s1_boost:4295,skill_2:1736,s2_boost:520
 -,180,rdb
-18472,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3477,force_strike:242,skill_1:4606,s1_boost:7223,skill_2:2920
-12664,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2409,force_strike:168,skill_1:3150,s1_boost:4939,skill_2:1996
+19348,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3477,force_strike:242,skill_1:4606,s1_boost:7223,skill_2:2920,s2_boost:876
+13263,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2409,force_strike:168,skill_1:3150,s1_boost:4939,skill_2:1996,s2_boost:599
 -,180,krdb
-18472,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3477,force_strike:242,skill_1:4606,s1_boost:7223,skill_2:2920
-12664,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2409,force_strike:168,skill_1:3150,s1_boost:4939,skill_2:1996
+19348,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3477,force_strike:242,skill_1:4606,s1_boost:7223,skill_2:2920,s2_boost:876
+13263,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2409,force_strike:168,skill_1:3150,s1_boost:4939,skill_2:1996,s2_boost:599

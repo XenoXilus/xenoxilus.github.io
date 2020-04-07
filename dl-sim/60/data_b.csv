@@ -252,8 +252,8 @@
 6473,_c_Hanabusa,4*,light,blade,6651,[Resounding_Rendition+Jewels_of_the_Sun][Cupid][HDT2],!<hp70>,,attack:2351,skill_1:2595,skill_3:777,team_buff:749
 14328,Mitsuhide,5*,light,dagger,5896,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2],<hit15 & hp100 & 0 paralysis res>,91% paralysis uptime,attack:3437,force_strike:703,skill_1:3895,s1_paralysis:1177,skill_2:3246,skill_3:1867
 6323,_c_Mitsuhide,5*,light,dagger,5711,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2],!<hit15 & hp100 & 0 paralysis res>,,attack:1717,force_strike:361,skill_1:1837,s1_paralysis:0,skill_2:1524,skill_3:882
-15367,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3102,force_strike:206,skill_1:3766,s1_boost:5905,skill_2:2387
-10540,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2198,force_strike:145,skill_1:2559,s1_boost:4013,skill_2:1622
+16083,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3102,force_strike:206,skill_1:3766,s1_boost:5905,skill_2:2387,s2_boost:716
+11026,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2198,force_strike:145,skill_1:2559,s1_boost:4013,skill_2:1622,s2_boost:486
 9847,Kirsty,5*,wind,lance,6030,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],<maintain shield & hp60 & hp70 & maintain Dauntless Strength>,no poison,attack:3506,skill_1:4015,skill_3:1325,team_buff:999
 6059,_c_Kirsty,5*,wind,lance,5653,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],!<maintain shield & hp60 & hp70 & maintain Dauntless Strength>,no poison,attack:2042,skill_1:2307,skill_3:709,team_buff:999
 12005,Joachim,4*,wind,bow,5262,[Dear_Diary+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp30 every 180s & hp100 & 0 poison res>,88% poison uptime,attack:2491,skill_1:4714,s1_poison:2262,skill_3:1535,team_buff:999

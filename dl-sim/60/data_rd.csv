@@ -252,8 +252,8 @@
 7743,_c_Hanabusa,4*,light,blade,6651,[Resounding_Rendition+Jewels_of_the_Sun][Cupid][HDT2],!<hp70>,,attack:2673,skill_1:2933,skill_3:1093,team_buff:1043
 15502,Mitsuhide,5*,light,dagger,5896,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2],<hit15 & hp100 & 0 paralysis res>,89% paralysis uptime,attack:3525,force_strike:936,skill_1:3854,s1_paralysis:1278,skill_2:3749,skill_3:2156
 6845,_c_Mitsuhide,5*,light,dagger,5711,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2],!<hit15 & hp100 & 0 paralysis res>,,attack:1774,force_strike:471,skill_1:1818,s1_paralysis:0,skill_2:1761,skill_3:1018
-16133,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,,attack:3382,force_strike:370,skill_1:4535,s1_boost:5927,skill_2:1917
-11131,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,,attack:2407,force_strike:259,skill_1:3101,s1_boost:4052,skill_2:1310
+16863,Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:3409,force_strike:297,skill_1:4606,s1_boost:6019,skill_2:1946,s2_boost:584
+11632,_c_Nobunaga,5*,flame,blade,5371,[Resounding_Rendition+Primal_Crisis][Konohana_Sakuya][Agito],!<hit15 & hp70>,use s2 instead of fs to dispel when possible,attack:2426,force_strike:209,skill_1:3149,s1_boost:4115,skill_2:1331,s2_boost:399
 10867,Kirsty,5*,wind,lance,6030,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],<maintain shield & hp60 & hp70 & maintain Dauntless Strength>,no poison,attack:3658,skill_1:4795,skill_3:1414,team_buff:999
 6619,_c_Kirsty,5*,wind,lance,5653,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],!<maintain shield & hp60 & hp70 & maintain Dauntless Strength>,no poison,attack:2136,skill_1:2757,skill_3:724,team_buff:999
 14055,Joachim,4*,wind,bow,5262,[Dear_Diary+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp30 every 180s & hp100 & 0 poison res>,88% poison uptime,attack:2648,skill_1:5763,s1_poison:2766,skill_3:1877,team_buff:999
