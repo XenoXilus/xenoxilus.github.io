@@ -300,8 +300,8 @@
 20307,_c_Bellina,5*,shadow,dagger,7574,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],!<hit15 & hp=30%>,,attack:9567,force_strike:189,skill_1:10913,skill_2:467,dx:38
 12136,Gauld,4*,water,lance,5011,[Resounding_Rendition+His_Clever_Brother][Siren][HDT2],<hp70 & 0 frostbite res>,95% frostbite uptime,attack:2397,force_strike:246,skill_1:4330,s1_frostbite:3555,skill_3:1824
 4469,_c_Gauld,4*,water,lance,4626,[Resounding_Rendition+His_Clever_Brother][Siren][HDT2],!<hp70 & 0 frostbite res>,,attack:1396,force_strike:145,skill_1:2022,s1_frostbite:0,skill_3:1031
-13397,Lazry,5*,water,axe,5517,[Kung_Fu_Masters+His_Clever_Brother][Gaibhne_and_Creidhne][HDT2],<hp70 & 0 frostbite res>,87% frostbite uptime,attack:4471,skill_1:6063,s1_frostbite:584,skill_2:473,team_buff:2210
-8527,_c_Lazry,5*,water,axe,5517,[Kung_Fu_Masters+His_Clever_Brother][Gaibhne_and_Creidhne][HDT2],!<hp70 & 0 frostbite res>,,attack:3163,skill_1:3195,s1_frostbite:0,skill_2:244,team_buff:2210
+13643,Lazry,5*,water,axe,5517,[Kung_Fu_Masters+His_Clever_Brother][Gaibhne_and_Creidhne][HDT2],<hp70 & 0 frostbite res>,87% frostbite uptime,attack:4471,skill_1:6272,s1_frostbite:621,s2_high:473,team_buff:2210
+8640,_c_Lazry,5*,water,axe,5517,[Kung_Fu_Masters+His_Clever_Brother][Gaibhne_and_Creidhne][HDT2],!<hp70 & 0 frostbite res>,,attack:3163,skill_1:3309,s1_frostbite:0,s2_high:244,team_buff:2210
 13106,Victor,5*,wind,blade,6029,[Resounding_Rendition+Beautiful_Nothingness][Vayu][HDT2],<hp70>,,attack:2230,skill_1:3870,s1_bleed:4524,skill_2:1417,skill_3:1063
 9403,_c_Victor,5*,wind,blade,5059,[Resounding_Rendition+Beautiful_Nothingness][Vayu][HDT2],!<hp70>,,attack:1781,skill_1:3091,s1_bleed:2548,skill_2:1132,skill_3:849
 12134,Summer_Cleo,5*,light,bow,5322,[Forest_Bonds+Dear_Diary][Corsaint_Phoenix][HDT2],<buff all team & hp30 every 180s & 0 paralysis res>,nofs; 87% paralysis uptime,attack:3140,s1_big_missile:2548,s1_boost:1195,s1_missile:1505,s1_paralysis:1141,skill_3:1859,team_buff:1028
