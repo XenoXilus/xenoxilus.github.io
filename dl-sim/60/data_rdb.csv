@@ -225,8 +225,8 @@
 7118,_c_Wedding_Elisanne,5*,wind,sword,5356,[The_Shining_Overlord+FirstRate_Hospitality][AC011_Garland][HDT2],!<maintain shield & hp60 & hp70 & s2 defdown for 10s>,2in1,attack:1367,force_strike:816,skill_1:3016,skill_2:1067,skill_3:850
 5564,Waike,3*,water,bow,4341,[Forest_Bonds+Dear_Diary][Siren][HDT2],<hp30 every 180s & 100 bog res>,,attack:1155,force_strike:636,skill_1:2423,skill_2:822,skill_3:526
 5058,_c_Waike,3*,water,bow,4341,[Forest_Bonds+Dear_Diary][Siren][HDT2],!<hp30 every 180s & 100 bog res>,,attack:1050,force_strike:578,skill_1:2203,skill_2:747,skill_3:478
-12355,Xainfried,5*,water,lance,5220,[Resounding_Rendition+Jewels_of_the_Sun][Siren][HDT2],<hp70 & 0 frostbite res>,93% frostbite uptime,attack:1648,force_strike:242,skill_1:6635,s1_frostbite:1564,skill_2:945,team_buff:1318
-8318,_c_Xainfried,5*,water,lance,4819,[Resounding_Rendition+Jewels_of_the_Sun][Siren][HDT2],!<hp70 & 0 frostbite res>,,attack:1447,force_strike:213,skill_1:4509,s1_frostbite:0,skill_2:829,team_buff:1318
+13783,Xainfried,5*,water,lance,4803,[Heralds_of_Hinomoto+His_Clever_Brother][Siren][HDT2],<0 frostbite res>,94% frostbite uptime,attack:1714,force_strike:291,skill_1:7787,s1_frostbite:1704,skill_2:981,team_buff:1303
+8858,_c_Xainfried,5*,water,lance,4803,[Heralds_of_Hinomoto+His_Clever_Brother][Siren][HDT2],!<0 frostbite res>,,attack:1449,force_strike:248,skill_1:5037,s1_frostbite:0,skill_2:818,team_buff:1303
 10410,Xander,5*,water,sword,4995,[The_Shining_Overlord+Jewels_of_the_Sun][Siren][HDT2],<hit10 & hp70>,c2+fs,attack:1227,force_strike:1366,skill_1:4368,s1_boost:0,skill_2:1969,skill_3:1477
 8527,_c_Xander,5*,water,sword,4611,[The_Shining_Overlord+Jewels_of_the_Sun][Siren][HDT2],!<hit10 & hp70>,c2+fs,attack:1013,force_strike:1128,skill_1:3568,s1_boost:0,skill_2:1609,skill_3:1206
 15041,Xania,3*,flame,wand,6417,[Candy_Couriers+Primal_Crisis][Apollo][Agito],<hit15 & 0 burn res>,86% burn uptime,attack:4646,skill_1:5997,s1_burn:1168,skill_2:2643,s2_burn:585
@@ -286,8 +286,8 @@
 7111,_c_Summer_Luca,4*,light,axe,6299,[Kung_Fu_Masters+Heralds_of_Hinomoto][Cupid][HDT2],!<hp70>,,attack:2642,force_strike:240,skill_1:3657,skill_3:570
 16319,Natalie,5*,shadow,blade,7884,[Tough_Love+The_Chocolatiers][Shinobi][Agito],<last offense & hp=20%>,,attack:3904,skill_1:12414
 10371,_c_Natalie,5*,shadow,blade,5256,[Tough_Love+The_Chocolatiers][Shinobi][Agito],!<last offense & hp=20%>,,attack:3527,skill_1:6844
-13728,Mitsuba,5*,water,dagger,4450,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],<hit15 & 0 frostbite res>,75% frostbite uptime,attack:1345,skill_1:11008,s1_frostbite:498,team_buff:276,team_inspiration:599
-6751,_c_Mitsuba,5*,water,dagger,4450,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],!<hit15 & 0 frostbite res>,,attack:981,skill_1:4893,s1_frostbite:0,team_buff:276,team_inspiration:599
+14322,Mitsuba,5*,water,dagger,4436,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2],<hit15 & 0 frostbite res>,75% frostbite uptime,attack:1353,skill_1:11659,s1_frostbite:433,team_buff:276,team_inspiration:599
+6584,_c_Mitsuba,5*,water,dagger,4436,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2],!<hit15 & 0 frostbite res>,,attack:958,skill_1:4748,s1_frostbite:0,team_buff:276,team_inspiration:599
 19819,Tobias,5*,wind,blade,3832,[Castle_Cheer_Corps+A_Dogs_Day][Freyja][HDT2],<buff all team>,,attack:3101,team_buff:16718
 3101,_c_Tobias,5*,wind,blade,3832,[Castle_Cheer_Corps+A_Dogs_Day][Freyja][HDT2],!<buff all team>,,attack:3101
 7046,Templar_Hope,4*,wind,sword,5750,[Resounding_Rendition+Brothers_in_Arms][AC011_Garland][HDT2],<maintain shield & hp60 & hp70>,,attack:2173,force_strike:1329,skill_2:1900,skill_3:1642
@@ -298,6 +298,10 @@
 12892,_c_Aldred,4*,shadow,blade,6069,[Tough_Love+The_Chocolatiers][Shinobi][Agito],!<last offense & hp=30% & hp=24% & hp=18% & hp=6% & hp=1>,maintain dragondrive,attack:2673,skill_1:10162,dx:54
 26831,Bellina,5*,shadow,dagger,7574,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],<hit15 & hp=30%>,,attack:11851,force_strike:281,skill_1:14614,dx:82
 17296,_c_Bellina,5*,shadow,dagger,7574,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],!<hit15 & hp=30%>,,attack:7029,force_strike:246,skill_1:9949,dx:69
+10339,Gauld,4*,water,lance,5011,[Resounding_Rendition+His_Clever_Brother][Siren][HDT2],<hp70 & 0 frostbite res>,90% frostbite uptime,attack:2047,force_strike:147,skill_1:3559,s1_frostbite:2809,skill_3:1774
+3968,_c_Gauld,4*,water,lance,4626,[Resounding_Rendition+His_Clever_Brother][Siren][HDT2],!<hp70 & 0 frostbite res>,,attack:1214,force_strike:93,skill_1:1661,s1_frostbite:0,skill_3:999
+11985,Lazry,5*,water,axe,5517,[Kung_Fu_Masters+His_Clever_Brother][Gaibhne_and_Creidhne][HDT2],<hp70 & 0 frostbite res>,82% frostbite uptime,attack:3484,skill_1:6024,s1_frostbite:491,skill_2:869,team_buff:1116
+7286,_c_Lazry,5*,water,axe,5517,[Kung_Fu_Masters+His_Clever_Brother][Gaibhne_and_Creidhne][HDT2],!<hp70 & 0 frostbite res>,,attack:2562,skill_1:3158,s1_frostbite:0,skill_2:448,team_buff:1116
 12527,Victor,5*,wind,blade,6048,[Heralds_of_Hinomoto+Jewels_of_the_Sun][Vayu][HDT2],<hp70>,,attack:2001,skill_1:3909,s1_bleed:4044,skill_2:1312,skill_3:1259
 11796,_c_Victor,5*,wind,blade,5075,[Heralds_of_Hinomoto+Jewels_of_the_Sun][Vayu][HDT2],!<hp70>,,attack:1701,skill_1:3277,s1_bleed:4616,skill_2:1100,skill_3:1100
 10331,Summer_Cleo,5*,light,bow,5322,[Forest_Bonds+Dear_Diary][Corsaint_Phoenix][HDT2],<buff all team & hp30 every 180s & 0 paralysis res>,nofs; 86% paralysis uptime,attack:2689,s1_big_missile:2265,s1_boost:857,s1_missile:1335,s1_paralysis:975,skill_3:1385,team_buff:821
