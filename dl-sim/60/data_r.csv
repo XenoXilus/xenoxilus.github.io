@@ -34,8 +34,8 @@
 4310,_c_Cibella,3*,water,lance,5457,[Resounding_Rendition+Beautiful_Nothingness][Dragonyule_Jeanne][HDT2],!<hp70>,,attack:1972,force_strike:241,skill_2:1100,skill_3:995
 15092,Curran,5*,shadow,axe,11799,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito],<last offense>,no fs,attack:5619,skill_1:6253,skill_2:2345,team_buff:873
 13829,_c_Curran,5*,shadow,axe,7374,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito],!<last offense>,no fs,attack:4907,skill_1:5703,skill_2:2345,team_buff:873
-8637,Dragonyule_Cleo,5*,water,dagger,4932,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],<hp70 & hit15 & buff all team & always connect hits>,,attack:1755,force_strike:308,skill_1:2270,skill_2:1710,skill_3:1411,team_buff:850,team_energy:330
-5455,_c_Dragonyule_Cleo,5*,water,dagger,4450,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],!<hp70 & hit15 & buff all team & always connect hits>,,attack:1322,force_strike:233,skill_1:1590,skill_2:1266,skill_3:1042
+8507,Dragonyule_Cleo,5*,water,dagger,5860,[Twinfold_Bonds+The_Prince_of_Dragonyule][Gaibhne_and_Creidhne][HDT2],<hp70 & hit15 & buff all team & always connect hits>,,attack:2010,force_strike:232,skill_1:2482,skill_2:810,skill_3:1286,team_buff:1185,team_energy:498
+5134,_c_Dragonyule_Cleo,5*,water,dagger,5378,[Twinfold_Bonds+The_Prince_of_Dragonyule][Gaibhne_and_Creidhne][HDT2],!<hp70 & hit15 & buff all team & always connect hits>,,attack:1563,force_strike:183,skill_1:1790,skill_2:619,skill_3:976
 10858,Dragonyule_Malora,5*,light,axe,6326,[Kung_Fu_Masters+Flower_in_the_Fray][Cupid][HDT2],<buff all team>,c4fsf c5 c4 s1,attack:3456,skill_1:2145,skill_2:1546,s2_boost:1237,team_buff:2471
 5242,_c_Dragonyule_Malora,5*,light,axe,6326,[Kung_Fu_Masters+Flower_in_the_Fray][Cupid][HDT2],!<buff all team>,c4fsf c5 c4 s1,attack:3339,skill_1:1902
 5634,Dragonyule_Nefaria,4*,water,bow,5293,[Forest_Bonds+Dear_Diary][Dragonyule_Jeanne][HDT2],<hp30 every 180s>,,attack:1368,force_strike:821,skill_1:2468,skill_3:975
@@ -46,14 +46,14 @@
 5333,_c_Dragonyule_Xander,4*,water,wand,4632,[Candy_Couriers+Primal_Crisis][Siren][HDT2],!<hit15 & buff all team>,,attack:1601,skill_1:2725,skill_3:1005
 14844,Delphi,5*,shadow,dagger,5450,[Mega_Friends+The_Fires_of_Hate][Fatalis][Agito],<hp100 & s1 defdown for 10s & 0 poison res>,74% poison uptime,attack:2436,force_strike:2504,fs_boost:124,fs_poison:3636,skill_1:618,skill_2:549,s2_poison:2478,team_buff:2494
 4222,_c_Delphi,5*,shadow,dagger,4866,[Mega_Friends+The_Fires_of_Hate][Fatalis][Agito],!<hp100 & s1 defdown for 10s & 0 poison res>,,attack:1648,force_strike:1688,fs_boost:77,fs_poison:0,skill_1:480,skill_2:327,s2_poison:0
-14884,Durant,4*,shadow,blade,8959,[Seaside_Princess+Luck_of_the_Draw][Fatalis][Agito],<hp100>,,attack:14884
-11234,_c_Durant,4*,shadow,blade,7753,[Seaside_Princess+Luck_of_the_Draw][Fatalis][Agito],!<hp100>,,attack:11233
+15687,Durant,4*,shadow,blade,9030,[Proper_Maintenance+Howling_to_the_Heavens][Fatalis][Agito],<hp100 & hit15>,,attack:15687
+11889,_c_Durant,4*,shadow,blade,7815,[Proper_Maintenance+Howling_to_the_Heavens][Fatalis][Agito],!<hp100 & hit15>,,attack:11888
 7672,Eleonora,4*,wind,bow,4899,[Dear_Diary+The_Fires_of_Hate][Vayu][HDT2],<hp100 & hp30 every 180s & 0 poison res>,87% poison uptime,attack:1364,force_strike:802,skill_1:2432,s1_poison:732,skill_2:1437,s2_poison:284,skill_3:618
 4574,_c_Eleonora,4*,wind,bow,4354,[Dear_Diary+The_Fires_of_Hate][Vayu][HDT2],!<hp100 & hp30 every 180s & 0 poison res>,,attack:946,force_strike:548,skill_1:1694,s1_poison:0,skill_2:967,s2_poison:0,skill_3:416
 6414,Elias,4*,light,bow,7527,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2],<last offense & hit15 & hp30 every 180s>,,attack:1682,force_strike:1014,skill_1:2858,skill_3:859
 4722,_c_Elias,4*,light,bow,5376,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2],!<last offense & hit15 & hp30 every 180s>,,attack:1211,force_strike:727,skill_1:2109,skill_3:672
-11751,Elisanne,4*,water,lance,3890,[Beach_Battle+From_Whence_He_Comes][Halloween_Maritimus][HDT2],<hp60>,no s2 or s3,attack:2220,team_buff:9530
-11708,_c_Elisanne,4*,water,lance,3777,[Beach_Battle+From_Whence_He_Comes][Halloween_Maritimus][HDT2],!<hp60>,no s2 or s3,attack:2176,team_buff:9530
+14520,Elisanne,4*,water,lance,6068,[Beach_Battle+Jewels_of_the_Sun][Gaibhne_and_Creidhne][HDT2],<hp60 & hp70>,no s2 or s3,attack:2938,force_strike:605,team_buff:10975
+14228,_c_Elisanne,4*,water,lance,5511,[Beach_Battle+Jewels_of_the_Sun][Gaibhne_and_Creidhne][HDT2],!<hp60 & hp70>,no s2 or s3,attack:2696,force_strike:555,team_buff:10975
 14524,Emma,4*,flame,lance,6035,[Castle_Cheer_Corps+From_Whence_He_Comes][Dreadking_Rathalos][Agito],<buff all team>,,attack:3231,force_strike:785,team_buff:10507
 4016,_c_Emma,4*,flame,lance,6035,[Castle_Cheer_Corps+From_Whence_He_Comes][Dreadking_Rathalos][Agito],!<buff all team>,,attack:3231,force_strike:785
 13938,Erik,3*,shadow,axe,7282,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito],<>,,attack:4221,force_strike:608,skill_1:6219,skill_2:2887
@@ -69,8 +69,8 @@
 5499,_c_Fritz,4*,light,dagger,5607,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2],!<hit15 & hp70>,,attack:1998,force_strike:220,fs_boost:208,skill_1:1953,skill_3:689,team_buff:429
 24409,Gala_Cleo,5*,shadow,wand,5211,[Candy_Couriers+Jewels_of_the_Sun][Shinobi][Agito],<hp70 & always in a1>,(the true cleo is here),attack:3055,force_strike:0,skill_1:10721,skill_2:1524,team_buff:9107
 12663,_c_Gala_Cleo,5*,shadow,wand,4810,[Candy_Couriers+Jewels_of_the_Sun][Shinobi][Agito],!<hp70 & always in a1>,(the true cleo is here),attack:2218,force_strike:0,skill_1:6947,skill_2:1065,team_buff:2431
-11783,Gala_Elisanne,5*,water,axe,3798,[Beach_Battle+From_Whence_He_Comes][Halloween_Maritimus][HDT2],<buff all team>,,attack:2533,force_strike:328,team_buff:8920
-2862,_c_Gala_Elisanne,5*,water,axe,3798,[Beach_Battle+From_Whence_He_Comes][Halloween_Maritimus][HDT2],!<buff all team>,,attack:2533,force_strike:328
+14346,Gala_Elisanne,5*,water,axe,5521,[Beach_Battle+From_Whence_He_Comes][Gaibhne_and_Creidhne][HDT2],<buff all team>,,attack:4145,team_buff:10200
+4145,_c_Gala_Elisanne,5*,water,axe,5521,[Beach_Battle+From_Whence_He_Comes][Gaibhne_and_Creidhne][HDT2],!<buff all team>,,attack:4145
 10980,Gala_Euden,5*,light,sword,6020,[The_Shining_Overlord+Sisters_Day_Out][Cupid][HDT2],<s1 buff for 10s & draconic charge & 0 paralysis res>,c2+fs; 21% paralysis uptime,attack:1582,force_strike:1629,skill_1:1089,skill_2:1015,s2_paralysis:158,skill_3:1423,team_buff:4080
 6625,_c_Gala_Euden,5*,light,sword,6020,[The_Shining_Overlord+Sisters_Day_Out][Cupid][HDT2],!<s1 buff for 10s & draconic charge & 0 paralysis res>,c2+fs,attack:1362,force_strike:1411,skill_1:1023,skill_2:845,s2_paralysis:0,skill_3:1243,team_buff:737
 8556,Gala_Mym,5*,flame,lance,5144,[Resounding_Rendition+Beautiful_Nothingness][Konohana_Sakuya][Agito],<hp70>,,attack:1962,force_strike:290,skill_1:4519,skill_2:1783
@@ -85,8 +85,8 @@
 7237,_c_Halloween_Elisanne,5*,light,lance,6148,[Resounding_Rendition+Jewels_of_the_Sun][Cupid][HDT2],!<hit10 & hp70>,,attack:1324,force_strike:163,skill_1:2459,skill_2:871,skill_3:869,team_buff:1548
 10218,Halloween_Mym,5*,flame,axe,6629,[Kung_Fu_Masters+Jewels_of_the_Sun][Dreadking_Rathalos][Agito],<hp70 & s1 defdown for 10s & buff all team>,,attack:4215,force_strike:1257,skill_1:1337,team_buff:3407
 5941,_c_Halloween_Mym,5*,flame,axe,6227,[Kung_Fu_Masters+Jewels_of_the_Sun][Dreadking_Rathalos][Agito],!<hp70 & s1 defdown for 10s & buff all team>,,attack:3590,force_strike:1093,skill_1:1256
-11765,Halloween_Odetta,4*,water,sword,5806,[Mega_Friends+FirstRate_Hospitality][Dragonyule_Jeanne][HDT2],<buff all team & hp70>,,attack:1964,force_strike:2034,skill_1:2854,skill_3:1205,team_buff:3707
-8161,_c_Halloween_Odetta,4*,water,sword,5502,[Mega_Friends+FirstRate_Hospitality][Dragonyule_Jeanne][HDT2],!<buff all team & hp70>,,attack:1861,force_strike:1927,skill_1:2704,skill_3:1142,team_buff:524
+12436,Halloween_Odetta,4*,water,sword,5495,[Mega_Friends+Beach_Battle][Gaibhne_and_Creidhne][HDT2],<buff all team>,,attack:1470,force_strike:1423,skill_1:2682,skill_3:1426,team_buff:5433
+7607,_c_Halloween_Odetta,4*,water,sword,5495,[Mega_Friends+Beach_Battle][Gaibhne_and_Creidhne][HDT2],!<buff all team>,,attack:1470,force_strike:1423,skill_1:2682,skill_3:1426,team_buff:604
 21631,Hawk,5*,wind,bow,5150,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp100 & 0 poison res & 80 stun res>,72% poison uptime; 11% stun uptime,attack:1993,force_strike:715,fs_poison:289,skill_1:16190,skill_2:2442
 6203,_c_Hawk,5*,wind,bow,4578,[Resounding_Rendition+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp100 & 0 poison res & 80 stun res>,,attack:1254,force_strike:376,fs_poison:0,skill_1:3657,skill_2:914
 7018,Irfan,3*,light,dagger,5584,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2],<hit15 & hp70>,,attack:2330,force_strike:275,skill_1:2580,skill_2:939,skill_3:891
