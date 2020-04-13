@@ -35,5 +35,5 @@
 1552,_c_Halloween_Lowen,4*,flame,staff,3630,[From_Whence_He_Comes+The_Bridal_Dragon][PopStar_Siren][Agito],!<hp60>,hlowen dps <= burn DoT,attack:1535,force_strike:15
 22158,Natalie,5*,shadow,blade,6119,[Heralds_of_Hinomoto+Primal_Crisis][Shinobi][Agito],<hit15 & hp=1>,,attack:4462,skill_1:17695
 10964,_c_Natalie,5*,shadow,blade,6119,[Heralds_of_Hinomoto+Primal_Crisis][Shinobi][Agito],!<hit15 & hp=1>,,attack:3692,skill_1:7272
-34245,Bellina,5*,shadow,dagger,7574,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],<hit15 & hp=1>,,attack:18213,force_strike:209,skill_1:14920,skill_2:873,dx:27
-16894,_c_Bellina,5*,shadow,dagger,7574,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],!<hit15 & hp=1>,,attack:8012,force_strike:180,skill_1:8431,skill_2:246,dx:23
+36288,Bellina,5*,shadow,dagger,7574,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],<hit15 & hp=1>,,attack:19275,force_strike:113,skill_1:15998,skill_2:872,dx:27
+17739,_c_Bellina,5*,shadow,dagger,7574,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],!<hit15 & hp=1>,,attack:8330,force_strike:98,skill_1:9040,skill_2:246,dx:23
