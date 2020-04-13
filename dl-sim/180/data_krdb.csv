@@ -298,7 +298,7 @@
 13799,_c_Aldred,4*,shadow,blade,6056,[Heralds_of_Hinomoto+Primal_Crisis][Shinobi][Agito],!<hit15 & hp=30% & hp=24% & hp=18% & hp=6% & hp=1>,maintain dragondrive,attack:2809,skill_1:10971,dx:18
 33465,Bellina,5*,shadow,dagger,7574,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],<hit15 & hp=30%>,,attack:17358,force_strike:103,skill_1:16821,skill_2:729,dx:30
 20974,_c_Bellina,5*,shadow,dagger,7574,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],!<hit15 & hp=30%>,,attack:10002,force_strike:90,skill_1:11452,skill_2:312,dx:25
-12025,Gauld,4*,water,lance,5011,[Resounding_Rendition+His_Clever_Brother][Siren][HDT2],<hp70 & 0 frostbite res>,95% frostbite uptime,attack:2457,force_strike:152,skill_1:3954,s1_frostbite:3412,skill_3:2270
+11756,Gauld,4*,water,lance,5011,[Resounding_Rendition+His_Clever_Brother][Siren][HDT2],<hp70 & 0 frostbite res>,95% frostbite uptime,attack:2405,force_strike:150,skill_1:3852,s1_frostbite:3345,skill_3:2220
 4542,_c_Gauld,4*,water,lance,4626,[Resounding_Rendition+His_Clever_Brother][Siren][HDT2],!<hp70 & 0 frostbite res>,,attack:1427,force_strike:91,skill_1:1860,s1_frostbite:0,skill_3:1291
 15917,Lazry,5*,water,axe,5517,[Heralds_of_Hinomoto+His_Clever_Brother][Gaibhne_and_Creidhne][HDT2],<hp70 & 0 frostbite res>,90% frostbite uptime,attack:4335,force_strike:424,skill_1:6805,s1_frostbite:1047,s2_high:351,team_buff:3346
 9588,_c_Lazry,5*,water,axe,5517,[Heralds_of_Hinomoto+His_Clever_Brother][Gaibhne_and_Creidhne][HDT2],!<hp70 & 0 frostbite res>,,attack:2741,force_strike:284,skill_1:3301,s1_frostbite:0,s2_high:163,team_buff:3346
