@@ -52,8 +52,8 @@
 4173,_c_Eleonora,4*,wind,bow,4354,[Dear_Diary+The_Fires_of_Hate][Vayu][HDT2],!<hp100 & hp30 every 180s & 0 poison res>,,attack:946,force_strike:548,skill_1:1473,s1_poison:0,skill_2:841,s2_poison:0,skill_3:362
 5929,Elias,4*,light,bow,7527,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2],<last offense & hit15 & hp30 every 180s>,,attack:1682,force_strike:1014,skill_1:2485,skill_3:746
 4359,_c_Elias,4*,light,bow,5376,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2],!<last offense & hit15 & hp30 every 180s>,,attack:1211,force_strike:727,skill_1:1834,skill_3:584
-14520,Elisanne,4*,water,lance,6068,[Beach_Battle+Jewels_of_the_Sun][Gaibhne_and_Creidhne][HDT2],<hp60 & hp70>,no s2 or s3,attack:2938,force_strike:605,team_buff:10975
-14228,_c_Elisanne,4*,water,lance,5511,[Beach_Battle+Jewels_of_the_Sun][Gaibhne_and_Creidhne][HDT2],!<hp60 & hp70>,no s2 or s3,attack:2696,force_strike:555,team_buff:10975
+14460,Elisanne,4*,water,lance,5676,[Beach_Battle+Castle_Cheer_Corps][Gaibhne_and_Creidhne][HDT2],<hp60>,no s2 or s3,attack:2850,force_strike:629,team_buff:10979
+14396,_c_Elisanne,4*,water,lance,5511,[Beach_Battle+Castle_Cheer_Corps][Gaibhne_and_Creidhne][HDT2],!<hp60>,no s2 or s3,attack:2798,force_strike:618,team_buff:10979
 14524,Emma,4*,flame,lance,6035,[Castle_Cheer_Corps+From_Whence_He_Comes][Dreadking_Rathalos][Agito],<buff all team>,,attack:3231,force_strike:785,team_buff:10507
 4016,_c_Emma,4*,flame,lance,6035,[Castle_Cheer_Corps+From_Whence_He_Comes][Dreadking_Rathalos][Agito],!<buff all team>,,attack:3231,force_strike:785
 12750,Erik,3*,shadow,axe,7282,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito],<>,,attack:4221,force_strike:608,skill_1:5408,skill_2:2511
