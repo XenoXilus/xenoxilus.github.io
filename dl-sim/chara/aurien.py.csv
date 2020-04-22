@@ -1,18 +1,18 @@
 -,60,_
-11160,Aurien,3*,flame,staff,6367,[Breakfast_at_Valerios+Resounding_Rendition][Apollo][Agito][Blade|Marth|Serena],<0 burn res & hp70 & hit10 & hit15>,no s1; 64% burn uptime,attack:2945,skill_2:457,s2_burn:196,team_buff:174,dx:5234,ds_burn:374,ds:1777
-5860,_c_Aurien,3*,flame,staff,6367,[Breakfast_at_Valerios+Resounding_Rendition][Apollo][Agito][Blade|Marth|Serena],!<0 burn res & hp70 & hit10 & hit15>,no s1,attack:1907,skill_2:234,s2_burn:0,team_buff:174,dx:2815,ds:727
+12283,Aurien,3*,flame,staff,6334,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Marth|Serena],<0 burn res & hp70 & hit10 & hit15>,no s1; 64% burn uptime,attack:3119,skill_2:363,s2_burn:155,team_buff:174,dx:6327,ds_burn:372,ds:1769
+5610,_c_Aurien,3*,flame,staff,6334,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Marth|Serena],!<0 burn res & hp70 & hit10 & hit15>,no s1,attack:1898,skill_2:179,s2_burn:0,team_buff:174,dx:2801,ds:556
 -,60,affliction
-13269,Aurien,3*,flame,staff,6350,[Breakfast_at_Valerios+Elegant_Escort][Apollo][Agito][Blade|Marth|Serena],<0 burn res & hp70 & hit10 & hit15>,no s1,attack:3928,skill_2:540,s2_burn:231,team_buff:174,dx:6270,ds_burn:369,ds:1753
-8349,_c_Aurien,3*,flame,staff,6350,[Breakfast_at_Valerios+Elegant_Escort][Apollo][Agito][Blade|Marth|Serena],!<0 burn res & hp70 & hit10 & hit15>,no s1,attack:2854,skill_2:270,s2_burn:0,team_buff:174,dx:4212,ds:837
+13350,Aurien,3*,flame,staff,6334,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Marth|Serena],<0 burn res & hp70 & hit10 & hit15>,no s1,attack:3925,skill_2:545,s2_burn:233,team_buff:174,dx:6327,ds_burn:372,ds:1769
+8328,_c_Aurien,3*,flame,staff,6334,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Marth|Serena],!<0 burn res & hp70 & hit10 & hit15>,no s1,attack:2847,skill_2:269,s2_burn:0,team_buff:174,dx:4201,ds:834
 -,120,_
-10019,Aurien,3*,flame,staff,6367,[Breakfast_at_Valerios+Resounding_Rendition][Apollo][Agito][Blade|Marth|Serena],<0 burn res & hp70 & hit10 & hit15>,no s1; 72% burn uptime,attack:4325,skill_2:1009,s2_burn:322,team_buff:175,dx:3002,ds_burn:280,ds:902
-5179,_c_Aurien,3*,flame,staff,6367,[Breakfast_at_Valerios+Resounding_Rendition][Apollo][Agito][Blade|Marth|Serena],!<0 burn res & hp70 & hit10 & hit15>,no s1,attack:2541,skill_2:470,s2_burn:0,team_buff:175,dx:1626,ds:364
+10955,Aurien,3*,flame,staff,6334,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Marth|Serena],<0 burn res & hp70 & hit10 & hit15>,no s1; 72% burn uptime,attack:4897,skill_2:912,s2_burn:282,team_buff:175,dx:3554,ds_burn:254,ds:877
+4961,_c_Aurien,3*,flame,staff,6334,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Marth|Serena],!<0 burn res & hp70 & hit10 & hit15>,no s1,attack:2528,skill_2:360,s2_burn:0,team_buff:175,dx:1618,ds:279
 -,120,affliction
-11996,Aurien,3*,flame,staff,6350,[Breakfast_at_Valerios+Elegant_Escort][Apollo][Agito][Blade|Marth|Serena],<0 burn res & hp70 & hit10 & hit15>,no s1,attack:5489,skill_2:1084,s2_burn:355,team_buff:175,dx:3674,ds_burn:301,ds:914
-7373,_c_Aurien,3*,flame,staff,6350,[Breakfast_at_Valerios+Elegant_Escort][Apollo][Agito][Blade|Marth|Serena],!<0 burn res & hp70 & hit10 & hit15>,no s1,attack:3801,skill_2:542,s2_burn:0,team_buff:175,dx:2433,ds:420
+12083,Aurien,3*,flame,staff,6334,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Marth|Serena],<0 burn res & hp70 & hit10 & hit15>,no s1,attack:5520,skill_2:1095,s2_burn:358,team_buff:175,dx:3707,ds_burn:304,ds:922
+7354,_c_Aurien,3*,flame,staff,6334,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Marth|Serena],!<0 burn res & hp70 & hit10 & hit15>,no s1,attack:3792,skill_2:540,s2_burn:0,team_buff:175,dx:2427,ds:418
 -,180,_
-9066,Aurien,3*,flame,staff,6367,[Breakfast_at_Valerios+Resounding_Rendition][Apollo][Agito][Blade|Marth|Serena],<0 burn res & hp70 & hit10 & hit15>,no s1; 60% burn uptime,attack:4768,skill_2:1137,s2_burn:384,team_buff:116,dx:1930,ds_burn:168,ds:558
-4816,_c_Aurien,3*,flame,staff,6367,[Breakfast_at_Valerios+Resounding_Rendition][Apollo][Agito][Blade|Marth|Serena],!<0 burn res & hp70 & hit10 & hit15>,no s1,attack:2823,skill_2:549,s2_burn:0,team_buff:116,dx:1083,ds:243
+9609,Aurien,3*,flame,staff,6334,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Marth|Serena],<0 burn res & hp70 & hit10 & hit15>,no s1; 60% burn uptime,attack:5296,skill_2:977,s2_burn:328,team_buff:116,dx:2228,ds_burn:133,ds:526
+4610,_c_Aurien,3*,flame,staff,6334,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Marth|Serena],!<0 burn res & hp70 & hit10 & hit15>,no s1,attack:2808,skill_2:420,s2_burn:0,team_buff:116,dx:1077,ds:186
 -,180,affliction
-11181,Aurien,3*,flame,staff,6350,[Breakfast_at_Valerios+Elegant_Escort][Apollo][Agito][Blade|Marth|Serena],<0 burn res & hp70 & hit10 & hit15>,no s1,attack:6162,skill_2:1273,s2_burn:431,team_buff:116,dx:2416,ds_burn:198,ds:580
-6873,_c_Aurien,3*,flame,staff,6350,[Breakfast_at_Valerios+Elegant_Escort][Apollo][Agito][Blade|Marth|Serena],!<0 burn res & hp70 & hit10 & hit15>,no s1,attack:4223,skill_2:631,s2_burn:0,team_buff:116,dx:1621,ds:279
+11269,Aurien,3*,flame,staff,6334,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Marth|Serena],<0 burn res & hp70 & hit10 & hit15>,no s1,attack:6205,skill_2:1285,s2_burn:435,team_buff:116,dx:2438,ds_burn:200,ds:586
+6856,_c_Aurien,3*,flame,staff,6334,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Marth|Serena],!<0 burn res & hp70 & hit10 & hit15>,no s1,attack:4213,skill_2:630,s2_burn:0,team_buff:116,dx:1616,ds:279

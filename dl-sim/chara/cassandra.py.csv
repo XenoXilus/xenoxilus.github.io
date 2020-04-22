@@ -1,15 +1,15 @@
 -,60,_
-17743,Cassandra,5*,shadow,wand,9761,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Delphi],<0 poison res & hp30 every 180s & hp<40 & hp=80%>,85% poison uptime,attack:6107,skill_1:6201,s1_poison:1437,skill_2:3996
-9214,_c_Cassandra,5*,shadow,wand,7567,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Delphi],!<0 poison res & hp30 every 180s & hp<40 & hp=80%>,,attack:3514,skill_1:3564,s1_poison:0,skill_2:2134
+18251,Cassandra,5*,shadow,wand,10737,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Blade],<0 poison res & hp30 every 180s & hp<40 & hp=80%>,85% poison uptime,attack:6284,skill_1:6381,s1_poison:1473,skill_2:4111
+9480,_c_Cassandra,5*,shadow,wand,8323,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Blade],!<0 poison res & hp30 every 180s & hp<40 & hp=80%>,,attack:3616,skill_1:3667,s1_poison:0,skill_2:2196
 -,60,affliction
-18234,Cassandra,5*,shadow,wand,9761,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Delphi],<0 poison res & hp30 every 180s & hp<40 & hp=80%>,,attack:6326,skill_1:6415,s1_poison:1495,skill_2:3996
-11517,_c_Cassandra,5*,shadow,wand,7567,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Delphi],!<0 poison res & hp30 every 180s & hp<40 & hp=80%>,,attack:4393,skill_1:4455,s1_poison:0,skill_2:2668
+18756,Cassandra,5*,shadow,wand,10737,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Blade],<0 poison res & hp30 every 180s & hp<40 & hp=80%>,,attack:6509,skill_1:6601,s1_poison:1532,skill_2:4111
+11851,_c_Cassandra,5*,shadow,wand,8323,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Blade],!<0 poison res & hp30 every 180s & hp<40 & hp=80%>,,attack:4520,skill_1:4584,s1_poison:0,skill_2:2745
 -,120,_
-18877,Cassandra,5*,shadow,wand,9761,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Delphi],<0 poison res & hp30 every 180s & hp<40 & hp=80%>,93% poison uptime,attack:6321,skill_1:6838,s1_poison:1724,skill_2:3992
-9564,_c_Cassandra,5*,shadow,wand,7567,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Delphi],!<0 poison res & hp30 every 180s & hp<40 & hp=80%>,,attack:3572,skill_1:3858,s1_poison:0,skill_2:2132
+18961,Cassandra,5*,shadow,wand,10737,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Blade],<0 poison res & hp30 every 180s & hp<40 & hp=80%>,88% poison uptime,attack:6440,skill_1:6896,s1_poison:1552,skill_2:4071
+9841,_c_Cassandra,5*,shadow,wand,8323,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Blade],!<0 poison res & hp30 every 180s & hp<40 & hp=80%>,,attack:3676,skill_1:3970,s1_poison:0,skill_2:2194
 -,120,affliction
-19122,Cassandra,5*,shadow,wand,9761,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Delphi],<0 poison res & hp30 every 180s & hp<40 & hp=80%>,,attack:6431,skill_1:6944,s1_poison:1752,skill_2:3992
-11955,_c_Cassandra,5*,shadow,wand,7567,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Delphi],!<0 poison res & hp30 every 180s & hp<40 & hp=80%>,,attack:4466,skill_1:4822,s1_poison:0,skill_2:2666
+19477,Cassandra,5*,shadow,wand,10737,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Blade],<0 poison res & hp30 every 180s & hp<40 & hp=80%>,,attack:6617,skill_1:7146,s1_poison:1605,skill_2:4108
+12302,_c_Cassandra,5*,shadow,wand,8323,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Blade],!<0 poison res & hp30 every 180s & hp<40 & hp=80%>,,attack:4595,skill_1:4962,s1_poison:0,skill_2:2743
 -,180,_
 19172,Cassandra,5*,shadow,wand,9761,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Delphi],<0 poison res & hp30 every 180s & hp<40 & hp=80%>,94% poison uptime,attack:6388,skill_1:7038,s1_poison:1754,skill_2:3991
 9705,_c_Cassandra,5*,shadow,wand,7567,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Delphi],!<0 poison res & hp30 every 180s & hp<40 & hp=80%>,,attack:3597,skill_1:3968,s1_poison:0,skill_2:2139
