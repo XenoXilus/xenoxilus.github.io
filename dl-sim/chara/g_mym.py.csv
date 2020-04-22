@@ -1,18 +1,18 @@
 -,60,_
-13948,Gala_Mym,5*,flame,lance,5228,[Primal_Crisis+The_Red_Impulse][Konohana_Sakuya][Agito][Blade|Verica|Wand],<hit15>,,attack:2392,force_strike:355,skill_1:4346,skill_2:1698,s2_boost:555,dx:1334,ds:3266
-11367,_c_Gala_Mym,5*,flame,lance,5228,[Primal_Crisis+The_Red_Impulse][Konohana_Sakuya][Agito][Blade|Verica|Wand],!<hit15>,,attack:1970,force_strike:294,skill_1:3525,skill_2:1376,s2_boost:452,dx:1087,ds:2661
+16998,Gala_Mym,5*,flame,lance,5228,[Primal_Crisis+The_Red_Impulse][Konohana_Sakuya][Agito][Blade|Serena|Wand],<hit10 & hit15>,,attack:2057,force_strike:283,skill_1:4409,skill_2:1699,s2_boost:532,dx:2165,ds:5848
+12862,_c_Gala_Mym,5*,flame,lance,5228,[Primal_Crisis+The_Red_Impulse][Konohana_Sakuya][Agito][Blade|Serena|Wand],!<hit10 & hit15>,,attack:1584,force_strike:219,skill_1:3318,skill_2:1277,s2_boost:402,dx:1637,ds:4422
 -,60,affliction
 17000,Gala_Mym,5*,flame,lance,6534,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Verica|Yuya],<hit15>,,attack:2611,force_strike:379,skill_1:2569,skill_2:530,dx:8550,ds:2357
 14278,_c_Gala_Mym,5*,flame,lance,6534,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Verica|Yuya],!<hit15>,,attack:2229,force_strike:327,skill_1:2143,skill_2:439,dx:7163,ds:1975
 -,120,_
-16976,Gala_Mym,5*,flame,lance,5228,[Primal_Crisis+The_Red_Impulse][Konohana_Sakuya][Agito][Blade|Verica|Wand],<hit15>,,attack:2817,force_strike:441,skill_1:6214,skill_2:2267,s2_boost:989,dx:1141,ds:3104
-13821,_c_Gala_Mym,5*,flame,lance,5228,[Primal_Crisis+The_Red_Impulse][Konohana_Sakuya][Agito][Blade|Verica|Wand],!<hit15>,,attack:2303,force_strike:361,skill_1:5047,skill_2:1843,s2_boost:806,dx:929,ds:2529
+18214,Gala_Mym,5*,flame,lance,5228,[Primal_Crisis+The_Red_Impulse][Konohana_Sakuya][Agito][Blade|Serena|Wand],<hit10 & hit15>,,attack:2853,force_strike:445,skill_1:6469,skill_2:3064,s2_boost:1379,dx:1081,ds:2920
+13771,_c_Gala_Mym,5*,flame,lance,5228,[Primal_Crisis+The_Red_Impulse][Konohana_Sakuya][Agito][Blade|Serena|Wand],!<hit10 & hit15>,,attack:2169,force_strike:339,skill_1:4879,skill_2:2313,s2_boost:1042,dx:817,ds:2207
 -,120,affliction
 19671,Gala_Mym,5*,flame,lance,6534,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Verica|Yuya],<hit15>,,attack:3340,force_strike:523,skill_1:2833,skill_2:1425,s2_boost:583,dx:8909,ds:2055
 16492,_c_Gala_Mym,5*,flame,lance,6534,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Verica|Yuya],!<hit15>,,attack:2815,force_strike:443,skill_1:2366,skill_2:1191,s2_boost:489,dx:7463,ds:1722
 -,180,_
-19335,Gala_Mym,5*,flame,lance,5228,[Primal_Crisis+The_Red_Impulse][Konohana_Sakuya][Agito][Blade|Verica|Wand],<hit15>,,attack:3008,force_strike:455,skill_1:7101,skill_2:3214,s2_boost:1414,dx:1079,ds:3059
-15737,_c_Gala_Mym,5*,flame,lance,5228,[Primal_Crisis+The_Red_Impulse][Konohana_Sakuya][Agito][Blade|Verica|Wand],!<hit15>,,attack:2454,force_strike:371,skill_1:5772,skill_2:2614,s2_boost:1152,dx:879,ds:2492
+18626,Gala_Mym,5*,flame,lance,5228,[Primal_Crisis+The_Red_Impulse][Konohana_Sakuya][Agito][Blade|Serena|Wand],<hit10 & hit15>,,attack:3064,force_strike:461,skill_1:7245,skill_2:2795,s2_boost:1188,dx:1014,ds:2856
+14072,_c_Gala_Mym,5*,flame,lance,5228,[Primal_Crisis+The_Red_Impulse][Konohana_Sakuya][Agito][Blade|Serena|Wand],!<hit10 & hit15>,,attack:2323,force_strike:350,skill_1:5464,skill_2:2108,s2_boost:898,dx:767,ds:2159
 -,180,affliction
 20414,Gala_Mym,5*,flame,lance,6534,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Verica|Yuya],<hit15>,,attack:3878,force_strike:580,skill_1:3645,skill_2:1389,s2_boost:520,dx:8422,ds:1976
 17103,_c_Gala_Mym,5*,flame,lance,6534,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Verica|Yuya],!<hit15>,,attack:3258,force_strike:488,skill_1:3045,skill_2:1161,s2_boost:436,dx:7056,ds:1656
