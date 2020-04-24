@@ -1,18 +1,18 @@
 -,60,_
-13409,Halloween_Edward,3*,light,blade,6838,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],<hp100 & hit10 & hit15 & hp70>,,attack:2063,skill_1:1915,skill_2:542,skill_3:773,team_buff:664,dx:6025,ds:1423
-8356,_c_Halloween_Edward,3*,light,blade,6424,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],!<hp100 & hit10 & hit15 & hp70>,,attack:1330,skill_1:1140,skill_2:323,skill_3:460,team_buff:664,dx:3588,ds:847
+11865,Halloween_Edward,3*,light,blade,6838,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],<hp100 & hit10 & hit15 & hp70>,,attack:2612,skill_1:2526,skill_2:1073,skill_3:765,team_buff:657,dx:3525,ds:704
+7432,_c_Halloween_Edward,3*,light,blade,6424,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],!<hp100 & hit10 & hit15 & hp70>,,attack:1656,skill_1:1504,skill_2:639,skill_3:455,team_buff:657,dx:2099,ds:419
 -,60,affliction
-15039,Halloween_Edward,3*,light,blade,7460,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],<hp100 & hit10 & hit15 & hp70>,,attack:2377,skill_1:2151,skill_2:609,skill_3:868,team_buff:664,dx:6767,ds:1599
-9894,_c_Halloween_Edward,3*,light,blade,6424,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],!<hp100 & hit10 & hit15 & hp70>,,attack:1596,skill_1:1368,skill_2:387,skill_3:552,team_buff:664,dx:4305,ds:1017
+13305,Halloween_Edward,3*,light,blade,7460,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],<hp100 & hit10 & hit15 & hp70>,,attack:2993,skill_1:2837,skill_2:1205,skill_3:859,team_buff:657,dx:3960,ds:790
+8787,_c_Halloween_Edward,3*,light,blade,6424,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],!<hp100 & hit10 & hit15 & hp70>,,attack:1987,skill_1:1805,skill_2:767,skill_3:546,team_buff:657,dx:2519,ds:503
 -,120,_
-12264,Halloween_Edward,3*,light,blade,6838,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],<hp100 & hit10 & hit15 & hp70>,,attack:2541,skill_1:2549,skill_2:1083,skill_3:1158,team_buff:663,dx:3557,ds:710
-7622,_c_Halloween_Edward,3*,light,blade,6424,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],!<hp100 & hit10 & hit15 & hp70>,,attack:1564,skill_1:1518,skill_2:645,skill_3:689,team_buff:663,dx:2118,ds:423
+11405,Halloween_Edward,3*,light,blade,6838,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],<hp100 & hit10 & hit15 & hp70>,,attack:2747,skill_1:2870,skill_2:1084,skill_3:1159,team_buff:332,dx:2499,ds:711
+6977,_c_Halloween_Edward,3*,light,blade,6424,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],!<hp100 & hit10 & hit15 & hp70>,,attack:1687,skill_1:1709,skill_2:645,skill_3:690,team_buff:332,dx:1488,ds:423
 -,120,affliction
-13723,Halloween_Edward,3*,light,blade,7460,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],<hp100 & hit10 & hit15 & hp70>,,attack:2884,skill_1:2863,skill_2:1216,skill_3:1300,team_buff:663,dx:3995,ds:798
-9014,_c_Halloween_Edward,3*,light,blade,6424,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],!<hp100 & hit10 & hit15 & hp70>,,attack:1877,skill_1:1821,skill_2:774,skill_3:827,team_buff:663,dx:2542,ds:507
+12799,Halloween_Edward,3*,light,blade,7460,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],<hp100 & hit10 & hit15 & hp70>,,attack:3116,skill_1:3224,skill_2:1217,skill_3:1302,team_buff:332,dx:2807,ds:798
+8306,_c_Halloween_Edward,3*,light,blade,6424,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],!<hp100 & hit10 & hit15 & hp70>,,attack:2024,skill_1:2051,skill_2:774,skill_3:828,team_buff:332,dx:1785,ds:508
 -,180,_
-11446,Halloween_Edward,3*,light,blade,6838,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],<hp100 & hit10 & hit15 & hp70>,,attack:2843,skill_1:2963,skill_2:1079,skill_3:1282,team_buff:440,dx:2363,ds:472
-7028,_c_Halloween_Edward,3*,light,blade,6424,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],!<hp100 & hit10 & hit15 & hp70>,,attack:1727,skill_1:1764,skill_2:642,skill_3:763,team_buff:440,dx:1407,ds:281
+11436,Halloween_Edward,3*,light,blade,6838,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],<hp100 & hit10 & hit15 & hp70>,,attack:2841,skill_1:2961,skill_2:1078,skill_3:1281,team_buff:440,dx:2361,ds:471
+7022,_c_Halloween_Edward,3*,light,blade,6424,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],!<hp100 & hit10 & hit15 & hp70>,,attack:1725,skill_1:1763,skill_2:642,skill_3:763,team_buff:440,dx:1406,ds:280
 -,180,affliction
-12821,Halloween_Edward,3*,light,blade,7460,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],<hp100 & hit10 & hit15 & hp70>,,attack:3213,skill_1:3328,skill_2:1212,skill_3:1440,team_buff:440,dx:2654,ds:530
-8346,_c_Halloween_Edward,3*,light,blade,6424,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],!<hp100 & hit10 & hit15 & hp70>,,attack:2072,skill_1:2117,skill_2:771,skill_3:916,team_buff:440,dx:1689,ds:337
+12811,Halloween_Edward,3*,light,blade,7460,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],<hp100 & hit10 & hit15 & hp70>,,attack:3211,skill_1:3326,skill_2:1211,skill_3:1439,team_buff:440,dx:2652,ds:529
+8339,_c_Halloween_Edward,3*,light,blade,6424,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],!<hp100 & hit10 & hit15 & hp70>,,attack:2070,skill_1:2116,skill_2:770,skill_3:915,team_buff:440,dx:1687,ds:337

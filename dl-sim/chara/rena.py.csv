@@ -1,18 +1,18 @@
 -,60,_
-17359,Rena,5*,flame,blade,5244,[Primal_Crisis+Elegant_Escort][Konohana_Sakuya][Agito][Wand|Dagger|Marth],<0 burn res & hit10 & hit15>,85% burn uptime,attack:3755,force_strike:455,skill_1:10472,s1_burn:2674
-7131,_c_Rena,5*,flame,blade,5244,[Primal_Crisis+Elegant_Escort][Konohana_Sakuya][Agito][Wand|Dagger|Marth],!<0 burn res & hit10 & hit15>,,attack:2210,force_strike:260,skill_1:4659,s1_burn:0
+21388,Rena,5*,flame,blade,8343,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Dagger|Marth],<0 burn res & hit10 & hp50 & hp70>,74% burn uptime,attack:3207,force_strike:323,skill_1:8725,s1_burn:1880,dx:4728,ds:2522
+11053,_c_Rena,5*,flame,blade,7465,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Dagger|Marth],!<0 burn res & hit10 & hp50 & hp70>,,attack:2019,force_strike:198,skill_1:4062,s1_burn:0,dx:3102,ds:1668
 -,60,affliction
-17582,Rena,5*,flame,blade,5244,[Primal_Crisis+Elegant_Escort][Konohana_Sakuya][Agito][Wand|Dagger|Marth],<0 burn res & hit10 & hit15>,,attack:3876,force_strike:463,skill_1:10493,s1_burn:2748
-10704,_c_Rena,5*,flame,blade,5244,[Primal_Crisis+Elegant_Escort][Konohana_Sakuya][Agito][Wand|Dagger|Marth],!<0 burn res & hit10 & hit15>,,attack:2873,force_strike:339,skill_1:7490,s1_burn:0
+22687,Rena,5*,flame,blade,8343,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Dagger|Marth],<0 burn res & hit10 & hp50 & hp70>,,attack:3399,force_strike:333,skill_1:8764,s1_burn:2038,dx:5288,ds:2862
+15762,_c_Rena,5*,flame,blade,7465,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Dagger|Marth],!<0 burn res & hit10 & hp50 & hp70>,,attack:2625,force_strike:258,skill_1:6674,s1_burn:0,dx:4033,ds:2169
 -,120,_
-17266,Rena,5*,flame,blade,5244,[Primal_Crisis+Elegant_Escort][Konohana_Sakuya][Agito][Wand|Dagger|Marth],<0 burn res & hit10 & hit15>,84% burn uptime,attack:3874,force_strike:485,skill_1:10347,s1_burn:2557
-7183,_c_Rena,5*,flame,blade,5244,[Primal_Crisis+Elegant_Escort][Konohana_Sakuya][Agito][Wand|Dagger|Marth],!<0 burn res & hit10 & hit15>,,attack:2243,force_strike:277,skill_1:4661,s1_burn:0
+21292,Rena,5*,flame,blade,8343,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Dagger|Marth],<0 burn res & hit10 & hp50 & hp70>,77% burn uptime,attack:3710,force_strike:445,skill_1:8518,s1_burn:2194,dx:4021,ds:2401
+10816,_c_Rena,5*,flame,blade,7465,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Dagger|Marth],!<0 burn res & hit10 & hp50 & hp70>,,attack:2260,force_strike:268,skill_1:3977,s1_burn:0,dx:2685,ds:1624
 -,120,affliction
-17708,Rena,5*,flame,blade,5244,[Primal_Crisis+Elegant_Escort][Konohana_Sakuya][Agito][Wand|Dagger|Marth],<0 burn res & hit10 & hit15>,,attack:4023,force_strike:500,skill_1:10498,s1_burn:2686
-10772,_c_Rena,5*,flame,blade,5244,[Primal_Crisis+Elegant_Escort][Konohana_Sakuya][Agito][Wand|Dagger|Marth],!<0 burn res & hit10 & hit15>,,attack:2916,force_strike:361,skill_1:7493,s1_burn:0
+22619,Rena,5*,flame,blade,8343,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Dagger|Marth],<0 burn res & hit10 & hp50 & hp70>,,attack:3857,force_strike:457,skill_1:8647,s1_burn:2339,dx:4548,ds:2768
+15448,_c_Rena,5*,flame,blade,7465,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Dagger|Marth],!<0 burn res & hit10 & hp50 & hp70>,,attack:2938,force_strike:348,skill_1:6558,s1_burn:0,dx:3491,ds:2111
 -,180,_
-17398,Rena,5*,flame,blade,5244,[Primal_Crisis+Elegant_Escort][Konohana_Sakuya][Agito][Wand|Dagger|Marth],<0 burn res & hit10 & hit15>,78% burn uptime,attack:3869,force_strike:493,skill_1:10815,s1_burn:2219
-7495,_c_Rena,5*,flame,blade,5244,[Primal_Crisis+Elegant_Escort][Konohana_Sakuya][Agito][Wand|Dagger|Marth],!<0 burn res & hit10 & hit15>,,attack:2265,force_strike:287,skill_1:4941,s1_burn:0
+19671,Rena,5*,flame,blade,8343,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Dagger|Marth],<0 burn res & hit10 & hp50 & hp70>,73% burn uptime,attack:4258,force_strike:517,skill_1:8967,s1_burn:1937,dx:2589,ds:1399
+10123,_c_Rena,5*,flame,blade,7465,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Dagger|Marth],!<0 burn res & hit10 & hp50 & hp70>,,attack:2611,force_strike:315,skill_1:4385,s1_burn:0,dx:1828,ds:982
 -,180,affliction
-18387,Rena,5*,flame,blade,5244,[Primal_Crisis+Elegant_Escort][Konohana_Sakuya][Agito][Wand|Dagger|Marth],<0 burn res & hit10 & hit15>,,attack:4091,force_strike:520,skill_1:11357,s1_burn:2417
-11415,_c_Rena,5*,flame,blade,5244,[Primal_Crisis+Elegant_Escort][Konohana_Sakuya][Agito][Wand|Dagger|Marth],!<0 burn res & hit10 & hit15>,,attack:2945,force_strike:373,skill_1:8095,s1_burn:0
+21334,Rena,5*,flame,blade,8343,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Dagger|Marth],<0 burn res & hit10 & hp50 & hp70>,,attack:4469,force_strike:538,skill_1:9458,s1_burn:2154,dx:3054,ds:1658
+14669,_c_Rena,5*,flame,blade,7465,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Dagger|Marth],!<0 burn res & hit10 & hp50 & hp70>,,attack:3395,force_strike:409,skill_1:7209,s1_burn:0,dx:2377,ds:1276

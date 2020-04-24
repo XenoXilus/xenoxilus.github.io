@@ -1,18 +1,18 @@
 -,60,_
-10804,Xuan_Zang,4*,flame,lance,6971,[Resounding_Rendition+Breakfast_at_Valerios][Dreadking_Rathalos][Agito][Blade|Wand|Marth],<hp70 & hp60 & hit10 & hit15>,,attack:3352,force_strike:1713,skill_1:4047,s1_boost:547,team_buff:1141
-7666,_c_Xuan_Zang,4*,flame,lance,6639,[Resounding_Rendition+Breakfast_at_Valerios][Dreadking_Rathalos][Agito][Blade|Wand|Marth],!<hp70 & hp60 & hit10 & hit15>,,attack:2283,force_strike:1157,skill_1:2714,s1_boost:368,team_buff:1141
+15065,Xuan_Zang,4*,flame,lance,8545,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Blade|Marth|Serena],<hp70 & hp60 & hit10 & hp50 & hit15>,,attack:3255,force_strike:496,skill_1:3387,s1_boost:404,team_buff:1063,dx:4435,ds:2021
+9225,_c_Xuan_Zang,4*,flame,lance,7281,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Blade|Marth|Serena],!<hp70 & hp60 & hit10 & hp50 & hit15>,,attack:1915,force_strike:289,skill_1:1951,s1_boost:235,team_buff:1063,dx:2600,ds:1170
 -,60,affliction
-11904,Xuan_Zang,4*,flame,lance,6935,[Primal_Crisis+Elegant_Escort][Dreadking_Rathalos][Agito][Blade|Wand|Marth],<hp70 & hp60 & hit10 & hit15>,,attack:4185,force_strike:2142,skill_1:3904,s1_boost:528,team_buff:1141
-8659,_c_Xuan_Zang,4*,flame,lance,6605,[Primal_Crisis+Elegant_Escort][Dreadking_Rathalos][Agito][Blade|Wand|Marth],!<hp70 & hp60 & hit10 & hit15>,,attack:2953,force_strike:1496,skill_1:2700,s1_boost:366,team_buff:1141
+16883,Xuan_Zang,4*,flame,lance,8521,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Serena],<hp70 & hp60 & hit10 & hp50>,,attack:3704,force_strike:567,skill_1:3816,s1_boost:456,team_buff:1063,dx:4997,ds:2278
+11644,_c_Xuan_Zang,4*,flame,lance,7261,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Serena],!<hp70 & hp60 & hit10 & hp50>,,attack:2483,force_strike:374,skill_1:2529,s1_boost:304,team_buff:1063,dx:3370,ds:1517
 -,120,_
-11603,Xuan_Zang,4*,flame,lance,6971,[Resounding_Rendition+Breakfast_at_Valerios][Dreadking_Rathalos][Agito][Blade|Wand|Marth],<hp70 & hp60 & hit10 & hit15>,,attack:3470,force_strike:1767,skill_1:4157,s1_boost:661,team_buff:1546
-8324,_c_Xuan_Zang,4*,flame,lance,6639,[Resounding_Rendition+Breakfast_at_Valerios][Dreadking_Rathalos][Agito][Blade|Wand|Marth],!<hp70 & hp60 & hit10 & hit15>,,attack:2348,force_strike:1190,skill_1:2792,s1_boost:445,team_buff:1546
+15472,Xuan_Zang,4*,flame,lance,8545,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Blade|Marth|Serena],<hp70 & hp60 & hit10 & hp50 & hit15>,,attack:3697,force_strike:504,skill_1:3754,s1_boost:577,team_buff:1328,dx:3595,ds:2013
+9531,_c_Xuan_Zang,4*,flame,lance,7281,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Blade|Marth|Serena],!<hp70 & hp60 & hit10 & hp50 & hit15>,,attack:2147,force_strike:291,skill_1:2161,s1_boost:333,team_buff:1328,dx:2102,ds:1165
 -,120,affliction
-12753,Xuan_Zang,4*,flame,lance,6935,[Primal_Crisis+Elegant_Escort][Dreadking_Rathalos][Agito][Blade|Wand|Marth],<hp70 & hp60 & hit10 & hit15>,,attack:4343,force_strike:2212,skill_1:4011,s1_boost:638,team_buff:1546
-9345,_c_Xuan_Zang,4*,flame,lance,6605,[Primal_Crisis+Elegant_Escort][Dreadking_Rathalos][Agito][Blade|Wand|Marth],!<hp70 & hp60 & hit10 & hit15>,,attack:3037,force_strike:1540,skill_1:2778,s1_boost:442,team_buff:1546
+17286,Xuan_Zang,4*,flame,lance,8521,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Serena],<hp70 & hp60 & hit10 & hp50>,,attack:4183,force_strike:573,skill_1:4230,s1_boost:651,team_buff:1328,dx:4050,ds:2268
+11962,_c_Xuan_Zang,4*,flame,lance,7261,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Serena],!<hp70 & hp60 & hit10 & hp50>,,attack:2784,force_strike:378,skill_1:2801,s1_boost:432,team_buff:1328,dx:2725,ds:1511
 -,180,_
-11860,Xuan_Zang,4*,flame,lance,6971,[Resounding_Rendition+Breakfast_at_Valerios][Dreadking_Rathalos][Agito][Blade|Wand|Marth],<hp70 & hp60 & hit10 & hit15>,,attack:3513,force_strike:1826,skill_1:4192,s1_boost:699,team_buff:1627
-8519,_c_Xuan_Zang,4*,flame,lance,6639,[Resounding_Rendition+Breakfast_at_Valerios][Dreadking_Rathalos][Agito][Blade|Wand|Marth],!<hp70 & hp60 & hit10 & hit15>,,attack:2373,force_strike:1230,skill_1:2817,s1_boost:470,team_buff:1627
+15402,Xuan_Zang,4*,flame,lance,8545,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Blade|Marth|Serena],<hp70 & hp60 & hit10 & hp50 & hit15>,,attack:4052,force_strike:512,skill_1:4167,s1_boost:687,team_buff:1587,dx:2990,ds:1404
+9590,_c_Xuan_Zang,4*,flame,lance,7281,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Blade|Marth|Serena],!<hp70 & hp60 & hit10 & hp50 & hit15>,,attack:2344,force_strike:295,skill_1:2400,s1_boost:396,team_buff:1587,dx:1752,ds:813
 -,180,affliction
-13038,Xuan_Zang,4*,flame,lance,6935,[Primal_Crisis+Elegant_Escort][Dreadking_Rathalos][Agito][Blade|Wand|Marth],<hp70 & hp60 & hit10 & hit15>,,attack:4401,force_strike:2289,skill_1:4045,s1_boost:675,team_buff:1627
-9559,_c_Xuan_Zang,4*,flame,lance,6605,[Primal_Crisis+Elegant_Escort][Dreadking_Rathalos][Agito][Blade|Wand|Marth],!<hp70 & hp60 & hit10 & hit15>,,attack:3069,force_strike:1591,skill_1:2803,s1_boost:468,team_buff:1627
+17167,Xuan_Zang,4*,flame,lance,8521,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Serena],<hp70 & hp60 & hit10 & hp50>,,attack:4578,force_strike:579,skill_1:4695,s1_boost:774,team_buff:1587,dx:3369,ds:1582
+11962,_c_Xuan_Zang,4*,flame,lance,7261,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Serena],!<hp70 & hp60 & hit10 & hp50>,,attack:3039,force_strike:382,skill_1:3112,s1_boost:514,team_buff:1587,dx:2271,ds:1054

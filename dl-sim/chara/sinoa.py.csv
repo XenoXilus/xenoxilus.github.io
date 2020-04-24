@@ -1,18 +1,18 @@
 -,60,_
-12857,Sinoa,4*,flame,wand,7531,[Primal_Crisis+Candy_Couriers][Dreadking_Rathalos][Agito][Blade|Gala_Sarisse|Marth],<hp100 & hit10 & hit15 & always connect hits>,28% burn uptime,attack:2507,skill_2:1849,team_buff:1561,dx:5217,ds_burn:480,ds:1239
-9318,_c_Sinoa,4*,flame,wand,6948,[Primal_Crisis+Candy_Couriers][Dreadking_Rathalos][Agito][Blade|Gala_Sarisse|Marth],!<hp100 & hit10 & hit15 & always connect hits>,28% burn uptime,attack:1798,skill_2:1099,team_buff:1561,dx:3651,ds_burn:337,ds:869
+16101,Sinoa,4*,flame,wand,9100,[Candy_Couriers+Primal_Crisis][Gala_Mars][Agito][Blade|Gala_Sarisse|Marth],<hp100 & hit10 & hp50 & hit15 & always connect hits>,,attack:3908,skill_2:3473,team_buff:2164,dx:4150,ds:2403
+11056,_c_Sinoa,4*,flame,wand,7620,[Candy_Couriers+Primal_Crisis][Gala_Mars][Agito][Blade|Gala_Sarisse|Marth],!<hp100 & hit10 & hp50 & hit15 & always connect hits>,,attack:2594,skill_2:1992,team_buff:2164,dx:2731,ds:1572
 -,60,affliction
-15945,Sinoa,4*,flame,wand,7023,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Gala_Sarisse|Marth],<hp100 & hit10 & hit15 & always connect hits>,,attack:3507,skill_2:1959,team_buff:1781,dx:6830,ds_burn:324,ds:1541
-11428,_c_Sinoa,4*,flame,wand,6463,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Gala_Sarisse|Marth],!<hp100 & hit10 & hit15 & always connect hits>,,attack:2501,skill_2:1092,team_buff:1781,dx:4751,ds_burn:226,ds:1074
+17683,Sinoa,4*,flame,wand,9097,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito][Blade|Gala_Sarisse|Marth],<hp100 & hit10 & hp50 & always connect hits>,,attack:4395,skill_2:3853,team_buff:2164,dx:4600,ds:2667
+13720,_c_Sinoa,4*,flame,wand,7618,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito][Blade|Gala_Sarisse|Marth],!<hp100 & hit10 & hp50 & always connect hits>,,attack:3371,skill_2:2590,team_buff:2164,dx:3549,ds:2043
 -,120,_
-12771,Sinoa,4*,flame,wand,7531,[Primal_Crisis+Candy_Couriers][Dreadking_Rathalos][Agito][Blade|Gala_Sarisse|Marth],<hp100 & hit10 & hit15 & always connect hits>,20% burn uptime,attack:3545,skill_2:2656,team_buff:2235,dx:3346,ds_burn:362,ds:623
-9437,_c_Sinoa,4*,flame,wand,6948,[Primal_Crisis+Candy_Couriers][Dreadking_Rathalos][Agito][Blade|Gala_Sarisse|Marth],!<hp100 & hit10 & hit15 & always connect hits>,20% burn uptime,attack:2508,skill_2:1657,team_buff:2235,dx:2343,ds_burn:254,ds:437
+16394,Sinoa,4*,flame,wand,9100,[Candy_Couriers+Primal_Crisis][Gala_Mars][Agito][Blade|Gala_Sarisse|Marth],<hp100 & hit10 & hp50 & hit15 & always connect hits>,,attack:4366,skill_2:3374,team_buff:2771,dx:3444,ds:2436
+11484,_c_Sinoa,4*,flame,wand,7620,[Candy_Couriers+Primal_Crisis][Gala_Mars][Agito][Blade|Gala_Sarisse|Marth],!<hp100 & hit10 & hp50 & hit15 & always connect hits>,,attack:2868,skill_2:1983,team_buff:2771,dx:2265,ds:1594
 -,120,affliction
-15174,Sinoa,4*,flame,wand,7023,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Gala_Sarisse|Marth],<hp100 & hit10 & hit15 & always connect hits>,,attack:5083,skill_2:2779,team_buff:2408,dx:3838,ds_burn:271,ds:792
-11051,_c_Sinoa,4*,flame,wand,6463,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Gala_Sarisse|Marth],!<hp100 & hit10 & hit15 & always connect hits>,,attack:3575,skill_2:1651,team_buff:2408,dx:2672,ds_burn:189,ds:553
+17918,Sinoa,4*,flame,wand,9097,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito][Blade|Gala_Sarisse|Marth],<hp100 & hit10 & hp50 & always connect hits>,,attack:4875,skill_2:3744,team_buff:2771,dx:3820,ds:2705
+14094,_c_Sinoa,4*,flame,wand,7618,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito][Blade|Gala_Sarisse|Marth],!<hp100 & hit10 & hp50 & always connect hits>,,attack:3727,skill_2:2578,team_buff:2771,dx:2944,ds:2072
 -,180,_
-12594,Sinoa,4*,flame,wand,7531,[Primal_Crisis+Candy_Couriers][Dreadking_Rathalos][Agito][Blade|Gala_Sarisse|Marth],<hp100 & hit10 & hit15 & always connect hits>,13% burn uptime,attack:4047,skill_2:2930,team_buff:2619,dx:2227,ds_burn:288,ds:480
-9364,_c_Sinoa,4*,flame,wand,6948,[Primal_Crisis+Candy_Couriers][Dreadking_Rathalos][Agito][Blade|Gala_Sarisse|Marth],!<hp100 & hit10 & hit15 & always connect hits>,13% burn uptime,attack:2857,skill_2:1857,team_buff:2619,dx:1560,ds_burn:172,ds:296
+16066,Sinoa,4*,flame,wand,9100,[Candy_Couriers+Primal_Crisis][Gala_Mars][Agito][Blade|Gala_Sarisse|Marth],<hp100 & hit10 & hp50 & hit15 & always connect hits>,,attack:4656,skill_2:3913,team_buff:2840,dx:2774,ds:1881
+11176,_c_Sinoa,4*,flame,wand,7620,[Candy_Couriers+Primal_Crisis][Gala_Mars][Agito][Blade|Gala_Sarisse|Marth],!<hp100 & hit10 & hp50 & hit15 & always connect hits>,,attack:3049,skill_2:2408,team_buff:2840,dx:1826,ds:1051
 -,180,affliction
-14737,Sinoa,4*,flame,wand,7023,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Gala_Sarisse|Marth],<hp100 & hit10 & hit15 & always connect hits>,,attack:5754,skill_2:2937,team_buff:2735,dx:2549,ds_burn:194,ds:566
-10917,_c_Sinoa,4*,flame,wand,6463,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Gala_Sarisse|Marth],!<hp100 & hit10 & hit15 & always connect hits>,,attack:4038,skill_2:1863,team_buff:2735,dx:1775,ds_burn:135,ds:368
+17534,Sinoa,4*,flame,wand,9097,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito][Blade|Gala_Sarisse|Marth],<hp100 & hit10 & hp50 & always connect hits>,,attack:5187,skill_2:4342,team_buff:2840,dx:3076,ds:2087
+13674,_c_Sinoa,4*,flame,wand,7618,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito][Blade|Gala_Sarisse|Marth],!<hp100 & hit10 & hp50 & always connect hits>,,attack:3963,skill_2:3130,team_buff:2840,dx:2373,ds:1366

@@ -1,18 +1,18 @@
 -,60,_
-16998,Gala_Mym,5*,flame,lance,5228,[Primal_Crisis+The_Red_Impulse][Konohana_Sakuya][Agito][Blade|Serena|Wand],<hit10 & hit15>,,attack:2057,force_strike:283,skill_1:4409,skill_2:1699,s2_boost:532,dx:2165,ds:5848
-12862,_c_Gala_Mym,5*,flame,lance,5228,[Primal_Crisis+The_Red_Impulse][Konohana_Sakuya][Agito][Blade|Serena|Wand],!<hit10 & hit15>,,attack:1584,force_strike:219,skill_1:3318,skill_2:1277,s2_boost:402,dx:1637,ds:4422
+15870,Gala_Mym,5*,flame,lance,8318,[Resounding_Rendition+The_Red_Impulse][Gala_Mars][Agito][Blade|Serena|Wand],<hit10 & hp50 & hp70>,,attack:2273,force_strike:378,skill_1:3813,skill_2:1373,s2_boost:392,dx:4760,ds:2878
+12576,_c_Gala_Mym,5*,flame,lance,7442,[Resounding_Rendition+The_Red_Impulse][Gala_Mars][Agito][Blade|Serena|Wand],!<hit10 & hp50 & hp70>,,attack:1807,force_strike:298,skill_1:3016,skill_2:1084,s2_boost:311,dx:3774,ds:2282
 -,60,affliction
-17000,Gala_Mym,5*,flame,lance,6534,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Verica|Yuya],<hit15>,,attack:2611,force_strike:379,skill_1:2569,skill_2:530,dx:8550,ds:2357
-14278,_c_Gala_Mym,5*,flame,lance,6534,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Verica|Yuya],!<hit15>,,attack:2229,force_strike:327,skill_1:2143,skill_2:439,dx:7163,ds:1975
+18595,Gala_Mym,5*,flame,lance,8295,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Blade|Verica|Yuya],<hp50 & hp70>,,attack:2964,force_strike:489,skill_1:4091,skill_2:1482,s2_boost:413,dx:6250,ds:2903
+15929,_c_Gala_Mym,5*,flame,lance,7422,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Blade|Verica|Yuya],!<hp50 & hp70>,,attack:2533,force_strike:418,skill_1:3501,skill_2:1267,s2_boost:355,dx:5363,ds:2491
 -,120,_
-18214,Gala_Mym,5*,flame,lance,5228,[Primal_Crisis+The_Red_Impulse][Konohana_Sakuya][Agito][Blade|Serena|Wand],<hit10 & hit15>,,attack:2853,force_strike:445,skill_1:6469,skill_2:3064,s2_boost:1379,dx:1081,ds:2920
-13771,_c_Gala_Mym,5*,flame,lance,5228,[Primal_Crisis+The_Red_Impulse][Konohana_Sakuya][Agito][Blade|Serena|Wand],!<hit10 & hit15>,,attack:2169,force_strike:339,skill_1:4879,skill_2:2313,s2_boost:1042,dx:817,ds:2207
+18333,Gala_Mym,5*,flame,lance,8318,[Resounding_Rendition+The_Red_Impulse][Gala_Mars][Agito][Blade|Serena|Wand],<hit10 & hp50 & hp70>,,attack:2600,force_strike:420,skill_1:4614,skill_2:2041,s2_boost:876,dx:5131,ds:2648
+14526,_c_Gala_Mym,5*,flame,lance,7442,[Resounding_Rendition+The_Red_Impulse][Gala_Mars][Agito][Blade|Serena|Wand],!<hit10 & hp50 & hp70>,,attack:2062,force_strike:332,skill_1:3650,skill_2:1617,s2_boost:695,dx:4068,ds:2100
 -,120,affliction
-19671,Gala_Mym,5*,flame,lance,6534,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Verica|Yuya],<hit15>,,attack:3340,force_strike:523,skill_1:2833,skill_2:1425,s2_boost:583,dx:8909,ds:2055
-16492,_c_Gala_Mym,5*,flame,lance,6534,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Verica|Yuya],!<hit15>,,attack:2815,force_strike:443,skill_1:2366,skill_2:1191,s2_boost:489,dx:7463,ds:1722
+20493,Gala_Mym,5*,flame,lance,8295,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Blade|Verica|Yuya],<hp50 & hp70>,,attack:3633,force_strike:555,skill_1:5416,skill_2:1688,s2_boost:682,dx:5957,ds:2560
+17563,_c_Gala_Mym,5*,flame,lance,7422,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Blade|Verica|Yuya],!<hp50 & hp70>,,attack:3109,force_strike:475,skill_1:4637,skill_2:1446,s2_boost:585,dx:5112,ds:2196
 -,180,_
-18626,Gala_Mym,5*,flame,lance,5228,[Primal_Crisis+The_Red_Impulse][Konohana_Sakuya][Agito][Blade|Serena|Wand],<hit10 & hit15>,,attack:3064,force_strike:461,skill_1:7245,skill_2:2795,s2_boost:1188,dx:1014,ds:2856
-14072,_c_Gala_Mym,5*,flame,lance,5228,[Primal_Crisis+The_Red_Impulse][Konohana_Sakuya][Agito][Blade|Serena|Wand],!<hit10 & hit15>,,attack:2323,force_strike:350,skill_1:5464,skill_2:2108,s2_boost:898,dx:767,ds:2159
+19576,Gala_Mym,5*,flame,lance,8318,[Resounding_Rendition+The_Red_Impulse][Gala_Mars][Agito][Blade|Serena|Wand],<hit10 & hp50 & hp70>,,attack:3186,force_strike:488,skill_1:6157,skill_2:2354,s2_boost:985,dx:3857,ds:2544
+15511,_c_Gala_Mym,5*,flame,lance,7442,[Resounding_Rendition+The_Red_Impulse][Gala_Mars][Agito][Blade|Serena|Wand],!<hit10 & hp50 & hp70>,,attack:2525,force_strike:386,skill_1:4875,skill_2:1864,s2_boost:781,dx:3059,ds:2017
 -,180,affliction
-20414,Gala_Mym,5*,flame,lance,6534,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Verica|Yuya],<hit15>,,attack:3878,force_strike:580,skill_1:3645,skill_2:1389,s2_boost:520,dx:8422,ds:1976
-17103,_c_Gala_Mym,5*,flame,lance,6534,[Primal_Crisis+Elegant_Escort][Apollo][Agito][Blade|Verica|Yuya],!<hit15>,,attack:3258,force_strike:488,skill_1:3045,skill_2:1161,s2_boost:436,dx:7056,ds:1656
+22386,Gala_Mym,5*,flame,lance,8295,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Blade|Verica|Yuya],<hp50 & hp70>,,attack:3890,force_strike:595,skill_1:5828,skill_2:2370,s2_boost:969,dx:6287,ds:2442
+19189,_c_Gala_Mym,5*,flame,lance,7422,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Blade|Verica|Yuya],!<hp50 & hp70>,,attack:3331,force_strike:510,skill_1:4993,skill_2:2031,s2_boost:832,dx:5395,ds:2096
