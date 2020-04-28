@@ -1,18 +1,18 @@
 -,60,_
-32448,Hawk,5*,wind,bow,5787,[The_Chocolatiers+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],<0 poison res & 80 stun res & hp100>,93% poison uptime; 11% stun uptime,attack:2790,force_strike:1335,fs_poison:555,skill_1:24686,skill_2:3080
-8195,_c_Hawk,5*,wind,bow,5144,[The_Chocolatiers+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],!<0 poison res & 80 stun res & hp100>,,attack:1476,force_strike:657,fs_poison:0,skill_1:4959,skill_2:1102
+33656,Hawk,5*,wind,bow,6002,[The_Chocolatiers+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],<0 poison res & 80 stun res & hp100>,93% poison uptime; 11% stun uptime,attack:2894,force_strike:1385,fs_poison:575,skill_1:25604,skill_2:3194
+8500,_c_Hawk,5*,wind,bow,5335,[The_Chocolatiers+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],!<0 poison res & 80 stun res & hp100>,,attack:1531,force_strike:681,fs_poison:0,skill_1:5144,skill_2:1143
 -,60,affliction
-32508,Hawk,5*,wind,bow,5787,[The_Chocolatiers+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],<0 poison res & 80 stun res & hp100>,11% stun uptime,attack:2806,force_strike:1335,fs_poison:598,skill_1:24686,skill_2:3080
-20560,_c_Hawk,5*,wind,bow,5144,[The_Chocolatiers+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],!<0 poison res & 80 stun res & hp100>,,attack:2214,force_strike:985,fs_poison:0,skill_1:14879,skill_2:2479
+33718,Hawk,5*,wind,bow,6002,[The_Chocolatiers+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],<0 poison res & 80 stun res & hp100>,11% stun uptime,attack:2911,force_strike:1385,fs_poison:621,skill_1:25604,skill_2:3194
+21325,_c_Hawk,5*,wind,bow,5335,[The_Chocolatiers+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],!<0 poison res & 80 stun res & hp100>,,attack:2296,force_strike:1022,fs_poison:0,skill_1:15433,skill_2:2572
 -,120,_
-33521,Hawk,5*,wind,bow,5790,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],<0 poison res & 80 stun res & hp70 & hp100>,85% poison uptime,attack:2979,force_strike:1127,fs_poison:547,skill_1:25026,skill_2:3840
-8934,_c_Hawk,5*,wind,bow,5146,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],!<0 poison res & 80 stun res & hp70 & hp100>,,attack:1624,force_strike:536,fs_poison:0,skill_1:5470,skill_2:1302
+34768,Hawk,5*,wind,bow,6005,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],<0 poison res & 80 stun res & hp70 & hp100>,85% poison uptime,attack:3090,force_strike:1169,fs_poison:567,skill_1:25956,skill_2:3983
+9266,_c_Hawk,5*,wind,bow,5338,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],!<0 poison res & 80 stun res & hp70 & hp100>,,attack:1685,force_strike:556,fs_poison:0,skill_1:5673,skill_2:1350
 -,120,affliction
-34352,Hawk,5*,wind,bow,5790,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],<0 poison res & 80 stun res & hp70 & hp100>,,attack:3168,force_strike:1127,fs_poison:570,skill_1:25644,skill_2:3840
-22582,_c_Hawk,5*,wind,bow,5146,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],!<0 poison res & 80 stun res & hp70 & hp100>,,attack:2437,force_strike:804,fs_poison:0,skill_1:16410,skill_2:2930
+35629,Hawk,5*,wind,bow,6005,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],<0 poison res & 80 stun res & hp70 & hp100>,,attack:3286,force_strike:1169,fs_poison:592,skill_1:26598,skill_2:3983
+23422,_c_Hawk,5*,wind,bow,5338,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],!<0 poison res & 80 stun res & hp70 & hp100>,,attack:2527,force_strike:834,fs_poison:0,skill_1:17020,skill_2:3039
 -,180,_
-32387,Hawk,5*,wind,bow,5790,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],<0 poison res & 80 stun res & hp70 & hp100>,84% poison uptime,attack:2994,force_strike:1063,fs_poison:526,skill_1:23088,skill_2:2919,dx:550,ds:1243
-9494,_c_Hawk,5*,wind,bow,5146,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],!<0 poison res & 80 stun res & hp70 & hp100>,,attack:1648,force_strike:514,fs_poison:0,skill_1:5278,skill_2:1131,dx:282,ds:638
+33591,Hawk,5*,wind,bow,6005,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],<0 poison res & 80 stun res & hp70 & hp100>,84% poison uptime,attack:3105,force_strike:1103,fs_poison:546,skill_1:23946,skill_2:3027,dx:570,ds:1289
+9847,_c_Hawk,5*,wind,bow,5338,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],!<0 poison res & 80 stun res & hp70 & hp100>,,attack:1709,force_strike:533,fs_poison:0,skill_1:5474,skill_2:1173,dx:293,ds:662
 -,180,affliction
-33382,Hawk,5*,wind,bow,5790,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],<0 poison res & 80 stun res & hp70 & hp100>,,attack:3189,force_strike:1063,fs_poison:569,skill_1:23500,skill_2:3264,dx:550,ds:1243
-23008,_c_Hawk,5*,wind,bow,5146,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],!<0 poison res & 80 stun res & hp70 & hp100>,,attack:2472,force_strike:771,fs_poison:0,skill_1:15835,skill_2:2546,dx:423,ds:957
+34623,Hawk,5*,wind,bow,6005,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],<0 poison res & 80 stun res & hp70 & hp100>,,attack:3307,force_strike:1103,fs_poison:591,skill_1:24374,skill_2:3385,dx:570,ds:1289
+23864,_c_Hawk,5*,wind,bow,5338,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Sylas],!<0 poison res & 80 stun res & hp70 & hp100>,,attack:2564,force_strike:800,fs_poison:0,skill_1:16424,skill_2:2641,dx:439,ds:993

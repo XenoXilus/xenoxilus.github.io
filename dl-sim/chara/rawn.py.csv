@@ -1,18 +1,18 @@
 -,60,_
-9730,Rawn,4*,light,bow,6006,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],<hit10 & hit15 & hp30 every 180s>,,attack:1552,force_strike:530,skill_1:1967,skill_2:936,skill_3:544,team_buff:664,dx:2907,ds:625
-7035,_c_Rawn,4*,light,bow,6006,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],!<hit10 & hit15 & hp30 every 180s>,,attack:1109,force_strike:371,skill_1:1377,skill_2:655,skill_3:381,team_buff:664,dx:2035,ds:437
+9800,Rawn,4*,light,bow,6052,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],<hit10 & hit15 & hp30 every 180s>,,attack:1564,force_strike:534,skill_1:1983,skill_2:943,skill_3:549,team_buff:664,dx:2929,ds:630
+7083,_c_Rawn,4*,light,bow,6052,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],!<hit10 & hit15 & hp30 every 180s>,,attack:1118,force_strike:374,skill_1:1388,skill_2:660,skill_3:384,team_buff:664,dx:2051,ds:441
 -,60,affliction
-10538,Rawn,4*,light,bow,6588,[Forest_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],<hit10 & hit15 & hp100>,,attack:1691,force_strike:578,skill_1:2143,skill_2:1020,skill_3:593,team_buff:664,dx:3166,ds:681
-7635,_c_Rawn,4*,light,bow,6006,[Forest_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],!<hit10 & hit15 & hp100>,,attack:1214,force_strike:406,skill_1:1507,skill_2:717,skill_3:417,team_buff:664,dx:2227,ds:479
+10614,Rawn,4*,light,bow,6638,[Forest_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],<hit10 & hit15 & hp100>,,attack:1704,force_strike:582,skill_1:2159,skill_2:1027,skill_3:598,team_buff:664,dx:3190,ds:686
+7688,_c_Rawn,4*,light,bow,6052,[Forest_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],!<hit10 & hit15 & hp100>,,attack:1223,force_strike:409,skill_1:1519,skill_2:723,skill_3:420,team_buff:664,dx:2244,ds:482
 -,120,_
-8805,Rawn,4*,light,bow,6006,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],<hit10 & hit15 & hp30 every 180s>,,attack:1755,force_strike:510,skill_1:2456,skill_2:1169,skill_3:816,team_buff:331,dx:1452,ds:312
-6275,_c_Rawn,4*,light,bow,6006,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],!<hit10 & hit15 & hp30 every 180s>,,attack:1240,force_strike:357,skill_1:1720,skill_2:818,skill_3:571,team_buff:331,dx:1016,ds:218
+8870,Rawn,4*,light,bow,6052,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],<hit10 & hit15 & hp30 every 180s>,,attack:1768,force_strike:514,skill_1:2475,skill_2:1178,skill_3:822,team_buff:331,dx:1463,ds:314
+6321,_c_Rawn,4*,light,bow,6052,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],!<hit10 & hit15 & hp30 every 180s>,,attack:1249,force_strike:360,skill_1:1733,skill_2:825,skill_3:575,team_buff:331,dx:1024,ds:220
 -,120,affliction
-9560,Rawn,4*,light,bow,6588,[Forest_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],<hit10 & hit15 & hp100>,,attack:1912,force_strike:555,skill_1:2675,skill_2:1273,skill_3:889,team_buff:331,dx:1581,ds:340
-6836,_c_Rawn,4*,light,bow,6006,[Forest_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],!<hit10 & hit15 & hp100>,,attack:1357,force_strike:391,skill_1:1882,skill_2:895,skill_3:625,team_buff:331,dx:1112,ds:239
+9631,Rawn,4*,light,bow,6638,[Forest_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],<hit10 & hit15 & hp100>,,attack:1926,force_strike:560,skill_1:2696,skill_2:1283,skill_3:895,team_buff:331,dx:1593,ds:342
+6885,_c_Rawn,4*,light,bow,6052,[Forest_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],!<hit10 & hit15 & hp100>,,attack:1367,force_strike:394,skill_1:1896,skill_2:902,skill_3:630,team_buff:331,dx:1120,ds:241
 -,180,_
-9387,Rawn,4*,light,bow,6006,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],<hit10 & hit15 & hp30 every 180s>,,attack:1640,force_strike:516,skill_1:2289,skill_2:1245,skill_3:905,team_buff:441,dx:1932,ds:415
-6712,_c_Rawn,4*,light,bow,6006,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],!<hit10 & hit15 & hp30 every 180s>,,attack:1156,force_strike:361,skill_1:1602,skill_2:871,skill_3:633,team_buff:441,dx:1352,ds:290
+9455,Rawn,4*,light,bow,6052,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],<hit10 & hit15 & hp30 every 180s>,,attack:1653,force_strike:520,skill_1:2306,skill_2:1254,skill_3:912,team_buff:441,dx:1947,ds:418
+6760,_c_Rawn,4*,light,bow,6052,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],!<hit10 & hit15 & hp30 every 180s>,,attack:1165,force_strike:364,skill_1:1614,skill_2:878,skill_3:638,team_buff:441,dx:1363,ds:293
 -,180,affliction
-10183,Rawn,4*,light,bow,6588,[Forest_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],<hit10 & hit15 & hp100>,,attack:1786,force_strike:562,skill_1:2492,skill_2:1356,skill_3:986,team_buff:441,dx:2104,ds:452
-7303,_c_Rawn,4*,light,bow,6006,[Forest_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],!<hit10 & hit15 & hp100>,,attack:1265,force_strike:395,skill_1:1753,skill_2:953,skill_3:693,team_buff:441,dx:1480,ds:318
+10258,Rawn,4*,light,bow,6638,[Forest_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],<hit10 & hit15 & hp100>,,attack:1800,force_strike:566,skill_1:2512,skill_2:1366,skill_3:993,team_buff:441,dx:2120,ds:456
+7355,_c_Rawn,4*,light,bow,6052,[Forest_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],!<hit10 & hit15 & hp100>,,attack:1274,force_strike:398,skill_1:1767,skill_2:961,skill_3:699,team_buff:441,dx:1491,ds:320

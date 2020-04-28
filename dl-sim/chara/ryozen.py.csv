@@ -1,18 +1,18 @@
 -,60,_
-10407,Ryozen,4*,light,lance,6779,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hp60 & hit10 & hit15 & hp70>,,attack:2432,force_strike:504,skill_2:1462,skill_3:1069,team_buff:661,dx:3644,ds:632
-6569,_c_Ryozen,4*,light,lance,6456,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hp60 & hit10 & hit15 & hp70>,,attack:1518,force_strike:312,skill_2:875,skill_3:640,team_buff:661,dx:2181,ds:378
+10477,Ryozen,4*,light,lance,6828,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hp60 & hit10 & hit15 & hp70>,,attack:2449,force_strike:508,skill_2:1473,skill_3:1077,team_buff:661,dx:3670,ds:637
+6611,_c_Ryozen,4*,light,lance,6502,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hp60 & hit10 & hit15 & hp70>,,attack:1528,force_strike:314,skill_2:882,skill_3:644,team_buff:661,dx:2197,ds:381
 -,60,affliction
-11588,Ryozen,4*,light,lance,7435,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hp60 & hit10 & hit15 & hp70 & hp100>,,attack:2751,force_strike:571,skill_2:1633,skill_3:1194,team_buff:661,dx:4069,ds:706
-7718,_c_Ryozen,4*,light,lance,6456,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hp60 & hit10 & hit15 & hp70 & hp100>,,attack:1813,force_strike:373,skill_2:1046,skill_3:764,team_buff:661,dx:2606,ds:452
+11666,Ryozen,4*,light,lance,7488,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hp60 & hit10 & hit15 & hp70 & hp100>,,attack:2770,force_strike:575,skill_2:1644,skill_3:1202,team_buff:661,dx:4098,ds:711
+7769,_c_Ryozen,4*,light,lance,6502,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hp60 & hit10 & hit15 & hp70 & hp100>,,attack:1826,force_strike:375,skill_2:1053,skill_3:770,team_buff:661,dx:2625,ds:455
 -,120,_
-9507,Ryozen,4*,light,lance,6779,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hp60 & hit10 & hit15 & hp70>,,attack:2628,force_strike:516,skill_2:1717,skill_3:1345,team_buff:332,dx:2328,ds:636
-5862,_c_Ryozen,4*,light,lance,6456,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hp60 & hit10 & hit15 & hp70>,,attack:1605,force_strike:314,skill_2:1028,skill_3:805,team_buff:332,dx:1394,ds:381
+9572,Ryozen,4*,light,lance,6828,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hp60 & hit10 & hit15 & hp70>,,attack:2647,force_strike:520,skill_2:1729,skill_3:1355,team_buff:332,dx:2344,ds:641
+5902,_c_Ryozen,4*,light,lance,6502,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hp60 & hit10 & hit15 & hp70>,,attack:1616,force_strike:316,skill_2:1035,skill_3:811,team_buff:332,dx:1403,ds:384
 -,120,affliction
-10599,Ryozen,4*,light,lance,7435,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hp60 & hit10 & hit15 & hp70 & hp100>,,attack:2953,force_strike:580,skill_2:1918,skill_3:1502,team_buff:332,dx:2599,ds:711
-6938,_c_Ryozen,4*,light,lance,6456,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hp60 & hit10 & hit15 & hp70 & hp100>,,attack:1917,force_strike:375,skill_2:1228,skill_3:962,team_buff:332,dx:1665,ds:455
+10672,Ryozen,4*,light,lance,7488,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hp60 & hit10 & hit15 & hp70 & hp100>,,attack:2974,force_strike:585,skill_2:1931,skill_3:1513,team_buff:332,dx:2618,ds:716
+6985,_c_Ryozen,4*,light,lance,6502,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hp60 & hit10 & hit15 & hp70 & hp100>,,attack:1931,force_strike:378,skill_2:1237,skill_3:969,team_buff:332,dx:1677,ds:458
 -,180,_
-9440,Ryozen,4*,light,lance,6779,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hp60 & hit10 & hit15 & hp70>,,attack:2718,force_strike:519,skill_2:1635,skill_3:1255,team_buff:443,dx:2444,ds:424
-5855,_c_Ryozen,4*,light,lance,6456,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hp60 & hit10 & hit15 & hp70>,,attack:1648,force_strike:314,skill_2:979,skill_3:751,team_buff:443,dx:1463,ds:254
+9504,Ryozen,4*,light,lance,6828,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hp60 & hit10 & hit15 & hp70>,,attack:2737,force_strike:522,skill_2:1646,skill_3:1264,team_buff:443,dx:2461,ds:427
+5893,_c_Ryozen,4*,light,lance,6502,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hp60 & hit10 & hit15 & hp70>,,attack:1660,force_strike:316,skill_2:986,skill_3:756,team_buff:443,dx:1473,ds:255
 -,180,affliction
-10504,Ryozen,4*,light,lance,7435,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hp60 & hit10 & hit15 & hp70 & hp100>,,attack:3047,force_strike:582,skill_2:1825,skill_3:1401,team_buff:443,dx:2729,ds:474
-6907,_c_Ryozen,4*,light,lance,6456,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hp60 & hit10 & hit15 & hp70 & hp100>,,attack:1968,force_strike:375,skill_2:1169,skill_3:897,team_buff:443,dx:1748,ds:303
+10576,Ryozen,4*,light,lance,7488,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hp60 & hit10 & hit15 & hp70 & hp100>,,attack:3068,force_strike:586,skill_2:1838,skill_3:1411,team_buff:443,dx:2748,ds:477
+6953,_c_Ryozen,4*,light,lance,6502,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hp60 & hit10 & hit15 & hp70 & hp100>,,attack:1983,force_strike:378,skill_2:1177,skill_3:904,team_buff:443,dx:1760,ds:305

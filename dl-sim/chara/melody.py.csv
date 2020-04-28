@@ -1,18 +1,18 @@
 -,60,_
-13308,Melody,3*,wind,blade,6406,[A_Dogs_Day+From_Whence_He_Comes][Ariel][Agito][Bow|Tobias|Lin_You],<hp100 & hit10>,,attack:4481,force_strike:440,team_buff:8385
-12746,_c_Melody,3*,wind,blade,6406,[A_Dogs_Day+From_Whence_He_Comes][Ariel][Agito][Bow|Tobias|Lin_You],!<hp100 & hit10>,,attack:3971,force_strike:388,team_buff:8385
+13458,Melody,3*,wind,blade,6603,[A_Dogs_Day+From_Whence_He_Comes][Ariel][Agito][Bow|Tobias|Lin_You],<hp100 & hit10>,,attack:4618,force_strike:453,team_buff:8385
+12880,_c_Melody,3*,wind,blade,6603,[A_Dogs_Day+From_Whence_He_Comes][Ariel][Agito][Bow|Tobias|Lin_You],!<hp100 & hit10>,,attack:4093,force_strike:400,team_buff:8385
 -,60,affliction
-14649,Melody,3*,wind,blade,7074,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Bow|Tobias|Lin_You],<hp100 & hit10>,,attack:5828,force_strike:620,team_buff:8199
-13386,_c_Melody,3*,wind,blade,6431,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Bow|Tobias|Lin_You],!<hp100 & hit10>,,attack:4687,force_strike:500,team_buff:8199
+14846,Melody,3*,wind,blade,7290,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Bow|Tobias|Lin_You],<hp100 & hit10>,,attack:6006,force_strike:639,team_buff:8199
+13545,_c_Melody,3*,wind,blade,6628,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Bow|Tobias|Lin_You],!<hp100 & hit10>,,attack:4830,force_strike:515,team_buff:8199
 -,120,_
-15590,Melody,3*,wind,blade,6406,[A_Dogs_Day+From_Whence_He_Comes][Ariel][Agito][Bow|Tobias|Lin_You],<hp100 & hit10>,,attack:4699,force_strike:506,team_buff:10383
-14993,_c_Melody,3*,wind,blade,6406,[A_Dogs_Day+From_Whence_He_Comes][Ariel][Agito][Bow|Tobias|Lin_You],!<hp100 & hit10>,,attack:4161,force_strike:447,team_buff:10383
+15750,Melody,3*,wind,blade,6603,[A_Dogs_Day+From_Whence_He_Comes][Ariel][Agito][Bow|Tobias|Lin_You],<hp100 & hit10>,,attack:4843,force_strike:522,team_buff:10383
+15135,_c_Melody,3*,wind,blade,6603,[A_Dogs_Day+From_Whence_He_Comes][Ariel][Agito][Bow|Tobias|Lin_You],!<hp100 & hit10>,,attack:4289,force_strike:461,team_buff:10383
 -,120,affliction
-16852,Melody,3*,wind,blade,7074,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Bow|Tobias|Lin_You],<hp100 & hit10>,,attack:6165,force_strike:689,team_buff:9996
-15510,_c_Melody,3*,wind,blade,6431,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Bow|Tobias|Lin_You],!<hp100 & hit10>,,attack:4957,force_strike:555,team_buff:9996
+17061,Melody,3*,wind,blade,7290,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Bow|Tobias|Lin_You],<hp100 & hit10>,,attack:6353,force_strike:710,team_buff:9996
+15678,_c_Melody,3*,wind,blade,6628,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Bow|Tobias|Lin_You],!<hp100 & hit10>,,attack:5109,force_strike:572,team_buff:9996
 -,180,_
-15947,Melody,3*,wind,blade,6406,[A_Dogs_Day+From_Whence_He_Comes][Ariel][Agito][Bow|Tobias|Lin_You],<hp100 & hit10>,,attack:4776,force_strike:510,team_buff:10660
-15340,_c_Melody,3*,wind,blade,6406,[A_Dogs_Day+From_Whence_He_Comes][Ariel][Agito][Bow|Tobias|Lin_You],!<hp100 & hit10>,,attack:4228,force_strike:451,team_buff:10660
+16109,Melody,3*,wind,blade,6603,[A_Dogs_Day+From_Whence_He_Comes][Ariel][Agito][Bow|Tobias|Lin_You],<hp100 & hit10>,,attack:4922,force_strike:526,team_buff:10660
+15484,_c_Melody,3*,wind,blade,6603,[A_Dogs_Day+From_Whence_He_Comes][Ariel][Agito][Bow|Tobias|Lin_You],!<hp100 & hit10>,,attack:4358,force_strike:465,team_buff:10660
 -,180,affliction
-17283,Melody,3*,wind,blade,7074,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Bow|Tobias|Lin_You],<hp100 & hit10>,,attack:6254,force_strike:689,team_buff:10339
-15923,_c_Melody,3*,wind,blade,6431,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Bow|Tobias|Lin_You],!<hp100 & hit10>,,attack:5028,force_strike:554,team_buff:10339
+17495,Melody,3*,wind,blade,7290,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Bow|Tobias|Lin_You],<hp100 & hit10>,,attack:6445,force_strike:710,team_buff:10339
+16093,_c_Melody,3*,wind,blade,6628,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Bow|Tobias|Lin_You],!<hp100 & hit10>,,attack:5182,force_strike:571,team_buff:10339

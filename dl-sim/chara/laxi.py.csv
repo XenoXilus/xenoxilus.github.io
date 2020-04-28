@@ -1,18 +1,18 @@
 -,60,_
-13415,Laxi,4*,flame,blade,8449,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hp70 & hit15>,a1 proc at 0s,attack:3204,force_strike:243,skill_1:1713,s1_boost:1460,dx:4658,ds:2135
-8577,_c_Laxi,4*,flame,blade,7560,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hp70 & hit15>,a1 proc at 0s,attack:2090,force_strike:160,skill_1:1080,s1_boost:926,dx:2969,ds:1350
+13515,Laxi,4*,flame,blade,8512,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hp70 & hit15>,a1 proc at 0s,attack:3228,force_strike:244,skill_1:1726,s1_boost:1471,dx:4693,ds:2151
+8641,_c_Laxi,4*,flame,blade,7616,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hp70 & hit15>,a1 proc at 0s,attack:2105,force_strike:161,skill_1:1088,s1_boost:933,dx:2991,ds:1361
 -,60,affliction
-15295,Laxi,4*,flame,blade,8408,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hit15>,a1 proc at 0s,attack:3994,force_strike:302,skill_1:1658,s1_boost:1413,dx:5860,ds:2066
-10093,_c_Laxi,4*,flame,blade,7523,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hit15>,a1 proc at 0s,attack:2703,force_strike:207,skill_1:1075,s1_boost:921,dx:3840,ds:1344
+15409,Laxi,4*,flame,blade,8470,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hit15>,a1 proc at 0s,attack:4024,force_strike:304,skill_1:1670,s1_boost:1423,dx:5904,ds:2081
+10168,_c_Laxi,4*,flame,blade,7579,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hit15>,a1 proc at 0s,attack:2723,force_strike:208,skill_1:1083,s1_boost:928,dx:3869,ds:1354
 -,120,_
-14134,Laxi,4*,flame,blade,8449,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hp70 & hit15>,a1 proc at 0s,attack:4074,force_strike:331,skill_1:1886,s1_boost:1762,dx:3875,ds:2202
-9051,_c_Laxi,4*,flame,blade,7560,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hp70 & hit15>,a1 proc at 0s,attack:2621,force_strike:214,skill_1:1197,s1_boost:1121,dx:2486,ds:1408
+14238,Laxi,4*,flame,blade,8512,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hp70 & hit15>,a1 proc at 0s,attack:4104,force_strike:334,skill_1:1900,s1_boost:1775,dx:3904,ds:2219
+9118,_c_Laxi,4*,flame,blade,7616,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hp70 & hit15>,a1 proc at 0s,attack:2641,force_strike:215,skill_1:1206,s1_boost:1130,dx:2505,ds:1418
 -,120,affliction
-16062,Laxi,4*,flame,blade,8408,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hit15>,a1 proc at 0s,attack:5107,force_strike:415,skill_1:1825,s1_boost:1705,dx:4875,ds:2131
-10595,_c_Laxi,4*,flame,blade,7523,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hit15>,a1 proc at 0s,attack:3391,force_strike:277,skill_1:1191,s1_boost:1116,dx:3216,ds:1401
+16181,Laxi,4*,flame,blade,8470,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hit15>,a1 proc at 0s,attack:5145,force_strike:419,skill_1:1839,s1_boost:1718,dx:4911,ds:2147
+10674,_c_Laxi,4*,flame,blade,7579,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hit15>,a1 proc at 0s,attack:3416,force_strike:279,skill_1:1200,s1_boost:1124,dx:3240,ds:1411
 -,180,_
-14144,Laxi,4*,flame,blade,8449,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hp70 & hit15>,a1 proc at 0s,attack:4606,force_strike:365,skill_1:2148,s1_boost:2064,dx:3399,ds:1558
-9099,_c_Laxi,4*,flame,blade,7560,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hp70 & hit15>,a1 proc at 0s,attack:2955,force_strike:234,skill_1:1371,s1_boost:1319,dx:2211,ds:1006
+14249,Laxi,4*,flame,blade,8512,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hp70 & hit15>,a1 proc at 0s,attack:4640,force_strike:368,skill_1:2164,s1_boost:2079,dx:3424,ds:1570
+9166,_c_Laxi,4*,flame,blade,7616,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hp70 & hit15>,a1 proc at 0s,attack:2977,force_strike:236,skill_1:1381,s1_boost:1329,dx:2227,ds:1013
 -,180,affliction
-16104,Laxi,4*,flame,blade,8408,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hit15>,a1 proc at 0s,attack:5782,force_strike:459,skill_1:2079,s1_boost:1997,dx:4276,ds:1508
-10666,_c_Laxi,4*,flame,blade,7523,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hit15>,a1 proc at 0s,attack:3823,force_strike:303,skill_1:1364,s1_boost:1313,dx:2860,ds:1001
+16224,Laxi,4*,flame,blade,8470,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hit15>,a1 proc at 0s,attack:5826,force_strike:462,skill_1:2094,s1_boost:2012,dx:4308,ds:1519
+10746,_c_Laxi,4*,flame,blade,7579,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hit15>,a1 proc at 0s,attack:3852,force_strike:305,skill_1:1374,s1_boost:1322,dx:2881,ds:1008

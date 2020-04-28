@@ -1,18 +1,18 @@
 -,60,_
-23591,Aldred,4*,shadow,blade,10863,[The_Chocolatiers+Tough_Love][Shinobi][Agito][Wand|Berserker|Curran],<hp<40 & last offense & hp=1>,maintain dragondrive,attack:3494,skill_1:20005,dx:91
-11263,_c_Aldred,4*,shadow,blade,6069,[The_Chocolatiers+Tough_Love][Shinobi][Agito][Wand|Berserker|Curran],!<hp<40 & last offense & hp=1>,maintain dragondrive,attack:2582,skill_1:8629,dx:51
+24339,Aldred,4*,shadow,blade,11208,[The_Chocolatiers+Tough_Love][Shinobi][Agito][Wand|Berserker|Curran],<hp<40 & last offense & hp=1>,maintain dragondrive,attack:3605,skill_1:20639,dx:94
+11620,_c_Aldred,4*,shadow,blade,6261,[The_Chocolatiers+Tough_Love][Shinobi][Agito][Wand|Berserker|Curran],!<hp<40 & last offense & hp=1>,maintain dragondrive,attack:2664,skill_1:8902,dx:52
 -,60,affliction
-25337,Aldred,4*,shadow,blade,7799,[The_Chocolatiers+The_Plaguebringer][Shinobi][Agito][Wand|Berserker|Curran],<hp<40 & hp=1>,maintain dragondrive,attack:4045,skill_1:21210,dx:81
-12928,_c_Aldred,4*,shadow,blade,6046,[The_Chocolatiers+The_Plaguebringer][Shinobi][Agito][Wand|Berserker|Curran],!<hp<40 & hp=1>,maintain dragondrive,attack:3215,skill_1:9648,dx:63
+26144,Aldred,4*,shadow,blade,8047,[The_Chocolatiers+The_Plaguebringer][Shinobi][Agito][Wand|Berserker|Curran],<hp<40 & hp=1>,maintain dragondrive,attack:4173,skill_1:21885,dx:84
+13340,_c_Aldred,4*,shadow,blade,6238,[The_Chocolatiers+The_Plaguebringer][Shinobi][Agito][Wand|Berserker|Curran],!<hp<40 & hp=1>,maintain dragondrive,attack:3318,skill_1:9956,dx:65
 -,120,_
-24747,Aldred,4*,shadow,blade,7833,[Heralds_of_Hinomoto+Dear_Diary][Shinobi][Agito][Wand|Berserker|Curran],<hp<40 & hp30 every 180s & hp=1>,maintain dragondrive,attack:3717,skill_1:20994,dx:35
-11358,_c_Aldred,4*,shadow,blade,6072,[Heralds_of_Hinomoto+Dear_Diary][Shinobi][Agito][Wand|Berserker|Curran],!<hp<40 & hp30 every 180s & hp=1>,maintain dragondrive,attack:2765,skill_1:8567,dx:25
+25531,Aldred,4*,shadow,blade,8081,[Heralds_of_Hinomoto+Dear_Diary][Shinobi][Agito][Wand|Berserker|Curran],<hp<40 & hp30 every 180s & hp=1>,maintain dragondrive,attack:3834,skill_1:21659,dx:36
+11718,_c_Aldred,4*,shadow,blade,6264,[Heralds_of_Hinomoto+Dear_Diary][Shinobi][Agito][Wand|Berserker|Curran],!<hp<40 & hp30 every 180s & hp=1>,maintain dragondrive,attack:2852,skill_1:8838,dx:26
 -,120,affliction
-28826,Aldred,4*,shadow,blade,7803,[Heralds_of_Hinomoto+The_Plaguebringer][Shinobi][Agito][Wand|Berserker|Curran],<hp<40 & hp=1>,maintain dragondrive,attack:4324,skill_1:24460,dx:41
-14143,_c_Aldred,4*,shadow,blade,6049,[Heralds_of_Hinomoto+The_Plaguebringer][Shinobi][Agito][Wand|Berserker|Curran],!<hp<40 & hp=1>,maintain dragondrive,attack:3443,skill_1:10668,dx:31
+29744,Aldred,4*,shadow,blade,8051,[Heralds_of_Hinomoto+The_Plaguebringer][Shinobi][Agito][Wand|Berserker|Curran],<hp<40 & hp=1>,maintain dragondrive,attack:4462,skill_1:25239,dx:42
+14593,_c_Aldred,4*,shadow,blade,6241,[Heralds_of_Hinomoto+The_Plaguebringer][Shinobi][Agito][Wand|Berserker|Curran],!<hp<40 & hp=1>,maintain dragondrive,attack:3552,skill_1:11007,dx:32
 -,180,_
-26897,Aldred,4*,shadow,blade,7833,[Heralds_of_Hinomoto+Dear_Diary][Shinobi][Agito][Wand|Berserker|Curran],<hp<40 & hp30 every 180s & hp=1>,maintain dragondrive,attack:3749,skill_1:23123,dx:23
-11977,_c_Aldred,4*,shadow,blade,6072,[Heralds_of_Hinomoto+Dear_Diary][Shinobi][Agito][Wand|Berserker|Curran],!<hp<40 & hp30 every 180s & hp=1>,maintain dragondrive,attack:2802,skill_1:9156,dx:17
+27749,Aldred,4*,shadow,blade,8081,[Heralds_of_Hinomoto+Dear_Diary][Shinobi][Agito][Wand|Berserker|Curran],<hp<40 & hp30 every 180s & hp=1>,maintain dragondrive,attack:3868,skill_1:23856,dx:24
+12357,_c_Aldred,4*,shadow,blade,6264,[Heralds_of_Hinomoto+Dear_Diary][Shinobi][Agito][Wand|Berserker|Curran],!<hp<40 & hp30 every 180s & hp=1>,maintain dragondrive,attack:2891,skill_1:9447,dx:17
 -,180,affliction
-31352,Aldred,4*,shadow,blade,7803,[Heralds_of_Hinomoto+The_Plaguebringer][Shinobi][Agito][Wand|Berserker|Curran],<hp<40 & hp=1>,maintain dragondrive,attack:4367,skill_1:26957,dx:27
-14914,_c_Aldred,4*,shadow,blade,6049,[Heralds_of_Hinomoto+The_Plaguebringer][Shinobi][Agito][Wand|Berserker|Curran],!<hp<40 & hp=1>,maintain dragondrive,attack:3490,skill_1:11402,dx:21
+32350,Aldred,4*,shadow,blade,8051,[Heralds_of_Hinomoto+The_Plaguebringer][Shinobi][Agito][Wand|Berserker|Curran],<hp<40 & hp=1>,maintain dragondrive,attack:4506,skill_1:27815,dx:28
+15389,_c_Aldred,4*,shadow,blade,6241,[Heralds_of_Hinomoto+The_Plaguebringer][Shinobi][Agito][Wand|Berserker|Curran],!<hp<40 & hp=1>,maintain dragondrive,attack:3601,skill_1:11765,dx:21
