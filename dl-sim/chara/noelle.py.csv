@@ -1,18 +1,18 @@
 -,60,_
-19107,Noelle,4*,wind,wand,6268,[A_Dogs_Day+Primal_Crisis][Ariel][HDT2][Blade|Tobias|Bow],<buff all team & hit15>,use Freyja & Castle Cheer Corps in 4DPS team,attack:4269,skill_2:2357,skill_3:1791,team_buff:10688
-6984,_c_Noelle,4*,wind,wand,6268,[A_Dogs_Day+Primal_Crisis][Ariel][HDT2][Blade|Tobias|Bow],!<buff all team & hit15>,use Freyja & Castle Cheer Corps in 4DPS team,attack:3559,skill_2:1945,skill_3:1478
+17716,Noelle,4*,wind,wand,6306,[A_Dogs_Day+Primal_Crisis][Ariel][Agito][Blade|Tobias|Bow],<buff all team & hit15>,use Freyja & Castle Cheer Corps in 4DPS team,attack:5679,team_buff:12036
+4724,_c_Noelle,4*,wind,wand,6306,[A_Dogs_Day+Primal_Crisis][Ariel][Agito][Blade|Tobias|Bow],!<buff all team & hit15>,use Freyja & Castle Cheer Corps in 4DPS team,attack:4723
 -,60,affliction
-19931,Noelle,4*,wind,wand,6913,[A_Dogs_Day+The_Fires_of_Hate][Ariel][HDT2][Blade|Tobias|Bow],<buff all team & hp100>,use Freyja & Castle Cheer Corps in 4DPS team,attack:4711,skill_2:2575,skill_3:1956,team_buff:10688
-8403,_c_Noelle,4*,wind,wand,6284,[A_Dogs_Day+The_Fires_of_Hate][Ariel][HDT2][Blade|Tobias|Bow],!<buff all team & hp100>,use Freyja & Castle Cheer Corps in 4DPS team,attack:4282,skill_2:2341,skill_3:1778
+18288,Noelle,4*,wind,wand,6955,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Blade|Tobias|Bow],<buff all team & hp100>,use Freyja & Castle Cheer Corps in 4DPS team,attack:6251,team_buff:12036
+5683,_c_Noelle,4*,wind,wand,6322,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Blade|Tobias|Bow],!<buff all team & hp100>,use Freyja & Castle Cheer Corps in 4DPS team,attack:5683
 -,120,_
-21497,Noelle,4*,wind,wand,6268,[A_Dogs_Day+Primal_Crisis][Ariel][HDT2][Blade|Tobias|Bow],<buff all team & hit15>,use Freyja & Castle Cheer Corps in 4DPS team,attack:4403,skill_2:2130,skill_3:2149,team_buff:12813
-7185,_c_Noelle,4*,wind,wand,6268,[A_Dogs_Day+Primal_Crisis][Ariel][HDT2][Blade|Tobias|Bow],!<buff all team & hit15>,use Freyja & Castle Cheer Corps in 4DPS team,attack:3652,skill_2:1758,skill_3:1773
+21357,Noelle,4*,wind,wand,6306,[A_Dogs_Day+Primal_Crisis][Ariel][Agito][Blade|Tobias|Bow],<buff all team & hit15>,use Freyja & Castle Cheer Corps in 4DPS team,attack:6210,team_buff:15147
+5143,_c_Noelle,4*,wind,wand,6306,[A_Dogs_Day+Primal_Crisis][Ariel][Agito][Blade|Tobias|Bow],!<buff all team & hit15>,use Freyja & Castle Cheer Corps in 4DPS team,attack:5143
 -,120,affliction
-22322,Noelle,4*,wind,wand,6913,[A_Dogs_Day+The_Fires_of_Hate][Ariel][HDT2][Blade|Tobias|Bow],<buff all team & hp100>,use Freyja & Castle Cheer Corps in 4DPS team,attack:4833,skill_2:2327,skill_3:2347,team_buff:12813
-8645,_c_Noelle,4*,wind,wand,6284,[A_Dogs_Day+The_Fires_of_Hate][Ariel][HDT2][Blade|Tobias|Bow],!<buff all team & hp100>,use Freyja & Castle Cheer Corps in 4DPS team,attack:4394,skill_2:2115,skill_3:2134
+21954,Noelle,4*,wind,wand,6955,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Blade|Tobias|Bow],<buff all team & hp100>,use Freyja & Castle Cheer Corps in 4DPS team,attack:6807,team_buff:15147
+6188,_c_Noelle,4*,wind,wand,6322,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Blade|Tobias|Bow],!<buff all team & hp100>,use Freyja & Castle Cheer Corps in 4DPS team,attack:6188
 -,180,_
-22893,Noelle,4*,wind,wand,6268,[A_Dogs_Day+Primal_Crisis][Ariel][HDT2][Blade|Tobias|Bow],<buff all team & hit15>,use Freyja & Castle Cheer Corps in 4DPS team,attack:4493,skill_2:2263,skill_3:2057,team_buff:14078
-7287,_c_Noelle,4*,wind,wand,6268,[A_Dogs_Day+Primal_Crisis][Ariel][HDT2][Blade|Tobias|Bow],!<buff all team & hit15>,use Freyja & Castle Cheer Corps in 4DPS team,attack:3720,skill_2:1868,skill_3:1697
+22345,Noelle,4*,wind,wand,6306,[A_Dogs_Day+Primal_Crisis][Ariel][Agito][Blade|Tobias|Bow],<buff all team & hit15>,use Freyja & Castle Cheer Corps in 4DPS team,attack:6354,team_buff:15990
+5257,_c_Noelle,4*,wind,wand,6306,[A_Dogs_Day+Primal_Crisis][Ariel][Agito][Blade|Tobias|Bow],!<buff all team & hit15>,use Freyja & Castle Cheer Corps in 4DPS team,attack:5256
 -,180,affliction
-23723,Noelle,4*,wind,wand,6913,[A_Dogs_Day+The_Fires_of_Hate][Ariel][HDT2][Blade|Tobias|Bow],<buff all team & hp100>,use Freyja & Castle Cheer Corps in 4DPS team,attack:4924,skill_2:2472,skill_3:2247,team_buff:14078
-8768,_c_Noelle,4*,wind,wand,6284,[A_Dogs_Day+The_Fires_of_Hate][Ariel][HDT2][Blade|Tobias|Bow],!<buff all team & hp100>,use Freyja & Castle Cheer Corps in 4DPS team,attack:4476,skill_2:2247,skill_3:2042
+22947,Noelle,4*,wind,wand,6955,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Blade|Tobias|Bow],<buff all team & hp100>,use Freyja & Castle Cheer Corps in 4DPS team,attack:6957,team_buff:15990
+6325,_c_Noelle,4*,wind,wand,6322,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Blade|Tobias|Bow],!<buff all team & hp100>,use Freyja & Castle Cheer Corps in 4DPS team,attack:6324

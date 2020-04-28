@@ -1,18 +1,18 @@
 -,60,_
-21695,Lin_You,5*,wind,axe,5204,[The_Wyrmclan_Duo+Primal_Crisis][Vayu][HDT2][Blade|Dragonyule_Xainfried|Axe2],<hp70 & hit25 & hit50 & hit10 & hit15>,2in1 ; 10% sleep uptime,attack:3810,force_strike:218,skill_1:8466,s1_powerup:2527,skill_3:1670,dx:1519,ds:3479
-10468,_c_Lin_You,5*,wind,axe,5204,[The_Wyrmclan_Duo+Primal_Crisis][Vayu][HDT2][Blade|Dragonyule_Xainfried|Axe2],!<hp70 & hit25 & hit50 & hit10 & hit15>,2in1 ; 10% sleep uptime,attack:2009,force_strike:113,skill_1:4135,s1_powerup:1151,skill_3:760,dx:704,ds:1592
+25100,Lin_You,5*,wind,axe,5421,[The_Wyrmclan_Duo+Primal_Crisis][Vayu][Agito][Blade|Dragonyule_Xainfried|Axe2],<hp70 & hit25 & hit50 & hit10 & hit15>,2in1 ; 10% sleep uptime,attack:4728,force_strike:278,skill_1:10692,s1_powerup:3179,dx:1872,ds:4347
+12394,_c_Lin_You,5*,wind,axe,5421,[The_Wyrmclan_Duo+Primal_Crisis][Vayu][Agito][Blade|Dragonyule_Xainfried|Axe2],!<hp70 & hit25 & hit50 & hit10 & hit15>,2in1 ; 10% sleep uptime,attack:2507,force_strike:148,skill_1:5338,s1_powerup:1477,dx:896,ds:2026
 -,60,affliction
-23526,Lin_You,5*,wind,axe,5870,[The_Wyrmclan_Duo+The_Fires_of_Hate][Vayu][HDT2][Blade|Dragonyule_Xainfried|Axe2],<hp70 & hit25 & hit50 & hit10 & hp100>,2in1 ; 10% sleep uptime,attack:4221,force_strike:234,skill_1:9115,s1_powerup:2736,skill_3:1808,dx:1643,ds:3766
-12594,_c_Lin_You,5*,wind,axe,5217,[The_Wyrmclan_Duo+The_Fires_of_Hate][Vayu][HDT2][Blade|Dragonyule_Xainfried|Axe2],!<hp70 & hit25 & hit50 & hit10 & hp100>,2in1 ; 10% sleep uptime,attack:2417,force_strike:137,skill_1:4975,s1_powerup:1384,skill_3:915,dx:847,ds:1915
+27207,Lin_You,5*,wind,axe,6113,[The_Wyrmclan_Duo+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Axe2],<hp70 & hit25 & hit50 & hit10 & hp100>,2in1 ; 10% sleep uptime,attack:5229,force_strike:298,skill_1:11509,s1_powerup:3441,dx:2023,ds:4705
+14910,_c_Lin_You,5*,wind,axe,5434,[The_Wyrmclan_Duo+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Axe2],!<hp70 & hit25 & hit50 & hit10 & hp100>,2in1 ; 10% sleep uptime,attack:3015,force_strike:178,skill_1:6421,s1_powerup:1777,dx:1078,ds:2437
 -,120,_
-22938,Lin_You,5*,wind,axe,5204,[The_Wyrmclan_Duo+Primal_Crisis][Vayu][HDT2][Blade|Dragonyule_Xainfried|Axe2],<hp70 & hit25 & hit50 & hit10 & hit15>,2in1 ,attack:4773,force_strike:111,skill_1:9892,s1_powerup:3103,skill_3:2495,dx:785,ds:1775
-10726,_c_Lin_You,5*,wind,axe,5204,[The_Wyrmclan_Duo+Primal_Crisis][Vayu][HDT2][Blade|Dragonyule_Xainfried|Axe2],!<hp70 & hit25 & hit50 & hit10 & hit15>,2in1 ,attack:2310,force_strike:58,skill_1:4642,s1_powerup:1408,skill_3:1132,dx:359,ds:812
+26073,Lin_You,5*,wind,axe,5421,[The_Wyrmclan_Duo+Primal_Crisis][Vayu][Agito][Blade|Dragonyule_Xainfried|Axe2],<hp70 & hit25 & hit50 & hit10 & hit15>,2in1 ,attack:6296,force_strike:142,skill_1:12502,s1_powerup:3926,dx:983,ds:2221
+12470,_c_Lin_You,5*,wind,axe,5421,[The_Wyrmclan_Duo+Primal_Crisis][Vayu][Agito][Blade|Dragonyule_Xainfried|Axe2],!<hp70 & hit25 & hit50 & hit10 & hit15>,2in1 ,attack:3085,force_strike:76,skill_1:5994,s1_powerup:1820,dx:458,ds:1035
 -,120,affliction
-24851,Lin_You,5*,wind,axe,5870,[The_Wyrmclan_Duo+The_Fires_of_Hate][Vayu][HDT2][Blade|Dragonyule_Xainfried|Axe2],<hp70 & hit25 & hit50 & hit10 & hp100>,2in1 ,attack:5216,force_strike:119,skill_1:10682,s1_powerup:3359,skill_3:2700,dx:850,ds:1922
-12903,_c_Lin_You,5*,wind,axe,5217,[The_Wyrmclan_Duo+The_Fires_of_Hate][Vayu][HDT2][Blade|Dragonyule_Xainfried|Axe2],!<hp70 & hit25 & hit50 & hit10 & hp100>,2in1 ,attack:2780,force_strike:69,skill_1:5585,s1_powerup:1694,skill_3:1362,dx:432,ds:977
+28242,Lin_You,5*,wind,axe,6113,[The_Wyrmclan_Duo+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Axe2],<hp70 & hit25 & hit50 & hit10 & hp100>,2in1 ,attack:6871,force_strike:152,skill_1:13499,s1_powerup:4249,dx:1063,ds:2404
+15001,_c_Lin_You,5*,wind,axe,5434,[The_Wyrmclan_Duo+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Axe2],!<hp70 & hit25 & hit50 & hit10 & hp100>,2in1 ,attack:3712,force_strike:91,skill_1:7210,s1_powerup:2189,dx:551,ds:1245
 -,180,_
-23080,Lin_You,5*,wind,axe,5204,[The_Wyrmclan_Duo+Primal_Crisis][Vayu][HDT2][Blade|Dragonyule_Xainfried|Axe2],<hp70 & hit25 & hit50 & hit10 & hit15>,2in1 ,attack:5223,force_strike:74,skill_1:10045,s1_powerup:3274,skill_3:2755,dx:523,ds:1182
-10685,_c_Lin_You,5*,wind,axe,5204,[The_Wyrmclan_Duo+Primal_Crisis][Vayu][HDT2][Blade|Dragonyule_Xainfried|Axe2],!<hp70 & hit25 & hit50 & hit10 & hit15>,2in1 ,attack:2467,force_strike:38,skill_1:4662,s1_powerup:1485,skill_3:1250,dx:239,ds:541
+27391,Lin_You,5*,wind,axe,5421,[The_Wyrmclan_Duo+Primal_Crisis][Vayu][Agito][Blade|Dragonyule_Xainfried|Axe2],<hp70 & hit25 & hit50 & hit10 & hit15>,2in1 ,attack:6890,force_strike:95,skill_1:13455,s1_powerup:4812,dx:655,ds:1481
+12957,_c_Lin_You,5*,wind,axe,5421,[The_Wyrmclan_Duo+Primal_Crisis][Vayu][Agito][Blade|Dragonyule_Xainfried|Axe2],!<hp70 & hit25 & hit50 & hit10 & hit15>,2in1 ,attack:3306,force_strike:50,skill_1:6371,s1_powerup:2231,dx:305,ds:690
 -,180,affliction
-24998,Lin_You,5*,wind,axe,5870,[The_Wyrmclan_Duo+The_Fires_of_Hate][Vayu][HDT2][Blade|Dragonyule_Xainfried|Axe2],<hp70 & hit25 & hit50 & hit10 & hp100>,2in1 ,attack:5686,force_strike:79,skill_1:10856,s1_powerup:3544,skill_3:2983,dx:566,ds:1280
-12855,_c_Lin_You,5*,wind,axe,5217,[The_Wyrmclan_Duo+The_Fires_of_Hate][Vayu][HDT2][Blade|Dragonyule_Xainfried|Axe2],!<hp70 & hit25 & hit50 & hit10 & hp100>,2in1 ,attack:2969,force_strike:46,skill_1:5608,s1_powerup:1786,skill_3:1504,dx:288,ds:651
+29661,Lin_You,5*,wind,axe,6113,[The_Wyrmclan_Duo+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Axe2],<hp70 & hit25 & hit50 & hit10 & hp100>,2in1 ,attack:7495,force_strike:101,skill_1:14542,s1_powerup:5208,dx:709,ds:1603
+15586,_c_Lin_You,5*,wind,axe,5434,[The_Wyrmclan_Duo+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Axe2],!<hp70 & hit25 & hit50 & hit10 & hp100>,2in1 ,attack:3977,force_strike:60,skill_1:7664,s1_powerup:2684,dx:367,ds:830

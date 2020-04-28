@@ -1,18 +1,18 @@
 -,60,_
-11963,Dragonyule_Xainfried,4*,wind,wand,6268,[A_Dogs_Day+Primal_Crisis][Ariel][HDT2][Blade|Bow|Tobias],<buff all team & hit15>,,attack:3201,skill_2:872,skill_3:507,team_buff:4931,dx:310,ds:2140
-5927,_c_Dragonyule_Xainfried,4*,wind,wand,6268,[A_Dogs_Day+Primal_Crisis][Ariel][HDT2][Blade|Bow|Tobias],!<buff all team & hit15>,,attack:2710,skill_2:730,skill_3:424,dx:260,ds:1800
+12900,Dragonyule_Xainfried,4*,wind,wand,6306,[A_Dogs_Day+Primal_Crisis][Ariel][Agito][Blade|Bow|Tobias],<buff all team & hit15>,,attack:3979,skill_2:1077,team_buff:4902,dx:372,ds:2568
+6738,_c_Dragonyule_Xainfried,4*,wind,wand,6306,[A_Dogs_Day+Primal_Crisis][Ariel][Agito][Blade|Bow|Tobias],!<buff all team & hit15>,,attack:3361,skill_2:901,dx:313,ds:2161
 -,60,affliction
-12775,Dragonyule_Xainfried,4*,wind,wand,6913,[A_Dogs_Day+The_Fires_of_Hate][Ariel][HDT2][Blade|Bow|Tobias],<buff all team & hp100>,,attack:3587,skill_2:966,skill_3:562,team_buff:4931,dx:345,ds:2382
-7131,_c_Dragonyule_Xainfried,4*,wind,wand,6284,[A_Dogs_Day+The_Fires_of_Hate][Ariel][HDT2][Blade|Bow|Tobias],!<buff all team & hp100>,,attack:3261,skill_2:878,skill_3:511,dx:313,ds:2166
+13820,Dragonyule_Xainfried,4*,wind,wand,6955,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Blade|Bow|Tobias],<buff all team & hp100>,,attack:4449,skill_2:1193,team_buff:4902,dx:414,ds:2860
+8107,_c_Dragonyule_Xainfried,4*,wind,wand,6322,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Blade|Bow|Tobias],!<buff all team & hp100>,,attack:4044,skill_2:1084,dx:376,ds:2600
 -,120,_
-13304,Dragonyule_Xainfried,4*,wind,wand,6268,[A_Dogs_Day+Primal_Crisis][Ariel][HDT2][Blade|Bow|Tobias],<buff all team & hit15>,,attack:3533,skill_2:1474,skill_3:1363,team_buff:5809,dx:142,ds:981
-6302,_c_Dragonyule_Xainfried,4*,wind,wand,6268,[A_Dogs_Day+Primal_Crisis][Ariel][HDT2][Blade|Bow|Tobias],!<buff all team & hit15>,,attack:2976,skill_2:1237,skill_3:1144,dx:119,ds:823
+14031,Dragonyule_Xainfried,4*,wind,wand,6306,[A_Dogs_Day+Primal_Crisis][Ariel][Agito][Blade|Bow|Tobias],<buff all team & hit15>,,attack:4663,skill_2:1741,team_buff:6317,dx:165,ds:1143
+6486,_c_Dragonyule_Xainfried,4*,wind,wand,6306,[A_Dogs_Day+Primal_Crisis][Ariel][Agito][Blade|Bow|Tobias],!<buff all team & hit15>,,attack:3927,skill_2:1462,dx:138,ds:957
 -,120,affliction
-14150,Dragonyule_Xainfried,4*,wind,wand,6913,[A_Dogs_Day+The_Fires_of_Hate][Ariel][HDT2][Blade|Bow|Tobias],<buff all team & hp100>,,attack:3939,skill_2:1637,skill_3:1514,team_buff:5809,dx:158,ds:1090
-7583,_c_Dragonyule_Xainfried,4*,wind,wand,6284,[A_Dogs_Day+The_Fires_of_Hate][Ariel][HDT2][Blade|Bow|Tobias],!<buff all team & hp100>,,attack:3581,skill_2:1488,skill_3:1377,dx:143,ds:991
+14901,Dragonyule_Xainfried,4*,wind,wand,6955,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Blade|Bow|Tobias],<buff all team & hp100>,,attack:5198,skill_2:1935,team_buff:6317,dx:183,ds:1266
+7804,_c_Dragonyule_Xainfried,4*,wind,wand,6322,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Blade|Bow|Tobias],!<buff all team & hp100>,,attack:4725,skill_2:1759,dx:166,ds:1151
 -,180,_
-13679,Dragonyule_Xainfried,4*,wind,wand,6268,[A_Dogs_Day+Primal_Crisis][Ariel][HDT2][Blade|Bow|Tobias],<buff all team & hit15>,,attack:3630,skill_2:1427,skill_3:1700,team_buff:6118,dx:101,ds:699
-6355,_c_Dragonyule_Xainfried,4*,wind,wand,6268,[A_Dogs_Day+Primal_Crisis][Ariel][HDT2][Blade|Bow|Tobias],!<buff all team & hit15>,,attack:3054,skill_2:1199,skill_3:1428,dx:85,ds:586
+14652,Dragonyule_Xainfried,4*,wind,wand,6306,[A_Dogs_Day+Primal_Crisis][Ariel][Agito][Blade|Bow|Tobias],<buff all team & hit15>,,attack:4914,skill_2:1984,team_buff:6780,dx:123,ds:848
+6618,_c_Dragonyule_Xainfried,4*,wind,wand,6306,[A_Dogs_Day+Primal_Crisis][Ariel][Agito][Blade|Bow|Tobias],!<buff all team & hit15>,,attack:4134,skill_2:1667,dx:103,ds:712
 -,180,affliction
-14529,Dragonyule_Xainfried,4*,wind,wand,6913,[A_Dogs_Day+The_Fires_of_Hate][Ariel][HDT2][Blade|Bow|Tobias],<buff all team & hp100>,,attack:4042,skill_2:1587,skill_3:1890,team_buff:6118,dx:112,ds:776
-7646,_c_Dragonyule_Xainfried,4*,wind,wand,6284,[A_Dogs_Day+The_Fires_of_Hate][Ariel][HDT2][Blade|Bow|Tobias],!<buff all team & hp100>,,attack:3675,skill_2:1442,skill_3:1718,dx:102,ds:706
+15539,Dragonyule_Xainfried,4*,wind,wand,6955,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Blade|Bow|Tobias],<buff all team & hp100>,,attack:5472,skill_2:2206,team_buff:6780,dx:136,ds:943
+7962,_c_Dragonyule_Xainfried,4*,wind,wand,6322,[A_Dogs_Day+The_Fires_of_Hate][Ariel][Agito][Blade|Bow|Tobias],!<buff all team & hp100>,,attack:4974,skill_2:2005,dx:124,ds:857

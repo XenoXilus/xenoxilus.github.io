@@ -1,18 +1,18 @@
 -,60,_
-22672,Lathna,5*,shadow,lance,6886,[Resounding_Rendition+An_Ancient_Oath][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],<hp70>,no poison; 55% poison uptime,attack:1889,skill_1:4152,skill_2:1471,dx:12088,ds_poison:255,ds:2814
-21485,_c_Lathna,5*,shadow,lance,6886,[Resounding_Rendition+An_Ancient_Oath][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],!<hp70>,no poison; 55% poison uptime,attack:1790,skill_1:3934,skill_2:1394,dx:11455,ds_poison:241,ds:2666
+22672,Lathna,5*,shadow,lance,6886,[Resounding_Rendition+An_Ancient_Oath][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],<hp70>,55% poison uptime,attack:1889,skill_1:4152,skill_2:1471,dx:12088,ds_poison:255,ds:2814
+21485,_c_Lathna,5*,shadow,lance,6886,[Resounding_Rendition+An_Ancient_Oath][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],!<hp70>,55% poison uptime,attack:1790,skill_1:3934,skill_2:1394,dx:11455,ds_poison:241,ds:2666
 -,60,affliction
-29476,Lathna,5*,shadow,lance,7554,[An_Ancient_Oath+The_Fires_of_Hate][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],<hp100>,no poison,attack:2456,skill_1:4798,skill_2:1381,dx:16605,ds_poison:683,ds:3550
-26875,_c_Lathna,5*,shadow,lance,6888,[An_Ancient_Oath+The_Fires_of_Hate][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],!<hp100>,no poison,attack:2239,skill_1:4375,skill_2:1259,dx:15139,ds_poison:623,ds:3237
+29476,Lathna,5*,shadow,lance,7554,[An_Ancient_Oath+The_Fires_of_Hate][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],<hp100>,,attack:2456,skill_1:4798,skill_2:1381,dx:16605,ds_poison:683,ds:3550
+26875,_c_Lathna,5*,shadow,lance,6888,[An_Ancient_Oath+The_Fires_of_Hate][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],!<hp100>,,attack:2239,skill_1:4375,skill_2:1259,dx:15139,ds_poison:623,ds:3237
 -,120,_
-21757,Lathna,5*,shadow,lance,6886,[Resounding_Rendition+An_Ancient_Oath][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],<hp70>,no poison; 50% poison uptime,attack:2368,skill_1:5259,skill_2:2311,dx:10167,ds_poison:251,ds:1398
-20618,_c_Lathna,5*,shadow,lance,6886,[Resounding_Rendition+An_Ancient_Oath][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],!<hp70>,no poison; 50% poison uptime,attack:2244,skill_1:4984,skill_2:2190,dx:9635,ds_poison:238,ds:1325
+21757,Lathna,5*,shadow,lance,6886,[Resounding_Rendition+An_Ancient_Oath][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],<hp70>,50% poison uptime,attack:2368,skill_1:5259,skill_2:2311,dx:10167,ds_poison:251,ds:1398
+20618,_c_Lathna,5*,shadow,lance,6886,[Resounding_Rendition+An_Ancient_Oath][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],!<hp70>,50% poison uptime,attack:2244,skill_1:4984,skill_2:2190,dx:9635,ds_poison:238,ds:1325
 -,120,affliction
-27420,Lathna,5*,shadow,lance,7554,[An_Ancient_Oath+The_Fires_of_Hate][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],<hp100>,no poison,attack:3108,skill_1:6387,skill_2:2635,dx:12850,ds_poison:673,ds:1764
-25001,_c_Lathna,5*,shadow,lance,6888,[An_Ancient_Oath+The_Fires_of_Hate][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],!<hp100>,no poison,attack:2834,skill_1:5823,skill_2:2403,dx:11717,ds_poison:614,ds:1608
+27420,Lathna,5*,shadow,lance,7554,[An_Ancient_Oath+The_Fires_of_Hate][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],<hp100>,,attack:3108,skill_1:6387,skill_2:2635,dx:12850,ds_poison:673,ds:1764
+25001,_c_Lathna,5*,shadow,lance,6888,[An_Ancient_Oath+The_Fires_of_Hate][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],!<hp100>,,attack:2834,skill_1:5823,skill_2:2403,dx:11717,ds_poison:614,ds:1608
 -,180,_
-18609,Lathna,5*,shadow,lance,6886,[Resounding_Rendition+An_Ancient_Oath][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],<hp70>,no poison; 33% poison uptime,attack:2667,skill_1:5241,skill_2:2764,dx:6827,ds_poison:168,ds:939
-17635,_c_Lathna,5*,shadow,lance,6886,[Resounding_Rendition+An_Ancient_Oath][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],!<hp70>,no poison; 33% poison uptime,attack:2527,skill_1:4966,skill_2:2620,dx:6470,ds_poison:159,ds:889
+18609,Lathna,5*,shadow,lance,6886,[Resounding_Rendition+An_Ancient_Oath][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],<hp70>,33% poison uptime,attack:2667,skill_1:5241,skill_2:2764,dx:6827,ds_poison:168,ds:939
+17635,_c_Lathna,5*,shadow,lance,6886,[Resounding_Rendition+An_Ancient_Oath][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],!<hp70>,33% poison uptime,attack:2527,skill_1:4966,skill_2:2620,dx:6470,ds_poison:159,ds:889
 -,180,affliction
-26945,Lathna,5*,shadow,lance,7552,[Resounding_Rendition+The_Fires_of_Hate][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],<hp70 & hp100>,no poison,attack:3613,skill_1:9161,skill_2:4829,dx:7496,ds_poison:507,ds:1335
-23281,_c_Lathna,5*,shadow,lance,6886,[Resounding_Rendition+The_Fires_of_Hate][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],!<hp70 & hp100>,no poison,attack:3122,skill_1:7916,skill_2:4173,dx:6477,ds_poison:438,ds:1153
+26945,Lathna,5*,shadow,lance,7552,[Resounding_Rendition+The_Fires_of_Hate][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],<hp70 & hp100>,,attack:3613,skill_1:9161,skill_2:4829,dx:7496,ds_poison:507,ds:1335
+23281,_c_Lathna,5*,shadow,lance,6886,[Resounding_Rendition+The_Fires_of_Hate][Chthonius][Agito][Ieyasu|Gala_Alex|Cleo],!<hp70 & hp100>,,attack:3122,skill_1:7916,skill_2:4173,dx:6477,ds_poison:438,ds:1153

@@ -1,18 +1,18 @@
 -,60,_
-9588,Philia,3*,wind,bow,5152,[Forest_Bonds+Primal_Crisis][Vayu][HDT2][Blade|Dragonyule_Xainfried|Lin_You],<0 paralysis res & hp100 & hit10 & hit15>,38% paralysis uptime,attack:1718,skill_1:2885,skill_2:1109,s2_paralysis:262,skill_3:1576,dx:954,ds:1082
-6237,_c_Philia,3*,wind,bow,4755,[Forest_Bonds+Primal_Crisis][Vayu][HDT2][Blade|Dragonyule_Xainfried|Lin_You],!<0 paralysis res & hp100 & hit10 & hit15>,,attack:1164,skill_1:1921,skill_2:738,s2_paralysis:0,skill_3:1049,dx:640,ds:723
+10084,Philia,3*,wind,bow,5272,[Forest_Bonds+Primal_Crisis][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],<0 paralysis res & hp100 & hit10 & hit15>,38% paralysis uptime,attack:2283,skill_1:3586,skill_2:1379,s2_paralysis:326,dx:1170,ds:1337
+6661,_c_Philia,3*,wind,bow,4866,[Forest_Bonds+Primal_Crisis][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],!<0 paralysis res & hp100 & hit10 & hit15>,,attack:1569,skill_1:2439,skill_2:937,s2_paralysis:0,dx:801,ds:912
 -,60,affliction
-10456,Philia,3*,wind,bow,5762,[Forest_Bonds+The_Fires_of_Hate][Vayu][HDT2][Blade|Dragonyule_Xainfried|Lin_You],<0 paralysis res & hp100 & hit10>,38% paralysis uptime,attack:1893,skill_1:3139,skill_2:1206,s2_paralysis:285,skill_3:1715,dx:1038,ds:1178
-7506,_c_Philia,3*,wind,bow,4769,[Forest_Bonds+The_Fires_of_Hate][Vayu][HDT2][Blade|Dragonyule_Xainfried|Lin_You],!<0 paralysis res & hp100 & hit10>,,attack:1401,skill_1:2311,skill_2:888,s2_paralysis:0,skill_3:1262,dx:771,ds:871
+10996,Philia,3*,wind,bow,5896,[Forest_Bonds+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],<0 paralysis res & hp100 & hit10>,38% paralysis uptime,attack:2508,skill_1:3901,skill_2:1500,s2_paralysis:355,dx:1274,ds:1455
+8015,_c_Philia,3*,wind,bow,4880,[Forest_Bonds+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],!<0 paralysis res & hp100 & hit10>,,attack:1888,skill_1:2935,skill_2:1128,s2_paralysis:0,dx:964,ds:1098
 -,120,_
-10272,Philia,3*,wind,bow,5152,[Forest_Bonds+Primal_Crisis][Vayu][HDT2][Blade|Dragonyule_Xainfried|Lin_You],<0 paralysis res & hp100 & hit10 & hit15>,39% paralysis uptime,attack:1882,skill_1:3426,skill_2:1532,s2_paralysis:275,skill_3:1563,dx:473,ds:1117
-6683,_c_Philia,3*,wind,bow,4755,[Forest_Bonds+Primal_Crisis][Vayu][HDT2][Blade|Dragonyule_Xainfried|Lin_You],!<0 paralysis res & hp100 & hit10 & hit15>,,attack:1265,skill_1:2285,skill_2:1023,s2_paralysis:0,skill_3:1040,dx:317,ds:750
+11038,Philia,3*,wind,bow,5272,[Forest_Bonds+Primal_Crisis][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],<0 paralysis res & hp100 & hit10 & hit15>,44% paralysis uptime,attack:2520,skill_1:4448,skill_2:1728,s2_paralysis:379,dx:583,ds:1378
+7273,_c_Philia,3*,wind,bow,4866,[Forest_Bonds+Primal_Crisis][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],!<0 paralysis res & hp100 & hit10 & hit15>,,attack:1723,skill_1:3030,skill_2:1176,s2_paralysis:0,dx:399,ds:943
 -,120,affliction
-11188,Philia,3*,wind,bow,5762,[Forest_Bonds+The_Fires_of_Hate][Vayu][HDT2][Blade|Dragonyule_Xainfried|Lin_You],<0 paralysis res & hp100 & hit10>,39% paralysis uptime,attack:2060,skill_1:3728,skill_2:1667,s2_paralysis:300,skill_3:1700,dx:514,ds:1216
-8042,_c_Philia,3*,wind,bow,4769,[Forest_Bonds+The_Fires_of_Hate][Vayu][HDT2][Blade|Dragonyule_Xainfried|Lin_You],!<0 paralysis res & hp100 & hit10>,,attack:1522,skill_1:2750,skill_2:1231,s2_paralysis:0,skill_3:1251,dx:382,ds:903
+12022,Philia,3*,wind,bow,5896,[Forest_Bonds+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],<0 paralysis res & hp100 & hit10>,44% paralysis uptime,attack:2754,skill_1:4839,skill_2:1880,s2_paralysis:412,dx:634,ds:1499
+8751,_c_Philia,3*,wind,bow,4880,[Forest_Bonds+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],!<0 paralysis res & hp100 & hit10>,,attack:2073,skill_1:3646,skill_2:1415,s2_paralysis:0,dx:480,ds:1135
 -,180,_
-9964,Philia,3*,wind,bow,5152,[Forest_Bonds+Primal_Crisis][Vayu][HDT2][Blade|Dragonyule_Xainfried|Lin_You],<0 paralysis res & hp100 & hit10 & hit15>,39% paralysis uptime,attack:1919,skill_1:3422,skill_2:1382,s2_paralysis:288,skill_3:1877,dx:319,ds:754
-6463,_c_Philia,3*,wind,bow,4755,[Forest_Bonds+Primal_Crisis][Vayu][HDT2][Blade|Dragonyule_Xainfried|Lin_You],!<0 paralysis res & hp100 & hit10 & hit15>,,attack:1286,skill_1:2282,skill_2:920,s2_paralysis:0,skill_3:1252,dx:214,ds:506
+10775,Philia,3*,wind,bow,5272,[Forest_Bonds+Primal_Crisis][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],<0 paralysis res & hp100 & hit10 & hit15>,43% paralysis uptime,attack:2624,skill_1:4497,skill_2:1959,s2_paralysis:384,dx:389,ds:919
+7086,_c_Philia,3*,wind,bow,4866,[Forest_Bonds+Primal_Crisis][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],!<0 paralysis res & hp100 & hit10 & hit15>,,attack:1792,skill_1:3062,skill_2:1334,s2_paralysis:0,dx:266,ds:629
 -,180,affliction
-10850,Philia,3*,wind,bow,5762,[Forest_Bonds+The_Fires_of_Hate][Vayu][HDT2][Blade|Dragonyule_Xainfried|Lin_You],<0 paralysis res & hp100 & hit10>,39% paralysis uptime,attack:2096,skill_1:3723,skill_2:1504,s2_paralysis:313,skill_3:2043,dx:347,ds:820
-7778,_c_Philia,3*,wind,bow,4769,[Forest_Bonds+The_Fires_of_Hate][Vayu][HDT2][Blade|Dragonyule_Xainfried|Lin_You],!<0 paralysis res & hp100 & hit10>,,attack:1548,skill_1:2746,skill_2:1108,s2_paralysis:0,skill_3:1507,dx:257,ds:609
+11732,Philia,3*,wind,bow,5896,[Forest_Bonds+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],<0 paralysis res & hp100 & hit10>,43% paralysis uptime,attack:2863,skill_1:4893,skill_2:2131,s2_paralysis:418,dx:423,ds:1000
+8526,_c_Philia,3*,wind,bow,4880,[Forest_Bonds+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],!<0 paralysis res & hp100 & hit10>,,attack:2156,skill_1:3685,skill_2:1606,s2_paralysis:0,dx:320,ds:757
