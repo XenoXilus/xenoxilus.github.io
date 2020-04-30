@@ -106,8 +106,8 @@
 7518,_c_Karina,4*,water,axe,4482,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],!<hp60 & hit10 & hit15>,,attack:1560,force_strike:140,skill_1:2552,s1_boost:69,skill_2:1098,skill_3:603,dx:743,ds:747
 21598,Karl,4*,flame,sword,9089,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Bow],<hit15 & hp70 & hit10 & hp50>,,attack:6347,force_strike:3775,team_buff:2996,dx:6149,ds:2328
 14170,_c_Karl,4*,flame,sword,7537,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Bow],!<hit15 & hp70 & hit10 & hp50>,,attack:3833,force_strike:2273,team_buff:2996,dx:3677,ds:1389
-28653,Kleimann,4*,shadow,wand,6364,[Candy_Couriers+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Bow|Dagger],<hp100>,,attack:3569,skill_1:13684,s1_poison:1991,skill_2:5158,team_energy:826,dx:846,ds:2576
-25561,_c_Kleimann,4*,shadow,wand,5657,[Candy_Couriers+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Bow|Dagger],!<hp100>,,attack:3172,skill_1:12164,s1_poison:1770,skill_2:4585,team_energy:826,dx:752,ds:2290
+26648,Kleimann,4*,shadow,wand,9193,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito][Ieyasu|Bow|Dagger],<hp100>,,attack:5178,force_strike:267,skill_1:14219,s1_poison:2038,skill_2:4942
+24598,_c_Kleimann,4*,shadow,wand,8486,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito][Ieyasu|Bow|Dagger],!<hp100>,,attack:4780,force_strike:247,skill_1:13125,s1_poison:1881,skill_2:4562
 15229,Ku_Hai,4*,wind,sword,7374,[The_Lurker_in_the_Woods+The_Fires_of_Hate][AC011_Garland][Agito][Blade|Dragonyule_Xainfried|Akasha],<maintain shield & hp70 & hit10 & hp100 & big hitbox>,c2+fs during s2,attack:2890,force_strike:4725,skill_1:3596,dx:2582,ds:1435
 9065,_c_Ku_Hai,4*,wind,sword,6703,[The_Lurker_in_the_Woods+The_Fires_of_Hate][AC011_Garland][Agito][Blade|Dragonyule_Xainfried|Akasha],!<maintain shield & hp70 & hit10 & hp100 & big hitbox>,c2+fs during s2,attack:1946,force_strike:2206,skill_1:2370,dx:1634,ds:908
 8912,Laranoa,5*,water,bow,5333,[The_Wyrmclan_Duo+Primal_Crisis][Dragonyule_Jeanne][HDT2][Renee|Xander|Summer_Estelle],<buff all team & hit10 & hp70 & hit15>,doesn't count spbuff for teammates,attack:2351,force_strike:666,skill_1:4745,skill_3:760,team_buff:388

@@ -1,18 +1,15 @@
 -,60,_
-28193,Kleimann,4*,shadow,wand,6364,[Candy_Couriers+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Bow|Dagger],<hp100>,90% poison uptime,attack:3491,skill_1:13357,s1_poison:1940,skill_2:5154,team_energy:826,dx:846,ds:2576
-25152,_c_Kleimann,4*,shadow,wand,5657,[Candy_Couriers+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Bow|Dagger],!<hp100>,90% poison uptime,attack:3103,skill_1:11873,s1_poison:1724,skill_2:4581,team_energy:826,dx:752,ds:2290
+25005,Kleimann,4*,shadow,wand,8455,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Ieyasu|Bow|Dagger],<>,90% poison uptime,attack:4835,force_strike:256,skill_1:13280,s1_poison:1897,skill_2:4735
 -,60,affliction
-28653,Kleimann,4*,shadow,wand,6364,[Candy_Couriers+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Bow|Dagger],<hp100>,,attack:3569,skill_1:13684,s1_poison:1991,skill_2:5158,team_energy:826,dx:846,ds:2576
-25561,_c_Kleimann,4*,shadow,wand,5657,[Candy_Couriers+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Bow|Dagger],!<hp100>,,attack:3172,skill_1:12164,s1_poison:1770,skill_2:4585,team_energy:826,dx:752,ds:2290
+26648,Kleimann,4*,shadow,wand,9193,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito][Ieyasu|Bow|Dagger],<hp100>,,attack:5178,force_strike:267,skill_1:14219,s1_poison:2038,skill_2:4942
+24598,_c_Kleimann,4*,shadow,wand,8486,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito][Ieyasu|Bow|Dagger],!<hp100>,,attack:4780,force_strike:247,skill_1:13125,s1_poison:1881,skill_2:4562
 -,120,_
-27832,Kleimann,4*,shadow,wand,6364,[Candy_Couriers+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Bow|Dagger],<hp100>,90% poison uptime,attack:3788,skill_1:14748,s1_poison:1881,skill_2:5289,team_energy:415,dx:422,ds:1285
-24786,_c_Kleimann,4*,shadow,wand,5657,[Candy_Couriers+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Bow|Dagger],!<hp100>,90% poison uptime,attack:3367,skill_1:13109,s1_poison:1672,skill_2:4701,team_energy:415,dx:375,ds:1142
+28670,Kleimann,4*,shadow,wand,8455,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Ieyasu|Bow|Dagger],<>,91% poison uptime,attack:4667,force_strike:212,skill_1:15766,s1_poison:1891,skill_2:6131
 -,120,affliction
-28406,Kleimann,4*,shadow,wand,6364,[Candy_Couriers+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Bow|Dagger],<hp100>,,attack:3866,skill_1:15117,s1_poison:1926,skill_2:5356,team_energy:415,dx:426,ds:1297
-25296,_c_Kleimann,4*,shadow,wand,5657,[Candy_Couriers+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Bow|Dagger],!<hp100>,,attack:3437,skill_1:13437,s1_poison:1712,skill_2:4761,team_energy:415,dx:378,ds:1152
+30641,Kleimann,4*,shadow,wand,9193,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito][Ieyasu|Bow|Dagger],<hp100>,,attack:4978,force_strike:222,skill_1:16845,s1_poison:2018,skill_2:6574
+28284,_c_Kleimann,4*,shadow,wand,8486,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito][Ieyasu|Bow|Dagger],!<hp100>,,attack:4595,force_strike:205,skill_1:15550,s1_poison:1863,skill_2:6069
 -,180,_
-28116,Kleimann,4*,shadow,wand,6364,[Candy_Couriers+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Bow|Dagger],<hp100>,84% poison uptime,attack:3834,skill_1:15797,s1_poison:1693,skill_2:5399,team_energy:276,dx:275,ds:838
-25023,_c_Kleimann,4*,shadow,wand,5657,[Candy_Couriers+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Bow|Dagger],!<hp100>,84% poison uptime,attack:3408,skill_1:14042,s1_poison:1505,skill_2:4799,team_energy:276,dx:244,ds:745
+28704,Kleimann,4*,shadow,wand,8455,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Ieyasu|Bow|Dagger],<>,85% poison uptime,attack:4674,force_strike:142,skill_1:16323,s1_poison:1633,skill_2:5930
 -,180,affliction
-29247,Kleimann,4*,shadow,wand,6364,[Candy_Couriers+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Bow|Dagger],<hp100>,,attack:3952,skill_1:16374,s1_poison:1743,skill_2:5754,team_energy:276,dx:283,ds:862
-26028,_c_Kleimann,4*,shadow,wand,5657,[Candy_Couriers+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Bow|Dagger],!<hp100>,,attack:3512,skill_1:14555,s1_poison:1550,skill_2:5115,team_energy:276,dx:251,ds:766
+31358,Kleimann,4*,shadow,wand,9193,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito][Ieyasu|Bow|Dagger],<hp100>,,attack:5051,force_strike:149,skill_1:17797,s1_poison:1760,skill_2:6599
+28945,_c_Kleimann,4*,shadow,wand,8486,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito][Ieyasu|Bow|Dagger],!<hp100>,,attack:4662,force_strike:137,skill_1:16428,s1_poison:1625,skill_2:6091
