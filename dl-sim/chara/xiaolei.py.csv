@@ -1,18 +1,18 @@
 -,60,_
-13340,Xiao_Lei,3*,light,wand,6704,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15>,,attack:3209,skill_1:3200,skill_3:933,team_buff:1282,dx:3740,ds:972
-9042,_c_Xiao_Lei,3*,light,wand,6704,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15>,,attack:2122,skill_1:2048,skill_3:601,team_buff:1282,dx:2374,ds:611
+13394,Xiao_Lei,3*,light,wand,6704,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15>,,attack:3237,skill_1:3210,skill_3:936,team_buff:1282,dx:3751,ds:975
+10077,_c_Xiao_Lei,3*,light,wand,6704,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15>,,attack:2405,skill_1:2321,skill_3:681,team_buff:1282,dx:2691,ds:693
 -,60,affliction
-14479,Xiao_Lei,3*,light,wand,7372,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15 & hp100>,,attack:3554,skill_1:3504,skill_3:1028,team_buff:1282,dx:4062,ds:1046
-10618,_c_Xiao_Lei,3*,light,wand,6721,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15 & hp100>,,attack:2553,skill_1:2464,skill_3:723,team_buff:1282,dx:2857,ds:736
+14542,Xiao_Lei,3*,light,wand,7372,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp100>,,attack:3589,skill_1:3514,skill_3:1031,team_buff:1282,dx:4074,ds:1049
+11863,_c_Xiao_Lei,3*,light,wand,6721,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp100>,,attack:2894,skill_1:2793,skill_3:820,team_buff:1282,dx:3238,ds:834
 -,120,_
-13905,Xiao_Lei,3*,light,wand,6704,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15>,,attack:3596,skill_1:4275,skill_3:1403,team_buff:1357,dx:2425,ds:846
-9391,_c_Xiao_Lei,3*,light,wand,6704,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15>,,attack:2315,skill_1:2707,skill_3:904,team_buff:1357,dx:1561,ds:545
+13951,Xiao_Lei,3*,light,wand,6704,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15>,,attack:3616,skill_1:4288,skill_3:1407,team_buff:1357,dx:2432,ds:848
+10463,_c_Xiao_Lei,3*,light,wand,6704,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15>,,attack:2624,skill_1:3068,skill_3:1024,team_buff:1357,dx:1769,ds:617
 -,120,affliction
-15061,Xiao_Lei,3*,light,wand,7372,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15 & hp100>,,attack:3923,skill_1:4630,skill_3:1546,team_buff:1357,dx:2670,ds:932
-11024,_c_Xiao_Lei,3*,light,wand,6721,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15 & hp100>,,attack:2786,skill_1:3257,skill_3:1088,team_buff:1357,dx:1878,ds:655
+15114,Xiao_Lei,3*,light,wand,7372,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp100>,,attack:3947,skill_1:4644,skill_3:1551,team_buff:1357,dx:2678,ds:935
+12312,_c_Xiao_Lei,3*,light,wand,6721,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp100>,,attack:3157,skill_1:3691,skill_3:1233,team_buff:1357,dx:2128,ds:743
 -,180,_
-13993,Xiao_Lei,3*,light,wand,6704,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15>,,attack:3632,skill_1:4279,skill_3:1601,team_buff:1518,dx:2356,ds:604
-9473,_c_Xiao_Lei,3*,light,wand,6704,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15>,,attack:2326,skill_1:2707,skill_3:1026,team_buff:1518,dx:1510,ds:384
+14036,Xiao_Lei,3*,light,wand,6704,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15>,,attack:3649,skill_1:4291,skill_3:1605,team_buff:1518,dx:2363,ds:606
+10534,_c_Xiao_Lei,3*,light,wand,6704,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15>,,attack:2636,skill_1:3068,skill_3:1163,team_buff:1518,dx:1711,ds:436
 -,180,affliction
-15100,Xiao_Lei,3*,light,wand,7372,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15 & hp100>,,attack:3953,skill_1:4631,skill_3:1755,team_buff:1518,dx:2582,ds:658
-11089,_c_Xiao_Lei,3*,light,wand,6721,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15 & hp100>,,attack:2798,skill_1:3257,skill_3:1234,team_buff:1518,dx:1816,ds:462
+15148,Xiao_Lei,3*,light,wand,7372,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp100>,,attack:3973,skill_1:4644,skill_3:1760,team_buff:1518,dx:2590,ds:659
+12366,_c_Xiao_Lei,3*,light,wand,6721,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp100>,,attack:3171,skill_1:3692,skill_3:1399,team_buff:1518,dx:2059,ds:524

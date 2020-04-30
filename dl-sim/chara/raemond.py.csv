@@ -1,18 +1,18 @@
 -,60,_
-13748,Raemond,3*,light,sword,6393,[The_Shining_Overlord+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15>,,attack:2468,force_strike:1120,skill_1:2814,skill_2:1276,skill_3:1023,team_buff:665,dx:3689,ds:690
-8770,_c_Raemond,3*,light,sword,6393,[The_Shining_Overlord+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15>,,attack:1571,force_strike:712,skill_1:1767,skill_2:773,skill_3:618,team_buff:665,dx:2241,ds:419
+13977,Raemond,3*,light,sword,6393,[The_Shining_Overlord+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],<hit10 & hit15>,,attack:2523,force_strike:1143,skill_1:2854,skill_2:1296,skill_3:1037,team_buff:665,dx:3753,ds:702
+9850,_c_Raemond,3*,light,sword,6393,[The_Shining_Overlord+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit10 & hit15>,,attack:1780,force_strike:807,skill_1:2003,skill_2:876,skill_3:701,team_buff:665,dx:2540,ds:475
 -,60,affliction
-15219,Raemond,3*,light,sword,7031,[The_Shining_Overlord+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15 & hp100>,,attack:2769,force_strike:1257,skill_1:3165,skill_2:1406,skill_3:1127,team_buff:665,dx:4065,ds:760
-10416,_c_Raemond,3*,light,sword,6410,[The_Shining_Overlord+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15 & hp100>,,attack:1890,force_strike:856,skill_1:2127,skill_2:930,skill_3:744,team_buff:665,dx:2697,ds:504
+15479,Raemond,3*,light,sword,7031,[The_Shining_Overlord+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hit10 & hit15 & hp100>,,attack:2834,force_strike:1285,skill_1:3210,skill_2:1428,skill_3:1143,team_buff:665,dx:4136,ds:773
+11717,_c_Raemond,3*,light,sword,6410,[The_Shining_Overlord+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit10 & hit15 & hp100>,,attack:2142,force_strike:971,skill_1:2410,skill_2:1054,skill_3:843,team_buff:665,dx:3057,ds:571
 -,120,_
-14074,Raemond,3*,light,sword,6393,[The_Shining_Overlord+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15>,,attack:2525,force_strike:1153,skill_1:2898,skill_2:1267,skill_3:1023,team_buff:666,dx:3824,ds:715
-8898,_c_Raemond,3*,light,sword,6393,[The_Shining_Overlord+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15>,,attack:1566,force_strike:714,skill_1:1787,skill_2:766,skill_3:619,team_buff:666,dx:2339,ds:437
+14315,Raemond,3*,light,sword,6393,[The_Shining_Overlord+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],<hit10 & hit15>,,attack:2571,force_strike:1173,skill_1:2942,skill_2:1286,skill_3:1038,team_buff:666,dx:3905,ds:730
+9996,_c_Raemond,3*,light,sword,6393,[The_Shining_Overlord+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit10 & hit15>,,attack:1775,force_strike:810,skill_1:2026,skill_2:868,skill_3:701,team_buff:666,dx:2651,ds:495
 -,120,affliction
-15510,Raemond,3*,light,sword,7031,[The_Shining_Overlord+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15 & hp100>,,attack:2807,force_strike:1282,skill_1:3225,skill_2:1396,skill_3:1128,team_buff:666,dx:4214,ds:788
-10571,_c_Raemond,3*,light,sword,6410,[The_Shining_Overlord+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15 & hp100>,,attack:1884,force_strike:860,skill_1:2151,skill_2:922,skill_3:745,team_buff:666,dx:2814,ds:526
+15779,Raemond,3*,light,sword,7031,[The_Shining_Overlord+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hit10 & hit15 & hp100>,,attack:2861,force_strike:1306,skill_1:3274,skill_2:1417,skill_3:1144,team_buff:666,dx:4303,ds:804
+11891,_c_Raemond,3*,light,sword,6410,[The_Shining_Overlord+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit10 & hit15 & hp100>,,attack:2136,force_strike:974,skill_1:2438,skill_2:1045,skill_3:844,team_buff:666,dx:3189,ds:596
 -,180,_
-13474,Raemond,3*,light,sword,6393,[The_Shining_Overlord+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15>,,attack:2787,force_strike:1283,skill_1:3198,skill_2:1554,skill_3:1196,team_buff:441,dx:2536,ds:474
-8415,_c_Raemond,3*,light,sword,6393,[The_Shining_Overlord+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15>,,attack:1714,force_strike:788,skill_1:1960,skill_2:941,skill_3:724,team_buff:441,dx:1551,ds:290
+13703,Raemond,3*,light,sword,6393,[The_Shining_Overlord+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],<hit10 & hit15>,,attack:2837,force_strike:1305,skill_1:3249,skill_2:1579,skill_3:1215,team_buff:441,dx:2590,ds:484
+9478,_c_Raemond,3*,light,sword,6393,[The_Shining_Overlord+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit10 & hit15>,,attack:1943,force_strike:893,skill_1:2222,skill_2:1067,skill_3:821,team_buff:441,dx:1758,ds:328
 -,180,affliction
-14848,Raemond,3*,light,sword,7031,[The_Shining_Overlord+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15 & hp100>,,attack:3088,force_strike:1421,skill_1:3546,skill_2:1713,skill_3:1318,team_buff:441,dx:2795,ds:522
-10035,_c_Raemond,3*,light,sword,6410,[The_Shining_Overlord+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15 & hp100>,,attack:2063,force_strike:949,skill_1:2359,skill_2:1133,skill_3:871,team_buff:441,dx:1866,ds:349
+15103,Raemond,3*,light,sword,7031,[The_Shining_Overlord+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hit10 & hit15 & hp100>,,attack:3144,force_strike:1446,skill_1:3602,skill_2:1740,skill_3:1339,team_buff:441,dx:2854,ds:533
+11314,_c_Raemond,3*,light,sword,6410,[The_Shining_Overlord+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit10 & hit15 & hp100>,,attack:2338,force_strike:1075,skill_1:2673,skill_2:1284,skill_3:988,team_buff:441,dx:2115,ds:395

@@ -1,18 +1,18 @@
 -,60,_
-13344,Lucretia,5*,light,wand,7150,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15>,,attack:3041,skill_1:3103,skill_3:851,team_buff:648,team_energy:324,dx:4052,ds:1322
-9098,_c_Lucretia,5*,light,wand,7150,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15>,,attack:2046,skill_1:2004,skill_3:548,team_buff:648,team_energy:324,dx:2650,ds:875
+13520,Lucretia,5*,light,wand,7150,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15>,,attack:3082,skill_1:3120,skill_3:854,team_buff:648,team_energy:324,dx:4125,ds:1362
+10182,_c_Lucretia,5*,light,wand,7150,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15>,,attack:2319,skill_1:2272,skill_3:621,team_buff:648,team_energy:324,dx:3003,ds:991
 -,60,affliction
-14659,Lucretia,5*,light,wand,7862,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15 & hp100>,,attack:3406,skill_1:3419,skill_3:938,team_buff:648,team_energy:324,dx:4464,ds:1457
-10749,_c_Lucretia,5*,light,wand,7168,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15 & hp100>,,attack:2461,skill_1:2411,skill_3:660,team_buff:648,team_energy:324,dx:3188,ds:1052
+14858,Lucretia,5*,light,wand,7862,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp100>,,attack:3456,skill_1:3438,skill_3:941,team_buff:648,team_energy:324,dx:4545,ds:1501
+12052,_c_Lucretia,5*,light,wand,7168,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp100>,,attack:2790,skill_1:2733,skill_3:748,team_buff:648,team_energy:324,dx:3613,ds:1193
 -,120,_
-11729,Lucretia,5*,light,wand,7150,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15>,,attack:3544,skill_1:3551,skill_3:1617,team_buff:331,team_energy:331,dx:1923,ds:428
-7904,_c_Lucretia,5*,light,wand,7150,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15>,,attack:2345,skill_1:2314,skill_3:1055,team_buff:331,team_energy:331,dx:1247,ds:278
+11880,Lucretia,5*,light,wand,7150,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15>,,attack:3596,skill_1:3602,skill_3:1642,team_buff:331,team_energy:331,dx:1941,ds:433
+8869,_c_Lucretia,5*,light,wand,7150,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15>,,attack:2658,skill_1:2622,skill_3:1195,team_buff:331,team_energy:331,dx:1413,ds:315
 -,120,affliction
-12887,Lucretia,5*,light,wand,7862,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15 & hp100>,,attack:3937,skill_1:3913,skill_3:1782,team_buff:331,team_energy:331,dx:2119,ds:471
-9375,_c_Lucretia,5*,light,wand,7168,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15 & hp100>,,attack:2822,skill_1:2784,skill_3:1269,team_buff:331,team_energy:331,dx:1500,ds:335
+13057,Lucretia,5*,light,wand,7862,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp100>,,attack:3996,skill_1:3969,skill_3:1809,team_buff:331,team_energy:331,dx:2139,ds:478
+10536,_c_Lucretia,5*,light,wand,7168,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp100>,,attack:3198,skill_1:3155,skill_3:1438,team_buff:331,team_energy:331,dx:1700,ds:380
 -,180,_
-12444,Lucretia,5*,light,wand,7150,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15>,,attack:3478,skill_1:3674,skill_3:1709,team_buff:222,team_energy:333,dx:2287,ds:739
-8345,_c_Lucretia,5*,light,wand,7150,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15>,,attack:2289,skill_1:2398,skill_3:1113,team_buff:222,team_energy:333,dx:1502,ds:486
+12646,Lucretia,5*,light,wand,7150,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15>,,attack:3526,skill_1:3733,skill_3:1733,team_buff:222,team_energy:333,dx:2339,ds:757
+9384,_c_Lucretia,5*,light,wand,7150,[Candy_Couriers+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15>,,attack:2594,skill_1:2718,skill_3:1261,team_buff:222,team_energy:333,dx:1702,ds:551
 -,180,affliction
-13676,Lucretia,5*,light,wand,7862,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15 & hp100>,,attack:3853,skill_1:4048,skill_3:1883,team_buff:222,team_energy:333,dx:2520,ds:814
-9927,_c_Lucretia,5*,light,wand,7168,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15 & hp100>,,attack:2754,skill_1:2885,skill_3:1339,team_buff:222,team_energy:333,dx:1807,ds:585
+13900,Lucretia,5*,light,wand,7862,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp100>,,attack:3908,skill_1:4113,skill_3:1910,team_buff:222,team_energy:333,dx:2577,ds:834
+11177,_c_Lucretia,5*,light,wand,7168,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp100>,,attack:3121,skill_1:3270,skill_3:1518,team_buff:222,team_energy:333,dx:2048,ds:663

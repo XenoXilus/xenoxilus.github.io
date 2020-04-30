@@ -1,18 +1,18 @@
 -,60,_
-16779,Dragonyule_Malora,5*,light,axe,6814,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15 & hp70 & buff all team>,c4fsf c5 c4 s1,attack:4578,skill_1:1909,skill_2:2045,s2_boost:1636,team_buff:3359,dx:1818,ds:1430
-7066,_c_Dragonyule_Malora,5*,light,axe,6814,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15 & hp70 & buff all team>,c4fsf c5 c4 s1,attack:2934,skill_1:1581,team_buff:665,dx:1054,ds:829
+16884,Dragonyule_Malora,5*,light,axe,6814,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp70 & buff all team>,c4fsf c5 c4 s1,attack:4658,skill_1:1914,skill_2:2051,s2_boost:1641,team_buff:3359,dx:1824,ds:1434
+7919,_c_Dragonyule_Malora,5*,light,axe,6814,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp70 & buff all team>,c4fsf c5 c4 s1,attack:3325,skill_1:1792,team_buff:665,dx:1195,ds:940
 -,60,affliction
-18565,Dragonyule_Malora,5*,light,axe,7491,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15 & hp70 & hp100 & buff all team>,c4fsf c5 c4 s1,attack:5265,skill_1:2237,skill_2:2273,s2_boost:1818,team_buff:3359,dx:2021,ds:1589
-8307,_c_Dragonyule_Malora,5*,light,axe,6830,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15 & hp70 & hp100 & buff all team>,c4fsf c5 c4 s1,attack:3503,skill_1:1887,team_buff:665,dx:1259,ds:990
+18699,Dragonyule_Malora,5*,light,axe,7491,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp70 & hp100 & buff all team>,c4fsf c5 c4 s1,attack:5369,skill_1:2243,skill_2:2279,s2_boost:1823,team_buff:3359,dx:2027,ds:1594
+9326,_c_Dragonyule_Malora,5*,light,axe,6830,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp70 & hp100 & buff all team>,c4fsf c5 c4 s1,attack:3970,skill_1:2139,team_buff:665,dx:1427,ds:1122
 -,120,_
-17837,Dragonyule_Malora,5*,light,axe,6814,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15 & hp70 & buff all team>,c4fsf c5 c4 s1,attack:5050,skill_1:2773,skill_2:2586,s2_boost:2068,team_buff:3700,dx:932,ds:723
-6603,_c_Dragonyule_Malora,5*,light,axe,6814,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15 & hp70 & buff all team>,c4fsf c5 c4 s1,attack:3227,skill_1:1773,team_buff:663,dx:525,ds:413
+17912,Dragonyule_Malora,5*,light,axe,6814,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp70 & buff all team>,c4fsf c5 c4 s1,attack:5099,skill_1:2781,skill_2:2593,s2_boost:2075,team_buff:3700,dx:935,ds:725
+7395,_c_Dragonyule_Malora,5*,light,axe,6814,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp70 & buff all team>,c4fsf c5 c4 s1,attack:3657,skill_1:2009,team_buff:663,dx:595,ds:468
 -,120,affliction
-19559,Dragonyule_Malora,5*,light,axe,7491,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15 & hp70 & hp100 & buff all team>,c4fsf c5 c4 s1,attack:5702,skill_1:3140,skill_2:2874,s2_boost:2299,team_buff:3700,dx:1036,ds:804
-7755,_c_Dragonyule_Malora,5*,light,axe,6830,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15 & hp70 & hp100 & buff all team>,c4fsf c5 c4 s1,attack:3853,skill_1:2117,team_buff:663,dx:627,ds:493
+19650,Dragonyule_Malora,5*,light,axe,7491,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp70 & hp100 & buff all team>,c4fsf c5 c4 s1,attack:5764,skill_1:3150,skill_2:2882,s2_boost:2306,team_buff:3700,dx:1039,ds:806
+8701,_c_Dragonyule_Malora,5*,light,axe,6830,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp70 & hp100 & buff all team>,c4fsf c5 c4 s1,attack:4367,skill_1:2399,team_buff:663,dx:711,ds:559
 -,180,_
-17105,Dragonyule_Malora,5*,light,axe,6814,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15 & hp70 & buff all team>,c4fsf c5 c4 s1,attack:5223,skill_1:2808,skill_2:2415,s2_boost:1932,team_buff:3596,dx:645,ds:482
-6057,_c_Dragonyule_Malora,5*,light,axe,6814,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15 & hp70 & buff all team>,c4fsf c5 c4 s1,attack:3280,skill_1:1707,team_buff:442,dx:350,ds:275
+17167,Dragonyule_Malora,5*,light,axe,6814,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp70 & buff all team>,c4fsf c5 c4 s1,attack:5261,skill_1:2816,skill_2:2422,s2_boost:1938,team_buff:3596,dx:647,ds:484
+6805,_c_Dragonyule_Malora,5*,light,axe,6814,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp70 & buff all team>,c4fsf c5 c4 s1,attack:3717,skill_1:1935,team_buff:442,dx:397,ds:312
 -,180,affliction
-18708,Dragonyule_Malora,5*,light,axe,7491,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],<hit10 & hit15 & hp70 & hp100 & buff all team>,c4fsf c5 c4 s1,attack:5864,skill_1:3159,skill_2:2684,s2_boost:2147,team_buff:3596,dx:717,ds:536
-7146,_c_Dragonyule_Malora,5*,light,axe,6830,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Halloween_Elisanne],!<hit10 & hit15 & hp70 & hp100 & buff all team>,c4fsf c5 c4 s1,attack:3916,skill_1:2038,team_buff:442,dx:418,ds:329
+18783,Dragonyule_Malora,5*,light,axe,7491,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp70 & hp100 & buff all team>,c4fsf c5 c4 s1,attack:5911,skill_1:3169,skill_2:2692,s2_boost:2154,team_buff:3596,dx:720,ds:538
+8040,_c_Dragonyule_Malora,5*,light,axe,6830,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp70 & hp100 & buff all team>,c4fsf c5 c4 s1,attack:4439,skill_1:2310,team_buff:442,dx:474,ds:373

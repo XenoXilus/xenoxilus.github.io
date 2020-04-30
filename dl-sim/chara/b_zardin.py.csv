@@ -1,18 +1,18 @@
 -,60,_
-13144,Beautician_Zardin,5*,light,blade,6552,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],<hp70 & hit10 & hit15>,no s2,attack:2849,skill_1:3347,skill_3:1894,team_buff:805,dx:3387,ds:858
-7823,_c_Beautician_Zardin,5*,light,blade,6552,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],!<hp70 & hit10 & hit15>,no s2,attack:1893,skill_1:1648,skill_3:933,team_buff:805,dx:2118,ds:422
+13215,Beautician_Zardin,5*,light,blade,6552,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Peony],<hp70 & hit15>,no s2,attack:2892,skill_1:3356,skill_3:1900,team_buff:805,dx:3397,ds:860
+8758,_c_Beautician_Zardin,5*,light,blade,6552,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Peony],!<hp70 & hit15>,no s2,attack:2145,skill_1:1868,skill_3:1057,team_buff:805,dx:2400,ds:479
 -,60,affliction
-14711,Beautician_Zardin,5*,light,blade,7186,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],<hp70 & hit10 & hit15 & hp100>,no s2,attack:3261,skill_1:3754,skill_3:2125,team_buff:805,dx:3800,ds:962
-9226,_c_Beautician_Zardin,5*,light,blade,6552,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],!<hp70 & hit10 & hit15 & hp100>,no s2,attack:2271,skill_1:1978,skill_3:1120,team_buff:805,dx:2542,ds:507
+14795,Beautician_Zardin,5*,light,blade,7186,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Peony],<hp70 & hit15 & hp100>,no s2,attack:3314,skill_1:3765,skill_3:2131,team_buff:805,dx:3811,ds:965
+10349,_c_Beautician_Zardin,5*,light,blade,6552,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Peony],!<hp70 & hit15 & hp100>,no s2,attack:2574,skill_1:2242,skill_3:1269,team_buff:805,dx:2880,ds:575
 -,120,_
-13020,Beautician_Zardin,5*,light,blade,6552,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],<hp70 & hit10 & hit15>,no s2,attack:3078,skill_1:3987,skill_3:1942,team_buff:678,dx:2446,ds:886
-7566,_c_Beautician_Zardin,5*,light,blade,6552,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],!<hp70 & hit10 & hit15>,no s2,attack:1982,skill_1:1981,skill_3:956,team_buff:678,dx:1529,ds:436
+13074,Beautician_Zardin,5*,light,blade,6552,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Peony],<hp70 & hit15>,no s2,attack:3105,skill_1:3999,skill_3:1948,team_buff:678,dx:2453,ds:889
+8484,_c_Beautician_Zardin,5*,light,blade,6552,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Peony],!<hp70 & hit15>,no s2,attack:2246,skill_1:2245,skill_3:1084,team_buff:678,dx:1733,ds:495
 -,120,affliction
-14556,Beautician_Zardin,5*,light,blade,7186,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],<hp70 & hit10 & hit15 & hp100>,no s2,attack:3486,skill_1:4473,skill_3:2178,team_buff:678,dx:2744,ds:994
-8943,_c_Beautician_Zardin,5*,light,blade,6552,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],!<hp70 & hit10 & hit15 & hp100>,no s2,attack:2378,skill_1:2378,skill_3:1148,team_buff:678,dx:1835,ds:524
+14620,Beautician_Zardin,5*,light,blade,7186,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Peony],<hp70 & hit15 & hp100>,no s2,attack:3519,skill_1:4486,skill_3:2185,team_buff:678,dx:2752,ds:997
+10045,_c_Beautician_Zardin,5*,light,blade,6552,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Peony],!<hp70 & hit15 & hp100>,no s2,attack:2695,skill_1:2695,skill_3:1301,team_buff:678,dx:2080,ds:594
 -,180,_
-12882,Beautician_Zardin,5*,light,blade,6552,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],<hp70 & hit10 & hit15>,no s2,attack:3151,skill_1:4170,skill_3:1941,team_buff:692,dx:2330,ds:595
-7486,_c_Beautician_Zardin,5*,light,blade,6552,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],!<hp70 & hit10 & hit15>,no s2,attack:2008,skill_1:2077,skill_3:956,team_buff:692,dx:1457,ds:293
+12929,Beautician_Zardin,5*,light,blade,6552,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Peony],<hp70 & hit15>,no s2,attack:3172,skill_1:4182,skill_3:1946,team_buff:692,dx:2337,ds:597
+8391,_c_Beautician_Zardin,5*,light,blade,6552,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Wand|Dagger|Peony],!<hp70 & hit15>,no s2,attack:2276,skill_1:2354,skill_3:1083,team_buff:692,dx:1651,ds:332
 -,180,affliction
-14388,Beautician_Zardin,5*,light,blade,7186,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],<hp70 & hit10 & hit15 & hp100>,no s2,attack:3557,skill_1:4678,skill_3:2177,team_buff:692,dx:2614,ds:667
-8844,_c_Beautician_Zardin,5*,light,blade,6552,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Halloween_Elisanne],!<hp70 & hit10 & hit15 & hp100>,no s2,attack:2410,skill_1:2493,skill_3:1147,team_buff:692,dx:1748,ds:351
+14443,Beautician_Zardin,5*,light,blade,7186,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Peony],<hp70 & hit15 & hp100>,no s2,attack:3582,skill_1:4691,skill_3:2183,team_buff:692,dx:2622,ds:669
+9931,_c_Beautician_Zardin,5*,light,blade,6552,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Wand|Dagger|Peony],!<hp70 & hit15 & hp100>,no s2,attack:2731,skill_1:2825,skill_3:1300,team_buff:692,dx:1982,ds:398
