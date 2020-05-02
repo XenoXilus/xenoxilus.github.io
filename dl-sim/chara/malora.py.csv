@@ -1,18 +1,18 @@
 -,60,_
-10474,Malora,3*,light,bow,6206,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Wand|Peony],<hit15 & hp70>,,attack:1694,force_strike:521,skill_1:2450,skill_2:824,skill_3:550,team_buff:788,dx:3038,ds:605
-7617,_c_Malora,3*,light,bow,6206,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Wand|Peony],!<hit15 & hp70>,,attack:1216,force_strike:366,skill_1:1720,skill_2:579,skill_3:386,team_buff:788,dx:2133,ds:425
+11369,Malora,3*,light,bow,6206,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],<hit10 & hit15 & hp30 every 180s>,,attack:1835,force_strike:580,skill_1:2575,skill_2:859,skill_3:573,team_buff:936,dx:3376,ds:631
+8267,_c_Malora,3*,light,bow,6206,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],!<hit10 & hit15 & hp30 every 180s>,,attack:1311,force_strike:406,skill_1:1802,skill_2:601,skill_3:401,team_buff:936,dx:2363,ds:442
 -,60,affliction
-11642,Malora,3*,light,bow,6806,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Peony],<hit15 & hp70 & hp100>,,attack:1913,force_strike:583,skill_1:2741,skill_2:922,skill_3:615,team_buff:788,dx:3399,ds:677
-8983,_c_Malora,3*,light,bow,6206,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Peony],!<hit15 & hp70 & hp100>,,attack:1460,force_strike:439,skill_1:2064,skill_2:695,skill_3:463,team_buff:788,dx:2560,ds:510
+12299,Malora,3*,light,bow,6806,[Forest_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],<hit10 & hit15 & hp100>,,attack:1999,force_strike:632,skill_1:2804,skill_2:936,skill_3:624,team_buff:936,dx:3677,ds:687
+8958,_c_Malora,3*,light,bow,6206,[Forest_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],!<hit10 & hit15 & hp100>,,attack:1435,force_strike:444,skill_1:1972,skill_2:658,skill_3:439,team_buff:936,dx:2586,ds:483
 -,120,_
-10174,Malora,3*,light,bow,6206,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Wand|Peony],<hit15 & hp70>,,attack:1861,force_strike:425,skill_1:2521,skill_2:1052,skill_3:831,team_buff:651,dx:2199,ds:631
-7352,_c_Malora,3*,light,bow,6206,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Wand|Peony],!<hit15 & hp70>,,attack:1321,force_strike:298,skill_1:1770,skill_2:738,skill_3:583,team_buff:651,dx:1544,ds:443
+10792,Malora,3*,light,bow,6206,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],<hit10 & hit15 & hp30 every 180s>,,attack:1974,force_strike:692,skill_1:2608,skill_2:1084,skill_3:856,team_buff:682,dx:2257,ds:637
+7774,_c_Malora,3*,light,bow,6206,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],!<hit10 & hit15 & hp30 every 180s>,,attack:1395,force_strike:484,skill_1:1826,skill_2:758,skill_3:599,team_buff:682,dx:1580,ds:446
 -,120,affliction
-11314,Malora,3*,light,bow,6806,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Peony],<hit15 & hp70 & hp100>,,attack:2092,force_strike:475,skill_1:2821,skill_2:1177,skill_3:929,team_buff:651,dx:2460,ds:706
-8693,_c_Malora,3*,light,bow,6206,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Peony],!<hit15 & hp70 & hp100>,,attack:1585,force_strike:358,skill_1:2125,skill_2:886,skill_3:700,team_buff:651,dx:1853,ds:532
+11693,Malora,3*,light,bow,6806,[Forest_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],<hit10 & hit15 & hp100>,,attack:2150,force_strike:754,skill_1:2840,skill_2:1180,skill_3:932,team_buff:682,dx:2458,ds:693
+8442,_c_Malora,3*,light,bow,6206,[Forest_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],!<hit10 & hit15 & hp100>,,attack:1527,force_strike:530,skill_1:1998,skill_2:830,skill_3:655,team_buff:682,dx:1729,ds:488
 -,180,_
-9986,Malora,3*,light,bow,6206,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Wand|Peony],<hit15 & hp70>,,attack:1829,force_strike:496,skill_1:2522,skill_2:979,skill_3:918,team_buff:768,dx:2059,ds:411
-7251,_c_Malora,3*,light,bow,6206,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Wand|Peony],!<hit15 & hp70>,,attack:1293,force_strike:348,skill_1:1771,skill_2:688,skill_3:645,team_buff:768,dx:1446,ds:288
+10611,Malora,3*,light,bow,6206,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],<hit10 & hit15 & hp30 every 180s>,,attack:1958,force_strike:586,skill_1:2601,skill_2:1013,skill_3:942,team_buff:775,dx:2298,ds:434
+7670,_c_Malora,3*,light,bow,6206,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],!<hit10 & hit15 & hp30 every 180s>,,attack:1380,force_strike:410,skill_1:1821,skill_2:709,skill_3:659,team_buff:775,dx:1609,ds:304
 -,180,affliction
-11087,Malora,3*,light,bow,6806,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Peony],<hit15 & hp70 & hp100>,,attack:2052,force_strike:555,skill_1:2822,skill_2:1096,skill_3:1027,team_buff:768,dx:2304,ds:460
-8548,_c_Malora,3*,light,bow,6206,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Peony],!<hit15 & hp70 & hp100>,,attack:1552,force_strike:418,skill_1:2126,skill_2:825,skill_3:774,team_buff:768,dx:1735,ds:346
+11487,Malora,3*,light,bow,6806,[Forest_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],<hit10 & hit15 & hp100>,,attack:2133,force_strike:638,skill_1:2833,skill_2:1103,skill_3:1026,team_buff:775,dx:2503,ds:472
+8320,_c_Malora,3*,light,bow,6206,[Forest_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],!<hit10 & hit15 & hp100>,,attack:1510,force_strike:449,skill_1:1993,skill_2:776,skill_3:721,team_buff:775,dx:1760,ds:332

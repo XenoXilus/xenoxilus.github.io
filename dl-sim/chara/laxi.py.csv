@@ -1,18 +1,18 @@
 -,60,_
-13515,Laxi,4*,flame,blade,8512,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hp70 & hit15>,a1 proc at 0s,attack:3228,force_strike:244,skill_1:1726,s1_boost:1471,dx:4693,ds:2151
-8641,_c_Laxi,4*,flame,blade,7616,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hp70 & hit15>,a1 proc at 0s,attack:2105,force_strike:161,skill_1:1088,s1_boost:933,dx:2991,ds:1361
+13683,Laxi,4*,flame,blade,8493,[Primal_Crisis+The_Wyrmclan_Duo][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hit15 & hp70>,a1 proc at 0s,attack:3238,force_strike:245,skill_1:1753,s1_boost:1494,dx:4766,ds:2185
+8622,_c_Laxi,4*,flame,blade,7599,[Primal_Crisis+The_Wyrmclan_Duo][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hit15 & hp70>,a1 proc at 0s,attack:2100,force_strike:160,skill_1:1086,s1_boost:931,dx:2984,ds:1358
 -,60,affliction
 15409,Laxi,4*,flame,blade,8470,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hit15>,a1 proc at 0s,attack:4024,force_strike:304,skill_1:1670,s1_boost:1423,dx:5904,ds:2081
 10168,_c_Laxi,4*,flame,blade,7579,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hit15>,a1 proc at 0s,attack:2723,force_strike:208,skill_1:1083,s1_boost:928,dx:3869,ds:1354
 -,120,_
-14238,Laxi,4*,flame,blade,8512,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hp70 & hit15>,a1 proc at 0s,attack:4104,force_strike:334,skill_1:1900,s1_boost:1775,dx:3904,ds:2219
-9118,_c_Laxi,4*,flame,blade,7616,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hp70 & hit15>,a1 proc at 0s,attack:2641,force_strike:215,skill_1:1206,s1_boost:1130,dx:2505,ds:1418
+14440,Laxi,4*,flame,blade,8493,[Primal_Crisis+The_Wyrmclan_Duo][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hit15 & hp70>,a1 proc at 0s,attack:4148,force_strike:337,skill_1:1930,s1_boost:1803,dx:3965,ds:2253
+9098,_c_Laxi,4*,flame,blade,7599,[Primal_Crisis+The_Wyrmclan_Duo][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hit15 & hp70>,a1 proc at 0s,attack:2635,force_strike:215,skill_1:1204,s1_boost:1127,dx:2499,ds:1415
 -,120,affliction
 16181,Laxi,4*,flame,blade,8470,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hit15>,a1 proc at 0s,attack:5145,force_strike:419,skill_1:1839,s1_boost:1718,dx:4911,ds:2147
 10674,_c_Laxi,4*,flame,blade,7579,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hit15>,a1 proc at 0s,attack:3416,force_strike:279,skill_1:1200,s1_boost:1124,dx:3240,ds:1411
 -,180,_
-14249,Laxi,4*,flame,blade,8512,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hp70 & hit15>,a1 proc at 0s,attack:4640,force_strike:368,skill_1:2164,s1_boost:2079,dx:3424,ds:1570
-9166,_c_Laxi,4*,flame,blade,7616,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hp70 & hit15>,a1 proc at 0s,attack:2977,force_strike:236,skill_1:1381,s1_boost:1329,dx:2227,ds:1013
+14457,Laxi,4*,flame,blade,8493,[Primal_Crisis+The_Wyrmclan_Duo][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hit15 & hp70>,a1 proc at 0s,attack:4700,force_strike:373,skill_1:2198,s1_boost:2112,dx:3478,ds:1594
+9146,_c_Laxi,4*,flame,blade,7599,[Primal_Crisis+The_Wyrmclan_Duo][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hit15 & hp70>,a1 proc at 0s,attack:2971,force_strike:235,skill_1:1378,s1_boost:1326,dx:2222,ds:1011
 -,180,affliction
 16224,Laxi,4*,flame,blade,8470,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hit15>,a1 proc at 0s,attack:5826,force_strike:462,skill_1:2094,s1_boost:2012,dx:4308,ds:1519
 10746,_c_Laxi,4*,flame,blade,7579,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hit15>,a1 proc at 0s,attack:3852,force_strike:305,skill_1:1374,s1_boost:1322,dx:2881,ds:1008
