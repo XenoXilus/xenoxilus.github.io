@@ -196,8 +196,8 @@
 13254,_c_Summer_Celliera,5*,water,sword,5043,[Valiant_Crown+United_by_One_Vision][Siren][HDT2][Blade|Renee|Summer_Estelle],!<100 bog res & hp70>,,attack:1662,force_strike:1225,skill_1:4955,skill_2:1529,skill_3:1809,team_buff:2070
 12532,Summer_Estelle,4*,water,wand,5057,[Candy_Couriers+Primal_Crisis][Siren][HDT2][Blade|Renee|Xander],<buff all team & hit10 & hit15>,,attack:3025,skill_1:5178,skill_3:1902,team_buff:2425
 7717,_c_Summer_Estelle,4*,water,wand,5057,[Candy_Couriers+Primal_Crisis][Siren][HDT2][Blade|Renee|Xander],!<buff all team & hit10 & hit15>,,attack:2193,skill_1:3726,skill_3:1376,team_buff:421
-12428,Summer_Julietta,5*,water,axe,5392,[Kung_Fu_Masters+His_Clever_Brother][Siren][HDT2][Blade|Bow|Summer_Estelle],<buff all team & 100 bog res & hp60>,,attack:2984,skill_1:5127,skill_3:2049,team_buff:2266
-9658,_c_Summer_Julietta,5*,water,axe,5087,[Kung_Fu_Masters+His_Clever_Brother][Siren][HDT2][Blade|Bow|Summer_Estelle],!<buff all team & 100 bog res & hp60>,,attack:2831,skill_1:4874,skill_3:1952
+13406,Summer_Julietta,5*,water,axe,6515,[Resounding_Rendition+His_Clever_Brother][Gaibhne_and_Creidhne][HDT2][Blade|Renee|Summer_Estelle],<buff all team & 100 bog res & hp60 & hp70>,,attack:2861,skill_1:4910,skill_3:2085,team_buff:3089,dx:458
+9359,_c_Summer_Julietta,5*,water,axe,6147,[Resounding_Rendition+His_Clever_Brother][Gaibhne_and_Creidhne][HDT2][Blade|Renee|Summer_Estelle],!<buff all team & 100 bog res & hp60 & hp70>,,attack:2592,skill_1:4458,skill_3:1893,dx:414
 23010,Student_Maribelle,5*,flame,wand,9115,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Serena],<hp100 & hit10 & hp50>,,attack:4778,skill_1:8126,skill_2:4310,team_buff:435,dx:3101,ds:2257
 14950,_c_Student_Maribelle,5*,flame,wand,8155,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Serena],!<hp100 & hit10 & hp50>,,attack:3581,skill_1:4738,skill_2:2523,team_buff:435,dx:2350,ds:1318
 9465,Summer_Ranzal,4*,water,blade,9289,[Resounding_Rendition+His_Clever_Brother][Leviathan][HDT2][Xander|Dagger|Summer_Estelle],<buff all team & 100 bog res & last offense & hit10 & hp70>,,attack:2710,skill_1:2521,skill_3:964,team_buff:726,dx:1973,ds:568
@@ -242,8 +242,8 @@
 11764,_c_Yachiyo,4*,light,blade,6489,[Mega_Friends+Spirit_of_the_Season][Daikokuten][HDT2][Sharena|Dagger|Peony],!<0 paralysis res & hit15 & hp100>,,attack:3216,force_strike:189,fs_boost:1424,skill_1:2760,s1_paralysis:0,skill_3:907,team_buff:444,dx:2403,ds:417
 20611,Yaten,5*,shadow,sword,6217,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Bow],<hp60 & hp100>,,attack:3425,force_strike:1560,skill_1:10789,s1_boost:2382,team_energy:1220,dx:338,ds:894
 17828,_c_Yaten,5*,shadow,sword,5214,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Bow],!<hp60 & hp100>,,attack:2927,force_strike:1333,skill_1:9238,s1_boost:2056,team_energy:1220,dx:288,ds:763
-16569,Yue,4*,flame,axe,8272,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Halloween_Mym],<hit10 & hp50 & hit15>,,attack:6265,force_strike:737,skill_1:4443,dx:3794,ds:1326
-11337,_c_Yue,4*,flame,axe,7401,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Halloween_Mym],!<hit10 & hp50 & hit15>,,attack:4282,force_strike:504,skill_1:3038,dx:2608,ds:903
+16687,Yue,4*,flame,axe,8291,[Kung_Fu_Masters+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Halloween_Mym],<hit10 & hp50>,,attack:5921,force_strike:696,skill_1:5038,dx:3544,ds:1486
+13595,_c_Yue,4*,flame,axe,7418,[Kung_Fu_Masters+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Halloween_Mym],!<hit10 & hp50>,,attack:4816,force_strike:566,skill_1:4093,dx:2909,ds:1209
 16280,Yuya,4*,flame,dagger,8976,[Twinfold_Bonds+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Serena],<hit10 & hp50 & hit15 & hp60>,,attack:4961,force_strike:1354,skill_1:4617,dx:3527,ds:1819
 9221,_c_Yuya,4*,flame,dagger,6411,[Twinfold_Bonds+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Serena],!<hit10 & hp50 & hit15 & hp60>,,attack:2799,force_strike:762,skill_1:2627,dx:2004,ds:1027
 12858,Zace,3*,shadow,lance,5880,[Resounding_Rendition+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Dagger],<hp70 & hp100>,,attack:2326,force_strike:300,skill_1:5103,skill_2:2322,team_energy:276,dx:1768,ds:759
@@ -286,8 +286,8 @@
 11090,_c_Valentines_Addis,5*,shadow,bow,4612,[The_Plaguebringer+Primal_Crisis][Shinobi][Agito][Wand|Curran|Berserker],!<0 poison res & hp<40 & hit15 & hp=20%>,use s2 once,attack:3440,skill_1:6448,s1_poison:0,team_energy:277,dx:290,ds:633
 15591,Pipple,4*,water,wand,5868,[Primal_Crisis+His_Clever_Brother][Dragonyule_Jeanne][HDT2][Blade|Xander|Axe2],<hit10 & hit15>,,attack:14757,team_energy:833
 11829,_c_Pipple,4*,water,wand,5868,[Primal_Crisis+His_Clever_Brother][Dragonyule_Jeanne][HDT2][Blade|Xander|Axe2],!<hit10 & hit15>,,attack:10996,team_energy:833
-14434,Summer_Luca,4*,light,axe,7872,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hp70 & hit15 & hp100>,,attack:4635,force_strike:346,skill_1:4014,skill_3:1491,team_buff:444,dx:2980,ds:520
-10568,_c_Summer_Luca,4*,light,axe,6779,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hp70 & hit15 & hp100>,,attack:3365,force_strike:252,skill_1:2913,skill_3:1073,team_buff:444,dx:2144,ds:374
+14482,Summer_Luca,4*,light,axe,7872,[Kung_Fu_Masters+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hp70 & hit15 & hp100>,,attack:4804,force_strike:359,skill_1:3841,skill_3:1446,team_buff:444,dx:3089,ds:497
+11121,_c_Summer_Luca,4*,light,axe,6779,[Kung_Fu_Masters+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hp70 & hit15 & hp100>,,attack:3665,force_strike:275,skill_1:2929,skill_3:1093,team_buff:444,dx:2335,ds:376
 23558,Natalie,5*,shadow,blade,6979,[Heralds_of_Hinomoto+The_Plaguebringer][Shinobi][Agito][Wand|Curran|Berserker],<hp<40 & hp=20%>,,attack:5237,skill_1:16646,team_energy:277,dx:395,ds:1000
 13679,_c_Natalie,5*,shadow,blade,5410,[Heralds_of_Hinomoto+The_Plaguebringer][Shinobi][Agito][Wand|Curran|Berserker],!<hp<40 & hp=20%>,,attack:4123,skill_1:8163,team_energy:277,dx:316,ds:799
 19755,Mitsuba,5*,water,dagger,4918,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Summer_Estelle],<0 frostbite res & hit15 & hit10>,,attack:1755,skill_1:17306,team_inspiration:693
