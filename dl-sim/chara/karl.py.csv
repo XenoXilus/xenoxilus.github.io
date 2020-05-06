@@ -1,18 +1,18 @@
 -,60,_
-19393,Karl,4*,flame,sword,9456,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito][Blade|Marth|Bow],<hit15 & hp70 & hit10 & hp50>,,attack:5079,force_strike:4532,team_buff:2996,dx:4920,ds:1863
-12848,_c_Karl,4*,flame,sword,7841,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito][Blade|Marth|Bow],!<hit15 & hp70 & hit10 & hp50>,,attack:3067,force_strike:2728,team_buff:2996,dx:2943,ds:1112
+20015,Karl,4*,flame,sword,9456,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito][Blade|Tiki|Bow],<hit15 & hp70 & hit10 & hp50>,,attack:5643,force_strike:4197,team_buff:2996,dx:5446,ds:1731
+14021,_c_Karl,4*,flame,sword,7841,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito][Blade|Tiki|Bow],!<hit15 & hp70 & hit10 & hp50>,,attack:3681,force_strike:2728,team_buff:2996,dx:3501,ds:1112
 -,60,affliction
-21598,Karl,4*,flame,sword,9089,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Bow],<hit15 & hp70 & hit10 & hp50>,,attack:6347,force_strike:3775,team_buff:2996,dx:6149,ds:2328
-14170,_c_Karl,4*,flame,sword,7537,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Bow],!<hit15 & hp70 & hit10 & hp50>,,attack:3833,force_strike:2273,team_buff:2996,dx:3677,ds:1389
+22514,Karl,4*,flame,sword,9089,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Bow],<hit15 & hp70 & hit10 & hp50>,,attack:7052,force_strike:3496,team_buff:2996,dx:6805,ds:2163
+15636,_c_Karl,4*,flame,sword,7537,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Bow],!<hit15 & hp70 & hit10 & hp50>,,attack:4599,force_strike:2273,team_buff:2996,dx:4376,ds:1389
 -,120,_
-21085,Karl,4*,flame,sword,9456,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito][Blade|Marth|Bow],<hit15 & hp70 & hit10 & hp50>,,attack:5510,force_strike:4978,team_buff:4491,dx:4243,ds:1861
-14395,_c_Karl,4*,flame,sword,7841,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito][Blade|Marth|Bow],!<hit15 & hp70 & hit10 & hp50>,,attack:3289,force_strike:2966,team_buff:4491,dx:2536,ds:1111
+21631,Karl,4*,flame,sword,9456,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito][Blade|Tiki|Bow],<hit15 & hp70 & hit10 & hp50>,,attack:6116,force_strike:4604,team_buff:4491,dx:4688,ds:1729
+15530,_c_Karl,4*,flame,sword,7841,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito][Blade|Tiki|Bow],!<hit15 & hp70 & hit10 & hp50>,,attack:3947,force_strike:2966,team_buff:4491,dx:3014,ds:1111
 -,120,affliction
-23154,Karl,4*,flame,sword,9089,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Bow],<hit15 & hp70 & hit10 & hp50>,,attack:6886,force_strike:4147,team_buff:4491,dx:5302,ds:2326
-15631,_c_Karl,4*,flame,sword,7537,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Bow],!<hit15 & hp70 & hit10 & hp50>,,attack:4110,force_strike:2471,team_buff:4491,dx:3170,ds:1388
+23991,Karl,4*,flame,sword,9089,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Bow],<hit15 & hp70 & hit10 & hp50>,,attack:7643,force_strike:3835,team_buff:4491,dx:5859,ds:2161
+17050,_c_Karl,4*,flame,sword,7537,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Bow],!<hit15 & hp70 & hit10 & hp50>,,attack:4932,force_strike:2471,team_buff:4491,dx:3767,ds:1388
 -,180,_
-20818,Karl,4*,flame,sword,9456,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito][Blade|Marth|Bow],<hit15 & hp70 & hit10 & hp50>,,attack:6067,force_strike:5564,team_buff:4662,dx:3281,ds:1242
-14277,_c_Karl,4*,flame,sword,7841,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito][Blade|Marth|Bow],!<hit15 & hp70 & hit10 & hp50>,,attack:3606,force_strike:3304,team_buff:4662,dx:1962,ds:741
+21324,Karl,4*,flame,sword,9456,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito][Blade|Tiki|Bow],<hit15 & hp70 & hit10 & hp50>,,attack:6731,force_strike:5144,team_buff:4662,dx:3631,ds:1154
+15371,_c_Karl,4*,flame,sword,7841,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito][Blade|Tiki|Bow],!<hit15 & hp70 & hit10 & hp50>,,attack:4327,force_strike:3304,team_buff:4662,dx:2335,ds:741
 -,180,affliction
-22533,Karl,4*,flame,sword,9089,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Bow],<hit15 & hp70 & hit10 & hp50>,,attack:7581,force_strike:4635,team_buff:4662,dx:4100,ds:1552
-15300,_c_Karl,4*,flame,sword,7537,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Bow],!<hit15 & hp70 & hit10 & hp50>,,attack:4506,force_strike:2752,team_buff:4662,dx:2452,ds:926
+23340,Karl,4*,flame,sword,9089,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Bow],<hit15 & hp70 & hit10 & hp50>,,attack:8411,force_strike:4285,team_buff:4662,dx:4537,ds:1442
+16668,_c_Karl,4*,flame,sword,7537,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Bow],!<hit15 & hp70 & hit10 & hp50>,,attack:5408,force_strike:2752,team_buff:4662,dx:2917,ds:926

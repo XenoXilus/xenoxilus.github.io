@@ -1,18 +1,18 @@
 -,60,_
-21081,Durant,4*,shadow,blade,9348,[Proper_Maintenance+Howling_to_the_Heavens][Fatalis][Agito][Dagger|Tobias|Axe2],<hp100 & hit15>,,attack:21081
-16034,_c_Durant,4*,shadow,blade,8090,[Proper_Maintenance+Howling_to_the_Heavens][Fatalis][Agito][Dagger|Tobias|Axe2],!<hp100 & hit15>,,attack:16034
+23800,Durant,4*,shadow,blade,9348,[Proper_Maintenance+Howling_to_the_Heavens][Fatalis][Agito][Tiki|Tobias|Axe2],<hp100 & hit15>,,attack:23799
+17976,_c_Durant,4*,shadow,blade,8090,[Proper_Maintenance+Howling_to_the_Heavens][Fatalis][Agito][Tiki|Tobias|Axe2],!<hp100 & hit15>,,attack:17975
 -,60,affliction
-26811,Durant,4*,shadow,blade,7971,[Proper_Maintenance+The_Plaguebringer][Epimetheus][Agito][Dagger|Tobias|Axe2],<hp100>,,attack:11195,dx:12747,ds_poison:841,ds:2025
-21294,_c_Durant,4*,shadow,blade,6717,[Proper_Maintenance+The_Plaguebringer][Epimetheus][Agito][Dagger|Tobias|Axe2],!<hp100>,,attack:8988,dx:10050,ds_poison:662,ds:1593
+29240,Durant,4*,shadow,blade,7971,[Proper_Maintenance+The_Plaguebringer][Epimetheus][Agito][Tiki|Tobias|Axe2],<hp100>,,attack:12374,dx:14180,ds_poison:788,ds:1896
+23395,_c_Durant,4*,shadow,blade,6717,[Proper_Maintenance+The_Plaguebringer][Epimetheus][Agito][Tiki|Tobias|Axe2],!<hp100>,,attack:10022,dx:11247,ds_poison:623,ds:1500
 -,120,_
-25492,Durant,4*,shadow,blade,9348,[Proper_Maintenance+Howling_to_the_Heavens][Fatalis][Agito][Dagger|Tobias|Axe2],<hp100 & hit15>,,attack:25491
-19436,_c_Durant,4*,shadow,blade,8090,[Proper_Maintenance+Howling_to_the_Heavens][Fatalis][Agito][Dagger|Tobias|Axe2],!<hp100 & hit15>,,attack:19435
+28993,Durant,4*,shadow,blade,9348,[Proper_Maintenance+Howling_to_the_Heavens][Fatalis][Agito][Tiki|Tobias|Axe2],<hp100 & hit15>,,attack:28992
+21885,_c_Durant,4*,shadow,blade,8090,[Proper_Maintenance+Howling_to_the_Heavens][Fatalis][Agito][Tiki|Tobias|Axe2],!<hp100 & hit15>,,attack:21885
 -,120,affliction
-30809,Durant,4*,shadow,blade,7971,[Proper_Maintenance+The_Plaguebringer][Epimetheus][Agito][Dagger|Tobias|Axe2],<hp100>,,attack:19789,dx:8136,ds_poison:540,ds:2341
-24312,_c_Durant,4*,shadow,blade,6717,[Proper_Maintenance+The_Plaguebringer][Epimetheus][Agito][Dagger|Tobias|Axe2],!<hp100>,,attack:15632,dx:6412,ds_poison:425,ds:1842
+33904,Durant,4*,shadow,blade,7971,[Proper_Maintenance+The_Plaguebringer][Epimetheus][Agito][Tiki|Tobias|Axe2],<hp100>,,attack:22212,dx:8992,ds_poison:506,ds:2193
+26918,_c_Durant,4*,shadow,blade,6717,[Proper_Maintenance+The_Plaguebringer][Epimetheus][Agito][Tiki|Tobias|Axe2],!<hp100>,,attack:17652,dx:7128,ds_poison:400,ds:1735
 -,180,_
-27054,Durant,4*,shadow,blade,9348,[Proper_Maintenance+Howling_to_the_Heavens][Fatalis][Agito][Dagger|Tobias|Axe2],<hp100 & hit15>,,attack:27054
-20639,_c_Durant,4*,shadow,blade,8090,[Proper_Maintenance+Howling_to_the_Heavens][Fatalis][Agito][Dagger|Tobias|Axe2],!<hp100 & hit15>,,attack:20639
+30828,Durant,4*,shadow,blade,9348,[Proper_Maintenance+Howling_to_the_Heavens][Fatalis][Agito][Tiki|Tobias|Axe2],<hp100 & hit15>,,attack:30828
+23267,_c_Durant,4*,shadow,blade,8090,[Proper_Maintenance+Howling_to_the_Heavens][Fatalis][Agito][Tiki|Tobias|Axe2],!<hp100 & hit15>,,attack:23266
 -,180,affliction
-32983,Durant,4*,shadow,blade,7971,[Proper_Maintenance+The_Plaguebringer][Epimetheus][Agito][Dagger|Tobias|Axe2],<hp100>,,attack:22139,dx:8809,ds_poison:469,ds:1564
-25983,_c_Durant,4*,shadow,blade,6717,[Proper_Maintenance+The_Plaguebringer][Epimetheus][Agito][Dagger|Tobias|Axe2],!<hp100>,,attack:17436,dx:6945,ds_poison:369,ds:1230
+36613,Durant,4*,shadow,blade,7971,[Proper_Maintenance+The_Plaguebringer][Epimetheus][Agito][Tiki|Tobias|Axe2],<hp100>,,attack:24917,dx:9790,ds_poison:439,ds:1465
+29009,_c_Durant,4*,shadow,blade,6717,[Proper_Maintenance+The_Plaguebringer][Epimetheus][Agito][Tiki|Tobias|Axe2],!<hp100>,,attack:19736,dx:7765,ds_poison:348,ds:1159

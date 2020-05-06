@@ -1,18 +1,18 @@
 -,60,_
-13683,Laxi,4*,flame,blade,8493,[Primal_Crisis+The_Wyrmclan_Duo][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hit15 & hp70>,a1 proc at 0s,attack:3238,force_strike:245,skill_1:1753,s1_boost:1494,dx:4766,ds:2185
-8622,_c_Laxi,4*,flame,blade,7599,[Primal_Crisis+The_Wyrmclan_Duo][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hit15 & hp70>,a1 proc at 0s,attack:2100,force_strike:160,skill_1:1086,s1_boost:931,dx:2984,ds:1358
+14048,Laxi,4*,flame,blade,8493,[Primal_Crisis+The_Wyrmclan_Duo][Gala_Mars][Agito][Dagger|Marth|Tiki],<hit10 & hp50 & hit15 & hp70>,a1 proc at 0s,attack:3603,force_strike:228,skill_1:1611,s1_boost:1373,dx:5220,ds:2009
+9613,_c_Laxi,4*,flame,blade,7599,[Primal_Crisis+The_Wyrmclan_Duo][Gala_Mars][Agito][Dagger|Marth|Tiki],!<hit10 & hp50 & hit15 & hp70>,a1 proc at 0s,attack:2521,force_strike:160,skill_1:1086,s1_boost:931,dx:3555,ds:1358
 -,60,affliction
-15409,Laxi,4*,flame,blade,8470,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hit15>,a1 proc at 0s,attack:4024,force_strike:304,skill_1:1670,s1_boost:1423,dx:5904,ds:2081
-10168,_c_Laxi,4*,flame,blade,7579,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hit15>,a1 proc at 0s,attack:2723,force_strike:208,skill_1:1083,s1_boost:928,dx:3869,ds:1354
+16203,Laxi,4*,flame,blade,8470,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Tiki],<hit10 & hp50 & hit15>,a1 proc at 0s,attack:4534,force_strike:287,skill_1:1557,s1_boost:1327,dx:6555,ds:1940
+11453,_c_Laxi,4*,flame,blade,7579,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Tiki],!<hit10 & hp50 & hit15>,a1 proc at 0s,attack:3268,force_strike:208,skill_1:1083,s1_boost:928,dx:4609,ds:1354
 -,120,_
-14440,Laxi,4*,flame,blade,8493,[Primal_Crisis+The_Wyrmclan_Duo][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hit15 & hp70>,a1 proc at 0s,attack:4148,force_strike:337,skill_1:1930,s1_boost:1803,dx:3965,ds:2253
-9098,_c_Laxi,4*,flame,blade,7599,[Primal_Crisis+The_Wyrmclan_Duo][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hit15 & hp70>,a1 proc at 0s,attack:2635,force_strike:215,skill_1:1204,s1_boost:1127,dx:2499,ds:1415
+14745,Laxi,4*,flame,blade,8493,[Primal_Crisis+The_Wyrmclan_Duo][Gala_Mars][Agito][Dagger|Marth|Tiki],<hit10 & hp50 & hit15 & hp70>,a1 proc at 0s,attack:4592,force_strike:312,skill_1:1775,s1_boost:1657,dx:4335,ds:2072
+10098,_c_Laxi,4*,flame,blade,7599,[Primal_Crisis+The_Wyrmclan_Duo][Gala_Mars][Agito][Dagger|Marth|Tiki],!<hit10 & hp50 & hit15 & hp70>,a1 proc at 0s,attack:3162,force_strike:215,skill_1:1204,s1_boost:1127,dx:2972,ds:1415
 -,120,affliction
-16181,Laxi,4*,flame,blade,8470,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hit15>,a1 proc at 0s,attack:5145,force_strike:419,skill_1:1839,s1_boost:1718,dx:4911,ds:2147
-10674,_c_Laxi,4*,flame,blade,7579,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hit15>,a1 proc at 0s,attack:3416,force_strike:279,skill_1:1200,s1_boost:1124,dx:3240,ds:1411
+16926,Laxi,4*,flame,blade,8470,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Tiki],<hit10 & hp50 & hit15>,a1 proc at 0s,attack:5771,force_strike:392,skill_1:1714,s1_boost:1601,dx:5444,ds:2001
+11970,_c_Laxi,4*,flame,blade,7579,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Tiki],!<hit10 & hp50 & hit15>,a1 proc at 0s,attack:4100,force_strike:279,skill_1:1200,s1_boost:1124,dx:3853,ds:1411
 -,180,_
-14457,Laxi,4*,flame,blade,8493,[Primal_Crisis+The_Wyrmclan_Duo][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hit15 & hp70>,a1 proc at 0s,attack:4700,force_strike:373,skill_1:2198,s1_boost:2112,dx:3478,ds:1594
-9146,_c_Laxi,4*,flame,blade,7599,[Primal_Crisis+The_Wyrmclan_Duo][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hit15 & hp70>,a1 proc at 0s,attack:2971,force_strike:235,skill_1:1378,s1_boost:1326,dx:2222,ds:1011
+14779,Laxi,4*,flame,blade,8493,[Primal_Crisis+The_Wyrmclan_Duo][Gala_Mars][Agito][Dagger|Marth|Tiki],<hit10 & hp50 & hit15 & hp70>,a1 proc at 0s,attack:5195,force_strike:343,skill_1:2021,s1_boost:1942,dx:3809,ds:1466
+10165,_c_Laxi,4*,flame,blade,7599,[Primal_Crisis+The_Wyrmclan_Duo][Gala_Mars][Agito][Dagger|Marth|Tiki],!<hit10 & hp50 & hit15 & hp70>,a1 proc at 0s,attack:3565,force_strike:235,skill_1:1378,s1_boost:1326,dx:2647,ds:1011
 -,180,affliction
-16224,Laxi,4*,flame,blade,8470,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],<hit10 & hp50 & hit15>,a1 proc at 0s,attack:5826,force_strike:462,skill_1:2094,s1_boost:2012,dx:4308,ds:1519
-10746,_c_Laxi,4*,flame,blade,7579,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Serena],!<hit10 & hp50 & hit15>,a1 proc at 0s,attack:3852,force_strike:305,skill_1:1374,s1_boost:1322,dx:2881,ds:1008
+16989,Laxi,4*,flame,blade,8470,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Tiki],<hit10 & hp50 & hit15>,a1 proc at 0s,attack:6527,force_strike:432,skill_1:1952,s1_boost:1876,dx:4784,ds:1416
+12067,_c_Laxi,4*,flame,blade,7579,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Dagger|Marth|Tiki],!<hit10 & hp50 & hit15>,a1 proc at 0s,attack:4622,force_strike:305,skill_1:1374,s1_boost:1322,dx:3432,ds:1008

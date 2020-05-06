@@ -1,18 +1,18 @@
 -,60,_
-9415,Luther,4*,water,dagger,4898,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2][Blade|Xander|Wand],<hit15 & hit10>,,attack:1622,force_strike:178,skill_1:3573,skill_2:1021,skill_3:828,team_buff:52,dx:1516,ds:620
-6672,_c_Luther,4*,water,dagger,4898,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2][Blade|Xander|Wand],!<hit15 & hit10>,,attack:1132,force_strike:126,skill_1:2384,skill_2:681,skill_3:553,team_buff:52,dx:1326,ds:414
+11236,Luther,4*,water,dagger,6531,[Twinfold_Bonds+The_Prince_of_Dragonyule][Leviathan][HDT2][Blade|Xander|Tiki],<hit15 & hit10>,,attack:2240,force_strike:167,skill_1:1784,skill_2:690,skill_3:551,team_buff:51,dx:4190,ds:1558
+7805,_c_Luther,4*,water,dagger,6531,[Twinfold_Bonds+The_Prince_of_Dragonyule][Leviathan][HDT2][Blade|Xander|Tiki],!<hit15 & hit10>,,attack:1604,force_strike:124,skill_1:1225,skill_2:474,skill_3:378,team_buff:51,dx:2876,ds:1069
 -,60,affliction
-10037,Luther,4*,water,dagger,4882,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Wand],<hit15 & hit10>,,attack:1752,force_strike:140,skill_1:3470,skill_2:1071,skill_3:1197,team_buff:51,dx:1701,ds:650
-7761,_c_Luther,4*,water,dagger,4882,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Wand],!<hit15 & hit10>,,attack:1338,force_strike:109,skill_1:2564,skill_2:791,skill_3:885,team_buff:51,dx:1538,ds:481
+11818,Luther,4*,water,dagger,6510,[Twinfold_Bonds+His_Clever_Brother][Leviathan][HDT2][Blade|Xander|Tiki],<hit15 & hit10>,,attack:2405,force_strike:179,skill_1:2316,skill_2:358,skill_3:572,team_buff:50,dx:4330,ds:1605
+9058,_c_Luther,4*,water,dagger,6510,[Twinfold_Bonds+His_Clever_Brother][Leviathan][HDT2][Blade|Xander|Tiki],!<hit15 & hit10>,,attack:1884,force_strike:142,skill_1:1760,skill_2:272,skill_3:435,team_buff:50,dx:3291,ds:1219
 -,120,_
-9424,Luther,4*,water,dagger,4898,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2][Blade|Xander|Wand],<hit15 & hit10>,,attack:1565,force_strike:162,skill_1:3154,skill_2:1032,skill_3:1249,team_buff:105,dx:1529,ds:627
-6673,_c_Luther,4*,water,dagger,4898,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2][Blade|Xander|Wand],!<hit15 & hit10>,,attack:1071,force_strike:112,skill_1:2104,skill_2:688,skill_3:833,team_buff:105,dx:1337,ds:418
+10800,Luther,4*,water,dagger,6531,[Twinfold_Bonds+The_Prince_of_Dragonyule][Leviathan][HDT2][Blade|Xander|Tiki],<hit15 & hit10>,,attack:2449,force_strike:210,skill_1:2063,skill_2:707,skill_3:851,team_buff:105,dx:3614,ds:797
+7485,_c_Luther,4*,water,dagger,6531,[Twinfold_Bonds+The_Prince_of_Dragonyule][Leviathan][HDT2][Blade|Xander|Tiki],!<hit15 & hit10>,,attack:1715,force_strike:148,skill_1:1416,skill_2:485,skill_3:584,team_buff:105,dx:2481,ds:547
 -,120,affliction
-10151,Luther,4*,water,dagger,4882,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Wand],<hit15 & hit10>,,attack:1728,force_strike:96,skill_1:3538,skill_2:817,skill_3:1494,team_buff:78,dx:1733,ds:662
-7834,_c_Luther,4*,water,dagger,4882,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Wand],!<hit15 & hit10>,,attack:1300,force_strike:74,skill_1:2614,skill_2:604,skill_3:1104,team_buff:78,dx:1567,ds:489
+11410,Luther,4*,water,dagger,6510,[Twinfold_Bonds+His_Clever_Brother][Leviathan][HDT2][Blade|Xander|Tiki],<hit15 & hit10>,,attack:2686,force_strike:126,skill_1:2425,skill_2:560,skill_3:905,team_buff:78,dx:3796,ds:830
+8724,_c_Luther,4*,water,dagger,6510,[Twinfold_Bonds+His_Clever_Brother][Leviathan][HDT2][Blade|Xander|Tiki],!<hit15 & hit10>,,attack:2071,force_strike:99,skill_1:1843,skill_2:426,skill_3:687,team_buff:78,dx:2885,ds:630
 -,180,_
-9571,Luther,4*,water,dagger,4898,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2][Blade|Xander|Wand],<hit15 & hit10>,,attack:1743,force_strike:203,skill_1:3347,skill_2:1337,skill_3:1382,team_buff:122,dx:1016,ds:416
-6660,_c_Luther,4*,water,dagger,4898,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2][Blade|Xander|Wand],!<hit15 & hit10>,,attack:1181,force_strike:138,skill_1:2234,skill_2:892,skill_3:922,team_buff:122,dx:889,ds:278
+9981,Luther,4*,water,dagger,6531,[Twinfold_Bonds+The_Prince_of_Dragonyule][Leviathan][HDT2][Blade|Xander|Tiki],<hit15 & hit10>,,attack:2768,force_strike:223,skill_1:2301,skill_2:708,skill_3:951,team_buff:105,dx:2397,ds:524
+6911,_c_Luther,4*,water,dagger,6531,[Twinfold_Bonds+The_Prince_of_Dragonyule][Leviathan][HDT2][Blade|Xander|Tiki],!<hit15 & hit10>,,attack:1923,force_strike:156,skill_1:1579,skill_2:486,skill_3:653,team_buff:105,dx:1645,ds:359
 -,180,affliction
-10309,Luther,4*,water,dagger,4882,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Wand],<hit15 & hit10>,,attack:1910,force_strike:115,skill_1:4101,skill_2:909,skill_3:1582,team_buff:87,dx:1157,ds:445
-7849,_c_Luther,4*,water,dagger,4882,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Wand],!<hit15 & hit10>,,attack:1427,force_strike:87,skill_1:3030,skill_2:671,skill_3:1169,team_buff:87,dx:1045,ds:329
+10673,Luther,4*,water,dagger,6510,[Twinfold_Bonds+His_Clever_Brother][Leviathan][HDT2][Blade|Xander|Tiki],<hit15 & hit10>,,attack:2972,force_strike:149,skill_1:2747,skill_2:622,skill_3:1010,team_buff:87,dx:2529,ds:553
+8155,_c_Luther,4*,water,dagger,6510,[Twinfold_Bonds+His_Clever_Brother][Leviathan][HDT2][Blade|Xander|Tiki],!<hit15 & hit10>,,attack:2278,force_strike:115,skill_1:2088,skill_2:473,skill_3:767,team_buff:87,dx:1922,ds:420

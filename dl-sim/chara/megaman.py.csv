@@ -1,18 +1,18 @@
 -,60,_
-14636,Mega_Man,5*,flame,wand,8265,[Primal_Crisis+Dear_Diary][Gala_Mars][Agito][Blade|Marth|Serena],<hit10 & hp50 & hit15 & hp30 every 180s>,16 hits leaf shield (max 32 hits),attack:5330,o_leaf_shield:4481,o_metal_blade:312,dx:3984,ds:525
-9314,_c_Mega_Man,5*,flame,wand,7395,[Primal_Crisis+Dear_Diary][Gala_Mars][Agito][Blade|Marth|Serena],!<hit10 & hp50 & hit15 & hp30 every 180s>,16 hits leaf shield (max 32 hits),attack:3488,o_leaf_shield:2724,o_metal_blade:239,dx:2531,ds:330
+16234,Mega_Man,5*,flame,wand,8265,[Primal_Crisis+Dear_Diary][Gala_Mars][Agito][Blade|Marth|Tiki],<hit10 & hp50 & hit15 & hp30 every 180s>,16 hits leaf shield (max 32 hits),attack:6090,o_leaf_shield:4938,o_metal_blade:356,dx:4362,ds:486
+11058,_c_Mega_Man,5*,flame,wand,7395,[Primal_Crisis+Dear_Diary][Gala_Mars][Agito][Blade|Marth|Tiki],!<hit10 & hp50 & hit15 & hp30 every 180s>,16 hits leaf shield (max 32 hits),attack:4186,o_leaf_shield:3269,o_metal_blade:279,dx:2993,ds:330
 -,60,affliction
-18172,Mega_Man,5*,flame,wand,8242,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Serena],<hit10 & hp50 & hit15>,16 hits leaf shield (max 32 hits),attack:6548,o_leaf_shield:5554,o_metal_blade:377,dx:5027,ds:663
-11379,_c_Mega_Man,5*,flame,wand,7375,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Serena],!<hit10 & hp50 & hit15>,16 hits leaf shield (max 32 hits),attack:4667,o_leaf_shield:2686,o_metal_blade:356,dx:3244,ds:423
+20245,Mega_Man,5*,flame,wand,8242,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Tiki],<hit10 & hp50 & hit15>,16 hits leaf shield (max 32 hits),attack:7464,o_leaf_shield:6213,o_metal_blade:436,dx:5515,ds:614
+13457,_c_Mega_Man,5*,flame,wand,7375,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Tiki],!<hit10 & hp50 & hit15>,16 hits leaf shield (max 32 hits),attack:5493,o_leaf_shield:4033,o_metal_blade:352,dx:3223,ds:352
 -,120,_
-16398,Mega_Man,5*,flame,wand,8265,[Primal_Crisis+Dear_Diary][Gala_Mars][Agito][Blade|Marth|Serena],<hit10 & hp50 & hit15 & hp30 every 180s>,16 hits leaf shield (max 32 hits),attack:6618,o_leaf_shield:5029,o_metal_blade:341,dx:3878,ds:528
-10556,_c_Mega_Man,5*,flame,wand,7395,[Primal_Crisis+Dear_Diary][Gala_Mars][Agito][Blade|Marth|Serena],!<hit10 & hp50 & hit15 & hp30 every 180s>,16 hits leaf shield (max 32 hits),attack:4368,o_leaf_shield:3252,o_metal_blade:180,dx:2424,ds:330
+18109,Mega_Man,5*,flame,wand,8265,[Primal_Crisis+Dear_Diary][Gala_Mars][Agito][Blade|Marth|Tiki],<hit10 & hp50 & hit15 & hp30 every 180s>,16 hits leaf shield (max 32 hits),attack:7424,o_leaf_shield:5548,o_metal_blade:379,dx:4267,ds:488
+11124,_c_Mega_Man,5*,flame,wand,7395,[Primal_Crisis+Dear_Diary][Gala_Mars][Agito][Blade|Marth|Tiki],!<hit10 & hp50 & hit15 & hp30 every 180s>,16 hits leaf shield (max 32 hits),attack:4845,o_leaf_shield:2774,o_metal_blade:281,dx:2891,ds:331
 -,120,affliction
-20494,Mega_Man,5*,flame,wand,8242,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Serena],<hit10 & hp50 & hit15>,16 hits leaf shield (max 32 hits),attack:8236,o_leaf_shield:6287,o_metal_blade:417,dx:4886,ds:666
-13498,_c_Mega_Man,5*,flame,wand,7375,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Serena],!<hit10 & hp50 & hit15>,16 hits leaf shield (max 32 hits),attack:5565,o_leaf_shield:4150,o_metal_blade:267,dx:3092,ds:421
+22784,Mega_Man,5*,flame,wand,8242,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Tiki],<hit10 & hp50 & hit15>,16 hits leaf shield (max 32 hits),attack:9272,o_leaf_shield:7018,o_metal_blade:475,dx:5399,ds:618
+16529,_c_Mega_Man,5*,flame,wand,7375,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Tiki],!<hit10 & hp50 & hit15>,16 hits leaf shield (max 32 hits),attack:6578,o_leaf_shield:5499,o_metal_blade:318,dx:3708,ds:424
 -,180,_
-15639,Mega_Man,5*,flame,wand,8265,[Primal_Crisis+Dear_Diary][Gala_Mars][Agito][Blade|Marth|Serena],<hit10 & hp50 & hit15 & hp30 every 180s>,16 hits leaf shield (max 32 hits),attack:7028,o_leaf_shield:5309,o_metal_blade:348,dx:2597,ds:354
-9924,_c_Mega_Man,5*,flame,wand,7395,[Primal_Crisis+Dear_Diary][Gala_Mars][Agito][Blade|Marth|Serena],!<hit10 & hp50 & hit15 & hp30 every 180s>,16 hits leaf shield (max 32 hits),attack:4682,o_leaf_shield:3227,o_metal_blade:173,dx:1620,ds:220
+17278,Mega_Man,5*,flame,wand,8265,[Primal_Crisis+Dear_Diary][Gala_Mars][Agito][Blade|Marth|Tiki],<hit10 & hp50 & hit15 & hp30 every 180s>,16 hits leaf shield (max 32 hits),attack:7853,o_leaf_shield:5845,o_metal_blade:393,dx:2858,ds:327
+11758,_c_Mega_Man,5*,flame,wand,7395,[Primal_Crisis+Dear_Diary][Gala_Mars][Agito][Blade|Marth|Tiki],!<hit10 & hp50 & hit15 & hp30 every 180s>,16 hits leaf shield (max 32 hits),attack:5455,o_leaf_shield:3869,o_metal_blade:283,dx:1928,ds:220
 -,180,affliction
-19555,Mega_Man,5*,flame,wand,8242,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Serena],<hit10 & hp50 & hit15>,16 hits leaf shield (max 32 hits),attack:8774,o_leaf_shield:6624,o_metal_blade:438,dx:3272,ds:446
-11837,_c_Mega_Man,5*,flame,wand,7375,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Serena],!<hit10 & hp50 & hit15>,16 hits leaf shield (max 32 hits),attack:5021,o_leaf_shield:4042,o_metal_blade:415,dx:2074,ds:282
+21798,Mega_Man,5*,flame,wand,8242,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Tiki],<hit10 & hp50 & hit15>,16 hits leaf shield (max 32 hits),attack:9857,o_leaf_shield:7417,o_metal_blade:492,dx:3616,ds:414
+14428,_c_Mega_Man,5*,flame,wand,7375,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Tiki],!<hit10 & hp50 & hit15>,16 hits leaf shield (max 32 hits),attack:6320,o_leaf_shield:4962,o_metal_blade:389,dx:2472,ds:283
