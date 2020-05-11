@@ -1,18 +1,18 @@
 -,60,_
-19190,Curran,5*,shadow,axe,13498,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito][Blade|Wand|Bow],<last offense>,no fs,attack:6410,skill_1:8403,skill_2:3252,team_buff:1123
-17183,_c_Curran,5*,shadow,axe,8436,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito][Blade|Wand|Bow],!<last offense>,no fs,attack:5581,skill_1:7767,skill_2:2710,team_buff:1123
+21599,Curran,5*,shadow,axe,14764,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito][Blade|Wand|Bow],<last offense & hp≤40>,no fs,attack:7247,skill_1:9568,skill_2:3659,team_buff:1123
+17183,_c_Curran,5*,shadow,axe,8436,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito][Blade|Wand|Bow],!<last offense & hp≤40>,no fs,attack:5581,skill_1:7767,skill_2:2710,team_buff:1123
 -,60,affliction
-34060,Curran,5*,shadow,axe,10155,[Kung_Fu_Masters+The_Fires_of_Hate][Shinobi][Agito][Blade|Wand|Bow],<last offense & hp100>,no fs,attack:4847,skill_1:15881,skill_2:8372,team_buff:886,team_energy:832,dx:956,ds:2283
-27411,_c_Curran,5*,shadow,axe,5641,[Kung_Fu_Masters+The_Fires_of_Hate][Shinobi][Agito][Blade|Wand|Bow],!<last offense & hp100>,no fs,attack:3662,skill_1:12947,skill_2:6201,team_buff:886,team_energy:832,dx:849,ds:2029
+35520,Curran,5*,shadow,axe,9838,[Kung_Fu_Masters+The_Plaguebringer][Shinobi][Agito][Blade|Wand|Bow],<last offense & hp≤40>,no fs,attack:5034,skill_1:16651,skill_2:8683,team_buff:886,team_energy:832,dx:1012,ds:2418
+28356,_c_Curran,5*,shadow,axe,5621,[Kung_Fu_Masters+The_Plaguebringer][Shinobi][Agito][Blade|Wand|Bow],!<last offense & hp≤40>,no fs,attack:3795,skill_1:13425,skill_2:6432,team_buff:886,team_energy:832,dx:880,ds:2103
 -,120,_
-19380,Curran,5*,shadow,axe,13498,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito][Blade|Wand|Bow],<last offense>,no fs,attack:6144,skill_1:8611,skill_2:3408,team_buff:1214
-18383,_c_Curran,5*,shadow,axe,8436,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito][Blade|Wand|Bow],!<last offense>,no fs,attack:5733,skill_1:8295,skill_2:3139,team_buff:1214
+21955,Curran,5*,shadow,axe,14764,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito][Blade|Wand|Bow],<last offense & hp≤40>,no fs,attack:7004,skill_1:9855,skill_2:3879,team_buff:1214
+18383,_c_Curran,5*,shadow,axe,8436,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito][Blade|Wand|Bow],!<last offense & hp≤40>,no fs,attack:5733,skill_1:8295,skill_2:3139,team_buff:1214
 -,120,affliction
-33038,Curran,5*,shadow,axe,10155,[Kung_Fu_Masters+The_Fires_of_Hate][Shinobi][Agito][Blade|Wand|Bow],<last offense & hp100>,no fs,attack:5034,skill_1:16030,skill_2:8831,team_buff:1069,team_energy:415,dx:485,ds:1170
-28005,_c_Curran,5*,shadow,axe,5641,[Kung_Fu_Masters+The_Fires_of_Hate][Shinobi][Agito][Blade|Wand|Bow],!<last offense & hp100>,no fs,attack:4152,skill_1:13665,skill_2:7230,team_buff:1069,team_energy:415,dx:431,ds:1040
+34689,Curran,5*,shadow,axe,9838,[Kung_Fu_Masters+The_Plaguebringer][Shinobi][Agito][Blade|Wand|Bow],<last offense & hp≤40>,no fs,attack:5282,skill_1:16901,skill_2:9266,team_buff:1069,team_energy:415,dx:513,ds:1239
+28982,_c_Curran,5*,shadow,axe,5621,[Kung_Fu_Masters+The_Plaguebringer][Shinobi][Agito][Blade|Wand|Bow],!<last offense & hp≤40>,no fs,attack:4303,skill_1:14169,skill_2:7499,team_buff:1069,team_energy:415,dx:446,ds:1077
 -,180,_
-19237,Curran,5*,shadow,axe,13498,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito][Blade|Wand|Bow],<last offense>,no fs,attack:6062,skill_1:8410,skill_2:3501,team_buff:1263
-18567,_c_Curran,5*,shadow,axe,8436,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito][Blade|Wand|Bow],!<last offense>,no fs,attack:5785,skill_1:8197,skill_2:3320,team_buff:1263
+21833,Curran,5*,shadow,axe,14764,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito][Blade|Wand|Bow],<last offense & hp≤40>,no fs,attack:6930,skill_1:9639,skill_2:3999,team_buff:1263
+18567,_c_Curran,5*,shadow,axe,8436,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][Agito][Blade|Wand|Bow],!<last offense & hp≤40>,no fs,attack:5785,skill_1:8197,skill_2:3320,team_buff:1263
 -,180,affliction
-33482,Curran,5*,shadow,axe,10155,[Kung_Fu_Masters+The_Fires_of_Hate][Shinobi][Agito][Blade|Wand|Bow],<last offense & hp100>,no fs,attack:5019,skill_1:16668,skill_2:9206,team_buff:1208,team_energy:277,dx:323,ds:779
-28910,_c_Curran,5*,shadow,axe,5641,[Kung_Fu_Masters+The_Fires_of_Hate][Shinobi][Agito][Blade|Wand|Bow],!<last offense & hp100>,no fs,attack:4246,skill_1:14426,skill_2:7771,team_buff:1208,team_energy:277,dx:287,ds:692
+35240,Curran,5*,shadow,axe,9838,[Kung_Fu_Masters+The_Plaguebringer][Shinobi][Agito][Blade|Wand|Bow],<last offense & hp≤40>,no fs,attack:5283,skill_1:17606,skill_2:9696,team_buff:1208,team_energy:277,dx:342,ds:825
+29920,_c_Curran,5*,shadow,axe,5621,[Kung_Fu_Masters+The_Plaguebringer][Shinobi][Agito][Blade|Wand|Bow],!<last offense & hp≤40>,no fs,attack:4400,skill_1:14959,skill_2:8059,team_buff:1208,team_energy:277,dx:297,ds:717

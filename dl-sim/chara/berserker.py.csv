@@ -1,18 +1,18 @@
 -,60,_
-11168,Berserker,4*,shadow,sword,7112,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi][Agito][Ieyasu|Wand|Tiki],<last offense & hp70>,,attack:2220,force_strike:790,skill_1:4258,team_energy:415,dx:2655,ds:827
-9876,_c_Berserker,4*,shadow,sword,5050,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi][Agito][Ieyasu|Wand|Tiki],!<last offense & hp70>,,attack:1872,force_strike:676,skill_1:3696,team_energy:415,dx:2451,ds:763
+12010,Berserker,4*,shadow,sword,11356,[The_Shining_Overlord+The_Lurker_in_the_Woods][Fatalis][Agito][Ieyasu|Wand|Tiki],<last offense & hp≤40>,,attack:4493,force_strike:2404,skill_1:5112
+10008,_c_Berserker,4*,shadow,sword,7886,[The_Shining_Overlord+The_Lurker_in_the_Woods][Fatalis][Agito][Ieyasu|Wand|Tiki],!<last offense & hp≤40>,,attack:3707,force_strike:2003,skill_1:4296
 -,60,affliction
-13411,Berserker,4*,shadow,sword,7411,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],<last offense & hp100>,,attack:2683,force_strike:955,skill_1:5146,team_energy:415,dx:3209,ds:999
-11427,_c_Berserker,4*,shadow,sword,5067,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],!<last offense & hp100>,,attack:2179,force_strike:787,skill_1:4302,team_energy:415,dx:2852,ds:888
+15367,Berserker,4*,shadow,sword,9085,[The_Shining_Overlord+The_Plaguebringer][Epimetheus][Agito][Ieyasu|Wand|Tiki],<last offense & hp≤40>,,attack:3723,force_strike:1235,skill_1:4162,dx:4548,ds_poison:335,ds:1361
+12992,_c_Berserker,4*,shadow,sword,6309,[The_Shining_Overlord+The_Plaguebringer][Epimetheus][Agito][Ieyasu|Wand|Tiki],!<last offense & hp≤40>,,attack:3006,force_strike:1006,skill_1:3447,dx:4027,ds_poison:296,ds:1208
 -,120,_
-11266,Berserker,4*,shadow,sword,7112,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi][Agito][Ieyasu|Wand|Tiki],<last offense & hp70>,,attack:2273,force_strike:836,skill_1:4379,team_energy:415,dx:2498,ds:862
-10200,_c_Berserker,4*,shadow,sword,5050,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi][Agito][Ieyasu|Wand|Tiki],!<last offense & hp70>,,attack:2010,force_strike:745,skill_1:3925,team_energy:415,dx:2306,ds:796
+12079,Berserker,4*,shadow,sword,11356,[The_Shining_Overlord+The_Lurker_in_the_Woods][Fatalis][Agito][Ieyasu|Wand|Tiki],<last offense & hp≤40>,,attack:4414,force_strike:2468,skill_1:5196
+10333,_c_Berserker,4*,shadow,sword,7886,[The_Shining_Overlord+The_Lurker_in_the_Woods][Fatalis][Agito][Ieyasu|Wand|Tiki],!<last offense & hp≤40>,,attack:3755,force_strike:2113,skill_1:4464
 -,120,affliction
-13531,Berserker,4*,shadow,sword,7411,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],<last offense & hp100>,,attack:2747,force_strike:1011,skill_1:5293,team_energy:415,dx:3019,ds:1042
-11803,_c_Berserker,4*,shadow,sword,5067,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],!<last offense & hp100>,,attack:2339,force_strike:867,skill_1:4569,team_energy:415,dx:2684,ds:926
+14936,Berserker,4*,shadow,sword,9085,[The_Shining_Overlord+The_Plaguebringer][Epimetheus][Agito][Ieyasu|Wand|Tiki],<last offense & hp≤40>,,attack:4157,force_strike:1494,skill_1:4827,dx:3491,ds_poison:282,ds:682
+12912,_c_Berserker,4*,shadow,sword,6309,[The_Shining_Overlord+The_Plaguebringer][Epimetheus][Agito][Ieyasu|Wand|Tiki],!<last offense & hp≤40>,,attack:3530,force_strike:1277,skill_1:4148,dx:3098,ds_poison:250,ds:605
 -,180,_
-10774,Berserker,4*,shadow,sword,7112,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi][Agito][Ieyasu|Wand|Tiki],<last offense & hp70>,,attack:2473,force_strike:925,skill_1:4857,team_energy:277,dx:1665,ds:574
-9812,_c_Berserker,4*,shadow,sword,5050,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi][Agito][Ieyasu|Wand|Tiki],!<last offense & hp70>,,attack:2224,force_strike:836,skill_1:4405,team_energy:277,dx:1537,ds:530
+12020,Berserker,4*,shadow,sword,11356,[The_Shining_Overlord+The_Lurker_in_the_Woods][Fatalis][Agito][Ieyasu|Wand|Tiki],<last offense & hp≤40>,,attack:4413,force_strike:2484,skill_1:5121
+10367,_c_Berserker,4*,shadow,sword,7886,[The_Shining_Overlord+The_Lurker_in_the_Woods][Fatalis][Agito][Ieyasu|Wand|Tiki],!<last offense & hp≤40>,,attack:3793,force_strike:2144,skill_1:4429
 -,180,affliction
-12965,Berserker,4*,shadow,sword,7411,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],<last offense & hp100>,,attack:2990,force_strike:1118,skill_1:5871,team_energy:277,dx:2012,ds:694
-11375,_c_Berserker,4*,shadow,sword,5067,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],!<last offense & hp100>,,attack:2589,force_strike:973,skill_1:5127,team_energy:277,dx:1789,ds:617
+14484,Berserker,4*,shadow,sword,9085,[The_Shining_Overlord+The_Plaguebringer][Epimetheus][Agito][Ieyasu|Wand|Tiki],<last offense & hp≤40>,,attack:4580,force_strike:1679,skill_1:5227,dx:2330,ds_poison:210,ds:455
+12609,_c_Berserker,4*,shadow,sword,6309,[The_Shining_Overlord+The_Plaguebringer][Epimetheus][Agito][Ieyasu|Wand|Tiki],!<last offense & hp≤40>,,attack:3953,force_strike:1455,skill_1:4540,dx:2068,ds_poison:186,ds:404

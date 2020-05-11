@@ -1,6 +1,6 @@
 -,sp,_
-27035,Natalie,5*,shadow,blade,8153,[Heralds_of_Hinomoto+Primal_Crisis][Shinobi][Agito][Wand|Curran|Berserker],<hp<40 & hit15 & hp=1>,,attack:5254,skill_1:20023,team_energy:277,dx:387,ds:1090
-11180,_c_Natalie,5*,shadow,blade,6320,[Heralds_of_Hinomoto+Primal_Crisis][Shinobi][Agito][Wand|Curran|Berserker],!<hp<40 & hit15 & hp=1>,,attack:3414,skill_1:6521,team_energy:277,dx:253,ds:712
+27035,Natalie,5*,shadow,blade,8153,[Heralds_of_Hinomoto+Primal_Crisis][Shinobi][Agito][Wand|Curran|Berserker],<hp≤40 & hit15 & hp=1>,,attack:5254,skill_1:20023,team_energy:277,dx:387,ds:1090
+11180,_c_Natalie,5*,shadow,blade,6320,[Heralds_of_Hinomoto+Primal_Crisis][Shinobi][Agito][Wand|Curran|Berserker],!<hp≤40 & hit15 & hp=1>,,attack:3414,skill_1:6521,team_energy:277,dx:253,ds:712
 -,sp,affliction
-27658,Natalie,5*,shadow,blade,8143,[Heralds_of_Hinomoto+The_Plaguebringer][Shinobi][Agito][Wand|Curran|Berserker],<hp<40 & hp=1>,,attack:5408,skill_1:20461,team_energy:277,dx:396,ds:1114
-13888,_c_Natalie,5*,shadow,blade,6312,[Heralds_of_Hinomoto+The_Plaguebringer][Shinobi][Agito][Wand|Curran|Berserker],!<hp<40 & hp=1>,,attack:4263,skill_1:8141,team_energy:277,dx:316,ds:890
+27658,Natalie,5*,shadow,blade,8143,[Heralds_of_Hinomoto+The_Plaguebringer][Shinobi][Agito][Wand|Curran|Berserker],<hp≤40 & hp=1>,,attack:5408,skill_1:20461,team_energy:277,dx:396,ds:1114
+13888,_c_Natalie,5*,shadow,blade,6312,[Heralds_of_Hinomoto+The_Plaguebringer][Shinobi][Agito][Wand|Curran|Berserker],!<hp≤40 & hp=1>,,attack:4263,skill_1:8141,team_energy:277,dx:316,ds:890
