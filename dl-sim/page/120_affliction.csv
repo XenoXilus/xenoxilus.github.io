@@ -318,8 +318,8 @@
 21075,_c_Chrom,5*,flame,sword,7377,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Wand|Marth],!<hp100 & hit10 & hp50>,,attack:2710,force_strike:1148,skill_1:1607,skill_2:10786,dx:2899,ds:1922
 19546,Tiki,5*,water,dagger,6030,[Twinfold_Bonds+The_Prince_of_Dragonyule][Dragonyule_Jeanne][HDT2][Blade|Xander|Dagger],<hit10 & hit15>,dragon damage does not work on divine dragon,attack:9804,skill_1:4001,s1_frostbite:1131,skill_2:4551,dx:56
 14494,_c_Tiki,5*,water,dagger,6030,[Twinfold_Bonds+The_Prince_of_Dragonyule][Dragonyule_Jeanne][HDT2][Blade|Xander|Dagger],!<hit10 & hit15>,dragon damage does not work on divine dragon,attack:7267,skill_1:2979,s1_frostbite:837,skill_2:3368,dx:41
-17640,Yurius,5*,water,wand,6225,[Candy_Couriers+Primal_Crisis][Gaibhne_and_Creidhne][HDT2][Blade|Dagger|Xander],<hit10 & hit15>,,attack:2351,skill_1:7688,skill_2:5365,s2_frostbite:64,skill_3:2093,dx:76
-13043,_c_Yurius,5*,water,wand,6225,[Candy_Couriers+Primal_Crisis][Gaibhne_and_Creidhne][HDT2][Blade|Dagger|Xander],!<hit10 & hit15>,,attack:1726,skill_1:5696,skill_2:3970,s2_frostbite:64,skill_3:1529,dx:55
+17591,Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Dagger|Xander],<hit10 & hit15>,,attack:2585,skill_1:7911,skill_2:4328,s2_frostbite:83,skill_3:2606,dx:75
+12753,_c_Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Dagger|Xander],!<hit10 & hit15>,,attack:1848,skill_1:5700,skill_2:3153,s2_frostbite:83,skill_3:1912,dx:53
 40513,Forte,5*,shadow,lance,5948,[The_Red_Impulse+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Cleo|Wand],<hp100>,,attack:3935,force_strike:548,skill_1:17382,skill_2:12201,team_energy:831,dx:1558,ds:4055
 36104,_c_Forte,5*,shadow,lance,5287,[The_Red_Impulse+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Cleo|Wand],!<hp100>,,attack:3498,force_strike:487,skill_1:15450,skill_2:10846,team_energy:831,dx:1385,ds:3605
 24129,Victor,5*,wind,blade,6616,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Akasha|Dragonyule_Xainfried|Lin_You],<hp70 & hit10 & hp100>,,attack:3886,skill_1:7481,s1_bleed:7747,skill_2:2350,dx:816,ds:1845

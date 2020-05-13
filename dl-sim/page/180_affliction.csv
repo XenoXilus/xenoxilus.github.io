@@ -318,8 +318,8 @@
 22384,_c_Chrom,5*,flame,sword,7377,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Wand|Marth],!<hp100 & hit10 & hp50>,,attack:2963,force_strike:1265,skill_1:1703,skill_2:12887,dx:2282,ds:1282
 19420,Tiki,5*,water,dagger,6030,[Twinfold_Bonds+The_Prince_of_Dragonyule][Dragonyule_Jeanne][HDT2][Blade|Xander|Dagger],<hit10 & hit15>,dragon damage does not work on divine dragon,attack:9822,skill_1:4053,s1_frostbite:1044,skill_2:4217,skill_3:243,dx:37
 14390,_c_Tiki,5*,water,dagger,6030,[Twinfold_Bonds+The_Prince_of_Dragonyule][Dragonyule_Jeanne][HDT2][Blade|Xander|Dagger],!<hit10 & hit15>,dragon damage does not work on divine dragon,attack:7277,skill_1:3011,s1_frostbite:772,skill_2:3120,skill_3:180,dx:28
-17265,Yurius,5*,water,wand,6225,[Candy_Couriers+Primal_Crisis][Gaibhne_and_Creidhne][HDT2][Blade|Dagger|Xander],<hit10 & hit15>,,attack:2407,skill_1:7422,skill_2:5117,s2_frostbite:130,skill_3:2099,dx:88
-12709,_c_Yurius,5*,water,wand,6225,[Candy_Couriers+Primal_Crisis][Gaibhne_and_Creidhne][HDT2][Blade|Dagger|Xander],!<hit10 & hit15>,,attack:1764,skill_1:5452,skill_2:3780,s2_frostbite:110,skill_3:1533,dx:66
+17916,Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Dagger|Xander],<hit10 & hit15>,,attack:2644,skill_1:7940,skill_2:4752,s2_frostbite:134,skill_3:2369,dx:75
+12940,_c_Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Dagger|Xander],!<hit10 & hit15>,,attack:1888,skill_1:5728,skill_2:3432,s2_frostbite:111,skill_3:1725,dx:53
 44640,Forte,5*,shadow,lance,5948,[The_Red_Impulse+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Cleo|Wand],<hp100>,,attack:4340,force_strike:640,skill_1:19472,skill_2:14607,team_energy:693,dx:1347,ds:3537
 39757,_c_Forte,5*,shadow,lance,5287,[The_Red_Impulse+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Cleo|Wand],!<hp100>,,attack:3858,force_strike:569,skill_1:17308,skill_2:12984,team_energy:693,dx:1197,ds:3144
 24587,Victor,5*,wind,blade,6616,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Akasha|Dragonyule_Xainfried|Lin_You],<hp70 & hit10 & hp100>,,attack:4012,skill_1:7617,s1_bleed:8657,skill_2:2523,dx:544,ds:1231
