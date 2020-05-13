@@ -318,8 +318,8 @@
 21140,_c_Chrom,5*,flame,sword,7377,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Wand|Marth],!<hp100 & hit10 & hp50>,,attack:2578,force_strike:1107,skill_1:1629,skill_2:10688,dx:3291,ds:1844
 16996,Tiki,5*,water,dagger,6029,[Twinfold_Bonds+The_Chocolatiers][Dragonyule_Jeanne][HDT2][Blade|Xander|Dagger],<hit10 & hit15>,dragon damage does not work on divine dragon,attack:8459,skill_1:3654,s1_frostbite:1011,skill_2:3791,dx:79
 14200,_c_Tiki,5*,water,dagger,6029,[Twinfold_Bonds+The_Chocolatiers][Dragonyule_Jeanne][HDT2][Blade|Xander|Dagger],!<hit10 & hit15>,dragon damage does not work on divine dragon,attack:7006,skill_1:3058,s1_frostbite:857,skill_2:3199,dx:79
-16545,Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Dagger|Xander],<hit10 & hit15>,,attack:2575,skill_1:7279,skill_2:3759,s2_frostbite:167,skill_3:2687,dx:75
-12083,_c_Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Dagger|Xander],!<hit10 & hit15>,,attack:1855,skill_1:5273,skill_2:2818,s2_frostbite:167,skill_3:1915,dx:53
+16853,Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Thaniel|Xander],<hit10 & hit15>,,attack:2628,skill_1:7441,skill_2:3801,s2_frostbite:157,skill_3:2748,dx:76
+11303,_c_Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Thaniel|Xander],!<hit10 & hit15>,,attack:1735,skill_1:4932,skill_2:2636,s2_frostbite:157,skill_3:1791,dx:50
 37839,Forte,5*,shadow,lance,5948,[The_Red_Impulse+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Bow],<hp100>,Cleo coab hits 10 stack buff limit,attack:2708,force_strike:471,skill_1:13248,skill_2:13291,team_energy:1245,dx:1934,ds:4937
 33773,_c_Forte,5*,shadow,lance,5287,[The_Red_Impulse+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Bow],!<hp100>,Cleo coab hits 10 stack buff limit,attack:2407,force_strike:419,skill_1:11776,skill_2:11814,team_energy:1245,dx:1719,ds:4389
 22749,Victor,5*,wind,blade,6616,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Akasha|Dragonyule_Xainfried|Lin_You],<hp70 & hit10 & hp100>,,attack:3401,skill_1:6986,s1_bleed:5894,skill_2:1251,dx:1599,ds:3615
