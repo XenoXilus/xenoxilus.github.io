@@ -322,6 +322,8 @@
 12507,_c_Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Thaniel|Xander],!<hit10 & hit15>,,attack:1716,skill_1:5207,skill_2:3634,s2_frostbite:153,skill_3:1746,dx:48
 37839,Forte,5*,shadow,lance,5948,[The_Red_Impulse+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Bow],<hp100>,Cleo coab hits 10 stack buff limit,attack:2708,force_strike:471,skill_1:13248,skill_2:13291,team_energy:1245,dx:1934,ds:4937
 33773,_c_Forte,5*,shadow,lance,5287,[The_Red_Impulse+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Bow],!<hp100>,Cleo coab hits 10 stack buff limit,attack:2407,force_strike:419,skill_1:11776,skill_2:11814,team_energy:1245,dx:1719,ds:4389
+14428,Chelsea,5*,flame,bow,6571,[Mega_Friends+Elegant_Escort][Dreadking_Rathalos][Agito][Blade|Grace|Serena],<hit10>,,attack:1313,force_strike:8774,skill_1:4339
+13326,_c_Chelsea,5*,flame,bow,6571,[Mega_Friends+Elegant_Escort][Dreadking_Rathalos][Agito][Blade|Grace|Serena],!<hit10>,,attack:1215,force_strike:8103,skill_1:4007
 22749,Victor,5*,wind,blade,6616,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Akasha|Dragonyule_Xainfried|Lin_You],<hp70 & hit10 & hp100>,,attack:3401,skill_1:6986,s1_bleed:5894,skill_2:1251,dx:1599,ds:3615
 13117,_c_Victor,5*,wind,blade,5364,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Akasha|Dragonyule_Xainfried|Lin_You],!<hp70 & hit10 & hp100>,,attack:2223,skill_1:4500,s1_bleed:2214,skill_2:803,dx:1035,ds:2341
 14819,Summer_Cleo,5*,light,bow,6688,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],<buff all team & 0 paralysis res & hit10 & hit15 & hp70 & hp100>,nofs,attack:2872,s1_big_missile:1830,s1_boost:183,s1_missile:1098,s1_paralysis:921,skill_3:1726,team_buff:1081,dx:4259,ds:846
