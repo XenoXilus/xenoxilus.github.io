@@ -26,8 +26,8 @@
 17772,_c_Botan,4*,shadow,lance,5320,[Resounding_Rendition+Jewels_of_the_Sun][Shinobi][Agito][Blade|Wand|Dagger],!<buff all team & hp70>,,attack:2823,skill_1:5209,s1_bleed:6989,team_buff:2749
 19882,Cassandra,5*,shadow,wand,10122,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Delphi],<0 poison res & hp30 every 180s & hp≤40 & hp=80%>,94% poison uptime,attack:6624,skill_1:7298,s1_poison:1819,skill_2:4138
 10064,_c_Cassandra,5*,shadow,wand,7847,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Delphi],!<0 poison res & hp30 every 180s & hp≤40 & hp=80%>,,attack:3730,skill_1:4115,s1_poison:0,skill_2:2218
-13602,Celliera,4*,water,blade,5272,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],<hit10 & hit15>,87% frostbite uptime,attack:3846,skill_1:6389,s1_frostbite:806,skill_3:2558
-9871,_c_Celliera,4*,water,blade,5272,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],!<hit10 & hit15>,87% frostbite uptime,attack:2807,skill_1:4614,s1_frostbite:588,skill_3:1861
+13834,Celliera,4*,water,blade,7908,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],<last offense & hit10 & hit15>,87% frostbite uptime,attack:3965,skill_1:6503,s1_frostbite:806,skill_3:2558
+9871,_c_Celliera,4*,water,blade,5272,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],!<last offense & hit10 & hit15>,87% frostbite uptime,attack:2807,skill_1:4614,s1_frostbite:588,skill_3:1861
 19270,Chelsea,5*,flame,bow,6572,[Mega_Friends+Primal_Crisis][Dreadking_Rathalos][Agito][Blade|Grace|Serena],<hit10 & hit15>,,attack:1712,force_strike:11614,skill_1:5943
 15159,_c_Chelsea,5*,flame,bow,6572,[Mega_Friends+Primal_Crisis][Dreadking_Rathalos][Agito][Blade|Grace|Serena],!<hit10 & hit15>,,attack:1349,force_strike:9134,skill_1:4673
 7820,Cibella,3*,water,lance,6086,[Resounding_Rendition+Breakfast_at_Valerios][Leviathan][HDT2][Tiki|Xander|Dagger],<hit10 & hp70 & hit15>,,attack:2801,force_strike:285,skill_2:1253,skill_3:962,dx:2092,ds:424
