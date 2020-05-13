@@ -26,8 +26,8 @@
 16286,_c_Botan,4*,shadow,lance,5320,[Resounding_Rendition+Jewels_of_the_Sun][Shinobi][Agito][Blade|Wand|Dagger],!<buff all team & hp70>,,attack:2789,skill_1:4994,s1_bleed:6265,team_buff:2236
 18927,Cassandra,5*,shadow,wand,11135,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Blade],<0 poison res & hp30 every 180s & hp≤40 & hp=80%>,85% poison uptime,attack:6516,skill_1:6617,s1_poison:1528,skill_2:4264
 9831,_c_Cassandra,5*,shadow,wand,8631,[Candy_Couriers+The_Plaguebringer][Fatalis][Agito][Curran|Berserker|Blade],!<0 poison res & hp30 every 180s & hp≤40 & hp=80%>,,attack:3750,skill_1:3803,s1_poison:0,skill_2:2277
-13043,Celliera,4*,water,blade,7908,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],<last offense & hit10 & hit15>,74% frostbite uptime,attack:4074,skill_1:6160,s1_frostbite:545,skill_3:2262
-9017,_c_Celliera,4*,water,blade,5272,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],!<last offense & hit10 & hit15>,74% frostbite uptime,attack:2768,skill_1:4200,s1_frostbite:397,skill_3:1650
+14331,Celliera,4*,water,blade,7908,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],<last offense & hit10 & hit15>,74% frostbite uptime,attack:4473,skill_1:6548,s1_frostbite:1054,skill_3:2255
+10007,_c_Celliera,4*,water,blade,5272,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],!<last offense & hit10 & hit15>,74% frostbite uptime,attack:3078,skill_1:4514,s1_frostbite:768,skill_3:1644
 13131,Chelsea,5*,flame,bow,6572,[Mega_Friends+Primal_Crisis][Dreadking_Rathalos][Agito][Blade|Grace|Serena],<hit10 & hit15>,,attack:1192,force_strike:7992,skill_1:3945
 10254,_c_Chelsea,5*,flame,bow,6572,[Mega_Friends+Primal_Crisis][Dreadking_Rathalos][Agito][Blade|Grace|Serena],!<hit10 & hit15>,,attack:935,force_strike:6234,skill_1:3083
 8861,Cibella,3*,water,lance,6086,[Resounding_Rendition+Breakfast_at_Valerios][Leviathan][HDT2][Tiki|Xander|Dagger],<hit10 & hp70 & hit15>,,attack:2182,force_strike:221,skill_2:678,skill_3:819,dx:3693,ds:1265
