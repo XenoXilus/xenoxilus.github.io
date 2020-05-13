@@ -11,7 +11,7 @@
 4372,_c_Halloween_Lowen,4*,flame,staff,3658,[From_Whence_He_Comes+The_Bridal_Dragon][PopStar_Siren][Agito][Bow|Euden|Yuya],!<hp60>,hlowen dps <= burn DoT,attack:1419,force_strike:16,team_buff:2246,team_energy:498,dx:191
 27658,Natalie,5*,shadow,blade,8143,[Heralds_of_Hinomoto+The_Plaguebringer][Shinobi][Agito][Wand|Curran|Berserker],<hp≤40 & hp=1>,,attack:5408,skill_1:20461,team_energy:277,dx:396,ds:1114
 13888,_c_Natalie,5*,shadow,blade,6312,[Heralds_of_Hinomoto+The_Plaguebringer][Shinobi][Agito][Wand|Curran|Berserker],!<hp≤40 & hp=1>,,attack:4263,skill_1:8141,team_energy:277,dx:316,ds:890
-63806,Bellina,5*,shadow,dagger,11096,[Twinfold_Bonds+The_Plaguebringer][Fatalis][Agito][Ieyasu|Curran|Berserker],<hp≤40 & hit15 & hp=1>,,attack:30012,force_strike:187,skill_1:32132,skill_2:1428,dx:44
-27020,_c_Bellina,5*,shadow,dagger,8602,[Twinfold_Bonds+The_Plaguebringer][Fatalis][Agito][Ieyasu|Curran|Berserker],!<hp≤40 & hit15 & hp=1>,,attack:11060,force_strike:136,skill_1:15447,skill_2:343,dx:32
+63433,Bellina,5*,shadow,dagger,11096,[Twinfold_Bonds+The_Plaguebringer][Fatalis][Agito][Ieyasu|Curran|Berserker],<hp≤40 & hit15 & hp=1>,,attack:30274,force_strike:187,skill_1:31499,skill_2:1426,dx:44
+26795,_c_Bellina,5*,shadow,dagger,8602,[Twinfold_Bonds+The_Plaguebringer][Fatalis][Agito][Ieyasu|Curran|Berserker],!<hp≤40 & hit15 & hp=1>,,attack:11139,force_strike:136,skill_1:15143,skill_2:342,dx:32
 44748,Fjorm,5*,water,lance,10824,[Unexpected_Requests+Valiant_Crown][Leviathan][HDT2][Blade|Tiki|Axe2],<80 bog res & last offense>,4x Fjorm in 20.55s with sufficient dprep; 39% bog uptime,attack:0,skill_1:4604,s1_frostbite:957,skill_2:7196,s2_reflect:1476,dx:24290,ds:6222
 27667,_c_Fjorm,5*,water,lance,7216,[Unexpected_Requests+Valiant_Crown][Leviathan][HDT2][Blade|Tiki|Axe2],!<80 bog res & last offense>,4x Fjorm in 20.55s with sufficient dprep,attack:0,skill_1:2984,s1_frostbite:620,skill_2:4663,s2_reflect:1476,dx:13857,ds:4064

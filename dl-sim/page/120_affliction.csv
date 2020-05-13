@@ -128,8 +128,8 @@
 10206,_c_Louise,5*,wind,bow,5039,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],!<0 poison res & hit10 & hp70 & hp100>,no fs,attack:1971,skill_1:3459,s1_poison:0,skill_2:3097,dx:514,ds:1162
 12215,Luca,4*,light,bow,7113,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],<0 paralysis res & hp100 & hit10 & hit15 & hp70>,,attack:2303,force_strike:686,skill_1:2776,s1_paralysis:788,skill_2:1119,skill_3:922,team_buff:333,dx:2579,ds:705
 7280,_c_Luca,4*,light,bow,6025,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],!<0 paralysis res & hp100 & hit10 & hit15 & hp70>,,attack:1453,force_strike:429,skill_1:1735,s1_paralysis:0,skill_2:699,skill_3:576,team_buff:333,dx:1612,ds:441
-13057,Lucretia,5*,light,wand,7862,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp100>,,attack:3996,skill_1:3969,skill_3:1809,team_buff:331,team_energy:331,dx:2139,ds:478
-10536,_c_Lucretia,5*,light,wand,7168,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp100>,,attack:3198,skill_1:3155,skill_3:1438,team_buff:331,team_energy:331,dx:1700,ds:380
+13519,Lucretia,5*,light,wand,7862,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp100>,,attack:3976,skill_1:3969,skill_3:2291,team_buff:331,team_energy:331,dx:2139,ds:478
+10903,_c_Lucretia,5*,light,wand,7168,[Candy_Couriers+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp100>,,attack:3182,skill_1:3155,skill_3:1821,team_buff:331,team_energy:331,dx:1700,ds:380
 11410,Luther,4*,water,dagger,6510,[Twinfold_Bonds+His_Clever_Brother][Leviathan][HDT2][Blade|Xander|Tiki],<hit15 & hit10>,,attack:2686,force_strike:126,skill_1:2425,skill_2:560,skill_3:905,team_buff:78,dx:3796,ds:830
 8724,_c_Luther,4*,water,dagger,6510,[Twinfold_Bonds+His_Clever_Brother][Leviathan][HDT2][Blade|Xander|Tiki],!<hit15 & hit10>,,attack:2071,force_strike:99,skill_1:1843,skill_2:426,skill_3:687,team_buff:78,dx:2885,ds:630
 12549,Malka,3*,light,lance,7180,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp70 & hp100>,,attack:3084,force_strike:409,skill_1:3026,skill_3:1258,team_buff:1331,dx:2762,ds:676
@@ -240,8 +240,8 @@
 13120,_c_Xuan_Zang,4*,flame,lance,7313,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Tiki],!<hp70 & hp60 & hit10 & hp50>,,attack:3365,force_strike:380,skill_1:2821,s1_boost:435,team_buff:1328,dx:3265,ds:1522
 18011,Yachiyo,4*,light,blade,7117,[Mega_Friends+Spirit_of_the_Season][Daikokuten][HDT2][Sharena|Dagger|Peony],<0 paralysis res & hit15 & hp100>,,attack:4534,force_strike:285,fs_boost:2138,skill_1:4096,s1_paralysis:675,skill_3:1501,team_buff:332,dx:3500,ds:945
 11889,_c_Yachiyo,4*,light,blade,6489,[Mega_Friends+Spirit_of_the_Season][Daikokuten][HDT2][Sharena|Dagger|Peony],!<0 paralysis res & hit15 & hp100>,,attack:3156,force_strike:189,fs_boost:1422,skill_1:2756,s1_paralysis:0,skill_3:1019,team_buff:332,dx:2385,ds:625
-21286,Yaten,5*,shadow,sword,6217,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Bow],<hp60 & hp100>,,attack:3377,force_strike:1483,skill_1:10689,s1_boost:2596,team_energy:1238,dx:521,ds:1378
-18417,_c_Yaten,5*,shadow,sword,5214,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Bow],!<hp60 & hp100>,,attack:2887,force_strike:1267,skill_1:9159,s1_boost:2241,team_energy:1238,dx:445,ds:1176
+21264,Yaten,5*,shadow,sword,6217,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Bow],<hp60 & hp100>,,attack:3355,force_strike:1483,skill_1:10689,s1_boost:2596,team_energy:1238,dx:521,ds:1378
+18397,_c_Yaten,5*,shadow,sword,5214,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Bow],!<hp60 & hp100>,,attack:2867,force_strike:1267,skill_1:9159,s1_boost:2241,team_energy:1238,dx:445,ds:1176
 16230,Yue,4*,flame,axe,8291,[Kung_Fu_Masters+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Halloween_Mym],<hit10 & hp50>,,attack:5768,force_strike:648,skill_1:4882,dx:3299,ds:1631
 13217,_c_Yue,4*,flame,axe,7418,[Kung_Fu_Masters+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Halloween_Mym],!<hit10 & hp50>,,attack:4698,force_strike:528,skill_1:3961,dx:2704,ds:1323
 18256,Yuya,4*,flame,dagger,8976,[Twinfold_Bonds+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Tiki],<hit10 & hp50 & hit15 & hp60>,,attack:4927,force_strike:1079,skill_1:4118,dx:5762,ds:2367
@@ -290,8 +290,8 @@
 11158,_c_Summer_Luca,4*,light,axe,6779,[Kung_Fu_Masters+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hp70 & hit15 & hp100>,,attack:3501,force_strike:316,skill_1:2995,skill_3:819,team_buff:333,dx:2628,ds:564
 23291,Natalie,5*,shadow,blade,6979,[Heralds_of_Hinomoto+The_Plaguebringer][Shinobi][Agito][Wand|Curran|Berserker],<hp≤40 & hp=20%>,,attack:5010,skill_1:15772,team_energy:415,dx:593,ds:1498
 13791,_c_Natalie,5*,shadow,blade,5410,[Heralds_of_Hinomoto+The_Plaguebringer][Shinobi][Agito][Wand|Curran|Berserker],!<hp≤40 & hp=20%>,,attack:3938,skill_1:7766,team_energy:415,dx:473,ds:1197
-19374,Mitsuba,5*,water,dagger,4918,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Summer_Estelle],<0 frostbite res & hit15 & hit10>,,attack:1764,skill_1:17016,team_inspiration:593
-13486,_c_Mitsuba,5*,water,dagger,4918,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Summer_Estelle],!<0 frostbite res & hit15 & hit10>,,attack:1234,skill_1:11658,team_inspiration:593
+19509,Mitsuba,5*,water,dagger,4918,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Summer_Estelle],<0 frostbite res & hit15 & hit10>,,attack:1735,skill_1:17179,team_inspiration:593
+13579,_c_Mitsuba,5*,water,dagger,4918,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Summer_Estelle],!<0 frostbite res & hit15 & hit10>,,attack:1214,skill_1:11770,team_inspiration:593
 26012,Tobias,5*,wind,blade,4453,[A_Dogs_Day+Castle_Cheer_Corps][Freyja][Agito][Bow|Blade|Tiki],<buff all team>,,attack:6347,team_buff:19664
 6348,_c_Tobias,5*,wind,blade,4453,[A_Dogs_Day+Castle_Cheer_Corps][Freyja][Agito][Bow|Blade|Tiki],!<buff all team>,,attack:6347
 13184,Templar_Hope,4*,wind,sword,7306,[The_Shining_Overlord+The_Fires_of_Hate][AC011_Garland][Agito][Blade|Dragonyule_Xainfried|Tiki],<maintain shield & hp60 & hp100>,,attack:3791,force_strike:2168,skill_2:2743,dx:3683,ds:797
@@ -318,8 +318,8 @@
 21075,_c_Chrom,5*,flame,sword,7377,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Wand|Marth],!<hp100 & hit10 & hp50>,,attack:2710,force_strike:1148,skill_1:1607,skill_2:10786,dx:2899,ds:1922
 19546,Tiki,5*,water,dagger,6030,[Twinfold_Bonds+The_Prince_of_Dragonyule][Dragonyule_Jeanne][HDT2][Blade|Xander|Dagger],<hit10 & hit15>,dragon damage does not work on divine dragon,attack:9804,skill_1:4001,s1_frostbite:1131,skill_2:4551,dx:56
 14494,_c_Tiki,5*,water,dagger,6030,[Twinfold_Bonds+The_Prince_of_Dragonyule][Dragonyule_Jeanne][HDT2][Blade|Xander|Dagger],!<hit10 & hit15>,dragon damage does not work on divine dragon,attack:7267,skill_1:2979,s1_frostbite:837,skill_2:3368,dx:41
-17591,Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Dagger|Xander],<hit10 & hit15>,,attack:2585,skill_1:7911,skill_2:4328,s2_frostbite:83,skill_3:2606,dx:75
-12753,_c_Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Dagger|Xander],!<hit10 & hit15>,,attack:1848,skill_1:5700,skill_2:3153,s2_frostbite:83,skill_3:1912,dx:53
+16650,Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Dagger|Xander],<hit10 & hit15>,,attack:2667,skill_1:7341,skill_2:4019,s2_frostbite:257,skill_3:2289,dx:75
+12042,_c_Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Dagger|Xander],!<hit10 & hit15>,,attack:1910,skill_1:5273,skill_2:2957,s2_frostbite:215,skill_3:1631,dx:53
 40513,Forte,5*,shadow,lance,5948,[The_Red_Impulse+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Cleo|Wand],<hp100>,,attack:3935,force_strike:548,skill_1:17382,skill_2:12201,team_energy:831,dx:1558,ds:4055
 36104,_c_Forte,5*,shadow,lance,5287,[The_Red_Impulse+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Cleo|Wand],!<hp100>,,attack:3498,force_strike:487,skill_1:15450,skill_2:10846,team_energy:831,dx:1385,ds:3605
 24129,Victor,5*,wind,blade,6616,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Akasha|Dragonyule_Xainfried|Lin_You],<hp70 & hit10 & hp100>,,attack:3886,skill_1:7481,s1_bleed:7747,skill_2:2350,dx:816,ds:1845

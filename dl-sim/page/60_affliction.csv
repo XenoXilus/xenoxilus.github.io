@@ -240,8 +240,8 @@
 12871,_c_Xuan_Zang,4*,flame,lance,7313,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Tiki],!<hp70 & hp60 & hit10 & hp50>,,attack:3001,force_strike:377,skill_1:2547,s1_boost:306,team_buff:1063,dx:4045,ds:1528
 17098,Yachiyo,4*,light,blade,7117,[Mega_Friends+Spirit_of_the_Season][Daikokuten][HDT2][Sharena|Dagger|Peony],<0 paralysis res & hit15 & hp100>,,attack:4399,force_strike:201,fs_boost:1507,skill_1:3324,s1_paralysis:589,skill_3:1088,team_buff:666,dx:4533,ds:787
 11923,_c_Yachiyo,4*,light,blade,6489,[Mega_Friends+Spirit_of_the_Season][Daikokuten][HDT2][Sharena|Dagger|Peony],!<0 paralysis res & hit15 & hp100>,,attack:3063,force_strike:126,fs_boost:949,skill_1:2207,s1_paralysis:0,skill_3:680,team_buff:666,dx:3603,ds:625
-20314,Yaten,5*,shadow,sword,6217,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Bow],<hp60 & hp100>,,attack:3168,force_strike:1310,skill_1:8570,s1_boost:1404,team_energy:1496,dx:1105,ds:3257
-17606,_c_Yaten,5*,shadow,sword,5214,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Bow],!<hp60 & hp100>,,attack:2707,force_strike:1118,skill_1:7326,s1_boost:1216,team_energy:1496,dx:947,ds:2793
+20295,Yaten,5*,shadow,sword,6217,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Bow],<hp60 & hp100>,,attack:3149,force_strike:1310,skill_1:8570,s1_boost:1404,team_energy:1496,dx:1105,ds:3257
+17588,_c_Yaten,5*,shadow,sword,5214,[The_Shining_Overlord+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Bow],!<hp60 & hp100>,,attack:2690,force_strike:1118,skill_1:7326,s1_boost:1216,team_energy:1496,dx:947,ds:2793
 17285,Yue,4*,flame,axe,8291,[Kung_Fu_Masters+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Tiki],<hit10 & hp50>,,attack:5441,force_strike:353,skill_1:3652,dx:5796,ds:2040
 14168,_c_Yue,4*,flame,axe,7418,[Kung_Fu_Masters+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Tiki],!<hit10 & hp50>,,attack:4483,force_strike:294,skill_1:2972,dx:4758,ds:1660
 18542,Yuya,4*,flame,dagger,8976,[Twinfold_Bonds+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Tiki],<hit10 & hp50 & hit15 & hp60>,,attack:4555,force_strike:1061,skill_1:3239,dx:6250,ds:3434
@@ -290,8 +290,8 @@
 11706,_c_Summer_Luca,4*,light,axe,6779,[Kung_Fu_Masters+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hp70 & hit15 & hp100>,,attack:3238,force_strike:272,skill_1:2625,skill_3:678,team_buff:666,dx:3637,ds:588
 21814,Natalie,5*,shadow,blade,6976,[The_Chocolatiers+The_Plaguebringer][Shinobi][Agito][Wand|Curran|Berserker],<hp≤40 & hp=20%>,,attack:4831,skill_1:12139,team_energy:828,dx:1099,ds:2915
 13588,_c_Natalie,5*,shadow,blade,5408,[The_Chocolatiers+The_Plaguebringer][Shinobi][Agito][Wand|Curran|Berserker],!<hp≤40 & hp=20%>,,attack:3795,skill_1:5841,team_energy:828,dx:861,ds:2260
-18557,Mitsuba,5*,water,dagger,4918,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Summer_Estelle],<0 frostbite res & hit15 & hit10>,,attack:1785,skill_1:16181,team_inspiration:589
-12950,_c_Mitsuba,5*,water,dagger,4918,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Summer_Estelle],!<0 frostbite res & hit15 & hit10>,,attack:1273,skill_1:11086,team_inspiration:589
+18691,Mitsuba,5*,water,dagger,4918,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Summer_Estelle],<0 frostbite res & hit15 & hit10>,,attack:1756,skill_1:16344,team_inspiration:589
+13042,_c_Mitsuba,5*,water,dagger,4918,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Summer_Estelle],!<0 frostbite res & hit15 & hit10>,,attack:1254,skill_1:11197,team_inspiration:589
 22168,Tobias,5*,wind,blade,4453,[A_Dogs_Day+Castle_Cheer_Corps][Freyja][Agito][Bow|Blade|Tiki],<buff all team>,,attack:5818,team_buff:16349
 5818,_c_Tobias,5*,wind,blade,4453,[A_Dogs_Day+Castle_Cheer_Corps][Freyja][Agito][Bow|Blade|Tiki],!<buff all team>,,attack:5818
 12446,Templar_Hope,4*,wind,sword,7306,[The_Shining_Overlord+The_Fires_of_Hate][AC011_Garland][Agito][Blade|Dragonyule_Xainfried|Tiki],<maintain shield & hp60 & hp100>,,attack:3437,force_strike:2005,skill_2:2401,dx:3852,ds:748
@@ -318,8 +318,8 @@
 21140,_c_Chrom,5*,flame,sword,7377,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Wand|Marth],!<hp100 & hit10 & hp50>,,attack:2578,force_strike:1107,skill_1:1629,skill_2:10688,dx:3291,ds:1844
 16996,Tiki,5*,water,dagger,6029,[Twinfold_Bonds+The_Chocolatiers][Dragonyule_Jeanne][HDT2][Blade|Xander|Dagger],<hit10 & hit15>,dragon damage does not work on divine dragon,attack:8459,skill_1:3654,s1_frostbite:1011,skill_2:3791,dx:79
 14200,_c_Tiki,5*,water,dagger,6029,[Twinfold_Bonds+The_Chocolatiers][Dragonyule_Jeanne][HDT2][Blade|Xander|Dagger],!<hit10 & hit15>,dragon damage does not work on divine dragon,attack:7006,skill_1:3058,s1_frostbite:857,skill_2:3199,dx:79
-18223,Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Dagger|Xander],<hit10 & hit15>,,attack:2511,skill_1:7696,skill_2:5301,s2_frostbite:164,skill_3:2488,dx:59
-13420,_c_Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Dagger|Xander],!<hit10 & hit15>,,attack:1797,skill_1:5609,skill_2:3914,s2_frostbite:164,skill_3:1881,dx:52
+16545,Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Dagger|Xander],<hit10 & hit15>,,attack:2575,skill_1:7279,skill_2:3759,s2_frostbite:167,skill_3:2687,dx:75
+12083,_c_Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Dagger|Xander],!<hit10 & hit15>,,attack:1855,skill_1:5273,skill_2:2818,s2_frostbite:167,skill_3:1915,dx:53
 33334,Forte,5*,shadow,lance,5948,[The_Red_Impulse+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Cleo|Wand],<hp100>,,attack:3257,force_strike:354,skill_1:12130,skill_2:8515,team_energy:1246,dx:2199,ds:5628
 29768,_c_Forte,5*,shadow,lance,5287,[The_Red_Impulse+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Cleo|Wand],!<hp100>,,attack:2895,force_strike:314,skill_1:10783,skill_2:7569,team_energy:1246,dx:1955,ds:5003
 22749,Victor,5*,wind,blade,6616,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Akasha|Dragonyule_Xainfried|Lin_You],<hp70 & hit10 & hp100>,,attack:3401,skill_1:6986,s1_bleed:5894,skill_2:1251,dx:1599,ds:3615

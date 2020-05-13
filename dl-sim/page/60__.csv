@@ -238,8 +238,8 @@
 10151,_c_Xuan_Zang,4*,flame,lance,7317,[The_Wyrmclan_Duo+Primal_Crisis][Gala_Mars][Agito][Blade|Marth|Tiki],!<hp70 & hp60 & hit10 & hp50 & hit15>,,attack:2310,force_strike:290,skill_1:1960,s1_boost:236,team_buff:1063,dx:3113,ds:1176
 15382,Yachiyo,4*,light,blade,7117,[Mega_Friends+Spirit_of_the_Season][Daikokuten][HDT2][Malora|Dagger|Peony],<0 paralysis res & hit15 & hp100>,74% paralysis uptime,attack:3357,force_strike:140,fs_boost:1053,skill_1:3461,s1_paralysis:582,skill_3:931,team_buff:666,dx:4333,ds:856
 8560,_c_Yachiyo,4*,light,blade,6489,[Mega_Friends+Spirit_of_the_Season][Daikokuten][HDT2][Malora|Dagger|Peony],!<0 paralysis res & hit15 & hp100>,,attack:1983,force_strike:85,fs_boost:641,skill_1:1864,s1_paralysis:0,skill_3:459,team_buff:666,dx:2435,ds:422
-17344,Yaten,5*,shadow,sword,6108,[The_Shining_Overlord+United_by_One_Vision][Shinobi][Agito][Ieyasu|Wand|Dagger],<hp60 & hp70>,,attack:2660,force_strike:1130,skill_1:6622,s1_boost:1145,team_energy:1831,dx:1004,ds:2949
-15292,_c_Yaten,5*,shadow,sword,5199,[The_Shining_Overlord+United_by_One_Vision][Shinobi][Agito][Ieyasu|Wand|Dagger],!<hp60 & hp70>,,attack:2300,force_strike:976,skill_1:5734,s1_boost:1001,team_energy:1831,dx:875,ds:2570
+17328,Yaten,5*,shadow,sword,6108,[The_Shining_Overlord+United_by_One_Vision][Shinobi][Agito][Ieyasu|Wand|Dagger],<hp60 & hp70>,,attack:2644,force_strike:1130,skill_1:6622,s1_boost:1145,team_energy:1831,dx:1004,ds:2949
+15276,_c_Yaten,5*,shadow,sword,5199,[The_Shining_Overlord+United_by_One_Vision][Shinobi][Agito][Ieyasu|Wand|Dagger],!<hp60 & hp70>,,attack:2285,force_strike:976,skill_1:5734,s1_boost:1001,team_energy:1831,dx:875,ds:2570
 15056,Yue,4*,flame,axe,8314,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Blade|Marth|Tiki],<hit10 & hp50 & hp70 & hit15>,,attack:4575,force_strike:295,skill_1:3320,dx:4968,ds:1895
 10312,_c_Yue,4*,flame,axe,7438,[Resounding_Rendition+Breakfast_at_Valerios][Gala_Mars][Agito][Blade|Marth|Tiki],!<hit10 & hp50 & hp70 & hit15>,,attack:3162,force_strike:207,skill_1:2275,dx:3386,ds:1279
 14987,Yuya,4*,flame,dagger,9315,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito][Blade|Marth|Grace],<hit10 & hp50 & hit15 & hp60>,,attack:3162,force_strike:5074,dx:4607,ds:2141
@@ -288,8 +288,8 @@
 9361,_c_Summer_Luca,4*,light,axe,6779,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Peony],!<hp70 & hit15>,,attack:2477,force_strike:208,skill_1:2175,skill_3:562,team_buff:666,dx:2782,ds:487
 20710,Natalie,5*,shadow,blade,9715,[The_Chocolatiers+Tough_Love][Shinobi][Agito][Wand|Curran|Berserker],<hp≤40 & last offense & hp=20%>,,attack:4238,skill_1:12174,team_energy:828,dx:882,ds:2585
 11879,_c_Natalie,5*,shadow,blade,5427,[The_Chocolatiers+Tough_Love][Shinobi][Agito][Wand|Curran|Berserker],!<hp≤40 & last offense & hp=20%>,,attack:3047,skill_1:5307,team_energy:828,dx:691,ds:2003
-17215,Mitsuba,5*,water,dagger,4918,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Summer_Estelle],<0 frostbite res & hit15 & hit10>,74% frostbite uptime,attack:1684,skill_1:14399,s1_frostbite:537,team_inspiration:594
-6856,_c_Mitsuba,5*,water,dagger,4918,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Summer_Estelle],!<0 frostbite res & hit15 & hit10>,,attack:1068,skill_1:5193,s1_frostbite:0,team_inspiration:594
+17112,Mitsuba,5*,water,dagger,4918,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Summer_Estelle],<0 frostbite res & hit15 & hit10>,74% frostbite uptime,attack:1660,skill_1:14319,s1_frostbite:537,team_inspiration:594
+6236,_c_Mitsuba,5*,water,dagger,4918,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Summer_Estelle],!<0 frostbite res & hit15 & hit10>,,attack:1052,skill_1:4589,s1_frostbite:0,team_inspiration:594
 20825,Tobias,5*,wind,blade,4453,[A_Dogs_Day+Castle_Cheer_Corps][Freyja][Agito][Bow|Blade|Tiki],<buff all team>,,attack:4475,team_buff:16349
 4476,_c_Tobias,5*,wind,blade,4453,[A_Dogs_Day+Castle_Cheer_Corps][Freyja][Agito][Bow|Blade|Tiki],!<buff all team>,,attack:4475
 10411,Templar_Hope,4*,wind,sword,7061,[The_Shining_Overlord+Beautiful_Nothingness][AC011_Garland][Agito][Blade|Dragonyule_Xainfried|Tiki],<maintain shield & hp60 & hp70>,,attack:2873,force_strike:1677,skill_2:2008,dx:3225,ds:626
@@ -316,8 +316,8 @@
 14895,_c_Chrom,5*,flame,sword,7379,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito][Blade|Wand|Marth],!<hp100 & hit10 & hp50 & hit15>,,attack:1983,force_strike:852,skill_1:1253,skill_2:6853,dx:2532,ds:1418
 16840,Tiki,5*,water,dagger,6029,[Twinfold_Bonds+The_Chocolatiers][Dragonyule_Jeanne][HDT2][Blade|Xander|Dagger],<hit10 & hit15>,dragon damage does not work on divine dragon; 95% frostbite uptime,attack:8459,skill_1:3554,s1_frostbite:974,skill_2:3791,dx:60
 14044,_c_Tiki,5*,water,dagger,6029,[Twinfold_Bonds+The_Chocolatiers][Dragonyule_Jeanne][HDT2][Blade|Xander|Dagger],!<hit10 & hit15>,dragon damage does not work on divine dragon; 95% frostbite uptime,attack:7006,skill_1:2957,s1_frostbite:820,skill_2:3199,dx:60
-14643,Yurius,5*,water,wand,6225,[Primal_Crisis+Candy_Couriers][Gaibhne_and_Creidhne][HDT2][Blade|Dagger|Xander],<hit10 & hit15>,49% frostbite uptime,attack:2224,skill_1:6255,skill_2:3258,s2_frostbite:127,skill_3:2713,dx:62
-11014,_c_Yurius,5*,water,wand,6225,[Primal_Crisis+Candy_Couriers][Gaibhne_and_Creidhne][HDT2][Blade|Dagger|Xander],!<hit10 & hit15>,49% frostbite uptime,attack:1632,skill_1:4660,skill_2:2480,s2_frostbite:127,skill_3:2057,dx:55
+13849,Yurius,5*,water,wand,6225,[Primal_Crisis+Candy_Couriers][Gaibhne_and_Creidhne][HDT2][Blade|Dagger|Xander],<hit10 & hit15>,49% frostbite uptime,attack:2341,skill_1:5207,skill_2:3269,s2_frostbite:128,skill_3:2825,dx:76
+10330,_c_Yurius,5*,water,wand,6225,[Primal_Crisis+Candy_Couriers][Gaibhne_and_Creidhne][HDT2][Blade|Dagger|Xander],!<hit10 & hit15>,49% frostbite uptime,attack:1730,skill_1:3863,skill_2:2488,s2_frostbite:128,skill_3:2064,dx:55
 23541,Forte,5*,shadow,lance,6608,[The_Red_Impulse+Heralds_of_Hinomoto][Epimetheus][Agito][Ieyasu|Cleo|Bow],<>,67% poison uptime,attack:2832,force_strike:429,skill_1:7614,skill_2:7599,dx:2096,ds_poison:524,ds:2443
 18837,Victor,5*,wind,blade,6372,[Resounding_Rendition+Beautiful_Nothingness][Vayu][Agito][Akasha|Dragonyule_Xainfried|Lin_You],<hp70 & hit10>,,attack:2812,skill_1:5776,s1_bleed:4901,skill_2:1035,dx:1322,ds:2988
 13811,_c_Victor,5*,wind,blade,5347,[Resounding_Rendition+Beautiful_Nothingness][Vayu][Agito][Akasha|Dragonyule_Xainfried|Lin_You],!<hp70 & hit10>,,attack:1910,skill_1:3867,s1_bleed:4442,skill_2:690,dx:890,ds:2011
