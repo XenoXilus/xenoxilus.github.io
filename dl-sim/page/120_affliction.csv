@@ -318,8 +318,8 @@
 21075,_c_Chrom,5*,flame,sword,7377,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Wand|Marth],!<hp100 & hit10 & hp50>,,attack:2710,force_strike:1148,skill_1:1607,skill_2:10786,dx:2899,ds:1922
 19546,Tiki,5*,water,dagger,6030,[Twinfold_Bonds+The_Prince_of_Dragonyule][Dragonyule_Jeanne][HDT2][Blade|Xander|Dagger],<hit10 & hit15>,dragon damage does not work on divine dragon,attack:9804,skill_1:4001,s1_frostbite:1131,skill_2:4551,dx:56
 14494,_c_Tiki,5*,water,dagger,6030,[Twinfold_Bonds+The_Prince_of_Dragonyule][Dragonyule_Jeanne][HDT2][Blade|Xander|Dagger],!<hit10 & hit15>,dragon damage does not work on divine dragon,attack:7267,skill_1:2979,s1_frostbite:837,skill_2:3368,dx:41
-18570,Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Thaniel|Xander],<hit10 & hit15>,,attack:2726,skill_1:8134,skill_2:5250,s2_frostbite:78,skill_3:2341,dx:38
-12264,_c_Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Thaniel|Xander],!<hit10 & hit15>,,attack:1788,skill_1:5343,skill_2:3501,s2_frostbite:78,skill_3:1526,dx:25
+19245,Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Thaniel|Xander],<hit10 & hit15>,,attack:2694,skill_1:8402,skill_2:5222,s2_frostbite:78,skill_3:2810,dx:38
+12703,_c_Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Thaniel|Xander],!<hit10 & hit15>,,attack:1767,skill_1:5517,skill_2:3483,s2_frostbite:78,skill_3:1831,dx:24
 40491,Forte,5*,shadow,lance,5948,[The_Red_Impulse+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Bow],<hp100>,Cleo coab hits 10 stack buff limit,attack:3500,force_strike:427,skill_1:17023,skill_2:13832,team_energy:833,dx:1355,ds:3518
 36085,_c_Forte,5*,shadow,lance,5287,[The_Red_Impulse+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Bow],!<hp100>,Cleo coab hits 10 stack buff limit,attack:3111,force_strike:380,skill_1:15132,skill_2:12295,team_energy:833,dx:1204,ds:3127
 24129,Victor,5*,wind,blade,6616,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Akasha|Dragonyule_Xainfried|Lin_You],<hp70 & hit10 & hp100>,,attack:3886,skill_1:7481,s1_bleed:7747,skill_2:2350,dx:816,ds:1845
