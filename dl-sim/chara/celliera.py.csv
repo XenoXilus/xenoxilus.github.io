@@ -1,18 +1,18 @@
 -,60,_
-10245,Celliera,4*,water,blade,5419,[Resounding_Rendition+Breakfast_at_Valerios][Siren][HDT2][Dagger|Xander|Pipple],<hp70 & hit10 & hit15>,,attack:2056,skill_1:4705,skill_3:983,dx:1154,ds:1344
-7092,_c_Celliera,4*,water,blade,5080,[Resounding_Rendition+Breakfast_at_Valerios][Siren][HDT2][Dagger|Xander|Pipple],!<hp70 & hit10 & hit15>,,attack:1501,skill_1:3093,skill_3:841,dx:764,ds:890
+12347,Celliera,4*,water,blade,5272,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],<hit10 & hit15>,74% frostbite uptime,attack:3719,skill_1:5819,s1_frostbite:545,skill_3:2262
+9017,_c_Celliera,4*,water,blade,5272,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],!<hit10 & hit15>,74% frostbite uptime,attack:2768,skill_1:4200,s1_frostbite:397,skill_3:1650
 -,60,affliction
-11057,Celliera,4*,water,blade,5387,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Xander|Dagger|Summer_Estelle],<hp70 & hit10 & hit15>,,attack:3227,skill_1:5529,skill_3:2299
-7633,_c_Celliera,4*,water,blade,5050,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Xander|Dagger|Summer_Estelle],!<hp70 & hit10 & hit15>,,attack:2286,skill_1:3760,skill_3:1586
+12907,Celliera,4*,water,blade,5272,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],<hit10 & hit15>,,attack:3890,skill_1:6162,s1_frostbite:591,skill_3:2262
+9438,_c_Celliera,4*,water,blade,5272,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],!<hit10 & hit15>,,attack:2908,skill_1:4447,s1_frostbite:431,skill_3:1650
 -,120,_
-10746,Celliera,4*,water,blade,5419,[Resounding_Rendition+Breakfast_at_Valerios][Siren][HDT2][Dagger|Xander|Pipple],<hp70 & hit10 & hit15>,,attack:2492,skill_1:4907,skill_3:2193,dx:532,ds:620
-7280,_c_Celliera,4*,water,blade,5080,[Resounding_Rendition+Breakfast_at_Valerios][Siren][HDT2][Dagger|Xander|Pipple],!<hp70 & hit10 & hit15>,,attack:1726,skill_1:3337,skill_3:1461,dx:348,ds:405
+13401,Celliera,4*,water,blade,5272,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],<hit10 & hit15>,86% frostbite uptime,attack:3850,skill_1:6520,s1_frostbite:776,skill_3:2253
+9743,_c_Celliera,4*,water,blade,5272,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],!<hit10 & hit15>,86% frostbite uptime,attack:2823,skill_1:4710,s1_frostbite:565,skill_3:1643
 -,120,affliction
-11313,Celliera,4*,water,blade,5387,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Xander|Dagger|Summer_Estelle],<hp70 & hit10 & hit15>,,attack:3350,skill_1:5779,skill_3:2182
-7785,_c_Celliera,4*,water,blade,5050,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Xander|Dagger|Summer_Estelle],!<hp70 & hit10 & hit15>,,attack:2333,skill_1:3953,skill_3:1498
+13693,Celliera,4*,water,blade,5272,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],<hit10 & hit15>,,attack:3941,skill_1:6699,s1_frostbite:798,skill_3:2253
+9962,_c_Celliera,4*,water,blade,5272,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],!<hit10 & hit15>,,attack:2896,skill_1:4839,s1_frostbite:582,skill_3:1643
 -,180,_
-10861,Celliera,4*,water,blade,5419,[Resounding_Rendition+Breakfast_at_Valerios][Siren][HDT2][Dagger|Xander|Pipple],<hp70 & hit10 & hit15>,,attack:2625,skill_1:5220,skill_3:2230,dx:370,ds:413
-7285,_c_Celliera,4*,water,blade,5080,[Resounding_Rendition+Breakfast_at_Valerios][Siren][HDT2][Dagger|Xander|Pipple],!<hp70 & hit10 & hit15>,,attack:1791,skill_1:3490,skill_3:1488,dx:243,ds:270
+13602,Celliera,4*,water,blade,5272,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],<hit10 & hit15>,87% frostbite uptime,attack:3846,skill_1:6389,s1_frostbite:806,skill_3:2558
+9871,_c_Celliera,4*,water,blade,5272,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],!<hit10 & hit15>,87% frostbite uptime,attack:2807,skill_1:4614,s1_frostbite:588,skill_3:1861
 -,180,affliction
-11450,Celliera,4*,water,blade,5387,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Xander|Dagger|Summer_Estelle],<hp70 & hit10 & hit15>,,attack:3339,skill_1:5496,skill_3:2613
-7872,_c_Celliera,4*,water,blade,5050,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Xander|Dagger|Summer_Estelle],!<hp70 & hit10 & hit15>,,attack:2313,skill_1:3760,skill_3:1798
+13894,Celliera,4*,water,blade,5272,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],<hit10 & hit15>,,attack:3934,skill_1:6554,s1_frostbite:826,skill_3:2578
+10088,_c_Celliera,4*,water,blade,5272,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Dagger|Xander|Wand],!<hit10 & hit15>,,attack:2875,skill_1:4733,s1_frostbite:602,skill_3:1875

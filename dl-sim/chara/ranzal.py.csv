@@ -1,18 +1,18 @@
 -,60,_
-11263,Ranzal,4*,wind,axe,5938,[Kung_Fu_Masters+United_by_One_Vision][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],<hp60 & hit10 & hp70>,do not use fs,attack:2962,skill_1:5895,dx:1176,ds:1228
-9093,_c_Ranzal,4*,wind,axe,5202,[Kung_Fu_Masters+United_by_One_Vision][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],!<hp60 & hit10 & hp70>,do not use fs,attack:2411,skill_1:4738,dx:952,ds:990
+21792,Ranzal,4*,wind,axe,6286,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Eleonora],<hit15 & last offense & hp60 & hp70 & hp100>,85% poison uptime,attack:4124,skill_1:13470,s1_poison:1551,dx:1127,ds:1518
+17076,_c_Ranzal,4*,wind,axe,5425,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Eleonora],!<hit15 & last offense & hp60 & hp70 & hp100>,85% poison uptime,attack:3229,skill_1:10567,s1_poison:1218,dx:878,ds:1181
 -,60,affliction
-12311,Ranzal,4*,wind,axe,6044,[Kung_Fu_Masters+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],<hp60 & hit10 & hp100>,do not use fs,attack:3640,skill_1:5767,dx:1420,ds:1482
-9793,_c_Ranzal,4*,wind,axe,5216,[Kung_Fu_Masters+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],!<hp60 & hit10 & hp100>,do not use fs,attack:2917,skill_1:4564,dx:1132,ds:1177
+22344,Ranzal,4*,wind,axe,6286,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Eleonora],<hit15 & last offense & hp60 & hp70 & hp100>,,attack:4228,skill_1:13866,s1_poison:1602,dx:1127,ds:1518
+17530,_c_Ranzal,4*,wind,axe,5425,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Eleonora],!<hit15 & last offense & hp60 & hp70 & hp100>,,attack:3315,skill_1:10893,s1_poison:1260,dx:878,ds:1181
 -,120,_
-11647,Ranzal,4*,wind,axe,5938,[Kung_Fu_Masters+United_by_One_Vision][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],<hp60 & hit10 & hp70>,do not use fs,attack:3339,skill_1:6454,dx:586,ds:1266
-9391,_c_Ranzal,4*,wind,axe,5202,[Kung_Fu_Masters+United_by_One_Vision][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],!<hp60 & hit10 & hp70>,do not use fs,attack:2700,skill_1:5191,dx:474,ds:1024
+23323,Ranzal,4*,wind,axe,6286,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Eleonora],<hit15 & last offense & hp60 & hp70 & hp100>,93% poison uptime,attack:4514,skill_1:14653,s1_poison:1882,dx:697,ds:1575
+18207,_c_Ranzal,4*,wind,axe,5425,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Eleonora],!<hit15 & last offense & hp60 & hp70 & hp100>,93% poison uptime,attack:3522,skill_1:11444,s1_poison:1469,dx:543,ds:1227
 -,120,affliction
-13592,Ranzal,4*,wind,axe,6044,[Kung_Fu_Masters+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],<hp60 & hit10 & hp100>,do not use fs,attack:4103,skill_1:7229,dx:715,ds:1543
-10800,_c_Ranzal,4*,wind,axe,5216,[Kung_Fu_Masters+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],!<hp60 & hit10 & hp100>,do not use fs,attack:3268,skill_1:5731,dx:570,ds:1230
+23599,Ranzal,4*,wind,axe,6286,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Eleonora],<hit15 & last offense & hp60 & hp70 & hp100>,,attack:4566,skill_1:14851,s1_poison:1907,dx:697,ds:1575
+18435,_c_Ranzal,4*,wind,axe,5425,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Eleonora],!<hit15 & last offense & hp60 & hp70 & hp100>,,attack:3565,skill_1:11607,s1_poison:1491,dx:543,ds:1227
 -,180,_
-11719,Ranzal,4*,wind,axe,5938,[Kung_Fu_Masters+United_by_One_Vision][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],<hp60 & hit10 & hp70>,do not use fs,attack:3626,skill_1:6857,dx:391,ds:843
-9442,_c_Ranzal,4*,wind,axe,5202,[Kung_Fu_Masters+United_by_One_Vision][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],!<hp60 & hit10 & hp70>,do not use fs,attack:2927,skill_1:5516,dx:316,ds:682
+24558,Ranzal,4*,wind,axe,6286,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Eleonora],<hit15 & last offense & hp60 & hp70 & hp100>,94% poison uptime,attack:4717,skill_1:16369,s1_poison:1966,dx:461,ds:1043
+19150,_c_Ranzal,4*,wind,axe,5425,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Eleonora],!<hit15 & last offense & hp60 & hp70 & hp100>,94% poison uptime,attack:3677,skill_1:12766,s1_poison:1533,dx:359,ds:812
 -,180,affliction
-12965,Ranzal,4*,wind,axe,6044,[Kung_Fu_Masters+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],<hp60 & hit10 & hp100>,do not use fs,attack:4467,skill_1:6992,dx:476,ds:1027
-10290,_c_Ranzal,4*,wind,axe,5216,[Kung_Fu_Masters+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Lin_You],!<hp60 & hit10 & hp100>,do not use fs,attack:3552,skill_1:5538,dx:379,ds:819
+24822,Ranzal,4*,wind,axe,6286,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Eleonora],<hit15 & last offense & hp60 & hp70 & hp100>,,attack:4763,skill_1:16553,s1_poison:1987,dx:465,ds:1052
+19364,_c_Ranzal,4*,wind,axe,5425,[Resounding_Rendition+The_Fires_of_Hate][Vayu][Agito][Blade|Dragonyule_Xainfried|Eleonora],!<hit15 & last offense & hp60 & hp70 & hp100>,,attack:3714,skill_1:12916,s1_poison:1550,dx:362,ds:819
