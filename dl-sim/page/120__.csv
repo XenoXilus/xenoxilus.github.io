@@ -288,8 +288,8 @@
 8885,_c_Summer_Luca,4*,light,axe,6779,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Peony],!<hp70 & hit15>,,attack:2678,force_strike:242,skill_1:2482,skill_3:670,team_buff:333,dx:2010,ds:467
 20105,Natalie,5*,shadow,blade,7005,[Heralds_of_Hinomoto+Dear_Diary][Shinobi][Agito][Wand|Curran|Berserker],<hp≤40 & hp30 every 180s & hp=20%>,,attack:4319,skill_1:13572,team_energy:415,dx:509,ds:1287
 11155,_c_Natalie,5*,shadow,blade,5430,[Heralds_of_Hinomoto+Dear_Diary][Shinobi][Agito][Wand|Curran|Berserker],!<hp≤40 & hp30 every 180s & hp=20%>,,attack:3162,skill_1:6235,team_energy:415,dx:380,ds:961
-18371,Mitsuba,5*,water,dagger,4918,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Summer_Estelle],<0 frostbite res & hit15 & hit10>,80% frostbite uptime,attack:1671,skill_1:15516,s1_frostbite:585,team_inspiration:598
-6450,_c_Mitsuba,5*,water,dagger,4918,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Summer_Estelle],!<0 frostbite res & hit15 & hit10>,,attack:1020,skill_1:4831,s1_frostbite:0,team_inspiration:598
+18973,Mitsuba,5*,water,dagger,4918,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Summer_Estelle],<0 frostbite res & hit15 & hit10>,80% frostbite uptime,attack:1671,skill_1:15516,s1_frostbite:585,team_buff:601,team_inspiration:598
+7052,_c_Mitsuba,5*,water,dagger,4918,[Twinfold_Bonds+His_Clever_Brother][Siren][HDT2][Blade|Xander|Summer_Estelle],!<0 frostbite res & hit15 & hit10>,,attack:1020,skill_1:4831,s1_frostbite:0,team_buff:601,team_inspiration:598
 24548,Tobias,5*,wind,blade,4453,[A_Dogs_Day+Castle_Cheer_Corps][Freyja][Agito][Bow|Blade|Tiki],<buff all team>,,attack:4882,team_buff:19664
 4883,_c_Tobias,5*,wind,blade,4453,[A_Dogs_Day+Castle_Cheer_Corps][Freyja][Agito][Bow|Blade|Tiki],!<buff all team>,,attack:4882
 11033,Templar_Hope,4*,wind,sword,7061,[The_Shining_Overlord+Beautiful_Nothingness][AC011_Garland][Agito][Blade|Dragonyule_Xainfried|Tiki],<maintain shield & hp60 & hp70>,,attack:3172,force_strike:1813,skill_2:2295,dx:3083,ds:667
@@ -319,8 +319,6 @@
 15754,Yurius,5*,water,wand,5152,[Primal_Crisis+Candy_Couriers][Siren][HDT2][Blade|Thaniel|Xander],<hit10 & hit15>,75% frostbite uptime,attack:2380,skill_1:6800,skill_2:3735,s2_frostbite:406,skill_3:2331,dx:99
 10468,_c_Yurius,5*,water,wand,5152,[Primal_Crisis+Candy_Couriers][Siren][HDT2][Blade|Thaniel|Xander],!<hit10 & hit15>,75% frostbite uptime,attack:1560,skill_1:4475,skill_2:2544,s2_frostbite:302,skill_3:1520,dx:65
 30047,Forte,5*,shadow,lance,6608,[The_Red_Impulse+Heralds_of_Hinomoto][Epimetheus][Agito][Ieyasu|Wand|Bow],<>,Cleo coab hits 10 stack buff limit; 74% poison uptime,attack:3191,force_strike:657,skill_1:12034,skill_2:10359,dx:1317,ds_poison:696,ds:1790
-17581,Chelsea,5*,flame,bow,6572,[Mega_Friends+Primal_Crisis][Dreadking_Rathalos][Agito][Blade|Grace|Serena],<hit10 & hit15>,,attack:1523,force_strike:10621,skill_1:5435
-13802,_c_Chelsea,5*,flame,bow,6572,[Mega_Friends+Primal_Crisis][Dreadking_Rathalos][Agito][Blade|Grace|Serena],!<hit10 & hit15>,,attack:1198,force_strike:8335,skill_1:4267
 19982,Victor,5*,wind,blade,6372,[Resounding_Rendition+Beautiful_Nothingness][Vayu][Agito][Akasha|Dragonyule_Xainfried|Lin_You],<hp70 & hit10>,,attack:3215,skill_1:6197,s1_bleed:6435,skill_2:1932,dx:675,ds:1526
 12125,_c_Victor,5*,wind,blade,5347,[Resounding_Rendition+Beautiful_Nothingness][Vayu][Agito][Akasha|Dragonyule_Xainfried|Lin_You],!<hp70 & hit10>,,attack:2129,skill_1:3776,s1_bleed:3084,skill_2:1651,dx:454,ds:1027
 15129,Summer_Cleo,5*,light,bow,6688,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Halloween_Elisanne],<buff all team & 0 paralysis res & hit10 & hit15 & hp70 & hp100>,nofs; 81% paralysis uptime,attack:2786,s1_big_missile:2393,s1_boost:992,s1_missile:1400,s1_paralysis:1096,skill_3:1700,team_buff:1165,dx:2778,ds:813
