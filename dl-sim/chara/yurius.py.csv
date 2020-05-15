@@ -1,18 +1,18 @@
 -,60,_
-15884,Yurius,5*,water,wand,5152,[Primal_Crisis+Candy_Couriers][Siren][HDT2][Blade|Thaniel|Xander],<hit10 & hit15>,76% frostbite uptime,attack:2255,skill_1:6988,skill_2:3324,s2_frostbite:361,skill_3:2820,dx:132
-10742,_c_Yurius,5*,water,wand,5152,[Primal_Crisis+Candy_Couriers][Siren][HDT2][Blade|Thaniel|Xander],!<hit10 & hit15>,76% frostbite uptime,attack:1489,skill_1:4641,skill_2:2384,s2_frostbite:301,skill_3:1838,dx:86
+15606,Yurius,5*,water,wand,5152,[Primal_Crisis+Candy_Couriers][Siren][HDT2][Blade|Hunter_Sarisse|Xander],<hit10 & hit15 & always connect hits>,82% frostbite uptime,attack:1898,force_strike:110,skill_1:7835,skill_2:2727,s2_frostbite:304,skill_3:2606,dx:122
+11360,_c_Yurius,5*,water,wand,5152,[Primal_Crisis+Candy_Couriers][Siren][HDT2][Blade|Hunter_Sarisse|Xander],!<hit10 & hit15 & always connect hits>,82% frostbite uptime,attack:1363,force_strike:78,skill_1:5642,skill_2:2074,s2_frostbite:264,skill_3:1849,dx:87
 -,60,affliction
-18711,Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Thaniel|Xander],<hit10 & hit15>,,attack:2599,skill_1:7865,skill_2:5338,s2_frostbite:153,skill_3:2679,dx:74
-12507,_c_Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Thaniel|Xander],!<hit10 & hit15>,,attack:1716,skill_1:5207,skill_2:3634,s2_frostbite:153,skill_3:1746,dx:48
+18665,Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Hunter_Sarisse|Xander],<hit10 & hit15 & always connect hits>,,attack:2074,force_strike:187,skill_1:8696,skill_2:4992,s2_frostbite:154,skill_3:2488,dx:69
+13339,_c_Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Hunter_Sarisse|Xander],!<hit10 & hit15 & always connect hits>,,attack:1491,force_strike:133,skill_1:6071,skill_2:3673,s2_frostbite:154,skill_3:1765,dx:49
 -,120,_
-15754,Yurius,5*,water,wand,5152,[Primal_Crisis+Candy_Couriers][Siren][HDT2][Blade|Thaniel|Xander],<hit10 & hit15>,75% frostbite uptime,attack:2380,skill_1:6800,skill_2:3735,s2_frostbite:406,skill_3:2331,dx:99
-10468,_c_Yurius,5*,water,wand,5152,[Primal_Crisis+Candy_Couriers][Siren][HDT2][Blade|Thaniel|Xander],!<hit10 & hit15>,75% frostbite uptime,attack:1560,skill_1:4475,skill_2:2544,s2_frostbite:302,skill_3:1520,dx:65
+15537,Yurius,5*,water,wand,5152,[Primal_Crisis+Candy_Couriers][Siren][HDT2][Blade|Hunter_Sarisse|Xander],<hit10 & hit15 & always connect hits>,76% frostbite uptime,attack:1994,force_strike:109,skill_1:7207,skill_2:3593,s2_frostbite:313,skill_3:2225,dx:91
+11024,_c_Yurius,5*,water,wand,5152,[Primal_Crisis+Candy_Couriers][Siren][HDT2][Blade|Hunter_Sarisse|Xander],!<hit10 & hit15 & always connect hits>,76% frostbite uptime,attack:1423,force_strike:77,skill_1:5073,skill_2:2619,s2_frostbite:246,skill_3:1518,dx:64
 -,120,affliction
-19245,Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Thaniel|Xander],<hit10 & hit15>,,attack:2694,skill_1:8402,skill_2:5222,s2_frostbite:78,skill_3:2810,dx:38
-12703,_c_Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Thaniel|Xander],!<hit10 & hit15>,,attack:1767,skill_1:5517,skill_2:3483,s2_frostbite:78,skill_3:1831,dx:24
+18489,Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Hunter_Sarisse|Xander],<hit10 & hit15 & always connect hits>,,attack:2276,force_strike:126,skill_1:8010,skill_2:5271,s2_frostbite:78,skill_3:2690,dx:35
+13065,_c_Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Hunter_Sarisse|Xander],!<hit10 & hit15 & always connect hits>,,attack:1624,force_strike:90,skill_1:5542,skill_2:3865,s2_frostbite:78,skill_3:1838,dx:25
 -,180,_
-15468,Yurius,5*,water,wand,5152,[Primal_Crisis+Candy_Couriers][Siren][HDT2][Blade|Thaniel|Xander],<hit10 & hit15>,73% frostbite uptime,attack:2442,skill_1:6240,skill_2:3691,s2_frostbite:428,skill_3:2575,dx:88
-10259,_c_Yurius,5*,water,wand,5152,[Primal_Crisis+Candy_Couriers][Siren][HDT2][Blade|Thaniel|Xander],!<hit10 & hit15>,73% frostbite uptime,attack:1598,skill_1:4096,skill_2:2496,s2_frostbite:310,skill_3:1699,dx:57
+15840,Yurius,5*,water,wand,5152,[Primal_Crisis+Candy_Couriers][Siren][HDT2][Blade|Hunter_Sarisse|Xander],<hit10 & hit15 & always connect hits>,80% frostbite uptime,attack:1969,force_strike:109,skill_1:7064,skill_2:3963,s2_frostbite:348,skill_3:2281,dx:101
+11211,_c_Yurius,5*,water,wand,5152,[Primal_Crisis+Candy_Couriers][Siren][HDT2][Blade|Hunter_Sarisse|Xander],!<hit10 & hit15 & always connect hits>,80% frostbite uptime,attack:1399,force_strike:78,skill_1:4843,skill_2:2898,s2_frostbite:263,skill_3:1655,dx:72
 -,180,affliction
-18605,Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Thaniel|Xander],<hit10 & hit15>,,attack:2731,skill_1:8067,skill_2:5174,s2_frostbite:52,skill_3:2527,dx:51
-12248,_c_Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Thaniel|Xander],!<hit10 & hit15>,,attack:1787,skill_1:5300,skill_2:3425,s2_frostbite:52,skill_3:1647,dx:33
+18805,Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Hunter_Sarisse|Xander],<hit10 & hit15 & always connect hits>,,attack:2253,force_strike:169,skill_1:8457,skill_2:5276,s2_frostbite:52,skill_3:2571,dx:23
+13239,_c_Yurius,5*,water,wand,4947,[Primal_Crisis+His_Clever_Brother][Siren][HDT2][Blade|Hunter_Sarisse|Xander],!<hit10 & hit15 & always connect hits>,,attack:1600,force_strike:120,skill_1:5761,skill_2:3827,s2_frostbite:52,skill_3:1859,dx:16
