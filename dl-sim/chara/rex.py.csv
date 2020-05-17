@@ -2,8 +2,8 @@
 10025,Rex,3*,water,axe,6930,[Resounding_Rendition+Breakfast_at_Valerios][Leviathan][HDT2][Blade|Xander|Dagger],<hp60 & hit10 & hp70 & hit15>,,attack:2598,force_strike:230,skill_1:2252,skill_2:521,skill_3:631,dx:3075,ds:714
 7174,_c_Rex,3*,water,axe,6728,[Resounding_Rendition+Breakfast_at_Valerios][Leviathan][HDT2][Blade|Xander|Dagger],!<hp60 & hit10 & hp70 & hit15>,,attack:1923,force_strike:173,skill_1:1620,skill_2:364,skill_3:441,dx:2150,ds:500
 -,60,affliction
-10847,Rex,3*,water,axe,6904,[Kung_Fu_Masters+His_Clever_Brother][Leviathan][HDT2][Blade|Xander|Pipple],<hp60 & hit10>,,attack:2426,force_strike:240,skill_1:1861,skill_2:558,skill_3:676,dx:3550,ds:1531
-9414,_c_Rex,3*,water,axe,6703,[Kung_Fu_Masters+His_Clever_Brother][Leviathan][HDT2][Blade|Xander|Pipple],!<hp60 & hit10>,,attack:2147,force_strike:215,skill_1:1604,skill_2:481,skill_3:583,dx:3060,ds:1320
+10847,Rex,3*,water,axe,6904,[Kung_Fu_Masters+His_Clever_Brother][Leviathan][HDT2][Blade|Xander|Yurius],<hp60 & hit10>,,attack:2426,force_strike:240,skill_1:1861,skill_2:558,skill_3:676,dx:3550,ds:1531
+9414,_c_Rex,3*,water,axe,6703,[Kung_Fu_Masters+His_Clever_Brother][Leviathan][HDT2][Blade|Xander|Yurius],!<hp60 & hit10>,,attack:2147,force_strike:215,skill_1:1604,skill_2:481,skill_3:583,dx:3060,ds:1320
 -,120,_
 10512,Rex,3*,water,axe,6930,[Resounding_Rendition+Breakfast_at_Valerios][Leviathan][HDT2][Blade|Xander|Dagger],<hp60 & hit10 & hp70 & hit15>,,attack:2730,force_strike:244,skill_1:2336,skill_2:800,skill_3:646,dx:3022,ds:731
 7435,_c_Rex,3*,water,axe,6728,[Resounding_Rendition+Breakfast_at_Valerios][Leviathan][HDT2][Blade|Xander|Dagger],!<hp60 & hit10 & hp70 & hit15>,,attack:1963,force_strike:177,skill_1:1657,skill_2:559,skill_3:451,dx:2113,ds:511
@@ -14,5 +14,5 @@
 10174,Rex,3*,water,axe,6912,[Summer_Paladyns+Primal_Crisis][Leviathan][HDT2][Blade|Xander|Dagger],<hp60 & hit10 & hit15>,,attack:2993,force_strike:292,skill_1:2642,skill_2:1112,skill_3:673,dx:1950,ds:508
 7404,_c_Rex,3*,water,axe,6710,[Summer_Paladyns+Primal_Crisis][Leviathan][HDT2][Blade|Xander|Dagger],!<hp60 & hit10 & hit15>,,attack:2202,force_strike:215,skill_1:1927,skill_2:801,skill_3:485,dx:1405,ds:366
 -,180,affliction
-10552,Rex,3*,water,axe,6904,[Kung_Fu_Masters+His_Clever_Brother][Leviathan][HDT2][Blade|Xander|Pipple],<hp60 & hit10>,,attack:3010,force_strike:276,skill_1:2710,skill_2:1126,skill_3:909,dx:2003,ds:514
-9118,_c_Rex,3*,water,axe,6703,[Kung_Fu_Masters+His_Clever_Brother][Leviathan][HDT2][Blade|Xander|Pipple],!<hp60 & hit10>,,attack:2613,force_strike:241,skill_1:2336,skill_2:971,skill_3:784,dx:1727,ds:443
+10552,Rex,3*,water,axe,6904,[Kung_Fu_Masters+His_Clever_Brother][Leviathan][HDT2][Blade|Xander|Yurius],<hp60 & hit10>,,attack:3010,force_strike:276,skill_1:2710,skill_2:1126,skill_3:909,dx:2003,ds:514
+9118,_c_Rex,3*,water,axe,6703,[Kung_Fu_Masters+His_Clever_Brother][Leviathan][HDT2][Blade|Xander|Yurius],!<hp60 & hit10>,,attack:2613,force_strike:241,skill_1:2336,skill_2:971,skill_3:784,dx:1727,ds:443

@@ -8,11 +8,11 @@
 23236,Lathna,5*,shadow,lance,7568,[Resounding_Rendition+An_Ancient_Oath][Chthonius][Agito][Ieyasu|Yaten|Tiki],<hp60 & hp70>,50% poison uptime,attack:2909,skill_1:5368,skill_2:2360,dx:11059,ds_poison:248,ds:1289
 20976,_c_Lathna,5*,shadow,lance,7140,[Resounding_Rendition+An_Ancient_Oath][Chthonius][Agito][Ieyasu|Yaten|Tiki],!<hp60 & hp70>,50% poison uptime,attack:2617,skill_1:4837,skill_2:2126,dx:10002,ds_poison:224,ds:1166
 -,120,affliction
-30925,Lathna,5*,shadow,lance,7831,[Resounding_Rendition+The_Fires_of_Hate][Chthonius][Agito][Ieyasu|Wand|Tiki],<hp70 & hp100>,,attack:3626,skill_1:9298,skill_2:3797,dx:11486,ds_poison:684,ds:2031
-26721,_c_Lathna,5*,shadow,lance,7140,[Resounding_Rendition+The_Fires_of_Hate][Chthonius][Agito][Ieyasu|Wand|Tiki],!<hp70 & hp100>,,attack:3133,skill_1:8034,skill_2:3281,dx:9925,ds_poison:591,ds:1755
+31570,Lathna,5*,shadow,lance,7831,[Resounding_Rendition+The_Fires_of_Hate][Chthonius][Agito][Ieyasu|Forte|Tiki],<hp70 & hp100>,,attack:3844,skill_1:8614,skill_2:3459,dx:12985,ds_poison:669,ds:1996
+27278,_c_Lathna,5*,shadow,lance,7140,[Resounding_Rendition+The_Fires_of_Hate][Chthonius][Agito][Ieyasu|Forte|Tiki],!<hp70 & hp100>,,attack:3321,skill_1:7443,skill_2:2988,dx:11219,ds_poison:578,ds:1725
 -,180,_
-21732,Lathna,5*,shadow,lance,7140,[Resounding_Rendition+An_Ancient_Oath][Chthonius][Agito][Ieyasu|Audric|Tiki],<hp70>,39% poison uptime,attack:2870,skill_1:4847,skill_2:2425,dx:10081,ds_poison:187,ds:1319
-20595,_c_Lathna,5*,shadow,lance,7140,[Resounding_Rendition+An_Ancient_Oath][Chthonius][Agito][Ieyasu|Audric|Tiki],!<hp70>,39% poison uptime,attack:2719,skill_1:4594,skill_2:2298,dx:9553,ds_poison:177,ds:1250
+22020,Lathna,5*,shadow,lance,7140,[Resounding_Rendition+An_Ancient_Oath][Chthonius][Agito][Ieyasu|Audric|Forte],<hp70>,39% poison uptime,attack:2599,skill_1:5290,skill_2:2667,dx:9715,ds_poison:213,ds:1533
+20868,_c_Lathna,5*,shadow,lance,7140,[Resounding_Rendition+An_Ancient_Oath][Chthonius][Agito][Ieyasu|Audric|Forte],!<hp70>,39% poison uptime,attack:2463,skill_1:5013,skill_2:2528,dx:9206,ds_poison:202,ds:1453
 -,180,affliction
-30666,Lathna,5*,shadow,lance,6219,[Resounding_Rendition+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Cleo],<hp70 & hp100>,,attack:2704,skill_1:13405,skill_2:7010,dx:5032,ds_poison:717,ds:1795
-25832,_c_Lathna,5*,shadow,lance,5528,[Resounding_Rendition+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Cleo],!<hp70 & hp100>,,attack:2277,skill_1:11292,skill_2:5905,dx:4239,ds_poison:604,ds:1512
+31147,Lathna,5*,shadow,lance,6219,[Resounding_Rendition+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Forte|Wand],<hp70 & hp100>,,attack:2738,skill_1:13585,skill_2:7108,dx:5144,ds_poison:733,ds:1835
+26237,_c_Lathna,5*,shadow,lance,5528,[Resounding_Rendition+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Forte|Wand],!<hp70 & hp100>,,attack:2307,skill_1:11444,skill_2:5987,dx:4333,ds_poison:618,ds:1546
