@@ -268,8 +268,8 @@
 24782,_c_Patia,4*,shadow,lance,8323,[Brothers_in_Arms+Resounding_Rendition][Fatalis][Agito][Blade|Bow|Tobias],!<hp60 & hp70>,,attack:6947,skill_2:3474,s2_bleed:7013,team_buff:7346
 19023,Heinwald,5*,shadow,staff,8199,[Resounding_Rendition+Beautiful_Nothingness][Fatalis][Agito][Blade|Wand|Dagger],<buff all teammates & hp70>,,attack:5636,skill_1:9689,team_buff:3698
 11770,_c_Heinwald,5*,shadow,staff,7767,[Resounding_Rendition+Beautiful_Nothingness][Fatalis][Agito][Blade|Wand|Dagger],!<buff all teammates & hp70>,,attack:5085,skill_1:6684
-18257,Gala_Luca,5*,light,blade,6536,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2][Axe2|Dagger|Peony],<hit15 & hp70>,,attack:4808,skill_1:7145,skill_3:1454,team_buff:444,dx:3664,ds:740
-11197,_c_Gala_Luca,5*,light,blade,6536,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2][Axe2|Dagger|Peony],!<hit15 & hp70>,,attack:2903,skill_1:4376,skill_3:852,team_buff:444,dx:2188,ds:431
+18509,Gala_Luca,5*,light,blade,6536,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2][Axe2|Dagger|Peony],<hit15 & hp70>,,attack:4808,skill_1:7145,skill_3:1454,team_buff:444,dx:3665,ds:990
+11404,_c_Gala_Luca,5*,light,blade,6536,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2][Axe2|Dagger|Peony],!<hit15 & hp70>,,attack:2904,skill_1:4377,skill_3:853,team_buff:444,dx:2191,ds:633
 11869,Aurien,3*,flame,staff,8088,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Tiki],<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1; 39% burn uptime,attack:6521,skill_2:1069,s2_burn:373,dx:2759,ds:1144
 6857,_c_Aurien,3*,flame,staff,7236,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Tiki],!<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1,attack:3862,skill_2:526,s2_burn:0,dx:1912,ds:556
 19876,Hunter_Berserker,5*,flame,sword,6980,[The_Lurker_in_the_Woods+Primal_Crisis][Dreadking_Rathalos][Agito][Blade|Grace|Marth],<hit10 & hit15>,needs combo time from chain coability to keep combo & do c1 after s2,attack:192,force_strike:15853,skill_1:2834,team_buff:995

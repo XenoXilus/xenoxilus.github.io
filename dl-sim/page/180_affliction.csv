@@ -270,8 +270,8 @@
 25369,_c_Patia,4*,shadow,lance,8325,[Brothers_in_Arms+The_Fires_of_Hate][Fatalis][Agito][Blade|Bow|Tobias],!<hp60 & hp100>,,attack:8339,skill_2:3207,s2_bleed:6475,team_buff:7346
 22071,Heinwald,5*,shadow,staff,8442,[Resounding_Rendition+The_Fires_of_Hate][Fatalis][Agito][Blade|Wand|Dagger],<buff all teammates & hp70 & hp100>,,attack:6756,skill_1:11615,team_buff:3698
 13727,_c_Heinwald,5*,shadow,staff,7793,[Resounding_Rendition+The_Fires_of_Hate][Fatalis][Agito][Blade|Wand|Dagger],!<buff all teammates & hp70 & hp100>,,attack:5930,skill_1:7796
-19683,Gala_Luca,5*,light,blade,7188,[The_Wyrmclan_Duo+Spirit_of_the_Season][Daikokuten][HDT2][Axe2|Dagger|Peony],<hit15 & hp70 & hp100>,,attack:5173,skill_1:7796,skill_3:1548,team_buff:444,dx:3933,ds:787
-13382,_c_Gala_Luca,5*,light,blade,6554,[The_Wyrmclan_Duo+Spirit_of_the_Season][Daikokuten][HDT2][Axe2|Dagger|Peony],!<hit15 & hp70 & hp100>,,attack:3493,skill_1:5265,skill_3:1026,team_buff:444,dx:2632,ds:519
+20018,Gala_Luca,5*,light,blade,7188,[The_Wyrmclan_Duo+Spirit_of_the_Season][Daikokuten][HDT2][Axe2|Dagger|Peony],<hit15 & hp70 & hp100>,,attack:5173,skill_1:7797,skill_3:1548,team_buff:444,dx:3935,ds:1118
+13631,_c_Gala_Luca,5*,light,blade,6554,[The_Wyrmclan_Duo+Spirit_of_the_Season][Daikokuten][HDT2][Axe2|Dagger|Peony],!<hit15 & hp70 & hp100>,,attack:3493,skill_1:5267,skill_3:1026,team_buff:444,dx:2636,ds:762
 14432,Aurien,3*,flame,staff,8088,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Tiki],<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1,attack:7479,skill_2:1390,s2_burn:485,dx:3587,ds:1488
 8915,_c_Aurien,3*,flame,staff,7236,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito][Blade|Marth|Tiki],!<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1,attack:5020,skill_2:684,s2_burn:0,dx:2486,ds:722
 21875,Hunter_Berserker,5*,flame,sword,6978,[The_Lurker_in_the_Woods+Elegant_Escort][Dreadking_Rathalos][Agito][Blade|Grace|Marth],<hit10>,needs combo time from chain coability to keep combo & do c1 after s2,attack:211,force_strike:17550,skill_1:3117,team_buff:995
