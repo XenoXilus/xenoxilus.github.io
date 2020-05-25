@@ -1,18 +1,18 @@
 -,60,_
-11140,Vida,3*,shadow,dagger,5063,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito][Ieyasu|Wand|Tiki],<hit15>,,attack:2532,force_strike:410,skill_1:3714,team_energy:414,dx:3128,ds:938
-9144,_c_Vida,3*,shadow,dagger,5063,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito][Ieyasu|Wand|Tiki],!<hit15>,,attack:2085,force_strike:340,skill_1:3008,team_energy:414,dx:2534,ds:760
+11595,Vida,3*,shadow,dagger,5063,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito][Ieyasu|Wand|Tiki],<hit15>,,attack:2473,force_strike:410,skill_1:4228,team_energy:414,dx:3128,ds:938
+9514,_c_Vida,3*,shadow,dagger,5063,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito][Ieyasu|Wand|Tiki],!<hit15>,,attack:2039,force_strike:340,skill_1:3425,team_energy:414,dx:2534,ds:760
 -,60,affliction
-12338,Vida,3*,shadow,dagger,5274,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],<hit15 & hp100>,,attack:2829,force_strike:460,skill_1:4120,team_energy:414,dx:3471,ds:1041
-10663,_c_Vida,3*,shadow,dagger,5063,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],!<hit15 & hp100>,,attack:2448,force_strike:400,skill_1:3532,team_energy:414,dx:2975,ds:892
+12844,Vida,3*,shadow,dagger,5274,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],<hit15 & hp100>,,attack:2765,force_strike:460,skill_1:4691,team_energy:414,dx:3470,ds:1040
+11097,_c_Vida,3*,shadow,dagger,5063,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],!<hit15 & hp100>,,attack:2394,force_strike:400,skill_1:4021,team_energy:414,dx:2974,ds:892
 -,120,_
-11407,Vida,3*,shadow,dagger,5063,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito][Ieyasu|Wand|Tiki],<hit15>,,attack:2720,force_strike:414,skill_1:4214,team_energy:412,dx:2709,ds:935
-9339,_c_Vida,3*,shadow,dagger,5063,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito][Ieyasu|Wand|Tiki],!<hit15>,,attack:2220,force_strike:339,skill_1:3413,team_energy:412,dx:2194,ds:757
+11747,Vida,3*,shadow,dagger,5063,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito][Ieyasu|Wand|Tiki],<hit15>,,attack:2725,force_strike:443,skill_1:4497,team_energy:415,dx:2725,ds:940
+9616,_c_Vida,3*,shadow,dagger,5063,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito][Ieyasu|Wand|Tiki],!<hit15>,,attack:2225,force_strike:363,skill_1:3642,team_energy:415,dx:2207,ds:761
 -,120,affliction
-12622,Vida,3*,shadow,dagger,5274,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],<hit15 & hp100>,,attack:3028,force_strike:462,skill_1:4675,team_energy:412,dx:3005,ds:1037
-10892,_c_Vida,3*,shadow,dagger,5063,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],!<hit15 & hp100>,,attack:2607,force_strike:398,skill_1:4007,team_energy:412,dx:2576,ds:889
+13000,Vida,3*,shadow,dagger,5274,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],<hit15 & hp100>,,attack:3034,force_strike:494,skill_1:4989,team_energy:415,dx:3023,ds:1043
+11216,_c_Vida,3*,shadow,dagger,5063,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],!<hit15 & hp100>,,attack:2612,force_strike:426,skill_1:4276,team_energy:415,dx:2591,ds:894
 -,180,_
-10782,Vida,3*,shadow,dagger,5063,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito][Ieyasu|Wand|Tiki],<hit15>,,attack:3030,force_strike:472,skill_1:4553,team_energy:277,dx:1819,ds:628
-8800,_c_Vida,3*,shadow,dagger,5063,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito][Ieyasu|Wand|Tiki],!<hit15>,,attack:2466,force_strike:385,skill_1:3688,team_energy:277,dx:1474,ds:508
+11289,Vida,3*,shadow,dagger,5063,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito][Ieyasu|Wand|Tiki],<hit15>,,attack:3008,force_strike:505,skill_1:5056,team_energy:276,dx:1814,ds:626
+9211,_c_Vida,3*,shadow,dagger,5063,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito][Ieyasu|Wand|Tiki],!<hit15>,,attack:2449,force_strike:412,skill_1:4095,team_energy:276,dx:1469,ds:507
 -,180,affliction
-11940,Vida,3*,shadow,dagger,5274,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],<hit15 & hp100>,,attack:3369,force_strike:525,skill_1:5051,team_energy:277,dx:2019,ds:696
-10283,_c_Vida,3*,shadow,dagger,5063,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],!<hit15 & hp100>,,attack:2895,force_strike:452,skill_1:4330,team_energy:277,dx:1730,ds:597
+12502,Vida,3*,shadow,dagger,5274,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],<hit15 & hp100>,,attack:3345,force_strike:562,skill_1:5609,team_energy:276,dx:2013,ds:694
+10765,_c_Vida,3*,shadow,dagger,5063,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],!<hit15 & hp100>,,attack:2875,force_strike:484,skill_1:4807,team_energy:276,dx:1725,ds:595

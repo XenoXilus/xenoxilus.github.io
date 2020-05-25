@@ -1,18 +1,18 @@
 -,60,_
-22128,Euden,4*,flame,sword,8510,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],<0 burn res & hp50>,66% burn uptime,attack:2896,force_strike:867,skill_1:2860,s1_burn:902,skill_2:1523,team_buff:315,dx:8661,ds:4100
-16466,_c_Euden,4*,flame,sword,7614,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],!<0 burn res & hp50>,,attack:2129,force_strike:640,skill_1:2221,s1_burn:0,skill_2:1048,team_buff:315,dx:6887,ds:3223
+22438,Euden,4*,flame,sword,8510,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],<0 burn res & hp50>,65% burn uptime,attack:2931,force_strike:852,skill_1:2809,s1_burn:886,skill_2:1496,team_buff:309,dx:9123,ds:4028
+16785,_c_Euden,4*,flame,sword,7614,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],!<0 burn res & hp50>,,attack:2151,force_strike:629,skill_1:2182,s1_burn:0,skill_2:1030,team_buff:309,dx:7316,ds:3166
 -,60,affliction
-24802,Euden,4*,flame,sword,8510,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],<0 burn res & hp50>,,attack:3093,force_strike:930,skill_1:3227,s1_burn:1020,skill_2:1523,team_buff:315,dx:10006,ds:4683
-21311,_c_Euden,4*,flame,sword,7614,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],!<0 burn res & hp50>,,attack:2767,force_strike:832,skill_1:2888,s1_burn:0,skill_2:1363,team_buff:315,dx:8953,ds:4190
+25249,Euden,4*,flame,sword,8510,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],<0 burn res & hp50>,,attack:3125,force_strike:914,skill_1:3170,s1_burn:1001,skill_2:1496,team_buff:309,dx:10630,ds:4600
+21727,_c_Euden,4*,flame,sword,7614,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],!<0 burn res & hp50>,,attack:2796,force_strike:818,skill_1:2836,s1_burn:0,skill_2:1339,team_buff:309,dx:9511,ds:4115
 -,120,_
-22980,Euden,4*,flame,sword,8510,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],<0 burn res & hp50>,70% burn uptime,attack:4006,force_strike:1235,skill_1:4347,s1_burn:1134,skill_2:2299,team_buff:472,dx:6720,ds:2763
-16755,_c_Euden,4*,flame,sword,7614,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],!<0 burn res & hp50>,,attack:2909,force_strike:901,skill_1:3288,s1_burn:0,skill_2:1614,team_buff:472,dx:5437,ds:2131
+23491,Euden,4*,flame,sword,8510,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],<0 burn res & hp50>,69% burn uptime,attack:3970,force_strike:1234,skill_1:4301,s1_burn:1154,skill_2:2275,team_buff:467,dx:6650,ds:3436
+17116,_c_Euden,4*,flame,sword,7614,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],!<0 burn res & hp50>,,attack:2882,force_strike:900,skill_1:3253,s1_burn:0,skill_2:1597,team_buff:467,dx:5381,ds:2633
 -,120,affliction
-25377,Euden,4*,flame,sword,8510,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],<0 burn res & hp50>,,attack:4226,force_strike:1309,skill_1:4777,s1_burn:1246,skill_2:2345,team_buff:472,dx:7900,ds:3096
-21640,_c_Euden,4*,flame,sword,7614,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],!<0 burn res & hp50>,,attack:3781,force_strike:1171,skill_1:4274,s1_burn:0,skill_2:2099,team_buff:472,dx:7069,ds:2770
+25925,Euden,4*,flame,sword,8510,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],<0 burn res & hp50>,,attack:4188,force_strike:1307,skill_1:4727,s1_burn:1267,skill_2:2321,team_buff:467,dx:7818,ds:3826
+22111,_c_Euden,4*,flame,sword,7614,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],!<0 burn res & hp50>,,attack:3747,force_strike:1170,skill_1:4230,s1_burn:0,skill_2:2077,team_buff:467,dx:6995,ds:3423
 -,180,_
-24400,Euden,4*,flame,sword,8510,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],<0 burn res & hp50>,69% burn uptime,attack:4652,force_strike:1446,skill_1:5308,s1_burn:1156,skill_2:2174,team_buff:419,dx:6369,ds:2872
-17664,_c_Euden,4*,flame,sword,7614,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],!<0 burn res & hp50>,,attack:3446,force_strike:1079,skill_1:4085,s1_burn:0,skill_2:1571,team_buff:419,dx:4982,ds:2079
+24719,Euden,4*,flame,sword,8510,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],<0 burn res & hp50>,69% burn uptime,attack:4669,force_strike:1460,skill_1:5319,s1_burn:1159,skill_2:2178,team_buff:420,dx:6631,ds:2878
+17912,_c_Euden,4*,flame,sword,7614,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],!<0 burn res & hp50>,,attack:3458,force_strike:1090,skill_1:4094,s1_burn:0,skill_2:1574,team_buff:420,dx:5189,ds:2084
 -,180,affliction
-26758,Euden,4*,flame,sword,8510,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],<0 burn res & hp50>,,attack:5007,force_strike:1568,skill_1:5936,s1_burn:1282,skill_2:2283,team_buff:419,dx:7238,ds:3021
-22838,_c_Euden,4*,flame,sword,7614,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],!<0 burn res & hp50>,,attack:4479,force_strike:1403,skill_1:5311,s1_burn:0,skill_2:2042,team_buff:419,dx:6476,ds:2703
+27120,Euden,4*,flame,sword,8510,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],<0 burn res & hp50>,,attack:5025,force_strike:1583,skill_1:5949,s1_burn:1285,skill_2:2287,team_buff:420,dx:7539,ds:3028
+23160,_c_Euden,4*,flame,sword,7614,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito][Blade|Tiki|Yuya],!<0 burn res & hp50>,,attack:4496,force_strike:1417,skill_1:5322,s1_burn:0,skill_2:2047,team_buff:420,dx:6745,ds:2709

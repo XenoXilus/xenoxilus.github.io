@@ -1,18 +1,18 @@
 -,60,_
-11746,Linus,3*,light,axe,6813,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Peony],<hp60 & hit15 & hp70>,,attack:2835,force_strike:262,skill_1:1839,skill_2:1192,skill_3:722,team_buff:656,dx:3610,ds:626
-8540,_c_Linus,3*,light,axe,6615,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Peony],!<hp60 & hit15 & hp70>,,attack:2098,force_strike:194,skill_1:1365,skill_2:818,skill_3:496,team_buff:656,dx:2479,ds:430
+11839,Linus,3*,light,axe,6813,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Peony],<hp60 & hit15 & hp70>,,attack:2811,force_strike:265,skill_1:1863,skill_2:1208,skill_3:732,team_buff:665,dx:3657,ds:635
+8610,_c_Linus,3*,light,axe,6615,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Peony],!<hp60 & hit15 & hp70>,,attack:2083,force_strike:197,skill_1:1383,skill_2:829,skill_3:502,team_buff:665,dx:2511,ds:436
 -,60,affliction
-13291,Linus,3*,light,axe,7473,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hp60 & hit15 & hp70 & hp100>,,attack:3288,force_strike:304,skill_1:2136,skill_2:1338,skill_3:811,team_buff:656,dx:4051,ds:703
-10117,_c_Linus,3*,light,axe,6615,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hp60 & hit15 & hp70 & hp100>,,attack:2517,force_strike:233,skill_1:1638,skill_2:982,skill_3:595,team_buff:656,dx:2975,ds:516
+13396,Linus,3*,light,axe,7473,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hp60 & hit15 & hp70 & hp100>,,attack:3263,force_strike:308,skill_1:2164,skill_2:1355,skill_3:821,team_buff:665,dx:4104,ds:712
+10199,_c_Linus,3*,light,axe,6615,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hp60 & hit15 & hp70 & hp100>,,attack:2500,force_strike:236,skill_1:1659,skill_2:995,skill_3:603,team_buff:665,dx:3013,ds:523
 -,120,_
-11730,Linus,3*,light,axe,6813,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Peony],<hp60 & hit15 & hp70>,,attack:3305,force_strike:324,skill_1:2614,skill_2:1210,skill_3:733,team_buff:333,dx:2570,ds:636
-8296,_c_Linus,3*,light,axe,6615,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Peony],!<hp60 & hit15 & hp70>,,attack:2346,force_strike:230,skill_1:1847,skill_2:831,skill_3:503,team_buff:333,dx:1765,ds:436
+11722,Linus,3*,light,axe,6813,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Peony],<hp60 & hit15 & hp70>,,attack:3303,force_strike:324,skill_1:2613,skill_2:1209,skill_3:733,team_buff:333,dx:2569,ds:635
+8290,_c_Linus,3*,light,axe,6615,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Peony],!<hp60 & hit15 & hp70>,,attack:2345,force_strike:230,skill_1:1846,skill_2:830,skill_3:503,team_buff:333,dx:1764,ds:436
 -,120,affliction
-13220,Linus,3*,light,axe,7473,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hp60 & hit15 & hp70 & hp100>,,attack:3763,force_strike:369,skill_1:2971,skill_2:1358,skill_3:823,team_buff:333,dx:2885,ds:714
-9888,_c_Linus,3*,light,axe,6615,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hp60 & hit15 & hp70 & hp100>,,attack:2816,force_strike:276,skill_1:2217,skill_2:997,skill_3:604,team_buff:333,dx:2118,ds:524
+13210,Linus,3*,light,axe,7473,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hp60 & hit15 & hp70 & hp100>,,attack:3761,force_strike:369,skill_1:2969,skill_2:1357,skill_3:822,team_buff:333,dx:2883,ds:713
+9881,_c_Linus,3*,light,axe,6615,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hp60 & hit15 & hp70 & hp100>,,attack:2814,force_strike:276,skill_1:2215,skill_2:996,skill_3:604,team_buff:333,dx:2117,ds:523
 -,180,_
-11965,Linus,3*,light,axe,6796,[Summer_Paladyns+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],<hp60 & hit15>,,attack:3265,force_strike:298,skill_1:2953,skill_2:1461,skill_3:759,team_buff:440,dx:2347,ds:438
-8704,_c_Linus,3*,light,axe,6598,[Summer_Paladyns+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],!<hp60 & hit15>,,attack:2370,force_strike:217,skill_1:2133,skill_2:1033,skill_3:537,team_buff:440,dx:1660,ds:310
+11783,Linus,3*,light,axe,6796,[Summer_Paladyns+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],<hp60 & hit15>,,attack:3247,force_strike:300,skill_1:2968,skill_2:1259,skill_3:763,team_buff:443,dx:2359,ds:441
+8576,_c_Linus,3*,light,axe,6598,[Summer_Paladyns+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],!<hp60 & hit15>,,attack:2358,force_strike:218,skill_1:2144,skill_2:890,skill_3:539,team_buff:443,dx:1668,ds:312
 -,180,affliction
-13426,Linus,3*,light,axe,7473,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hp60 & hit15 & hp70 & hp100>,,attack:3836,force_strike:351,skill_1:3214,skill_2:1572,skill_3:817,team_buff:440,dx:2720,ds:472
-10037,_c_Linus,3*,light,axe,6615,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hp60 & hit15 & hp70 & hp100>,,attack:2851,force_strike:261,skill_1:2383,skill_2:1154,skill_3:599,team_buff:440,dx:1997,ds:346
+13230,Linus,3*,light,axe,7473,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hp60 & hit15 & hp70 & hp100>,,attack:3816,force_strike:353,skill_1:3231,skill_2:1354,skill_3:821,team_buff:443,dx:2734,ds:474
+9894,_c_Linus,3*,light,axe,6615,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hp60 & hit15 & hp70 & hp100>,,attack:2837,force_strike:262,skill_1:2396,skill_2:994,skill_3:603,team_buff:443,dx:2007,ds:348
