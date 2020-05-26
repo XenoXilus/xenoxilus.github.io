@@ -1,18 +1,18 @@
 -,60,_
-16979,Gala_Sarisse,5*,flame,bow,8036,[Forest_Bonds+Primal_Crisis][Gala_Mars][Agito][Blade|Wand|Marth],<hit10 & hp50 & hit15 & always connect hits>,,attack:2134,force_strike:551,skill_1:7661,team_buff:860,dx:3609,ds:2162
-9896,_c_Gala_Sarisse,5*,flame,bow,7190,[Forest_Bonds+Primal_Crisis][Gala_Mars][Agito][Blade|Wand|Marth],!<hit10 & hp50 & hit15 & always connect hits>,,attack:1421,force_strike:359,skill_1:3410,team_buff:860,dx:2416,ds:1427
+17901,Gala_Sarisse,5*,flame,bow,8495,[Forest_Bonds+Primal_Crisis][Gala_Mars][Agito2][Blade|Wand|Marth],<hit10 & hp50 & hit15 & always connect hits>,,attack:2256,force_strike:583,skill_1:8099,team_buff:860,dx:3816,ds:2285
+10413,_c_Gala_Sarisse,5*,flame,bow,7601,[Forest_Bonds+Primal_Crisis][Gala_Mars][Agito2][Blade|Wand|Marth],!<hit10 & hp50 & hit15 & always connect hits>,,attack:1502,force_strike:379,skill_1:3605,team_buff:860,dx:2554,ds:1509
 -,60,affliction
-18639,Gala_Sarisse,5*,flame,bow,8033,[Forest_Bonds+Elegant_Escort][Gala_Mars][Agito][Blade|Wand|Marth],<hit10 & hp50 & always connect hits>,,attack:2378,force_strike:607,skill_1:8437,team_buff:860,dx:3973,ds:2380
-12603,_c_Gala_Sarisse,5*,flame,bow,7188,[Forest_Bonds+Elegant_Escort][Gala_Mars][Agito][Blade|Wand|Marth],!<hit10 & hp50 & always connect hits>,,attack:1847,force_strike:466,skill_1:4432,team_buff:860,dx:3140,ds:1855
+19656,Gala_Sarisse,5*,flame,bow,8493,[Forest_Bonds+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],<hit10 & hp50 & always connect hits>,,attack:2515,force_strike:642,skill_1:8920,team_buff:860,dx:4201,ds:2517
+13275,_c_Gala_Sarisse,5*,flame,bow,7599,[Forest_Bonds+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],!<hit10 & hp50 & always connect hits>,,attack:1952,force_strike:493,skill_1:4686,team_buff:860,dx:3320,ds:1961
 -,120,_
-18373,Gala_Sarisse,5*,flame,bow,8036,[Forest_Bonds+Primal_Crisis][Gala_Mars][Agito][Blade|Wand|Marth],<hit10 & hp50 & hit15 & always connect hits>,,attack:2513,force_strike:736,skill_1:9754,team_buff:862,dx:2945,ds:1561
-9908,_c_Gala_Sarisse,5*,flame,bow,7190,[Forest_Bonds+Primal_Crisis][Gala_Mars][Agito][Blade|Wand|Marth],!<hit10 & hp50 & hit15 & always connect hits>,,attack:1639,force_strike:479,skill_1:3949,team_buff:862,dx:1954,ds:1022
+19375,Gala_Sarisse,5*,flame,bow,8495,[Forest_Bonds+Primal_Crisis][Gala_Mars][Agito2][Blade|Wand|Marth],<hit10 & hp50 & hit15 & always connect hits>,,attack:2656,force_strike:778,skill_1:10312,team_buff:862,dx:3114,ds:1651
+10426,_c_Gala_Sarisse,5*,flame,bow,7601,[Forest_Bonds+Primal_Crisis][Gala_Mars][Agito2][Blade|Wand|Marth],!<hit10 & hp50 & hit15 & always connect hits>,,attack:1733,force_strike:507,skill_1:4175,team_buff:862,dx:2066,ds:1080
 -,120,affliction
-20164,Gala_Sarisse,5*,flame,bow,8033,[Forest_Bonds+Elegant_Escort][Gala_Mars][Agito][Blade|Wand|Marth],<hit10 & hp50 & always connect hits>,,attack:2782,force_strike:810,skill_1:10745,team_buff:862,dx:3243,ds:1719
-12619,_c_Gala_Sarisse,5*,flame,bow,7188,[Forest_Bonds+Elegant_Escort][Gala_Mars][Agito][Blade|Wand|Marth],!<hit10 & hp50 & always connect hits>,,attack:2130,force_strike:623,skill_1:5133,team_buff:862,dx:2540,ds:1328
+21269,Gala_Sarisse,5*,flame,bow,8493,[Forest_Bonds+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],<hit10 & hp50 & always connect hits>,,attack:2941,force_strike:857,skill_1:11360,team_buff:862,dx:3429,ds:1818
+13292,_c_Gala_Sarisse,5*,flame,bow,7599,[Forest_Bonds+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],!<hit10 & hp50 & always connect hits>,,attack:2252,force_strike:659,skill_1:5427,team_buff:862,dx:2685,ds:1404
 -,180,_
-17720,Gala_Sarisse,5*,flame,bow,8036,[Forest_Bonds+Primal_Crisis][Gala_Mars][Agito][Blade|Wand|Marth],<hit10 & hp50 & hit15 & always connect hits>,,attack:2630,force_strike:792,skill_1:9849,team_buff:576,dx:2384,ds:1485
-9307,_c_Gala_Sarisse,5*,flame,bow,7190,[Forest_Bonds+Primal_Crisis][Gala_Mars][Agito][Blade|Wand|Marth],!<hit10 & hp50 & hit15 & always connect hits>,,attack:1707,force_strike:516,skill_1:4023,team_buff:576,dx:1593,ds:888
+18701,Gala_Sarisse,5*,flame,bow,8495,[Forest_Bonds+Primal_Crisis][Gala_Mars][Agito2][Blade|Wand|Marth],<hit10 & hp50 & hit15 & always connect hits>,,attack:2781,force_strike:838,skill_1:10413,team_buff:576,dx:2520,ds:1570
+9807,_c_Gala_Sarisse,5*,flame,bow,7601,[Forest_Bonds+Primal_Crisis][Gala_Mars][Agito2][Blade|Wand|Marth],!<hit10 & hp50 & hit15 & always connect hits>,,attack:1805,force_strike:546,skill_1:4253,team_buff:576,dx:1684,ds:939
 -,180,affliction
-19469,Gala_Sarisse,5*,flame,bow,8033,[Forest_Bonds+Elegant_Escort][Gala_Mars][Agito][Blade|Wand|Marth],<hit10 & hp50 & always connect hits>,,attack:2907,force_strike:873,skill_1:10850,team_buff:576,dx:2624,ds:1636
-11923,_c_Gala_Sarisse,5*,flame,bow,7188,[Forest_Bonds+Elegant_Escort][Gala_Mars][Agito][Blade|Wand|Marth],!<hit10 & hp50 & always connect hits>,,attack:2219,force_strike:671,skill_1:5229,team_buff:576,dx:2071,ds:1155
+20550,Gala_Sarisse,5*,flame,bow,8493,[Forest_Bonds+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],<hit10 & hp50 & always connect hits>,,attack:3073,force_strike:923,skill_1:11471,team_buff:576,dx:2775,ds:1729
+12573,_c_Gala_Sarisse,5*,flame,bow,7599,[Forest_Bonds+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],!<hit10 & hp50 & always connect hits>,,attack:2346,force_strike:709,skill_1:5528,team_buff:576,dx:2189,ds:1221

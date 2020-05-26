@@ -1,18 +1,18 @@
 -,60,_
-12228,Orion,4*,shadow,dagger,5085,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito][Ieyasu|Wand|Axe2],<hit15>,,attack:2044,force_strike:236,skill_1:3716,skill_2:1776,team_energy:416,dx:2941,ds:1096
-9100,_c_Orion,4*,shadow,dagger,5085,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito][Ieyasu|Wand|Axe2],!<hit15>,,attack:1521,force_strike:170,skill_1:2791,skill_2:1283,team_energy:416,dx:2124,ds:791
+12228,Orion,4*,shadow,dagger,5085,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito1][Ieyasu|Wand|Axe2],<hit15>,,attack:2044,force_strike:236,skill_1:3716,skill_2:1776,team_energy:416,dx:2941,ds:1096
+9100,_c_Orion,4*,shadow,dagger,5085,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito1][Ieyasu|Wand|Axe2],!<hit15>,,attack:1521,force_strike:170,skill_1:2791,skill_2:1283,team_energy:416,dx:2124,ds:791
 -,60,affliction
-13538,Orion,4*,shadow,dagger,5297,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],<hit15 & hp100>,,attack:2534,force_strike:241,skill_1:3854,skill_2:1812,team_energy:416,dx:3562,ds:1117
-11088,_c_Orion,4*,shadow,dagger,5085,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],!<hit15 & hp100>,,attack:2076,force_strike:194,skill_1:3174,skill_2:1459,team_energy:416,dx:2868,ds:900
+13538,Orion,4*,shadow,dagger,5297,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito1][Ieyasu|Wand|Tiki],<hit15 & hp100>,,attack:2534,force_strike:241,skill_1:3854,skill_2:1812,team_energy:416,dx:3562,ds:1117
+11088,_c_Orion,4*,shadow,dagger,5085,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito1][Ieyasu|Wand|Tiki],!<hit15 & hp100>,,attack:2076,force_strike:194,skill_1:3174,skill_2:1459,team_energy:416,dx:2868,ds:900
 -,120,_
-12710,Orion,4*,shadow,dagger,5085,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito][Ieyasu|Wand|Axe2],<hit15>,,attack:2164,force_strike:305,skill_1:4032,skill_2:2059,team_energy:413,dx:2644,ds:1089
-9370,_c_Orion,4*,shadow,dagger,5085,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito][Ieyasu|Wand|Axe2],!<hit15>,,attack:1586,force_strike:220,skill_1:2965,skill_2:1487,team_energy:413,dx:1910,ds:786
+12710,Orion,4*,shadow,dagger,5085,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito1][Ieyasu|Wand|Axe2],<hit15>,,attack:2164,force_strike:305,skill_1:4032,skill_2:2059,team_energy:413,dx:2644,ds:1089
+9370,_c_Orion,4*,shadow,dagger,5085,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito1][Ieyasu|Wand|Axe2],!<hit15>,,attack:1586,force_strike:220,skill_1:2965,skill_2:1487,team_energy:413,dx:1910,ds:786
 -,120,affliction
-13965,Orion,4*,shadow,dagger,5297,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],<hit15 & hp100>,,attack:2665,force_strike:311,skill_1:4144,skill_2:2100,team_energy:413,dx:3218,ds:1110
-11378,_c_Orion,4*,shadow,dagger,5085,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],!<hit15 & hp100>,,attack:2164,force_strike:250,skill_1:3372,skill_2:1691,team_energy:413,dx:2591,ds:894
+13965,Orion,4*,shadow,dagger,5297,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito1][Ieyasu|Wand|Tiki],<hit15 & hp100>,,attack:2665,force_strike:311,skill_1:4144,skill_2:2100,team_energy:413,dx:3218,ds:1110
+11378,_c_Orion,4*,shadow,dagger,5085,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito1][Ieyasu|Wand|Tiki],!<hit15 & hp100>,,attack:2164,force_strike:250,skill_1:3372,skill_2:1691,team_energy:413,dx:2591,ds:894
 -,180,_
-12240,Orion,4*,shadow,dagger,5085,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito][Ieyasu|Wand|Axe2],<hit15>,,attack:2489,force_strike:283,skill_1:4273,skill_2:2411,team_energy:277,dx:1774,ds:730
-8968,_c_Orion,4*,shadow,dagger,5085,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito][Ieyasu|Wand|Axe2],!<hit15>,,attack:1813,force_strike:204,skill_1:3121,skill_2:1741,team_energy:277,dx:1281,ds:527
+12240,Orion,4*,shadow,dagger,5085,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito1][Ieyasu|Wand|Axe2],<hit15>,,attack:2489,force_strike:283,skill_1:4273,skill_2:2411,team_energy:277,dx:1774,ds:730
+8968,_c_Orion,4*,shadow,dagger,5085,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi][Agito1][Ieyasu|Wand|Axe2],!<hit15>,,attack:1813,force_strike:204,skill_1:3121,skill_2:1741,team_energy:277,dx:1281,ds:527
 -,180,affliction
-13368,Orion,4*,shadow,dagger,5297,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],<hit15 & hp100>,,attack:3057,force_strike:289,skill_1:4379,skill_2:2459,team_energy:277,dx:2159,ds:745
-10853,_c_Orion,4*,shadow,dagger,5085,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito][Ieyasu|Wand|Tiki],!<hit15 & hp100>,,attack:2473,force_strike:232,skill_1:3549,skill_2:1980,team_energy:277,dx:1738,ds:600
+13368,Orion,4*,shadow,dagger,5297,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito1][Ieyasu|Wand|Tiki],<hit15 & hp100>,,attack:3057,force_strike:289,skill_1:4379,skill_2:2459,team_energy:277,dx:2159,ds:745
+10853,_c_Orion,4*,shadow,dagger,5085,[Twinfold_Bonds+The_Fires_of_Hate][Shinobi][Agito1][Ieyasu|Wand|Tiki],!<hit15 & hp100>,,attack:2473,force_strike:232,skill_1:3549,skill_2:1980,team_energy:277,dx:1738,ds:600

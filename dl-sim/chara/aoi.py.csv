@@ -1,18 +1,18 @@
 -,60,_
-21375,Aoi,3*,flame,blade,8861,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Marth|Serena],<0 burn res & hit10 & hp50 & hp70>,72% burn uptime,attack:4942,skill_1:4932,s1_burn:911,skill_2:2925,s2_burn:653,dx:4487,ds:2522
-11884,_c_Aoi,3*,flame,blade,7928,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Marth|Serena],!<0 burn res & hit10 & hp50 & hp70>,,attack:2948,skill_1:3053,s1_burn:0,skill_2:1665,s2_burn:0,dx:2777,ds:1438
+22600,Aoi,3*,flame,blade,9369,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Wand|Marth|Serena],<0 burn res & hit10 & hp50 & hp70>,72% burn uptime,attack:5226,skill_1:5214,s1_burn:963,skill_2:3092,s2_burn:690,dx:4744,ds:2667
+12565,_c_Aoi,3*,flame,blade,8383,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Wand|Marth|Serena],!<0 burn res & hit10 & hp50 & hp70>,,attack:3117,skill_1:3228,s1_burn:0,skill_2:1760,s2_burn:0,dx:2937,ds:1521
 -,60,affliction
-22924,Aoi,3*,flame,blade,8861,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Marth|Serena],<0 burn res & hit10 & hp50 & hp70>,,attack:5216,skill_1:5482,s1_burn:1039,skill_2:2987,s2_burn:662,dx:4949,ds:2586
-15271,_c_Aoi,3*,flame,blade,7928,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Marth|Serena],!<0 burn res & hit10 & hp50 & hp70>,,attack:3788,skill_1:3924,s1_burn:0,skill_2:2139,s2_burn:0,dx:3569,ds:1848
+24238,Aoi,3*,flame,blade,9369,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Wand|Marth|Serena],<0 burn res & hit10 & hp50 & hp70>,,attack:5514,skill_1:5796,s1_burn:1098,skill_2:3158,s2_burn:700,dx:5232,ds:2734
+16146,_c_Aoi,3*,flame,blade,8383,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Wand|Marth|Serena],!<0 burn res & hit10 & hp50 & hp70>,,attack:4005,skill_1:4148,s1_burn:0,skill_2:2262,s2_burn:0,dx:3774,ds:1954
 -,120,_
-19569,Aoi,3*,flame,blade,8861,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Marth|Serena],<0 burn res & hit10 & hp50 & hp70>,74% burn uptime,attack:5796,skill_1:4832,s1_burn:923,skill_2:3100,s2_burn:591,dx:2548,ds:1775
-10805,_c_Aoi,3*,flame,blade,7928,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Marth|Serena],!<0 burn res & hit10 & hp50 & hp70>,,attack:3408,skill_1:2905,s1_burn:0,skill_2:1826,s2_burn:0,dx:1616,ds:1048
+20690,Aoi,3*,flame,blade,9369,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Wand|Marth|Serena],<0 burn res & hit10 & hp50 & hp70>,74% burn uptime,attack:6129,skill_1:5108,s1_burn:976,skill_2:3278,s2_burn:625,dx:2694,ds:1877
+11424,_c_Aoi,3*,flame,blade,8383,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Wand|Marth|Serena],!<0 burn res & hit10 & hp50 & hp70>,,attack:3603,skill_1:3072,s1_burn:0,skill_2:1930,s2_burn:0,dx:1709,ds:1108
 -,120,affliction
-21038,Aoi,3*,flame,blade,8861,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Marth|Serena],<0 burn res & hit10 & hp50 & hp70>,,attack:6111,skill_1:5239,s1_burn:1001,skill_2:3293,s2_burn:618,dx:2884,ds:1888
-13885,_c_Aoi,3*,flame,blade,7928,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Marth|Serena],!<0 burn res & hit10 & hp50 & hp70>,,attack:4380,skill_1:3734,s1_burn:0,skill_2:2346,s2_burn:0,dx:2077,ds:1346
+22244,Aoi,3*,flame,blade,9369,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Wand|Marth|Serena],<0 burn res & hit10 & hp50 & hp70>,,attack:6462,skill_1:5540,s1_burn:1059,skill_2:3482,s2_burn:653,dx:3049,ds:1997
+14680,_c_Aoi,3*,flame,blade,8383,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Wand|Marth|Serena],!<0 burn res & hit10 & hp50 & hp70>,,attack:4631,skill_1:3948,s1_burn:0,skill_2:2481,s2_burn:0,dx:2196,ds:1423
 -,180,_
-19106,Aoi,3*,flame,blade,8861,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Marth|Serena],<0 burn res & hit10 & hp50 & hp70>,66% burn uptime,attack:5765,skill_1:4991,s1_burn:789,skill_2:2851,s2_burn:488,dx:2688,ds:1529
-10899,_c_Aoi,3*,flame,blade,7928,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Marth|Serena],!<0 burn res & hit10 & hp50 & hp70>,,attack:3435,skill_1:3032,s1_burn:0,skill_2:1708,s2_burn:0,dx:1768,ds:952
+20201,Aoi,3*,flame,blade,9369,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Wand|Marth|Serena],<0 burn res & hit10 & hp50 & hp70>,66% burn uptime,attack:6096,skill_1:5277,s1_burn:834,skill_2:3015,s2_burn:516,dx:2842,ds:1617
+11524,_c_Aoi,3*,flame,blade,8383,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Wand|Marth|Serena],!<0 burn res & hit10 & hp50 & hp70>,,attack:3632,skill_1:3206,s1_burn:0,skill_2:1806,s2_burn:0,dx:1870,ds:1007
 -,180,affliction
-20991,Aoi,3*,flame,blade,8861,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Marth|Serena],<0 burn res & hit10 & hp50 & hp70>,,attack:6182,skill_1:5477,s1_burn:860,skill_2:3086,s2_burn:519,dx:3152,ds:1712
-14006,_c_Aoi,3*,flame,blade,7928,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito][Wand|Marth|Serena],!<0 burn res & hit10 & hp50 & hp70>,,attack:4415,skill_1:3897,s1_burn:0,skill_2:2196,s2_burn:0,dx:2272,ds:1224
+22194,Aoi,3*,flame,blade,9369,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Wand|Marth|Serena],<0 burn res & hit10 & hp50 & hp70>,,attack:6537,skill_1:5791,s1_burn:909,skill_2:3263,s2_burn:549,dx:3333,ds:1810
+14808,_c_Aoi,3*,flame,blade,8383,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Wand|Marth|Serena],!<0 burn res & hit10 & hp50 & hp70>,,attack:4668,skill_1:4120,s1_burn:0,skill_2:2321,s2_burn:0,dx:2403,ds:1294
