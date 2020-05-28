@@ -1,18 +1,18 @@
 -,60,_
-23830,Halloween_Mym,5*,flame,axe,8945,[Primal_Crisis+An_Ancient_Oath][Gala_Mars][Agito2][Blade|Tiki|Serena],<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:5252,skill_1:1494,team_buff:3018,dx:10744,ds:3319
-12745,_c_Halloween_Mym,5*,flame,axe,8003,[Primal_Crisis+An_Ancient_Oath][Gala_Mars][Agito2][Blade|Tiki|Serena],!<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:3432,skill_1:1001,dx:6426,ds:1885
+23657,Halloween_Mym,5*,flame,axe,8945,[Primal_Crisis+An_Ancient_Oath][Gala_Mars][Agito2][Blade|Tiki|Serena],<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:5217,skill_1:1490,team_buff:2998,dx:10639,ds:3310
+12665,_c_Halloween_Mym,5*,flame,axe,8003,[Primal_Crisis+An_Ancient_Oath][Gala_Mars][Agito2][Blade|Tiki|Serena],!<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:3422,skill_1:998,dx:6363,ds:1880
 -,60,affliction
-26640,Halloween_Mym,5*,flame,axe,8922,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito2][Blade|Tiki|Serena],<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:6686,skill_1:1892,team_buff:3018,dx:11554,ds:3488
-14541,_c_Halloween_Mym,5*,flame,axe,7983,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito2][Blade|Tiki|Serena],!<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:4375,skill_1:1267,dx:6916,ds:1981
+26446,Halloween_Mym,5*,flame,axe,8922,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito2][Blade|Tiki|Serena],<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:6643,skill_1:1887,team_buff:2998,dx:11437,ds:3478
+14450,_c_Halloween_Mym,5*,flame,axe,7983,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito2][Blade|Tiki|Serena],!<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:4363,skill_1:1264,dx:6847,ds:1975
 -,120,_
-23658,Halloween_Mym,5*,flame,axe,8945,[Primal_Crisis+An_Ancient_Oath][Gala_Mars][Agito2][Blade|Tiki|Serena],<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:6796,skill_1:1737,team_buff:4043,dx:9231,ds:1848
-12040,_c_Halloween_Mym,5*,flame,axe,8003,[Primal_Crisis+An_Ancient_Oath][Gala_Mars][Agito2][Blade|Tiki|Serena],!<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:4210,skill_1:1164,dx:5610,ds:1054
+23400,Halloween_Mym,5*,flame,axe,8945,[Primal_Crisis+An_Ancient_Oath][Gala_Mars][Agito2][Blade|Tiki|Serena],<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:6772,skill_1:1537,team_buff:4032,dx:9212,ds:1844
+11885,_c_Halloween_Mym,5*,flame,axe,8003,[Primal_Crisis+An_Ancient_Oath][Gala_Mars][Agito2][Blade|Tiki|Serena],!<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:4202,skill_1:1031,dx:5598,ds:1052
 -,120,affliction
-26523,Halloween_Mym,5*,flame,axe,8922,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito2][Blade|Tiki|Serena],<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:8629,skill_1:2178,team_buff:4043,dx:9717,ds:1954
-13829,_c_Halloween_Mym,5*,flame,axe,7983,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito2][Blade|Tiki|Serena],!<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:5349,skill_1:1459,dx:5904,ds:1114
+26226,Halloween_Mym,5*,flame,axe,8922,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito2][Blade|Tiki|Serena],<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:8598,skill_1:1948,team_buff:4032,dx:9697,ds:1949
+13650,_c_Halloween_Mym,5*,flame,axe,7983,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito2][Blade|Tiki|Serena],!<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:5338,skill_1:1306,dx:5892,ds:1112
 -,180,_
-22302,Halloween_Mym,5*,flame,axe,8945,[Primal_Crisis+An_Ancient_Oath][Gala_Mars][Agito2][Blade|Tiki|Serena],<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:7748,skill_1:1724,team_buff:4654,dx:6749,ds:1424
-10812,_c_Halloween_Mym,5*,flame,axe,8003,[Primal_Crisis+An_Ancient_Oath][Gala_Mars][Agito2][Blade|Tiki|Serena],!<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:4739,skill_1:1157,dx:4099,ds:815
+22217,Halloween_Mym,5*,flame,axe,8945,[Primal_Crisis+An_Ancient_Oath][Gala_Mars][Agito2][Blade|Tiki|Serena],<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:7692,skill_1:1724,team_buff:4648,dx:6726,ds:1424
+10778,_c_Halloween_Mym,5*,flame,axe,8003,[Primal_Crisis+An_Ancient_Oath][Gala_Mars][Agito2][Blade|Tiki|Serena],!<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:4719,skill_1:1157,dx:4085,ds:815
 -,180,affliction
-25140,Halloween_Mym,5*,flame,axe,8922,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito2][Blade|Tiki|Serena],<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:9702,skill_1:2151,team_buff:4654,dx:7117,ds:1513
-12572,_c_Halloween_Mym,5*,flame,axe,7983,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito2][Blade|Tiki|Serena],!<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:5939,skill_1:1443,dx:4321,ds:866
+25042,Halloween_Mym,5*,flame,axe,8922,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito2][Blade|Tiki|Serena],<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:9636,skill_1:2152,team_buff:4648,dx:7090,ds:1514
+12534,_c_Halloween_Mym,5*,flame,axe,7983,[Primal_Crisis+Elegant_Escort][Gala_Mars][Agito2][Blade|Tiki|Serena],!<hit10 & hp50 & hit15 & s1 defdown for 10s & buff all team>,,attack:5916,skill_1:1443,dx:4306,ds:866
