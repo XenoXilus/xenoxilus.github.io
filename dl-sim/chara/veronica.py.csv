@@ -1,18 +1,18 @@
 -,60,_
-35645,Veronica,5*,shadow,wand,7432,Candy_Couriers,Primal_Crisis,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,<hp≤40 & hit15 & hp=40%>,last destruction team DPS not considered,attack:4523,skill_1:22829,skill_2:3550,team_energy:832,dx:968,ds:2941
-21415,_c_Veronica,5*,shadow,wand,5761,Candy_Couriers,Primal_Crisis,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,!<hp≤40 & hit15 & hp=40%>,last destruction team DPS not considered,attack:2840,skill_1:13106,skill_2:2206,team_energy:832,dx:601,ds:1828
+32077,Veronica,5*,shadow,wand,7432,Candy_Couriers,Primal_Crisis,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,<hit15 & hp=40%>,last destruction team DPS not considered,attack:3942,skill_1:20238,skill_2:3550,team_energy:832,dx:859,ds:2653
+21415,_c_Veronica,5*,shadow,wand,5761,Candy_Couriers,Primal_Crisis,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,!<hit15 & hp=40%>,last destruction team DPS not considered,attack:2840,skill_1:13106,skill_2:2206,team_energy:832,dx:601,ds:1828
 -,60,affliction
-40767,Veronica,5*,shadow,wand,7423,Candy_Couriers,The_Plaguebringer,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,<hp≤40 & hp=40%>,last destruction team DPS not considered,attack:4574,skill_1:27893,skill_2:3554,team_energy:832,dx:969,ds:2944
-29803,_c_Veronica,5*,shadow,wand,5754,Candy_Couriers,The_Plaguebringer,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,!<hp≤40 & hp=40%>,last destruction team DPS not considered,attack:3546,skill_1:19635,skill_2:2755,team_energy:832,dx:751,ds:2282
+36671,Veronica,5*,shadow,wand,7423,Candy_Couriers,The_Plaguebringer,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,<hp=40%>,last destruction team DPS not considered,attack:3986,skill_1:24781,skill_2:3554,team_energy:832,dx:860,ds:2656
+29803,_c_Veronica,5*,shadow,wand,5754,Candy_Couriers,The_Plaguebringer,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,!<hp=40%>,last destruction team DPS not considered,attack:3546,skill_1:19635,skill_2:2755,team_energy:832,dx:751,ds:2282
 -,120,_
-37767,Veronica,5*,shadow,wand,7432,Candy_Couriers,Primal_Crisis,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,<hp≤40 & hit15 & hp=40%>,last destruction team DPS not considered,attack:4901,skill_1:25010,skill_2:5303,team_energy:414,dx:482,ds:1655
-21801,_c_Veronica,5*,shadow,wand,5761,Candy_Couriers,Primal_Crisis,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,!<hp≤40 & hit15 & hp=40%>,last destruction team DPS not considered,attack:3060,skill_1:13700,skill_2:3296,team_energy:414,dx:299,ds:1028
+36245,Veronica,5*,shadow,wand,7432,Candy_Couriers,Primal_Crisis,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,<hit15 & hp=40%>,last destruction team DPS not considered,attack:4617,skill_1:23772,skill_2:5303,team_energy:414,dx:482,ds:1655
+21801,_c_Veronica,5*,shadow,wand,5761,Candy_Couriers,Primal_Crisis,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,!<hit15 & hp=40%>,last destruction team DPS not considered,attack:3060,skill_1:13700,skill_2:3296,team_energy:414,dx:299,ds:1028
 -,120,affliction
-43070,Veronica,5*,shadow,wand,7423,Candy_Couriers,The_Plaguebringer,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,<hp≤40 & hp=40%>,last destruction team DPS not considered,attack:4929,skill_1:30277,skill_2:5308,team_energy:414,dx:482,ds:1657
-30537,_c_Veronica,5*,shadow,wand,5754,Candy_Couriers,The_Plaguebringer,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,!<hp≤40 & hp=40%>,last destruction team DPS not considered,attack:3821,skill_1:20526,skill_2:4115,team_energy:414,dx:374,ds:1284
+41295,Veronica,5*,shadow,wand,7423,Candy_Couriers,The_Plaguebringer,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,<hp=40%>,last destruction team DPS not considered,attack:4641,skill_1:28790,skill_2:5308,team_energy:414,dx:482,ds:1657
+30537,_c_Veronica,5*,shadow,wand,5754,Candy_Couriers,The_Plaguebringer,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,!<hp=40%>,last destruction team DPS not considered,attack:3821,skill_1:20526,skill_2:4115,team_energy:414,dx:374,ds:1284
 -,180,_
-37319,Veronica,5*,shadow,wand,7432,Candy_Couriers,Primal_Crisis,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,<hp≤40 & hit15 & hp=40%>,last destruction team DPS not considered,attack:5035,skill_1:24392,skill_2:6180,team_energy:277,dx:323,ds:1109
-21351,_c_Veronica,5*,shadow,wand,5761,Candy_Couriers,Primal_Crisis,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,!<hp≤40 & hit15 & hp=40%>,last destruction team DPS not considered,attack:3139,skill_1:13201,skill_2:3841,team_energy:277,dx:200,ds:689
+36299,Veronica,5*,shadow,wand,7432,Candy_Couriers,Primal_Crisis,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,<hit15 & hp=40%>,last destruction team DPS not considered,attack:4844,skill_1:23562,skill_2:6180,team_energy:277,dx:323,ds:1109
+21351,_c_Veronica,5*,shadow,wand,5761,Candy_Couriers,Primal_Crisis,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,!<hit15 & hp=40%>,last destruction team DPS not considered,attack:3139,skill_1:13201,skill_2:3841,team_energy:277,dx:200,ds:689
 -,180,affliction
-42413,Veronica,5*,shadow,wand,7423,Candy_Couriers,The_Plaguebringer,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,<hp≤40 & hp=40%>,last destruction team DPS not considered,attack:5055,skill_1:29458,skill_2:6187,team_energy:277,dx:323,ds:1110
-29884,_c_Veronica,5*,shadow,wand,5754,Candy_Couriers,The_Plaguebringer,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,!<hp≤40 & hp=40%>,last destruction team DPS not considered,attack:3919,skill_1:19778,skill_2:4796,team_energy:277,dx:250,ds:860
+41224,Veronica,5*,shadow,wand,7423,Candy_Couriers,The_Plaguebringer,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,<hp=40%>,last destruction team DPS not considered,attack:4863,skill_1:28461,skill_2:6187,team_energy:277,dx:323,ds:1110
+29884,_c_Veronica,5*,shadow,wand,5754,Candy_Couriers,The_Plaguebringer,Shinobi,Agito1,Ieyasu,Curran,Berserker,Weapon,,!<hp=40%>,last destruction team DPS not considered,attack:3919,skill_1:19778,skill_2:4796,team_energy:277,dx:250,ds:860

@@ -1,18 +1,18 @@
 -,60,_
-11393,Malora,3*,light,bow,6220,Forest_Bonds,Dear_Diary,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15 & hp30 every 180s>,,attack:1839,force_strike:581,skill_1:2580,skill_2:861,skill_3:574,team_buff:936,dx:3384,ds:632
-8284,_c_Malora,3*,light,bow,6220,Forest_Bonds,Dear_Diary,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15 & hp30 every 180s>,,attack:1314,force_strike:407,skill_1:1806,skill_2:603,skill_3:402,team_buff:936,dx:2369,ds:443
+11393,Malora,3*,light,bow,6220,Forest_Bonds,Dear_Diary,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15 & hp=100%>,,attack:1839,force_strike:581,skill_1:2580,skill_2:861,skill_3:574,team_buff:936,dx:3384,ds:632
+9018,_c_Malora,3*,light,bow,6220,Forest_Bonds,Dear_Diary,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15 & hp=100%>,,attack:1446,force_strike:447,skill_1:1987,skill_2:663,skill_3:442,team_buff:936,dx:2606,ds:487
 -,60,affliction
 12334,Malora,3*,light,bow,6822,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15 & hp70 & hp100>,,attack:2152,force_strike:660,skill_1:2699,skill_2:908,skill_3:606,team_buff:788,dx:3850,ds:667
 8513,_c_Malora,3*,light,bow,6220,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15 & hp70 & hp100>,,attack:1463,force_strike:440,skill_1:1799,skill_2:605,skill_3:404,team_buff:788,dx:2566,ds:444
 -,120,_
-10815,Malora,3*,light,bow,6220,Forest_Bonds,Dear_Diary,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15 & hp30 every 180s>,,attack:1978,force_strike:694,skill_1:2614,skill_2:1086,skill_3:858,team_buff:682,dx:2262,ds:638
-7790,_c_Malora,3*,light,bow,6220,Forest_Bonds,Dear_Diary,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15 & hp30 every 180s>,,attack:1398,force_strike:485,skill_1:1830,skill_2:760,skill_3:600,team_buff:682,dx:1583,ds:447
+10815,Malora,3*,light,bow,6220,Forest_Bonds,Dear_Diary,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15 & hp=100%>,,attack:1978,force_strike:694,skill_1:2614,skill_2:1086,skill_3:858,team_buff:682,dx:2262,ds:638
+8501,_c_Malora,3*,light,bow,6220,Forest_Bonds,Dear_Diary,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15 & hp=100%>,,attack:1538,force_strike:534,skill_1:2013,skill_2:836,skill_3:660,team_buff:682,dx:1742,ds:491
 -,120,affliction
 11888,Malora,3*,light,bow,6822,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15 & hp70 & hp100>,,attack:2362,force_strike:538,skill_1:2778,skill_2:1159,skill_3:915,team_buff:651,dx:2786,ds:695
 8156,_c_Malora,3*,light,bow,6220,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15 & hp70 & hp100>,,attack:1589,force_strike:359,skill_1:1852,skill_2:772,skill_3:610,team_buff:651,dx:1857,ds:463
 -,180,_
-10633,Malora,3*,light,bow,6220,Forest_Bonds,Dear_Diary,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15 & hp30 every 180s>,,attack:1963,force_strike:587,skill_1:2607,skill_2:1015,skill_3:944,team_buff:775,dx:2303,ds:435
-7686,_c_Malora,3*,light,bow,6220,Forest_Bonds,Dear_Diary,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15 & hp30 every 180s>,,attack:1383,force_strike:411,skill_1:1825,skill_2:710,skill_3:661,team_buff:775,dx:1612,ds:304
+10633,Malora,3*,light,bow,6220,Forest_Bonds,Dear_Diary,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15 & hp=100%>,,attack:1963,force_strike:587,skill_1:2607,skill_2:1015,skill_3:944,team_buff:775,dx:2303,ds:435
+8377,_c_Malora,3*,light,bow,6220,Forest_Bonds,Dear_Diary,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15 & hp=100%>,,attack:1521,force_strike:452,skill_1:2008,skill_2:782,skill_3:727,team_buff:775,dx:1774,ds:335
 -,180,affliction
 11651,Malora,3*,light,bow,6822,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15 & hp70 & hp100>,,attack:2319,force_strike:628,skill_1:2779,skill_2:1079,skill_3:1012,team_buff:768,dx:2609,ds:453
 8033,_c_Malora,3*,light,bow,6220,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15 & hp70 & hp100>,,attack:1556,force_strike:419,skill_1:1853,skill_2:719,skill_3:674,team_buff:768,dx:1739,ds:302

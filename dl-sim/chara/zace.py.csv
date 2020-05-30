@@ -1,18 +1,18 @@
 -,60,_
-10838,Zace,3*,shadow,lance,5644,Resounding_Rendition,Beautiful_Nothingness,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<hp70>,,attack:1914,force_strike:154,skill_1:3490,skill_2:1467,team_energy:413,dx:2516,ds:880
-9548,_c_Zace,3*,shadow,lance,5210,Resounding_Rendition,Beautiful_Nothingness,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<hp70>,,attack:1677,force_strike:135,skill_1:3058,skill_2:1286,team_energy:413,dx:2205,ds:771
+10290,Zace,3*,shadow,lance,5227,Heralds_of_Hinomoto,Dear_Diary,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<hp=100%>,,attack:1686,force_strike:181,skill_1:3182,skill_2:1473,team_energy:415,dx:2523,ds:826
+10290,_c_Zace,3*,shadow,lance,5227,Heralds_of_Hinomoto,Dear_Diary,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<hp=100%>,,attack:1686,force_strike:181,skill_1:3182,skill_2:1473,team_energy:415,dx:2523,ds:826
 -,60,affliction
-13034,Zace,3*,shadow,lance,5880,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<hp70 & hp100>,,attack:2317,force_strike:187,skill_1:4225,skill_2:1776,team_energy:413,dx:3046,ds:1065
-11045,_c_Zace,3*,shadow,lance,5227,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<hp70 & hp100>,,attack:1952,force_strike:157,skill_1:3559,skill_2:1496,team_energy:413,dx:2566,ds:897
+12534,Zace,3*,shadow,lance,5880,Heralds_of_Hinomoto,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<hp100>,,attack:2069,force_strike:222,skill_1:3905,skill_2:1808,team_energy:415,dx:3097,ds:1014
+11188,_c_Zace,3*,shadow,lance,5227,Heralds_of_Hinomoto,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<hp100>,,attack:1839,force_strike:198,skill_1:3471,skill_2:1607,team_energy:415,dx:2753,ds:901
 -,120,_
-11080,Zace,3*,shadow,lance,5644,Resounding_Rendition,Beautiful_Nothingness,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<hp70>,,attack:1958,force_strike:230,skill_1:3712,skill_2:1459,team_energy:411,dx:2431,ds:875
-9760,_c_Zace,3*,shadow,lance,5210,Resounding_Rendition,Beautiful_Nothingness,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<hp70>,,attack:1716,force_strike:202,skill_1:3253,skill_2:1279,team_energy:411,dx:2130,ds:767
+10644,Zace,3*,shadow,lance,5227,Heralds_of_Hinomoto,Dear_Diary,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<hp=100%>,,attack:1769,force_strike:200,skill_1:3419,skill_2:1708,team_energy:416,dx:2301,ds:828
+10644,_c_Zace,3*,shadow,lance,5227,Heralds_of_Hinomoto,Dear_Diary,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<hp=100%>,,attack:1769,force_strike:200,skill_1:3419,skill_2:1708,team_energy:416,dx:2301,ds:828
 -,120,affliction
-13327,Zace,3*,shadow,lance,5880,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<hp70 & hp100>,,attack:2371,force_strike:279,skill_1:4494,skill_2:1767,team_energy:411,dx:2943,ds:1060
-11291,_c_Zace,3*,shadow,lance,5227,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<hp70 & hp100>,,attack:1997,force_strike:235,skill_1:3786,skill_2:1488,team_energy:411,dx:2479,ds:892
+12969,Zace,3*,shadow,lance,5880,Heralds_of_Hinomoto,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<hp100>,,attack:2172,force_strike:245,skill_1:4196,skill_2:2096,team_energy:416,dx:2824,ds:1017
+11574,_c_Zace,3*,shadow,lance,5227,Heralds_of_Hinomoto,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<hp100>,,attack:1930,force_strike:218,skill_1:3730,skill_2:1863,team_energy:416,dx:2510,ds:904
 -,180,_
-10656,Zace,3*,shadow,lance,5644,Resounding_Rendition,Beautiful_Nothingness,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<hp70>,,attack:2163,force_strike:233,skill_1:3956,skill_2:1800,team_energy:276,dx:1635,ds:589
-9372,_c_Zace,3*,shadow,lance,5210,Resounding_Rendition,Beautiful_Nothingness,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<hp70>,,attack:1896,force_strike:204,skill_1:3467,skill_2:1578,team_energy:276,dx:1433,ds:516
+10132,Zace,3*,shadow,lance,5227,Heralds_of_Hinomoto,Dear_Diary,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<hp=100%>,,attack:1980,force_strike:242,skill_1:3859,skill_2:1687,team_energy:277,dx:1532,ds:552
+10132,_c_Zace,3*,shadow,lance,5227,Heralds_of_Hinomoto,Dear_Diary,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<hp=100%>,,attack:1980,force_strike:242,skill_1:3859,skill_2:1687,team_energy:277,dx:1532,ds:552
 -,180,affliction
-12843,Zace,3*,shadow,lance,5880,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<hp70 & hp100>,,attack:2619,force_strike:282,skill_1:4790,skill_2:2180,team_energy:276,dx:1980,ds:713
-10862,_c_Zace,3*,shadow,lance,5227,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<hp70 & hp100>,,attack:2206,force_strike:237,skill_1:4034,skill_2:1836,team_energy:276,dx:1668,ds:600
+12372,Zace,3*,shadow,lance,5880,Heralds_of_Hinomoto,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<hp100>,,attack:2430,force_strike:297,skill_1:4736,skill_2:2070,team_energy:277,dx:1881,ds:677
+11028,_c_Zace,3*,shadow,lance,5227,Heralds_of_Hinomoto,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<hp100>,,attack:2160,force_strike:264,skill_1:4209,skill_2:1840,team_energy:277,dx:1672,ds:602
