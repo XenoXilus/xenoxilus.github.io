@@ -1,18 +1,18 @@
 -,60,_
-14125,Raemond,3*,light,sword,6393,The_Shining_Overlord,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit10 & hit15>,,attack:2612,force_strike:1202,skill_1:2854,skill_2:1296,skill_3:1037,team_buff:665,dx:3753,ds:702
-9951,_c_Raemond,3*,light,sword,6393,The_Shining_Overlord,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit10 & hit15>,,attack:1841,force_strike:846,skill_1:2003,skill_2:876,skill_3:701,team_buff:665,dx:2540,ds:475
+14154,Raemond,3*,light,sword,6407,The_Shining_Overlord,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit10 & hit15>,,attack:2618,force_strike:1205,skill_1:2860,skill_2:1299,skill_3:1040,team_buff:665,dx:3761,ds:703
+9970,_c_Raemond,3*,light,sword,6407,The_Shining_Overlord,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit10 & hit15>,,attack:1845,force_strike:848,skill_1:2007,skill_2:878,skill_3:702,team_buff:665,dx:2546,ds:476
 -,60,affliction
-15642,Raemond,3*,light,sword,7031,The_Shining_Overlord,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit10 & hit15 & hp100>,,attack:2933,force_strike:1350,skill_1:3210,skill_2:1428,skill_3:1143,team_buff:665,dx:4136,ds:773
-11837,_c_Raemond,3*,light,sword,6410,The_Shining_Overlord,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit10 & hit15 & hp100>,,attack:2215,force_strike:1019,skill_1:2410,skill_2:1054,skill_3:843,team_buff:665,dx:3057,ds:571
+15674,Raemond,3*,light,sword,7046,The_Shining_Overlord,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit10 & hit15 & hp100>,,attack:2939,force_strike:1353,skill_1:3217,skill_2:1431,skill_3:1146,team_buff:665,dx:4145,ds:775
+11861,_c_Raemond,3*,light,sword,6424,The_Shining_Overlord,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit10 & hit15 & hp100>,,attack:2220,force_strike:1021,skill_1:2415,skill_2:1056,skill_3:845,team_buff:665,dx:3063,ds:572
 -,120,_
-14369,Raemond,3*,light,sword,6393,The_Shining_Overlord,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit10 & hit15>,,attack:2649,force_strike:1199,skill_1:2907,skill_2:1283,skill_3:1036,team_buff:664,dx:3897,ds:729
-10030,_c_Raemond,3*,light,sword,6393,The_Shining_Overlord,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit10 & hit15>,,attack:1827,force_strike:827,skill_1:2001,skill_2:867,skill_3:700,team_buff:664,dx:2646,ds:494
+14398,Raemond,3*,light,sword,6407,The_Shining_Overlord,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit10 & hit15>,,attack:2654,force_strike:1202,skill_1:2913,skill_2:1286,skill_3:1039,team_buff:664,dx:3906,ds:730
+10050,_c_Raemond,3*,light,sword,6407,The_Shining_Overlord,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit10 & hit15>,,attack:1831,force_strike:829,skill_1:2005,skill_2:868,skill_3:701,team_buff:664,dx:2651,ds:495
 -,120,affliction
-15838,Raemond,3*,light,sword,7031,The_Shining_Overlord,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit10 & hit15 & hp100>,,attack:2946,force_strike:1334,skill_1:3236,skill_2:1414,skill_3:1142,team_buff:664,dx:4295,ds:803
-11933,_c_Raemond,3*,light,sword,6410,The_Shining_Overlord,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit10 & hit15 & hp100>,,attack:2199,force_strike:995,skill_1:2408,skill_2:1043,skill_3:842,team_buff:664,dx:3183,ds:595
+15871,Raemond,3*,light,sword,7046,The_Shining_Overlord,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit10 & hit15 & hp100>,,attack:2952,force_strike:1337,skill_1:3243,skill_2:1417,skill_3:1144,team_buff:664,dx:4304,ds:805
+11957,_c_Raemond,3*,light,sword,6424,The_Shining_Overlord,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit10 & hit15 & hp100>,,attack:2203,force_strike:997,skill_1:2413,skill_2:1045,skill_3:844,team_buff:664,dx:3190,ds:596
 -,180,_
-13791,Raemond,3*,light,sword,6393,The_Shining_Overlord,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit10 & hit15>,,attack:2878,force_strike:1311,skill_1:3267,skill_2:1588,skill_3:1208,team_buff:444,dx:2605,ds:487
-9538,_c_Raemond,3*,light,sword,6393,The_Shining_Overlord,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit10 & hit15>,,attack:1971,force_strike:897,skill_1:2234,skill_2:1073,skill_3:815,team_buff:444,dx:1768,ds:330
+13820,Raemond,3*,light,sword,6407,The_Shining_Overlord,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit10 & hit15>,,attack:2884,force_strike:1314,skill_1:3274,skill_2:1591,skill_3:1210,team_buff:444,dx:2610,ds:488
+9557,_c_Raemond,3*,light,sword,6407,The_Shining_Overlord,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit10 & hit15>,,attack:1975,force_strike:899,skill_1:2239,skill_2:1075,skill_3:817,team_buff:444,dx:1772,ds:331
 -,180,affliction
-15201,Raemond,3*,light,sword,7031,The_Shining_Overlord,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit10 & hit15 & hp100>,,attack:3190,force_strike:1453,skill_1:3622,skill_2:1750,skill_3:1331,team_buff:444,dx:2870,ds:536
-11385,_c_Raemond,3*,light,sword,6410,The_Shining_Overlord,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit10 & hit15 & hp100>,,attack:2372,force_strike:1080,skill_1:2689,skill_2:1291,skill_3:981,team_buff:444,dx:2127,ds:397
+15232,Raemond,3*,light,sword,7046,The_Shining_Overlord,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit10 & hit15 & hp100>,,attack:3197,force_strike:1456,skill_1:3630,skill_2:1753,skill_3:1334,team_buff:444,dx:2877,ds:538
+11409,_c_Raemond,3*,light,sword,6424,The_Shining_Overlord,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit10 & hit15 & hp100>,,attack:2377,force_strike:1082,skill_1:2694,skill_2:1294,skill_3:983,team_buff:444,dx:2132,ds:398

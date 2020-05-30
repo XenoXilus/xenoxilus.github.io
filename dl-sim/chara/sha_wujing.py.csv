@@ -1,18 +1,18 @@
 -,60,_
-14801,Sha_Wujing,4*,light,lance,6611,Dragon_and_Tamer,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & s2 defdown for 10s>,,attack:3300,force_strike:365,skill_1:3768,team_buff:2396,dx:4023,ds:946
-9632,_c_Sha_Wujing,4*,light,lance,6611,Dragon_and_Tamer,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & s2 defdown for 10s>,,attack:2378,force_strike:269,skill_1:2646,team_buff:1098,dx:2654,ds:585
+14830,Sha_Wujing,4*,light,lance,6627,Dragon_and_Tamer,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & s2 defdown for 10s>,,attack:3308,force_strike:366,skill_1:3777,team_buff:2396,dx:4032,ds:948
+9652,_c_Sha_Wujing,4*,light,lance,6627,Dragon_and_Tamer,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & s2 defdown for 10s>,,attack:2383,force_strike:269,skill_1:2652,team_buff:1098,dx:2660,ds:587
 -,60,affliction
-16473,Sha_Wujing,4*,light,lance,7283,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70 & hp100 & s2 defdown for 10s>,,attack:3886,force_strike:435,skill_1:4062,team_buff:2396,dx:4670,ds:1020
-11106,_c_Sha_Wujing,4*,light,lance,6640,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70 & hp100 & s2 defdown for 10s>,,attack:2866,force_strike:324,skill_1:2961,team_buff:1098,dx:3199,ds:655
+16505,Sha_Wujing,4*,light,lance,7300,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70 & hp100 & s2 defdown for 10s>,,attack:3895,force_strike:436,skill_1:4071,team_buff:2396,dx:4681,ds:1022
+11129,_c_Sha_Wujing,4*,light,lance,6656,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70 & hp100 & s2 defdown for 10s>,,attack:2873,force_strike:325,skill_1:2968,team_buff:1098,dx:3206,ds:657
 -,120,_
-14990,Sha_Wujing,4*,light,lance,6611,Dragon_and_Tamer,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & s2 defdown for 10s>,,attack:3627,force_strike:432,skill_1:3970,team_buff:2956,dx:2993,ds:1012
-9125,_c_Sha_Wujing,4*,light,lance,6611,Dragon_and_Tamer,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & s2 defdown for 10s>,,attack:2498,force_strike:301,skill_1:2710,team_buff:1067,dx:1925,ds:620
+15018,Sha_Wujing,4*,light,lance,6627,Dragon_and_Tamer,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & s2 defdown for 10s>,,attack:3635,force_strike:433,skill_1:3979,team_buff:2956,dx:2999,ds:1014
+9143,_c_Sha_Wujing,4*,light,lance,6627,Dragon_and_Tamer,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & s2 defdown for 10s>,,attack:2504,force_strike:302,skill_1:2717,team_buff:1067,dx:1929,ds:621
 -,120,affliction
-16547,Sha_Wujing,4*,light,lance,7283,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70 & hp100 & s2 defdown for 10s>,,attack:4238,force_strike:507,skill_1:4279,team_buff:2956,dx:3474,ds:1090
-10492,_c_Sha_Wujing,4*,light,lance,6640,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70 & hp100 & s2 defdown for 10s>,,attack:3011,force_strike:363,skill_1:3034,team_buff:1067,dx:2320,ds:694
+16578,Sha_Wujing,4*,light,lance,7300,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70 & hp100 & s2 defdown for 10s>,,attack:4248,force_strike:508,skill_1:4289,team_buff:2956,dx:3482,ds:1093
+10513,_c_Sha_Wujing,4*,light,lance,6656,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70 & hp100 & s2 defdown for 10s>,,attack:3018,force_strike:364,skill_1:3041,team_buff:1067,dx:2325,ds:695
 -,180,_
-14692,Sha_Wujing,4*,light,lance,6611,Dragon_and_Tamer,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & s2 defdown for 10s>,,attack:3772,force_strike:453,skill_1:4049,team_buff:3023,dx:2737,ds:655
-8905,_c_Sha_Wujing,4*,light,lance,6611,Dragon_and_Tamer,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & s2 defdown for 10s>,,attack:2567,force_strike:311,skill_1:2743,team_buff:1079,dx:1801,ds:403
+14719,Sha_Wujing,4*,light,lance,6627,Dragon_and_Tamer,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & s2 defdown for 10s>,,attack:3781,force_strike:454,skill_1:4059,team_buff:3023,dx:2743,ds:656
+8924,_c_Sha_Wujing,4*,light,lance,6627,Dragon_and_Tamer,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & s2 defdown for 10s>,,attack:2573,force_strike:311,skill_1:2749,team_buff:1079,dx:1805,ds:404
 -,180,affliction
-16201,Sha_Wujing,4*,light,lance,7283,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70 & hp100 & s2 defdown for 10s>,,attack:4397,force_strike:530,skill_1:4365,team_buff:3023,dx:3177,ds:706
-10241,_c_Sha_Wujing,4*,light,lance,6640,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70 & hp100 & s2 defdown for 10s>,,attack:3094,force_strike:374,skill_1:3070,team_buff:1079,dx:2170,ds:451
+16232,Sha_Wujing,4*,light,lance,7300,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70 & hp100 & s2 defdown for 10s>,,attack:4407,force_strike:531,skill_1:4375,team_buff:3023,dx:3185,ds:708
+10262,_c_Sha_Wujing,4*,light,lance,6656,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70 & hp100 & s2 defdown for 10s>,,attack:3101,force_strike:375,skill_1:3077,team_buff:1079,dx:2175,ds:452

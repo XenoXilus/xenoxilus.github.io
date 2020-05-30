@@ -1,18 +1,18 @@
 -,60,_
-11628,Malka,3*,light,lance,6547,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70>,,attack:2409,force_strike:266,skill_1:2428,skill_3:1116,team_buff:1176,dx:3570,ds:660
-8626,_c_Malka,3*,light,lance,6547,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70>,,attack:1756,force_strike:199,skill_1:1715,skill_3:788,team_buff:1176,dx:2522,ds:466
+11652,Malka,3*,light,lance,6562,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70>,,attack:2414,force_strike:267,skill_1:2433,skill_3:1118,team_buff:1176,dx:3578,ds:662
+8643,_c_Malka,3*,light,lance,6562,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70>,,attack:1760,force_strike:200,skill_1:1719,skill_3:790,team_buff:1176,dx:2528,ds:467
 -,60,affliction
-12945,Malka,3*,light,lance,7180,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70 & hp100>,,attack:2739,force_strike:307,skill_1:2723,skill_3:1252,team_buff:1176,dx:4005,ds:741
-10116,_c_Malka,3*,light,lance,6547,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70 & hp100>,,attack:2107,force_strike:239,skill_1:2058,skill_3:946,team_buff:1176,dx:3027,ds:560
+12973,Malka,3*,light,lance,7197,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70 & hp100>,,attack:2745,force_strike:307,skill_1:2730,skill_3:1255,team_buff:1176,dx:4014,ds:742
+10137,_c_Malka,3*,light,lance,6562,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70 & hp100>,,attack:2112,force_strike:240,skill_1:2063,skill_3:948,team_buff:1176,dx:3034,ds:561
 -,120,_
-11311,Malka,3*,light,lance,6547,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70>,,attack:2733,force_strike:361,skill_1:2697,skill_3:1121,team_buff:1331,dx:2462,ds:603
-8415,_c_Malka,3*,light,lance,6547,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70>,,attack:1958,force_strike:261,skill_1:1905,skill_3:792,team_buff:1331,dx:1740,ds:426
+11335,Malka,3*,light,lance,6562,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70>,,attack:2739,force_strike:362,skill_1:2703,skill_3:1124,team_buff:1331,dx:2468,ds:604
+8432,_c_Malka,3*,light,lance,6562,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70>,,attack:1962,force_strike:261,skill_1:1910,skill_3:794,team_buff:1331,dx:1744,ds:427
 -,120,affliction
-12549,Malka,3*,light,lance,7180,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70 & hp100>,,attack:3084,force_strike:409,skill_1:3026,skill_3:1258,team_buff:1331,dx:2762,ds:676
-9832,_c_Malka,3*,light,lance,6547,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70 & hp100>,,attack:2349,force_strike:313,skill_1:2287,skill_3:950,team_buff:1331,dx:2088,ds:511
+12575,Malka,3*,light,lance,7197,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70 & hp100>,,attack:3091,force_strike:410,skill_1:3033,skill_3:1261,team_buff:1331,dx:2769,ds:678
+9852,_c_Malka,3*,light,lance,6562,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70 & hp100>,,attack:2355,force_strike:313,skill_1:2292,skill_3:953,team_buff:1331,dx:2092,ds:512
 -,180,_
-11714,Malka,3*,light,lance,6547,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70>,,attack:2761,force_strike:369,skill_1:2817,skill_3:1292,team_buff:1629,dx:2419,ds:422
-8776,_c_Malka,3*,light,lance,6547,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70>,,attack:1969,force_strike:264,skill_1:1991,skill_3:913,team_buff:1629,dx:1709,ds:298
+11737,Malka,3*,light,lance,6562,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70>,,attack:2768,force_strike:370,skill_1:2824,skill_3:1295,team_buff:1629,dx:2425,ds:423
+8793,_c_Malka,3*,light,lance,6562,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70>,,attack:1973,force_strike:265,skill_1:1995,skill_3:915,team_buff:1629,dx:1713,ds:299
 -,180,affliction
-12957,Malka,3*,light,lance,7180,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70 & hp100>,,attack:3110,force_strike:416,skill_1:3161,skill_3:1450,team_buff:1629,dx:2714,ds:474
-10206,_c_Malka,3*,light,lance,6547,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70 & hp100>,,attack:2363,force_strike:317,skill_1:2389,skill_3:1096,team_buff:1629,dx:2051,ds:358
+12983,Malka,3*,light,lance,7197,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70 & hp100>,,attack:3117,force_strike:417,skill_1:3168,skill_3:1453,team_buff:1629,dx:2721,ds:475
+10226,_c_Malka,3*,light,lance,6562,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70 & hp100>,,attack:2368,force_strike:318,skill_1:2394,skill_3:1098,team_buff:1629,dx:2056,ds:359

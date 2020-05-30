@@ -1,18 +1,18 @@
 -,60,_
-17796,Gala_Mym,5*,flame,lance,8867,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,,<hit10 & hp50 & hp70>,,attack:2544,force_strike:356,skill_1:4900,skill_2:782,s2_boost:393,dx:5954,ds:2863
-13977,_c_Gala_Mym,5*,flame,lance,7934,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,,!<hit10 & hp50 & hp70>,,attack:1994,force_strike:275,skill_1:3819,skill_2:613,s2_boost:308,dx:4706,ds:2258
+18052,Gala_Mym,5*,flame,lance,8995,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,,<hit10 & hp50 & hp70>,,attack:2581,force_strike:361,skill_1:4971,skill_2:794,s2_boost:398,dx:6040,ds:2904
+14178,_c_Gala_Mym,5*,flame,lance,8048,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,,!<hit10 & hp50 & hp70>,,attack:2022,force_strike:279,skill_1:3874,skill_2:621,s2_boost:312,dx:4774,ds:2291
 -,60,affliction
-19827,Gala_Mym,5*,flame,lance,8844,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,,<hp50 & hp70>,,attack:3160,force_strike:522,skill_1:4362,skill_2:1580,s2_boost:441,dx:6664,ds:3095
-16985,_c_Gala_Mym,5*,flame,lance,7913,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,,!<hp50 & hp70>,,attack:2700,force_strike:445,skill_1:3733,skill_2:1351,s2_boost:378,dx:5718,ds:2656
+20113,Gala_Mym,5*,flame,lance,8972,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,,<hp50 & hp70>,,attack:3206,force_strike:529,skill_1:4425,skill_2:1603,s2_boost:447,dx:6760,ds:3140
+17230,_c_Gala_Mym,5*,flame,lance,8027,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,,!<hp50 & hp70>,,attack:2739,force_strike:452,skill_1:3786,skill_2:1370,s2_boost:384,dx:5801,ds:2694
 -,120,_
-20092,Gala_Mym,5*,flame,lance,8867,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,,<hit10 & hp50 & hp70>,,attack:3081,force_strike:443,skill_1:5503,skill_2:1763,s2_boost:735,dx:5958,ds:2606
-15883,_c_Gala_Mym,5*,flame,lance,7934,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,,!<hit10 & hp50 & hp70>,,attack:2422,force_strike:346,skill_1:4324,skill_2:1391,s2_boost:583,dx:4743,ds:2071
+20381,Gala_Mym,5*,flame,lance,8995,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,,<hit10 & hp50 & hp70>,,attack:3126,force_strike:449,skill_1:5582,skill_2:1788,s2_boost:745,dx:6043,ds:2644
+16112,_c_Gala_Mym,5*,flame,lance,8048,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,,!<hit10 & hp50 & hp70>,,attack:2457,force_strike:351,skill_1:4386,skill_2:1411,s2_boost:591,dx:4811,ds:2100
 -,120,affliction
-21851,Gala_Mym,5*,flame,lance,8844,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,,<hp50 & hp70>,,attack:3874,force_strike:591,skill_1:5774,skill_2:1800,s2_boost:727,dx:6352,ds:2729
-18726,_c_Gala_Mym,5*,flame,lance,7913,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,,!<hp50 & hp70>,,attack:3315,force_strike:506,skill_1:4944,skill_2:1542,s2_boost:624,dx:5450,ds:2342
+22166,Gala_Mym,5*,flame,lance,8972,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,,<hp50 & hp70>,,attack:3930,force_strike:600,skill_1:5858,skill_2:1826,s2_boost:738,dx:6443,ds:2769
+18996,_c_Gala_Mym,5*,flame,lance,8027,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,,!<hp50 & hp70>,,attack:3363,force_strike:513,skill_1:5015,skill_2:1564,s2_boost:633,dx:5529,ds:2376
 -,180,_
-21564,Gala_Mym,5*,flame,lance,8867,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,,<hit10 & hp50 & hp70>,,attack:3390,force_strike:540,skill_1:6002,skill_2:2155,s2_boost:982,dx:5968,ds:2524
-17103,_c_Gala_Mym,5*,flame,lance,7934,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,,!<hit10 & hp50 & hp70>,,attack:2676,force_strike:425,skill_1:4741,skill_2:1705,s2_boost:779,dx:4762,ds:2011
+21874,Gala_Mym,5*,flame,lance,8995,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,,<hit10 & hp50 & hp70>,,attack:3438,force_strike:548,skill_1:6089,skill_2:2186,s2_boost:996,dx:6054,ds:2561
+17349,_c_Gala_Mym,5*,flame,lance,8048,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,,!<hit10 & hp50 & hp70>,,attack:2715,force_strike:431,skill_1:4809,skill_2:1729,s2_boost:790,dx:4831,ds:2040
 -,180,affliction
-23869,Gala_Mym,5*,flame,lance,8844,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,,<hp50 & hp70>,,attack:4148,force_strike:635,skill_1:6215,skill_2:2527,s2_boost:1033,dx:6703,ds:2604
-20461,_c_Gala_Mym,5*,flame,lance,7913,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,,!<hp50 & hp70>,,attack:3552,force_strike:543,skill_1:5323,skill_2:2165,s2_boost:887,dx:5752,ds:2234
+24213,Gala_Mym,5*,flame,lance,8972,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,,<hp50 & hp70>,,attack:4208,force_strike:644,skill_1:6304,skill_2:2564,s2_boost:1048,dx:6800,ds:2642
+20755,_c_Gala_Mym,5*,flame,lance,8027,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,,!<hp50 & hp70>,,attack:3603,force_strike:551,skill_1:5400,skill_2:2196,s2_boost:899,dx:5835,ds:2267

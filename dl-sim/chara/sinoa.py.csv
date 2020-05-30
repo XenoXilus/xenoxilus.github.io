@@ -1,18 +1,18 @@
 -,60,_
-17152,Sinoa,4*,flame,wand,8828,Candy_Couriers,Primal_Crisis,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,<hp100 & hit10 & hp50 & hit15 & always connect hits>,,attack:4550,skill_2:3369,team_buff:2104,dx:4794,ds:2332
-11740,_c_Sinoa,4*,flame,wand,7393,Candy_Couriers,Primal_Crisis,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,!<hp100 & hit10 & hp50 & hit15 & always connect hits>,,attack:3020,skill_2:1933,team_buff:2104,dx:3155,ds:1525
+17360,Sinoa,4*,flame,wand,8951,Candy_Couriers,Primal_Crisis,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,<hp100 & hit10 & hp50 & hit15 & always connect hits>,,attack:4613,skill_2:3416,team_buff:2104,dx:4861,ds:2364
+11873,_c_Sinoa,4*,flame,wand,7495,Candy_Couriers,Primal_Crisis,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,!<hp100 & hit10 & hp50 & hit15 & always connect hits>,,attack:3062,skill_2:1960,team_buff:2104,dx:3199,ds:1546
 -,60,affliction
-18865,Sinoa,4*,flame,wand,8826,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,<hp100 & hit10 & hp50 & always connect hits>,,attack:5117,skill_2:3739,team_buff:2104,dx:5315,ds:2588
-14627,_c_Sinoa,4*,flame,wand,7391,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,!<hp100 & hit10 & hp50 & always connect hits>,,attack:3925,skill_2:2513,team_buff:2104,dx:4101,ds:1982
+19097,Sinoa,4*,flame,wand,8948,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,<hp100 & hit10 & hp50 & always connect hits>,,attack:5188,skill_2:3790,team_buff:2104,dx:5389,ds:2623
+14800,_c_Sinoa,4*,flame,wand,7494,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,!<hp100 & hit10 & hp50 & always connect hits>,,attack:3979,skill_2:2547,team_buff:2104,dx:4157,ds:2009
 -,120,_
-17391,Sinoa,4*,flame,wand,8828,Candy_Couriers,Primal_Crisis,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,<hp100 & hit10 & hp50 & hit15 & always connect hits>,,attack:5083,skill_2:3274,team_buff:2697,dx:3972,ds:2364
-12121,_c_Sinoa,4*,flame,wand,7393,Candy_Couriers,Primal_Crisis,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,!<hp100 & hit10 & hp50 & hit15 & always connect hits>,,attack:3339,skill_2:1924,team_buff:2697,dx:2612,ds:1546
+17595,Sinoa,4*,flame,wand,8951,Candy_Couriers,Primal_Crisis,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,<hp100 & hit10 & hp50 & hit15 & always connect hits>,,attack:5154,skill_2:3319,team_buff:2697,dx:4027,ds:2396
+12251,_c_Sinoa,4*,flame,wand,7495,Candy_Couriers,Primal_Crisis,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,!<hp100 & hit10 & hp50 & hit15 & always connect hits>,,attack:3385,skill_2:1951,team_buff:2697,dx:2648,ds:1568
 -,120,affliction
-19038,Sinoa,4*,flame,wand,8826,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,<hp100 & hit10 & hp50 & always connect hits>,,attack:5675,skill_2:3633,team_buff:2697,dx:4405,ds:2624
-14945,_c_Sinoa,4*,flame,wand,7391,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,!<hp100 & hit10 & hp50 & always connect hits>,,attack:4340,skill_2:2501,team_buff:2697,dx:3395,ds:2010
+19264,Sinoa,4*,flame,wand,8948,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,<hp100 & hit10 & hp50 & always connect hits>,,attack:5754,skill_2:3683,team_buff:2697,dx:4466,ds:2661
+15114,_c_Sinoa,4*,flame,wand,7494,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,!<hp100 & hit10 & hp50 & always connect hits>,,attack:4400,skill_2:2535,team_buff:2697,dx:3442,ds:2038
 -,180,_
-17014,Sinoa,4*,flame,wand,8828,Candy_Couriers,Primal_Crisis,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,<hp100 & hit10 & hp50 & hit15 & always connect hits>,,attack:5420,skill_2:3796,team_buff:2765,dx:3205,ds:1825
-11782,_c_Sinoa,4*,flame,wand,7393,Candy_Couriers,Primal_Crisis,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,!<hp100 & hit10 & hp50 & hit15 & always connect hits>,,attack:3550,skill_2:2336,team_buff:2765,dx:2109,ds:1019
+17211,Sinoa,4*,flame,wand,8951,Candy_Couriers,Primal_Crisis,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,<hp100 & hit10 & hp50 & hit15 & always connect hits>,,attack:5495,skill_2:3848,team_buff:2765,dx:3250,ds:1850
+11907,_c_Sinoa,4*,flame,wand,7495,Candy_Couriers,Primal_Crisis,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,!<hp100 & hit10 & hp50 & hit15 & always connect hits>,,attack:3599,skill_2:2369,team_buff:2765,dx:2139,ds:1034
 -,180,affliction
-18597,Sinoa,4*,flame,wand,8826,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,<hp100 & hit10 & hp50 & always connect hits>,,attack:6039,skill_2:4212,team_buff:2765,dx:3554,ds:2025
-14484,_c_Sinoa,4*,flame,wand,7391,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,!<hp100 & hit10 & hp50 & always connect hits>,,attack:4613,skill_2:3037,team_buff:2765,dx:2742,ds:1325
+18816,Sinoa,4*,flame,wand,8948,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,<hp100 & hit10 & hp50 & always connect hits>,,attack:6122,skill_2:4271,team_buff:2765,dx:3603,ds:2053
+14647,_c_Sinoa,4*,flame,wand,7494,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Tiki,Gala_Sarisse,Marth,Weapon,,!<hp100 & hit10 & hp50 & always connect hits>,,attack:4677,skill_2:3079,team_buff:2765,dx:2780,ds:1343
