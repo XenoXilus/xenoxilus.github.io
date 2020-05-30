@@ -1,18 +1,18 @@
 -,60,_
-15837,Odetta,4*,light,sword,7175,[The_Shining_Overlord+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],<buff all team & hp70 & hp60 & hit15>,c2+fs,attack:2408,force_strike:1786,skill_1:2729,skill_3:1233,team_buff:2590,dx:4255,ds:832
-10000,_c_Odetta,4*,light,sword,6419,[The_Shining_Overlord+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],!<buff all team & hp70 & hp60 & hit15>,c2+fs,attack:1650,force_strike:1224,skill_1:1884,skill_3:820,team_buff:1040,dx:2823,ds:554
+15837,Odetta,4*,light,sword,7175,The_Shining_Overlord,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<buff all team & hp70 & hp60 & hit15>,c2+fs,attack:2408,force_strike:1786,skill_1:2729,skill_3:1233,team_buff:2590,dx:4255,ds:832
+10000,_c_Odetta,4*,light,sword,6419,The_Shining_Overlord,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<buff all team & hp70 & hp60 & hit15>,c2+fs,attack:1650,force_strike:1224,skill_1:1884,skill_3:820,team_buff:1040,dx:2823,ds:554
 -,60,affliction
-17353,Odetta,4*,light,sword,7848,[The_Shining_Overlord+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<buff all team & hp70 & hp60 & hit15 & hp100>,c2+fs,attack:2704,force_strike:2006,skill_1:3075,skill_3:1361,team_buff:2590,dx:4695,ds:918
-11820,_c_Odetta,4*,light,sword,6436,[The_Shining_Overlord+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<buff all team & hp70 & hp60 & hit15 & hp100>,c2+fs,attack:1986,force_strike:1473,skill_1:2267,skill_3:987,team_buff:1040,dx:3397,ds:666
+17353,Odetta,4*,light,sword,7848,The_Shining_Overlord,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<buff all team & hp70 & hp60 & hit15 & hp100>,c2+fs,attack:2704,force_strike:2006,skill_1:3075,skill_3:1361,team_buff:2590,dx:4695,ds:918
+11820,_c_Odetta,4*,light,sword,6436,The_Shining_Overlord,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<buff all team & hp70 & hp60 & hit15 & hp100>,c2+fs,attack:1986,force_strike:1473,skill_1:2267,skill_3:987,team_buff:1040,dx:3397,ds:666
 -,120,_
-17751,Odetta,4*,light,sword,7175,[The_Shining_Overlord+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],<buff all team & hp70 & hp60 & hit15>,c2+fs,attack:2461,force_strike:1770,skill_1:3078,skill_3:1557,team_buff:3523,dx:4493,ds:866
-10677,_c_Odetta,4*,light,sword,6419,[The_Shining_Overlord+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],!<buff all team & hp70 & hp60 & hit15>,c2+fs,attack:1661,force_strike:1195,skill_1:2080,skill_3:1036,team_buff:1132,dx:2993,ds:577
+17751,Odetta,4*,light,sword,7175,The_Shining_Overlord,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<buff all team & hp70 & hp60 & hit15>,c2+fs,attack:2461,force_strike:1770,skill_1:3078,skill_3:1557,team_buff:3523,dx:4493,ds:866
+10677,_c_Odetta,4*,light,sword,6419,The_Shining_Overlord,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<buff all team & hp70 & hp60 & hit15>,c2+fs,attack:1661,force_strike:1195,skill_1:2080,skill_3:1036,team_buff:1132,dx:2993,ds:577
 -,120,affliction
-19294,Odetta,4*,light,sword,7848,[The_Shining_Overlord+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<buff all team & hp70 & hp60 & hit15 & hp100>,c2+fs,attack:2739,force_strike:1970,skill_1:3428,skill_3:1718,team_buff:3523,dx:4957,ds:955
-12616,_c_Odetta,4*,light,sword,6436,[The_Shining_Overlord+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<buff all team & hp70 & hp60 & hit15 & hp100>,c2+fs,attack:1998,force_strike:1437,skill_1:2503,skill_3:1246,team_buff:1132,dx:3602,ds:694
+19294,Odetta,4*,light,sword,7848,The_Shining_Overlord,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<buff all team & hp70 & hp60 & hit15 & hp100>,c2+fs,attack:2739,force_strike:1970,skill_1:3428,skill_3:1718,team_buff:3523,dx:4957,ds:955
+12616,_c_Odetta,4*,light,sword,6436,The_Shining_Overlord,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<buff all team & hp70 & hp60 & hit15 & hp100>,c2+fs,attack:1998,force_strike:1437,skill_1:2503,skill_3:1246,team_buff:1132,dx:3602,ds:694
 -,180,_
-17063,Odetta,4*,light,sword,7175,[The_Shining_Overlord+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],<buff all team & hp70 & hp60 & hit15>,c2+fs,attack:2763,force_strike:2035,skill_1:3564,skill_3:1671,team_buff:3494,dx:2956,ds:577
-10035,_c_Odetta,4*,light,sword,6419,[The_Shining_Overlord+Primal_Crisis][Daikokuten][HDT2][Blade|Dagger|Peony],!<buff all team & hp70 & hp60 & hit15>,c2+fs,attack:1854,force_strike:1366,skill_1:2392,skill_3:1112,team_buff:955,dx:1968,ds:384
+17063,Odetta,4*,light,sword,7175,The_Shining_Overlord,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<buff all team & hp70 & hp60 & hit15>,c2+fs,attack:2763,force_strike:2035,skill_1:3564,skill_3:1671,team_buff:3494,dx:2956,ds:577
+10035,_c_Odetta,4*,light,sword,6419,The_Shining_Overlord,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<buff all team & hp70 & hp60 & hit15>,c2+fs,attack:1854,force_strike:1366,skill_1:2392,skill_3:1112,team_buff:955,dx:1968,ds:384
 -,180,affliction
-18514,Odetta,4*,light,sword,7848,[The_Shining_Overlord+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<buff all team & hp70 & hp60 & hit15 & hp100>,c2+fs,attack:3064,force_strike:2258,skill_1:3953,skill_3:1843,team_buff:3494,dx:3262,ds:636
-11879,_c_Odetta,4*,light,sword,6436,[The_Shining_Overlord+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<buff all team & hp70 & hp60 & hit15 & hp100>,c2+fs,attack:2231,force_strike:1643,skill_1:2879,skill_3:1337,team_buff:955,dx:2368,ds:463
+18514,Odetta,4*,light,sword,7848,The_Shining_Overlord,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<buff all team & hp70 & hp60 & hit15 & hp100>,c2+fs,attack:3064,force_strike:2258,skill_1:3953,skill_3:1843,team_buff:3494,dx:3262,ds:636
+11879,_c_Odetta,4*,light,sword,6436,The_Shining_Overlord,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<buff all team & hp70 & hp60 & hit15 & hp100>,c2+fs,attack:2231,force_strike:1643,skill_1:2879,skill_3:1337,team_buff:955,dx:2368,ds:463

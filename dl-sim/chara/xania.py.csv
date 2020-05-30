@@ -1,18 +1,18 @@
 -,60,_
-23922,Xania,3*,flame,wand,9525,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Joe],<0 burn res & hit10 & hp50>,80% burn uptime,attack:4699,skill_1:5821,s1_burn:1342,skill_2:4129,s2_burn:673,dx:4099,ds:3155
-14458,_c_Xania,3*,flame,wand,8522,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Joe],!<0 burn res & hit10 & hp50>,,attack:3048,skill_1:4013,s1_burn:0,skill_2:2589,s2_burn:0,dx:2832,ds:1974
+23922,Xania,3*,flame,wand,9525,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Joe,Weapon,,<0 burn res & hit10 & hp50>,80% burn uptime,attack:4699,skill_1:5821,s1_burn:1342,skill_2:4129,s2_burn:673,dx:4099,ds:3155
+14458,_c_Xania,3*,flame,wand,8522,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Joe,Weapon,,!<0 burn res & hit10 & hp50>,,attack:3048,skill_1:4013,s1_burn:0,skill_2:2589,s2_burn:0,dx:2832,ds:1974
 -,60,affliction
-25199,Xania,3*,flame,wand,9525,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Joe],<0 burn res & hit10 & hp50>,,attack:4869,skill_1:6442,s1_burn:1442,skill_2:4129,s2_burn:673,dx:4485,ds:3155
-18796,_c_Xania,3*,flame,wand,8522,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Joe],!<0 burn res & hit10 & hp50>,,attack:3962,skill_1:5217,s1_burn:0,skill_2:3366,s2_burn:0,dx:3682,ds:2566
+25199,Xania,3*,flame,wand,9525,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Joe,Weapon,,<0 burn res & hit10 & hp50>,,attack:4869,skill_1:6442,s1_burn:1442,skill_2:4129,s2_burn:673,dx:4485,ds:3155
+18796,_c_Xania,3*,flame,wand,8522,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Joe,Weapon,,!<0 burn res & hit10 & hp50>,,attack:3962,skill_1:5217,s1_burn:0,skill_2:3366,s2_burn:0,dx:3682,ds:2566
 -,120,_
-25007,Xania,3*,flame,wand,9525,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Joe],<0 burn res & hit10 & hp50>,85% burn uptime,attack:5087,skill_1:6744,s1_burn:1653,skill_2:3863,s2_burn:929,dx:3654,ds:3074
-14615,_c_Xania,3*,flame,wand,8522,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Joe],!<0 burn res & hit10 & hp50>,,attack:3244,skill_1:4404,s1_burn:0,skill_2:2461,s2_burn:0,dx:2529,ds:1975
+25007,Xania,3*,flame,wand,9525,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Joe,Weapon,,<0 burn res & hit10 & hp50>,85% burn uptime,attack:5087,skill_1:6744,s1_burn:1653,skill_2:3863,s2_burn:929,dx:3654,ds:3074
+14615,_c_Xania,3*,flame,wand,8522,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Joe,Weapon,,!<0 burn res & hit10 & hp50>,,attack:3244,skill_1:4404,s1_burn:0,skill_2:2461,s2_burn:0,dx:2529,ds:1975
 -,120,affliction
-26064,Xania,3*,flame,wand,9525,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Joe],<0 burn res & hit10 & hp50>,,attack:5197,skill_1:7072,s1_burn:1738,skill_2:3943,s2_burn:945,dx:4009,ds:3157
-18999,_c_Xania,3*,flame,wand,8522,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Joe],!<0 burn res & hit10 & hp50>,,attack:4217,skill_1:5725,s1_burn:0,skill_2:3199,s2_burn:0,dx:3288,ds:2568
+26064,Xania,3*,flame,wand,9525,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Joe,Weapon,,<0 burn res & hit10 & hp50>,,attack:5197,skill_1:7072,s1_burn:1738,skill_2:3943,s2_burn:945,dx:4009,ds:3157
+18999,_c_Xania,3*,flame,wand,8522,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Joe,Weapon,,!<0 burn res & hit10 & hp50>,,attack:4217,skill_1:5725,s1_burn:0,skill_2:3199,s2_burn:0,dx:3288,ds:2568
 -,180,_
-23818,Xania,3*,flame,wand,9525,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Joe],<0 burn res & hit10 & hp50>,75% burn uptime,attack:5419,skill_1:7702,s1_burn:1432,skill_2:4093,s2_burn:724,dx:2544,ds:1899
-14649,_c_Xania,3*,flame,wand,8522,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Joe],!<0 burn res & hit10 & hp50>,,attack:3536,skill_1:5140,s1_burn:0,skill_2:2764,s2_burn:0,dx:1889,ds:1317
+23818,Xania,3*,flame,wand,9525,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Joe,Weapon,,<0 burn res & hit10 & hp50>,75% burn uptime,attack:5419,skill_1:7702,s1_burn:1432,skill_2:4093,s2_burn:724,dx:2544,ds:1899
+14649,_c_Xania,3*,flame,wand,8522,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Joe,Weapon,,!<0 burn res & hit10 & hp50>,,attack:3536,skill_1:5140,s1_burn:0,skill_2:2764,s2_burn:0,dx:1889,ds:1317
 -,180,affliction
-25689,Xania,3*,flame,wand,9525,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Joe],<0 burn res & hit10 & hp50>,,attack:5669,skill_1:8243,s1_burn:1497,skill_2:4424,s2_burn:754,dx:2993,ds:2105
-19043,_c_Xania,3*,flame,wand,8522,[Candy_Couriers+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Joe],!<0 burn res & hit10 & hp50>,,attack:4597,skill_1:6682,s1_burn:0,skill_2:3593,s2_burn:0,dx:2456,ds:1712
+25689,Xania,3*,flame,wand,9525,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Joe,Weapon,,<0 burn res & hit10 & hp50>,,attack:5669,skill_1:8243,s1_burn:1497,skill_2:4424,s2_burn:754,dx:2993,ds:2105
+19043,_c_Xania,3*,flame,wand,8522,Candy_Couriers,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Joe,Weapon,,!<0 burn res & hit10 & hp50>,,attack:4597,skill_1:6682,s1_burn:0,skill_2:3593,s2_burn:0,dx:2456,ds:1712

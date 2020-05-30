@@ -1,18 +1,18 @@
 -,60,_
-16051,Marty,3*,flame,sword,8454,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito2][Blade|Marth|Tiki],<hit10 & hp50 & hit15>,,attack:3218,force_strike:1989,skill_1:4523,dx:4474,ds:1845
-11223,_c_Marty,3*,flame,sword,7564,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito2][Blade|Marth|Tiki],!<hit10 & hp50 & hit15>,,attack:2266,force_strike:1401,skill_1:3161,dx:3119,ds:1275
+16051,Marty,3*,flame,sword,8454,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<hit10 & hp50 & hit15>,,attack:3218,force_strike:1989,skill_1:4523,dx:4474,ds:1845
+11223,_c_Marty,3*,flame,sword,7564,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<hit10 & hp50 & hit15>,,attack:2266,force_strike:1401,skill_1:3161,dx:3119,ds:1275
 -,60,affliction
-17821,Marty,3*,flame,sword,8451,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Tiki],<hit10 & hp50>,,attack:3594,force_strike:2222,skill_1:5051,dx:4922,ds:2029
-14587,_c_Marty,3*,flame,sword,7562,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Tiki],!<hit10 & hp50>,,attack:2945,force_strike:1821,skill_1:4108,dx:4054,ds:1657
+17821,Marty,3*,flame,sword,8451,The_Shining_Overlord,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<hit10 & hp50>,,attack:3594,force_strike:2222,skill_1:5051,dx:4922,ds:2029
+14587,_c_Marty,3*,flame,sword,7562,The_Shining_Overlord,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<hit10 & hp50>,,attack:2945,force_strike:1821,skill_1:4108,dx:4054,ds:1657
 -,120,_
-15722,Marty,3*,flame,sword,8454,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito2][Blade|Marth|Tiki],<hit10 & hp50 & hit15>,,attack:3422,force_strike:2115,skill_1:4654,dx:3659,ds:1870
-10910,_c_Marty,3*,flame,sword,7564,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito2][Blade|Marth|Tiki],!<hit10 & hp50 & hit15>,,attack:2374,force_strike:1468,skill_1:3219,dx:2551,ds:1296
+15722,Marty,3*,flame,sword,8454,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<hit10 & hp50 & hit15>,,attack:3422,force_strike:2115,skill_1:4654,dx:3659,ds:1870
+10910,_c_Marty,3*,flame,sword,7564,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<hit10 & hp50 & hit15>,,attack:2374,force_strike:1468,skill_1:3219,dx:2551,ds:1296
 -,120,affliction
-17375,Marty,3*,flame,sword,8451,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Tiki],<hit10 & hp50>,,attack:3791,force_strike:2344,skill_1:5157,dx:4024,ds:2057
-14179,_c_Marty,3*,flame,sword,7562,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Tiki],!<hit10 & hp50>,,attack:3086,force_strike:1908,skill_1:4183,dx:3315,ds:1685
+17375,Marty,3*,flame,sword,8451,The_Shining_Overlord,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<hit10 & hp50>,,attack:3791,force_strike:2344,skill_1:5157,dx:4024,ds:2057
+14179,_c_Marty,3*,flame,sword,7562,The_Shining_Overlord,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<hit10 & hp50>,,attack:3086,force_strike:1908,skill_1:4183,dx:3315,ds:1685
 -,180,_
-15472,Marty,3*,flame,sword,8454,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito2][Blade|Marth|Tiki],<hit10 & hp50 & hit15>,,attack:3737,force_strike:2310,skill_1:5086,dx:3069,ds:1268
-10720,_c_Marty,3*,flame,sword,7564,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito2][Blade|Marth|Tiki],!<hit10 & hp50 & hit15>,,attack:2585,force_strike:1598,skill_1:3512,dx:2144,ds:879
+15472,Marty,3*,flame,sword,8454,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<hit10 & hp50 & hit15>,,attack:3737,force_strike:2310,skill_1:5086,dx:3069,ds:1268
+10720,_c_Marty,3*,flame,sword,7564,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<hit10 & hp50 & hit15>,,attack:2585,force_strike:1598,skill_1:3512,dx:2144,ds:879
 -,180,affliction
-17146,Marty,3*,flame,sword,8451,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Serena],<hit10 & hp50>,,attack:3719,force_strike:2759,skill_1:6086,dx:3068,ds:1511
-12924,_c_Marty,3*,flame,sword,7562,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Serena],!<hit10 & hp50>,,attack:2799,force_strike:2077,skill_1:4565,dx:2339,ds:1142
+17146,Marty,3*,flame,sword,8451,The_Shining_Overlord,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Serena,Weapon,,<hit10 & hp50>,,attack:3719,force_strike:2759,skill_1:6086,dx:3068,ds:1511
+12924,_c_Marty,3*,flame,sword,7562,The_Shining_Overlord,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Serena,Weapon,,!<hit10 & hp50>,,attack:2799,force_strike:2077,skill_1:4565,dx:2339,ds:1142

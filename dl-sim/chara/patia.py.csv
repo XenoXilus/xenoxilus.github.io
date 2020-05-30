@@ -1,18 +1,18 @@
 -,60,_
-20233,Patia,4*,shadow,lance,8740,[Brothers_in_Arms+Resounding_Rendition][Fatalis][Agito1][Blade|Bow|Tobias],<hp60 & hp70>,,attack:6959,skill_2:3069,s2_bleed:4565,team_buff:5637
-19062,_c_Patia,4*,shadow,lance,8323,[Brothers_in_Arms+Resounding_Rendition][Fatalis][Agito1][Blade|Bow|Tobias],!<hp60 & hp70>,,attack:6394,skill_2:2825,s2_bleed:4203,team_buff:5637
+20233,Patia,4*,shadow,lance,8740,Brothers_in_Arms,Resounding_Rendition,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,<hp60 & hp70>,,attack:6959,skill_2:3069,s2_bleed:4565,team_buff:5637
+19062,_c_Patia,4*,shadow,lance,8323,Brothers_in_Arms,Resounding_Rendition,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,!<hp60 & hp70>,,attack:6394,skill_2:2825,s2_bleed:4203,team_buff:5637
 -,60,affliction
-21470,Patia,4*,shadow,lance,9470,[Brothers_in_Arms+The_Fires_of_Hate][Fatalis][Agito1][Blade|Bow|Tobias],<hp60 & hp100>,,attack:8583,skill_2:2913,s2_bleed:4335,team_buff:5637
-19803,_c_Patia,4*,shadow,lance,8325,[Brothers_in_Arms+The_Fires_of_Hate][Fatalis][Agito1][Blade|Bow|Tobias],!<hp60 & hp100>,,attack:7675,skill_2:2609,s2_bleed:3881,team_buff:5637
+21470,Patia,4*,shadow,lance,9470,Brothers_in_Arms,The_Fires_of_Hate,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,<hp60 & hp100>,,attack:8583,skill_2:2913,s2_bleed:4335,team_buff:5637
+19803,_c_Patia,4*,shadow,lance,8325,Brothers_in_Arms,The_Fires_of_Hate,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,!<hp60 & hp100>,,attack:7675,skill_2:2609,s2_bleed:3881,team_buff:5637
 -,120,_
-24936,Patia,4*,shadow,lance,8740,[Brothers_in_Arms+Resounding_Rendition][Fatalis][Agito1][Blade|Bow|Tobias],<hp60 & hp70>,,attack:7378,skill_2:3605,s2_bleed:7045,team_buff:6907
-23523,_c_Patia,4*,shadow,lance,8323,[Brothers_in_Arms+Resounding_Rendition][Fatalis][Agito1][Blade|Bow|Tobias],!<hp60 & hp70>,,attack:6792,skill_2:3324,s2_bleed:6497,team_buff:6907
+24936,Patia,4*,shadow,lance,8740,Brothers_in_Arms,Resounding_Rendition,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,<hp60 & hp70>,,attack:7378,skill_2:3605,s2_bleed:7045,team_buff:6907
+23523,_c_Patia,4*,shadow,lance,8323,Brothers_in_Arms,Resounding_Rendition,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,!<hp60 & hp70>,,attack:6792,skill_2:3324,s2_bleed:6497,team_buff:6907
 -,120,affliction
-26119,Patia,4*,shadow,lance,9470,[Brothers_in_Arms+The_Fires_of_Hate][Fatalis][Agito1][Blade|Bow|Tobias],<hp60 & hp100>,,attack:9100,skill_2:3422,s2_bleed:6688,team_buff:6907
-24130,_c_Patia,4*,shadow,lance,8325,[Brothers_in_Arms+The_Fires_of_Hate][Fatalis][Agito1][Blade|Bow|Tobias],!<hp60 & hp100>,,attack:8153,skill_2:3069,s2_bleed:5999,team_buff:6907
+26119,Patia,4*,shadow,lance,9470,Brothers_in_Arms,The_Fires_of_Hate,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,<hp60 & hp100>,,attack:9100,skill_2:3422,s2_bleed:6688,team_buff:6907
+24130,_c_Patia,4*,shadow,lance,8325,Brothers_in_Arms,The_Fires_of_Hate,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,!<hp60 & hp100>,,attack:8153,skill_2:3069,s2_bleed:5999,team_buff:6907
 -,180,_
-26257,Patia,4*,shadow,lance,8740,[Brothers_in_Arms+Resounding_Rendition][Fatalis][Agito1][Blade|Bow|Tobias],<hp60 & hp70>,,attack:7542,skill_2:3765,s2_bleed:7601,team_buff:7346
-24782,_c_Patia,4*,shadow,lance,8323,[Brothers_in_Arms+Resounding_Rendition][Fatalis][Agito1][Blade|Bow|Tobias],!<hp60 & hp70>,,attack:6947,skill_2:3474,s2_bleed:7013,team_buff:7346
+26257,Patia,4*,shadow,lance,8740,Brothers_in_Arms,Resounding_Rendition,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,<hp60 & hp70>,,attack:7542,skill_2:3765,s2_bleed:7601,team_buff:7346
+24782,_c_Patia,4*,shadow,lance,8323,Brothers_in_Arms,Resounding_Rendition,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,!<hp60 & hp70>,,attack:6947,skill_2:3474,s2_bleed:7013,team_buff:7346
 -,180,affliction
-27441,Patia,4*,shadow,lance,9470,[Brothers_in_Arms+The_Fires_of_Hate][Fatalis][Agito1][Blade|Bow|Tobias],<hp60 & hp100>,,attack:9302,skill_2:3574,s2_bleed:7216,team_buff:7346
-25369,_c_Patia,4*,shadow,lance,8325,[Brothers_in_Arms+The_Fires_of_Hate][Fatalis][Agito1][Blade|Bow|Tobias],!<hp60 & hp100>,,attack:8339,skill_2:3207,s2_bleed:6475,team_buff:7346
+27441,Patia,4*,shadow,lance,9470,Brothers_in_Arms,The_Fires_of_Hate,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,<hp60 & hp100>,,attack:9302,skill_2:3574,s2_bleed:7216,team_buff:7346
+25369,_c_Patia,4*,shadow,lance,8325,Brothers_in_Arms,The_Fires_of_Hate,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,!<hp60 & hp100>,,attack:8339,skill_2:3207,s2_bleed:6475,team_buff:7346

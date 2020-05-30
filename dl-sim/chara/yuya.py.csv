@@ -1,18 +1,18 @@
 -,60,_
-15783,Yuya,4*,flame,dagger,9850,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito2][Blade|Marth|Grace],<hit10 & hp50 & hit15 & hp60>,,attack:3279,force_strike:5395,dx:4852,ds:2255
-8888,_c_Yuya,4*,flame,dagger,7035,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito2][Blade|Marth|Grace],!<hit10 & hp50 & hit15 & hp60>,,attack:1862,force_strike:3049,dx:2722,ds:1252
+15783,Yuya,4*,flame,dagger,9850,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Marth,Grace,Weapon,,<hit10 & hp50 & hit15 & hp60>,,attack:3279,force_strike:5395,dx:4852,ds:2255
+8888,_c_Yuya,4*,flame,dagger,7035,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Marth,Grace,Weapon,,!<hit10 & hp50 & hit15 & hp60>,,attack:1862,force_strike:3049,dx:2722,ds:1252
 -,60,affliction
-19606,Yuya,4*,flame,dagger,9491,[Twinfold_Bonds+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Tiki],<hit10 & hp50 & hit15 & hp60>,,attack:4816,force_strike:1122,skill_1:3425,dx:6609,ds:3631
-11956,_c_Yuya,4*,flame,dagger,6779,[Twinfold_Bonds+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Tiki],!<hit10 & hp50 & hit15 & hp60>,,attack:2946,force_strike:687,skill_1:2089,dx:4036,ds:2195
+20835,Yuya,4*,flame,dagger,9491,Twinfold_Bonds,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<hit10 & hp50 & hit15 & hp60>,,attack:5625,force_strike:1436,skill_1:3452,dx:6660,ds:3659
+12700,_c_Yuya,4*,flame,dagger,6779,Twinfold_Bonds,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<hit10 & hp50 & hit15 & hp60>,,attack:3435,force_strike:877,skill_1:2105,dx:4068,ds:2212
 -,120,_
-15525,Yuya,4*,flame,dagger,9850,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito2][Blade|Marth|Grace],<hit10 & hp50 & hit15 & hp60>,,attack:3633,force_strike:5895,dx:4442,ds:1553
-8718,_c_Yuya,4*,flame,dagger,7035,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito2][Blade|Marth|Grace],!<hit10 & hp50 & hit15 & hp60>,,attack:2046,force_strike:3310,dx:2496,ds:864
+15525,Yuya,4*,flame,dagger,9850,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Marth,Grace,Weapon,,<hit10 & hp50 & hit15 & hp60>,,attack:3633,force_strike:5895,dx:4442,ds:1553
+8718,_c_Yuya,4*,flame,dagger,7035,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Marth,Grace,Weapon,,!<hit10 & hp50 & hit15 & hp60>,,attack:2046,force_strike:3310,dx:2496,ds:864
 -,120,affliction
-19304,Yuya,4*,flame,dagger,9491,[Twinfold_Bonds+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Tiki],<hit10 & hp50 & hit15 & hp60>,,attack:5210,force_strike:1141,skill_1:4355,dx:6093,ds:2503
-11748,_c_Yuya,4*,flame,dagger,6779,[Twinfold_Bonds+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Tiki],!<hit10 & hp50 & hit15 & hp60>,,attack:3164,force_strike:693,skill_1:2645,dx:3727,ds:1517
+20885,Yuya,4*,flame,dagger,9491,Twinfold_Bonds,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<hit10 & hp50 & hit15 & hp60>,,attack:6372,force_strike:1583,skill_1:4347,dx:6082,ds:2498
+12704,_c_Yuya,4*,flame,dagger,6779,Twinfold_Bonds,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<hit10 & hp50 & hit15 & hp60>,,attack:3866,force_strike:960,skill_1:2640,dx:3720,ds:1514
 -,180,_
-14790,Yuya,4*,flame,dagger,9850,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito2][Blade|Marth|Grace],<hit10 & hp50 & hit15 & hp60>,,attack:3991,force_strike:6672,dx:3015,ds:1111
-8287,_c_Yuya,4*,flame,dagger,7035,[Primal_Crisis+The_Lurker_in_the_Woods][Gala_Mars][Agito2][Blade|Marth|Grace],!<hit10 & hp50 & hit15 & hp60>,,attack:2236,force_strike:3733,dx:1695,ds:621
+14790,Yuya,4*,flame,dagger,9850,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Marth,Grace,Weapon,,<hit10 & hp50 & hit15 & hp60>,,attack:3991,force_strike:6672,dx:3015,ds:1111
+8287,_c_Yuya,4*,flame,dagger,7035,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Marth,Grace,Weapon,,!<hit10 & hp50 & hit15 & hp60>,,attack:2236,force_strike:3733,dx:1695,ds:621
 -,180,affliction
-17703,Yuya,4*,flame,dagger,9491,[Twinfold_Bonds+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Tiki],<hit10 & hp50 & hit15 & hp60>,,attack:5866,force_strike:1330,skill_1:4586,dx:4124,ds:1794
-10746,_c_Yuya,4*,flame,dagger,6779,[Twinfold_Bonds+Elegant_Escort][Gala_Mars][Agito2][Blade|Marth|Tiki],!<hit10 & hp50 & hit15 & hp60>,,attack:3552,force_strike:805,skill_1:2778,dx:2522,ds:1086
+19662,Yuya,4*,flame,dagger,9491,Twinfold_Bonds,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<hit10 & hp50 & hit15 & hp60>,,attack:7158,force_strike:1733,skill_1:4864,dx:4236,ds:1669
+11929,_c_Yuya,4*,flame,dagger,6779,Twinfold_Bonds,Elegant_Escort,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<hit10 & hp50 & hit15 & hp60>,,attack:4330,force_strike:1048,skill_1:2945,dx:2592,ds:1012

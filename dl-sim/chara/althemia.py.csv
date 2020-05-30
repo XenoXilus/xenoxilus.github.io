@@ -1,18 +1,18 @@
 -,60,_
-31684,Althemia,3*,shadow,wand,9148,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito1][Blade|Bow|Gala_Alex],<0 poison res & hp100>,88% poison uptime,attack:6173,skill_1:14189,s1_poison:1567,skill_2:9752
-15487,_c_Althemia,3*,shadow,wand,8445,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito1][Blade|Bow|Gala_Alex],!<0 poison res & hp100>,,attack:4377,skill_1:7672,s1_poison:0,skill_2:3437
+31569,Althemia,3*,shadow,wand,9148,Candy_Couriers,The_Fires_of_Hate,Fatalis,Agito1,Blade,Bow,Gala_Alex,Weapon,,<0 poison res & hp100>,88% poison uptime,attack:6265,skill_1:14075,s1_poison:1555,skill_2:9674
+15450,_c_Althemia,3*,shadow,wand,8445,Candy_Couriers,The_Fires_of_Hate,Fatalis,Agito1,Blade,Bow,Gala_Alex,Weapon,,!<0 poison res & hp100>,,attack:4429,skill_1:7610,s1_poison:0,skill_2:3409
 -,60,affliction
-32253,Althemia,3*,shadow,wand,9148,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito1][Blade|Bow|Gala_Alex],<0 poison res & hp100>,,attack:6296,skill_1:14494,s1_poison:1610,skill_2:9851
-20647,_c_Althemia,3*,shadow,wand,8445,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito1][Blade|Bow|Gala_Alex],!<0 poison res & hp100>,,attack:5252,skill_1:9206,s1_poison:0,skill_2:6187
+32133,Althemia,3*,shadow,wand,9148,Candy_Couriers,The_Fires_of_Hate,Fatalis,Agito1,Blade,Bow,Gala_Alex,Weapon,,<0 poison res & hp100>,,attack:6385,skill_1:14377,s1_poison:1597,skill_2:9772
+20585,_c_Althemia,3*,shadow,wand,8445,Candy_Couriers,The_Fires_of_Hate,Fatalis,Agito1,Blade,Bow,Gala_Alex,Weapon,,!<0 poison res & hp100>,,attack:5314,skill_1:9132,s1_poison:0,skill_2:6137
 -,120,_
-33592,Althemia,3*,shadow,wand,9148,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito1][Blade|Delphi|Gala_Alex],<0 poison res & hp100>,92% poison uptime,attack:7069,skill_1:13868,s1_poison:2020,skill_2:10633
-15880,_c_Althemia,3*,shadow,wand,8445,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito1][Blade|Delphi|Gala_Alex],!<0 poison res & hp100>,,attack:4919,skill_1:7287,s1_poison:0,skill_2:3673
+33706,Althemia,3*,shadow,wand,9148,Candy_Couriers,The_Fires_of_Hate,Fatalis,Agito1,Blade,Delphi,Gala_Alex,Weapon,,<0 poison res & hp100>,92% poison uptime,attack:7163,skill_1:13867,s1_poison:2043,skill_2:10632
+15945,_c_Althemia,3*,shadow,wand,8445,Candy_Couriers,The_Fires_of_Hate,Fatalis,Agito1,Blade,Delphi,Gala_Alex,Weapon,,!<0 poison res & hp100>,,attack:4985,skill_1:7286,s1_poison:0,skill_2:3672
 -,120,affliction
-33847,Althemia,3*,shadow,wand,9148,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito1][Blade|Delphi|Gala_Alex],<0 poison res & hp100>,,attack:7147,skill_1:14005,s1_poison:2041,skill_2:10651
-21260,_c_Althemia,3*,shadow,wand,8445,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito1][Blade|Delphi|Gala_Alex],!<0 poison res & hp100>,,attack:5903,skill_1:8744,s1_poison:0,skill_2:6611
+33962,Althemia,3*,shadow,wand,9148,Candy_Couriers,The_Fires_of_Hate,Fatalis,Agito1,Blade,Delphi,Gala_Alex,Weapon,,<0 poison res & hp100>,,attack:7242,skill_1:14004,s1_poison:2064,skill_2:10650
+21338,_c_Althemia,3*,shadow,wand,8445,Candy_Couriers,The_Fires_of_Hate,Fatalis,Agito1,Blade,Delphi,Gala_Alex,Weapon,,!<0 poison res & hp100>,,attack:5983,skill_1:8743,s1_poison:0,skill_2:6610
 -,180,_
-33127,Althemia,3*,shadow,wand,9148,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito1][Blade|Delphi|Gala_Alex],<0 poison res & hp100>,89% poison uptime,attack:7003,skill_1:14113,s1_poison:1810,skill_2:10199
-16198,_c_Althemia,3*,shadow,wand,8445,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito1][Blade|Delphi|Gala_Alex],!<0 poison res & hp100>,,attack:4968,skill_1:7568,s1_poison:0,skill_2:3662
+33217,Althemia,3*,shadow,wand,9148,Candy_Couriers,The_Fires_of_Hate,Fatalis,Agito1,Blade,Delphi,Gala_Alex,Weapon,,<0 poison res & hp100>,88% poison uptime,attack:7036,skill_1:14144,s1_poison:1814,skill_2:10221
+16248,_c_Althemia,3*,shadow,wand,8445,Candy_Couriers,The_Fires_of_Hate,Fatalis,Agito1,Blade,Delphi,Gala_Alex,Weapon,,!<0 poison res & hp100>,,attack:4993,skill_1:7584,s1_poison:0,skill_2:3670
 -,180,affliction
-33779,Althemia,3*,shadow,wand,9148,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito1][Blade|Delphi|Gala_Alex],<0 poison res & hp100>,,attack:7129,skill_1:14356,s1_poison:1831,skill_2:10461
-21635,_c_Althemia,3*,shadow,wand,8445,[Candy_Couriers+The_Fires_of_Hate][Fatalis][Agito1][Blade|Delphi|Gala_Alex],!<0 poison res & hp100>,,attack:5962,skill_1:9081,s1_poison:0,skill_2:6591
+33872,Althemia,3*,shadow,wand,9148,Candy_Couriers,The_Fires_of_Hate,Fatalis,Agito1,Blade,Delphi,Gala_Alex,Weapon,,<0 poison res & hp100>,,attack:7164,skill_1:14388,s1_poison:1835,skill_2:10484
+21700,_c_Althemia,3*,shadow,wand,8445,Candy_Couriers,The_Fires_of_Hate,Fatalis,Agito1,Blade,Delphi,Gala_Alex,Weapon,,!<0 poison res & hp100>,,attack:5992,skill_1:9101,s1_poison:0,skill_2:6606

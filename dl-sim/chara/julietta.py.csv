@@ -1,18 +1,18 @@
 -,60,_
-11711,Julietta,5*,light,axe,6685,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp70>,no fs & no s2,attack:3205,skill_1:2975,skill_3:710,team_buff:657,dx:3546,ds:615
-8756,_c_Julietta,5*,light,axe,6685,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp70>,no fs & no s2,attack:2421,skill_1:2230,skill_3:502,team_buff:657,dx:2508,ds:435
+11711,Julietta,5*,light,axe,6685,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70>,no fs & no s2,attack:3205,skill_1:2975,skill_3:710,team_buff:657,dx:3546,ds:615
+8756,_c_Julietta,5*,light,axe,6685,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70>,no fs & no s2,attack:2421,skill_1:2230,skill_3:502,team_buff:657,dx:2508,ds:435
 -,60,affliction
-13254,Julietta,5*,light,axe,7332,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp70 & hp100>,no fs & no s2,attack:3702,skill_1:3425,skill_3:797,team_buff:657,dx:3980,ds:691
-10376,_c_Julietta,5*,light,axe,6685,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp70 & hp100>,no fs & no s2,attack:2905,skill_1:2676,skill_3:602,team_buff:657,dx:3010,ds:522
+13254,Julietta,5*,light,axe,7332,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70 & hp100>,no fs & no s2,attack:3702,skill_1:3425,skill_3:797,team_buff:657,dx:3980,ds:691
+10376,_c_Julietta,5*,light,axe,6685,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70 & hp100>,no fs & no s2,attack:2905,skill_1:2676,skill_3:602,team_buff:657,dx:3010,ds:522
 -,120,_
-10895,Julietta,5*,light,axe,6685,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp70>,no fs & no s2,attack:3617,skill_1:3093,skill_3:717,team_buff:332,dx:2512,ds:621
-7945,_c_Julietta,5*,light,axe,6685,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp70>,no fs & no s2,attack:2636,skill_1:2251,skill_3:507,team_buff:332,dx:1777,ds:439
+10895,Julietta,5*,light,axe,6685,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70>,no fs & no s2,attack:3617,skill_1:3093,skill_3:717,team_buff:332,dx:2512,ds:621
+7945,_c_Julietta,5*,light,axe,6685,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70>,no fs & no s2,attack:2636,skill_1:2251,skill_3:507,team_buff:332,dx:1777,ds:439
 -,120,affliction
-12284,Julietta,5*,light,axe,7332,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp70 & hp100>,no fs & no s2,attack:4113,skill_1:3515,skill_3:804,team_buff:332,dx:2820,ds:698
-9468,_c_Julietta,5*,light,axe,6685,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp70 & hp100>,no fs & no s2,attack:3164,skill_1:2702,skill_3:608,team_buff:332,dx:2133,ds:527
+12284,Julietta,5*,light,axe,7332,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70 & hp100>,no fs & no s2,attack:4113,skill_1:3515,skill_3:804,team_buff:332,dx:2820,ds:698
+9468,_c_Julietta,5*,light,axe,6685,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70 & hp100>,no fs & no s2,attack:3164,skill_1:2702,skill_3:608,team_buff:332,dx:2133,ds:527
 -,180,_
-10998,Julietta,5*,light,axe,6685,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp70>,no fs & no s2,attack:3646,skill_1:3135,skill_3:959,team_buff:444,dx:2396,ds:416
-8004,_c_Julietta,5*,light,axe,6685,[Resounding_Rendition+Breakfast_at_Valerios][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp70>,no fs & no s2,attack:2631,skill_1:2260,skill_3:678,team_buff:444,dx:1695,ds:294
+10998,Julietta,5*,light,axe,6685,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70>,no fs & no s2,attack:3646,skill_1:3135,skill_3:959,team_buff:444,dx:2396,ds:416
+8004,_c_Julietta,5*,light,axe,6685,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70>,no fs & no s2,attack:2631,skill_1:2260,skill_3:678,team_buff:444,dx:1695,ds:294
 -,180,affliction
-12354,Julietta,5*,light,axe,7332,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],<hit15 & hp70 & hp100>,no fs & no s2,attack:4127,skill_1:3547,skill_3:1077,team_buff:444,dx:2689,ds:467
-9516,_c_Julietta,5*,light,axe,6685,[Resounding_Rendition+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Dagger|Peony],!<hit15 & hp70 & hp100>,no fs & no s2,attack:3157,skill_1:2712,skill_3:814,team_buff:444,dx:2034,ds:353
+12354,Julietta,5*,light,axe,7332,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp70 & hp100>,no fs & no s2,attack:4127,skill_1:3547,skill_3:1077,team_buff:444,dx:2689,ds:467
+9516,_c_Julietta,5*,light,axe,6685,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp70 & hp100>,no fs & no s2,attack:3157,skill_1:2712,skill_3:814,team_buff:444,dx:2034,ds:353

@@ -1,18 +1,18 @@
 -,60,_
-10677,Pietro,3*,water,axe,5987,[Resounding_Rendition+Breakfast_at_Valerios][Leviathan][HDT2][Tiki|Xander|Dagger],<hit10 & hp70 & hit15>,,attack:2317,force_strike:209,skill_1:1519,skill_3:573,dx:4757,ds:1299
-7719,_c_Pietro,3*,water,axe,5987,[Resounding_Rendition+Breakfast_at_Valerios][Leviathan][HDT2][Tiki|Xander|Dagger],!<hit10 & hp70 & hit15>,,attack:1750,force_strike:159,skill_1:1117,skill_3:406,dx:3367,ds:919
+10677,Pietro,3*,water,axe,5987,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,<hit10 & hp70 & hit15>,,attack:2317,force_strike:209,skill_1:1519,skill_3:573,dx:4757,ds:1299
+7719,_c_Pietro,3*,water,axe,5987,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,!<hit10 & hp70 & hit15>,,attack:1750,force_strike:159,skill_1:1117,skill_3:406,dx:3367,ds:919
 -,60,affliction
-11318,Pietro,3*,water,axe,5950,[Primal_Crisis+His_Clever_Brother][Leviathan][HDT2][Tiki|Xander|Dagger],<hit10 & hit15>,,attack:2617,force_strike:236,skill_1:1319,skill_3:508,dx:5484,ds:1151
-8534,_c_Pietro,3*,water,axe,5950,[Primal_Crisis+His_Clever_Brother][Leviathan][HDT2][Tiki|Xander|Dagger],!<hit10 & hit15>,,attack:2087,force_strike:189,skill_1:1024,skill_3:372,dx:4015,ds:843
+11318,Pietro,3*,water,axe,5950,Primal_Crisis,His_Clever_Brother,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,<hit10 & hit15>,,attack:2617,force_strike:236,skill_1:1319,skill_3:508,dx:5484,ds:1151
+8534,_c_Pietro,3*,water,axe,5950,Primal_Crisis,His_Clever_Brother,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,!<hit10 & hit15>,,attack:2087,force_strike:189,skill_1:1024,skill_3:372,dx:4015,ds:843
 -,120,_
-9685,Pietro,3*,water,axe,5987,[Resounding_Rendition+Breakfast_at_Valerios][Leviathan][HDT2][Tiki|Xander|Dagger],<hit10 & hp70 & hit15>,,attack:2920,force_strike:254,skill_1:2079,skill_3:574,dx:3205,ds:650
-6936,_c_Pietro,3*,water,axe,5987,[Resounding_Rendition+Breakfast_at_Valerios][Leviathan][HDT2][Tiki|Xander|Dagger],!<hit10 & hp70 & hit15>,,attack:2121,force_strike:186,skill_1:1492,skill_3:406,dx:2268,ds:460
+9685,Pietro,3*,water,axe,5987,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,<hit10 & hp70 & hit15>,,attack:2920,force_strike:254,skill_1:2079,skill_3:574,dx:3205,ds:650
+6936,_c_Pietro,3*,water,axe,5987,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,!<hit10 & hp70 & hit15>,,attack:2121,force_strike:186,skill_1:1492,skill_3:406,dx:2268,ds:460
 -,120,affliction
-10219,Pietro,3*,water,axe,5950,[Primal_Crisis+His_Clever_Brother][Leviathan][HDT2][Tiki|Xander|Dagger],<hit10 & hit15>,,attack:3383,force_strike:247,skill_1:1823,skill_3:508,dx:3682,ds:575
-7606,_c_Pietro,3*,water,axe,5950,[Primal_Crisis+His_Clever_Brother][Leviathan][HDT2][Tiki|Xander|Dagger],!<hit10 & hit15>,,attack:2562,force_strike:189,skill_1:1364,skill_3:372,dx:2696,ds:421
+10219,Pietro,3*,water,axe,5950,Primal_Crisis,His_Clever_Brother,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,<hit10 & hit15>,,attack:3383,force_strike:247,skill_1:1823,skill_3:508,dx:3682,ds:575
+7606,_c_Pietro,3*,water,axe,5950,Primal_Crisis,His_Clever_Brother,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,!<hit10 & hit15>,,attack:2562,force_strike:189,skill_1:1364,skill_3:372,dx:2696,ds:421
 -,180,_
-9140,Pietro,3*,water,axe,5987,[Resounding_Rendition+Breakfast_at_Valerios][Leviathan][HDT2][Tiki|Xander|Dagger],<hit10 & hp70 & hit15>,,attack:3196,force_strike:321,skill_1:2272,skill_3:769,dx:2144,ds:435
-6523,_c_Pietro,3*,water,axe,5987,[Resounding_Rendition+Breakfast_at_Valerios][Leviathan][HDT2][Tiki|Xander|Dagger],!<hit10 & hp70 & hit15>,,attack:2299,force_strike:231,skill_1:1622,skill_3:544,dx:1517,ds:308
+9140,Pietro,3*,water,axe,5987,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,<hit10 & hp70 & hit15>,,attack:3196,force_strike:321,skill_1:2272,skill_3:769,dx:2144,ds:435
+6523,_c_Pietro,3*,water,axe,5987,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,!<hit10 & hp70 & hit15>,,attack:2299,force_strike:231,skill_1:1622,skill_3:544,dx:1517,ds:308
 -,180,affliction
-9539,Pietro,3*,water,axe,5950,[Primal_Crisis+His_Clever_Brother][Leviathan][HDT2][Tiki|Xander|Dagger],<hit10 & hit15>,,attack:3723,force_strike:281,skill_1:2001,skill_3:680,dx:2467,ds:385
-7067,_c_Pietro,3*,water,axe,5950,[Primal_Crisis+His_Clever_Brother][Leviathan][HDT2][Tiki|Xander|Dagger],!<hit10 & hit15>,,attack:2783,force_strike:211,skill_1:1485,skill_3:498,dx:1806,ds:282
+9539,Pietro,3*,water,axe,5950,Primal_Crisis,His_Clever_Brother,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,<hit10 & hit15>,,attack:3723,force_strike:281,skill_1:2001,skill_3:680,dx:2467,ds:385
+7067,_c_Pietro,3*,water,axe,5950,Primal_Crisis,His_Clever_Brother,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,!<hit10 & hit15>,,attack:2783,force_strike:211,skill_1:1485,skill_3:498,dx:1806,ds:282

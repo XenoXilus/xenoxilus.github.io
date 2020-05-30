@@ -1,18 +1,18 @@
 -,60,_
-19829,Serena,4*,flame,sword,8487,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito2][Blade|Yuya|Marth],<always connect hits & hit10 & hp50 & hit15>,,attack:2622,force_strike:1930,skill_1:4442,skill_2:2328,dx:5059,ds:3444
-12103,_c_Serena,4*,flame,sword,7594,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito2][Blade|Yuya|Marth],!<always connect hits & hit10 & hp50 & hit15>,,attack:1641,force_strike:1207,skill_1:2729,skill_2:1395,dx:3076,ds:2052
+19829,Serena,4*,flame,sword,8487,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,<hit10 & hp50 & hit15 & always connect hits>,,attack:2622,force_strike:1930,skill_1:4442,skill_2:2328,dx:5059,ds:3444
+12103,_c_Serena,4*,flame,sword,7594,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,!<hit10 & hp50 & hit15 & always connect hits>,,attack:1641,force_strike:1207,skill_1:2729,skill_2:1395,dx:3076,ds:2052
 -,60,affliction
-22062,Serena,4*,flame,sword,8485,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito2][Blade|Yuya|Marth],<always connect hits & hit10 & hp50>,,attack:2945,force_strike:2167,skill_1:5005,skill_2:2575,dx:5571,ds:3796
-15730,_c_Serena,4*,flame,sword,7592,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito2][Blade|Yuya|Marth],!<always connect hits & hit10 & hp50>,,attack:2132,force_strike:1569,skill_1:3547,skill_2:1814,dx:3999,ds:2667
+22062,Serena,4*,flame,sword,8485,The_Shining_Overlord,Elegant_Escort,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,<hit10 & hp50 & always connect hits>,,attack:2945,force_strike:2167,skill_1:5005,skill_2:2575,dx:5571,ds:3796
+15730,_c_Serena,4*,flame,sword,7592,The_Shining_Overlord,Elegant_Escort,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,!<hit10 & hp50 & always connect hits>,,attack:2132,force_strike:1569,skill_1:3547,skill_2:1814,dx:3999,ds:2667
 -,120,_
-20202,Serena,4*,flame,sword,8487,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito2][Blade|Yuya|Marth],<always connect hits & hit10 & hp50 & hit15>,,attack:3063,force_strike:2236,skill_1:5054,skill_2:2434,dx:4947,ds:2463
-11990,_c_Serena,4*,flame,sword,7594,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito2][Blade|Yuya|Marth],!<always connect hits & hit10 & hp50 & hit15>,,attack:1843,force_strike:1345,skill_1:3022,skill_2:1437,dx:2905,ds:1435
+20202,Serena,4*,flame,sword,8487,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,<hit10 & hp50 & hit15 & always connect hits>,,attack:3063,force_strike:2236,skill_1:5054,skill_2:2434,dx:4947,ds:2463
+11990,_c_Serena,4*,flame,sword,7594,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,!<hit10 & hp50 & hit15 & always connect hits>,,attack:1843,force_strike:1345,skill_1:3022,skill_2:1437,dx:2905,ds:1435
 -,120,affliction
-22384,Serena,4*,flame,sword,8485,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito2][Blade|Yuya|Marth],<always connect hits & hit10 & hp50>,,attack:3407,force_strike:2487,skill_1:5635,skill_2:2692,dx:5447,ds:2714
-15583,_c_Serena,4*,flame,sword,7592,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito2][Blade|Yuya|Marth],!<always connect hits & hit10 & hp50>,,attack:2395,force_strike:1748,skill_1:3927,skill_2:1868,dx:3776,ds:1866
+22384,Serena,4*,flame,sword,8485,The_Shining_Overlord,Elegant_Escort,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,<hit10 & hp50 & always connect hits>,,attack:3407,force_strike:2487,skill_1:5635,skill_2:2692,dx:5447,ds:2714
+15583,_c_Serena,4*,flame,sword,7592,The_Shining_Overlord,Elegant_Escort,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,!<hit10 & hp50 & always connect hits>,,attack:2395,force_strike:1748,skill_1:3927,skill_2:1868,dx:3776,ds:1866
 -,180,_
-19593,Serena,4*,flame,sword,8487,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito2][Blade|Yuya|Marth],<always connect hits & hit10 & hp50 & hit15>,,attack:3460,force_strike:2553,skill_1:5764,skill_2:2873,dx:3298,ds:1642
-11537,_c_Serena,4*,flame,sword,7594,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito2][Blade|Yuya|Marth],!<always connect hits & hit10 & hp50 & hit15>,,attack:2049,force_strike:1511,skill_1:3400,skill_2:1680,dx:1937,ds:957
+19593,Serena,4*,flame,sword,8487,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,<hit10 & hp50 & hit15 & always connect hits>,,attack:3460,force_strike:2553,skill_1:5764,skill_2:2873,dx:3298,ds:1642
+11537,_c_Serena,4*,flame,sword,7594,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,!<hit10 & hp50 & hit15 & always connect hits>,,attack:2049,force_strike:1511,skill_1:3400,skill_2:1680,dx:1937,ds:957
 -,180,affliction
-21688,Serena,4*,flame,sword,8485,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito2][Blade|Yuya|Marth],<always connect hits & hit10 & hp50>,,attack:3835,force_strike:2829,skill_1:6403,skill_2:3176,dx:3631,ds:1810
-14994,_c_Serena,4*,flame,sword,7592,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito2][Blade|Yuya|Marth],!<always connect hits & hit10 & hp50>,,attack:2663,force_strike:1964,skill_1:4419,skill_2:2183,dx:2517,ds:1244
+21688,Serena,4*,flame,sword,8485,The_Shining_Overlord,Elegant_Escort,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,<hit10 & hp50 & always connect hits>,,attack:3835,force_strike:2829,skill_1:6403,skill_2:3176,dx:3631,ds:1810
+14994,_c_Serena,4*,flame,sword,7592,The_Shining_Overlord,Elegant_Escort,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,!<hit10 & hp50 & always connect hits>,,attack:2663,force_strike:1964,skill_1:4419,skill_2:2183,dx:2517,ds:1244

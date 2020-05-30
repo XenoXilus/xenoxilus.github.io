@@ -1,18 +1,18 @@
 -,60,_
-12479,Xander,5*,water,sword,5100,[The_Shining_Overlord+Primal_Crisis][Siren][HDT2][Blade|Yurius|Dagger],<hit10 & hit15>,c2+fs,attack:1287,force_strike:1451,skill_1:3798,s1_boost:279,skill_2:1975,skill_3:1305,dx:1073,ds:1307
-9615,_c_Xander,5*,water,sword,5100,[The_Shining_Overlord+Primal_Crisis][Siren][HDT2][Blade|Yurius|Dagger],!<hit10 & hit15>,c2+fs,attack:1046,force_strike:1164,skill_1:3091,s1_boost:249,skill_2:1413,skill_3:933,dx:773,ds:942
+12479,Xander,5*,water,sword,5100,The_Shining_Overlord,Primal_Crisis,Siren,HDT2,Blade,Yurius,Dagger,Weapon,,<hit10 & hit15>,c2+fs,attack:1287,force_strike:1451,skill_1:3798,s1_boost:279,skill_2:1975,skill_3:1305,dx:1073,ds:1307
+9615,_c_Xander,5*,water,sword,5100,The_Shining_Overlord,Primal_Crisis,Siren,HDT2,Blade,Yurius,Dagger,Weapon,,!<hit10 & hit15>,c2+fs,attack:1046,force_strike:1164,skill_1:3091,s1_boost:249,skill_2:1413,skill_3:933,dx:773,ds:942
 -,60,affliction
-12479,Xander,5*,water,sword,5100,[The_Shining_Overlord+Primal_Crisis][Siren][HDT2][Blade|Yurius|Dagger],<hit10 & hit15>,c2+fs,attack:1287,force_strike:1451,skill_1:3798,s1_boost:279,skill_2:1975,skill_3:1305,dx:1073,ds:1307
-9615,_c_Xander,5*,water,sword,5100,[The_Shining_Overlord+Primal_Crisis][Siren][HDT2][Blade|Yurius|Dagger],!<hit10 & hit15>,c2+fs,attack:1046,force_strike:1164,skill_1:3091,s1_boost:249,skill_2:1413,skill_3:933,dx:773,ds:942
+12479,Xander,5*,water,sword,5100,The_Shining_Overlord,Primal_Crisis,Siren,HDT2,Blade,Yurius,Dagger,Weapon,,<hit10 & hit15>,c2+fs,attack:1287,force_strike:1451,skill_1:3798,s1_boost:279,skill_2:1975,skill_3:1305,dx:1073,ds:1307
+9615,_c_Xander,5*,water,sword,5100,The_Shining_Overlord,Primal_Crisis,Siren,HDT2,Blade,Yurius,Dagger,Weapon,,!<hit10 & hit15>,c2+fs,attack:1046,force_strike:1164,skill_1:3091,s1_boost:249,skill_2:1413,skill_3:933,dx:773,ds:942
 -,120,_
-13394,Xander,5*,water,sword,5100,[The_Shining_Overlord+Primal_Crisis][Siren][HDT2][Blade|Yurius|Dagger],<hit10 & hit15>,c2+fs,attack:1521,force_strike:1702,skill_1:4463,s1_boost:365,skill_2:2486,skill_3:1664,dx:536,ds:653
-9853,_c_Xander,5*,water,sword,5100,[The_Shining_Overlord+Primal_Crisis][Siren][HDT2][Blade|Yurius|Dagger],!<hit10 & hit15>,c2+fs,attack:1153,force_strike:1283,skill_1:3307,s1_boost:273,skill_2:1784,skill_3:1193,dx:386,ds:470
+13394,Xander,5*,water,sword,5100,The_Shining_Overlord,Primal_Crisis,Siren,HDT2,Blade,Yurius,Dagger,Weapon,,<hit10 & hit15>,c2+fs,attack:1521,force_strike:1702,skill_1:4463,s1_boost:365,skill_2:2486,skill_3:1664,dx:536,ds:653
+9853,_c_Xander,5*,water,sword,5100,The_Shining_Overlord,Primal_Crisis,Siren,HDT2,Blade,Yurius,Dagger,Weapon,,!<hit10 & hit15>,c2+fs,attack:1153,force_strike:1283,skill_1:3307,s1_boost:273,skill_2:1784,skill_3:1193,dx:386,ds:470
 -,120,affliction
-13394,Xander,5*,water,sword,5100,[The_Shining_Overlord+Primal_Crisis][Siren][HDT2][Blade|Yurius|Dagger],<hit10 & hit15>,c2+fs,attack:1521,force_strike:1702,skill_1:4463,s1_boost:365,skill_2:2486,skill_3:1664,dx:536,ds:653
-9853,_c_Xander,5*,water,sword,5100,[The_Shining_Overlord+Primal_Crisis][Siren][HDT2][Blade|Yurius|Dagger],!<hit10 & hit15>,c2+fs,attack:1153,force_strike:1283,skill_1:3307,s1_boost:273,skill_2:1784,skill_3:1193,dx:386,ds:470
+13394,Xander,5*,water,sword,5100,The_Shining_Overlord,Primal_Crisis,Siren,HDT2,Blade,Yurius,Dagger,Weapon,,<hit10 & hit15>,c2+fs,attack:1521,force_strike:1702,skill_1:4463,s1_boost:365,skill_2:2486,skill_3:1664,dx:536,ds:653
+9853,_c_Xander,5*,water,sword,5100,The_Shining_Overlord,Primal_Crisis,Siren,HDT2,Blade,Yurius,Dagger,Weapon,,!<hit10 & hit15>,c2+fs,attack:1153,force_strike:1283,skill_1:3307,s1_boost:273,skill_2:1784,skill_3:1193,dx:386,ds:470
 -,180,_
-13529,Xander,5*,water,sword,5100,[The_Shining_Overlord+Primal_Crisis][Siren][HDT2][Blade|Yurius|Dagger],<hit10 & hit15>,c2+fs,attack:1590,force_strike:1767,skill_1:4510,s1_boost:378,skill_2:2461,skill_3:2026,dx:358,ds:436
-9933,_c_Xander,5*,water,sword,5100,[The_Shining_Overlord+Primal_Crisis][Siren][HDT2][Blade|Yurius|Dagger],!<hit10 & hit15>,c2+fs,attack:1182,force_strike:1309,skill_1:3359,s1_boost:287,skill_2:1766,skill_3:1454,dx:257,ds:314
+13529,Xander,5*,water,sword,5100,The_Shining_Overlord,Primal_Crisis,Siren,HDT2,Blade,Yurius,Dagger,Weapon,,<hit10 & hit15>,c2+fs,attack:1590,force_strike:1767,skill_1:4510,s1_boost:378,skill_2:2461,skill_3:2026,dx:358,ds:436
+9933,_c_Xander,5*,water,sword,5100,The_Shining_Overlord,Primal_Crisis,Siren,HDT2,Blade,Yurius,Dagger,Weapon,,!<hit10 & hit15>,c2+fs,attack:1182,force_strike:1309,skill_1:3359,s1_boost:287,skill_2:1766,skill_3:1454,dx:257,ds:314
 -,180,affliction
-13529,Xander,5*,water,sword,5100,[The_Shining_Overlord+Primal_Crisis][Siren][HDT2][Blade|Yurius|Dagger],<hit10 & hit15>,c2+fs,attack:1590,force_strike:1767,skill_1:4510,s1_boost:378,skill_2:2461,skill_3:2026,dx:358,ds:436
-9933,_c_Xander,5*,water,sword,5100,[The_Shining_Overlord+Primal_Crisis][Siren][HDT2][Blade|Yurius|Dagger],!<hit10 & hit15>,c2+fs,attack:1182,force_strike:1309,skill_1:3359,s1_boost:287,skill_2:1766,skill_3:1454,dx:257,ds:314
+13529,Xander,5*,water,sword,5100,The_Shining_Overlord,Primal_Crisis,Siren,HDT2,Blade,Yurius,Dagger,Weapon,,<hit10 & hit15>,c2+fs,attack:1590,force_strike:1767,skill_1:4510,s1_boost:378,skill_2:2461,skill_3:2026,dx:358,ds:436
+9933,_c_Xander,5*,water,sword,5100,The_Shining_Overlord,Primal_Crisis,Siren,HDT2,Blade,Yurius,Dagger,Weapon,,!<hit10 & hit15>,c2+fs,attack:1182,force_strike:1309,skill_1:3359,s1_boost:287,skill_2:1766,skill_3:1454,dx:257,ds:314

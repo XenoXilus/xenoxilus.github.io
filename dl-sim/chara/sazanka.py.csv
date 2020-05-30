@@ -1,18 +1,18 @@
 -,60,_
-13848,Sazanka,4*,shadow,axe,5813,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi][Agito][Blade|Wand|Dagger],<80 sleep res & hp70>,,attack:2756,force_strike:331,fs_boost:32,skill_1:4643,s1_bleed:2818,team_energy:827,dx:718,ds:1718
-12776,_c_Sazanka,4*,shadow,axe,5245,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi][Agito][Blade|Wand|Dagger],!<80 sleep res & hp70>,,attack:2470,force_strike:299,fs_boost:29,skill_1:4141,s1_bleed:2813,team_energy:827,dx:642,ds:1550
+13872,Sazanka,4*,shadow,axe,5813,Kung_Fu_Masters,Crystalian_Envoy,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,<80 sleep res & hp70>,,attack:2699,force_strike:333,fs_boost:32,skill_1:4666,s1_bleed:2834,team_energy:832,dx:725,ds:1749
+13033,_c_Sazanka,4*,shadow,axe,5245,Kung_Fu_Masters,Crystalian_Envoy,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,!<80 sleep res & hp70>,,attack:2420,force_strike:300,fs_boost:29,skill_1:4164,s1_bleed:3079,team_energy:832,dx:646,ds:1558
 -,60,affliction
-16733,Sazanka,4*,shadow,axe,5913,[Kung_Fu_Masters+The_Fires_of_Hate][Shinobi][Agito][Blade|Wand|Dagger],<80 sleep res & hp100>,,attack:3361,force_strike:404,fs_boost:40,skill_1:5656,s1_bleed:3468,team_energy:827,dx:875,ds:2097
-15499,_c_Sazanka,4*,shadow,axe,5256,[Kung_Fu_Masters+The_Fires_of_Hate][Shinobi][Agito][Blade|Wand|Dagger],!<80 sleep res & hp100>,,attack:2971,force_strike:359,fs_boost:35,skill_1:4982,s1_bleed:3683,team_energy:827,dx:773,ds:1864
+16758,Sazanka,4*,shadow,axe,5913,Kung_Fu_Masters,The_Fires_of_Hate,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,<80 sleep res & hp100>,,attack:3290,force_strike:406,fs_boost:40,skill_1:5684,s1_bleed:3490,team_energy:832,dx:883,ds:2130
+14602,_c_Sazanka,4*,shadow,axe,5256,Kung_Fu_Masters,The_Fires_of_Hate,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,!<80 sleep res & hp100>,,attack:2910,force_strike:361,fs_boost:35,skill_1:5007,s1_bleed:2802,team_energy:832,dx:777,ds:1874
 -,120,_
-14017,Sazanka,4*,shadow,axe,5813,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi][Agito][Blade|Wand|Dagger],<80 sleep res & hp70>,,attack:3120,force_strike:388,fs_boost:60,skill_1:4858,s1_bleed:3954,team_energy:415,dx:357,ds:862
-12448,_c_Sazanka,4*,shadow,axe,5245,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi][Agito][Blade|Wand|Dagger],!<80 sleep res & hp70>,,attack:2798,force_strike:350,fs_boost:54,skill_1:4324,s1_bleed:3405,team_energy:415,dx:322,ds:777
+13640,Sazanka,4*,shadow,axe,5813,Kung_Fu_Masters,Crystalian_Envoy,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,<80 sleep res & hp70>,,attack:2954,force_strike:361,fs_boost:55,skill_1:4859,s1_bleed:3749,team_energy:416,dx:364,ds:878
+12551,_c_Sazanka,4*,shadow,axe,5245,Kung_Fu_Masters,Crystalian_Envoy,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,!<80 sleep res & hp70>,,attack:2651,force_strike:326,fs_boost:49,skill_1:4337,s1_bleed:3665,team_energy:416,dx:323,ds:780
 -,120,affliction
-17052,Sazanka,4*,shadow,axe,5913,[Kung_Fu_Masters+The_Fires_of_Hate][Shinobi][Agito][Blade|Wand|Dagger],<80 sleep res & hp100>,,attack:3804,force_strike:473,fs_boost:73,skill_1:5916,s1_bleed:4880,team_energy:415,dx:436,ds:1052
-14884,_c_Sazanka,4*,shadow,axe,5256,[Kung_Fu_Masters+The_Fires_of_Hate][Shinobi][Agito][Blade|Wand|Dagger],!<80 sleep res & hp100>,,attack:3364,force_strike:421,fs_boost:65,skill_1:5199,s1_bleed:4094,team_energy:415,dx:387,ds:935
+16494,Sazanka,4*,shadow,axe,5913,Kung_Fu_Masters,The_Fires_of_Hate,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,<80 sleep res & hp100>,,attack:3603,force_strike:441,fs_boost:67,skill_1:5920,s1_bleed:4531,team_energy:416,dx:443,ds:1069
+14656,_c_Sazanka,4*,shadow,axe,5256,Kung_Fu_Masters,The_Fires_of_Hate,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,!<80 sleep res & hp100>,,attack:3187,force_strike:392,fs_boost:59,skill_1:5215,s1_bleed:4057,team_energy:416,dx:388,ds:938
 -,180,_
-14188,Sazanka,4*,shadow,axe,5813,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi][Agito][Blade|Wand|Dagger],<80 sleep res & hp70>,,attack:3179,force_strike:389,fs_boost:65,skill_1:5151,s1_bleed:4309,team_energy:277,dx:238,ds:576
-13186,_c_Sazanka,4*,shadow,axe,5245,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi][Agito][Blade|Wand|Dagger],!<80 sleep res & hp70>,,attack:2856,force_strike:350,fs_boost:59,skill_1:4605,s1_bleed:4301,team_energy:277,dx:215,ds:519
+13620,Sazanka,4*,shadow,axe,5813,Kung_Fu_Masters,Crystalian_Envoy,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,<80 sleep res & hp70>,,attack:3073,force_strike:388,fs_boost:65,skill_1:4909,s1_bleed:4084,team_energy:277,dx:240,ds:580
+12209,_c_Sazanka,4*,shadow,axe,5245,Kung_Fu_Masters,Crystalian_Envoy,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,!<80 sleep res & hp70>,,attack:2760,force_strike:350,fs_boost:59,skill_1:4390,s1_bleed:3635,team_energy:277,dx:215,ds:519
 -,180,affliction
-17210,Sazanka,4*,shadow,axe,5913,[Kung_Fu_Masters+The_Fires_of_Hate][Shinobi][Agito][Blade|Wand|Dagger],<80 sleep res & hp100>,,attack:3877,force_strike:474,fs_boost:80,skill_1:6277,s1_bleed:5226,team_energy:277,dx:291,ds:703
-16066,_c_Sazanka,4*,shadow,axe,5256,[Kung_Fu_Masters+The_Fires_of_Hate][Shinobi][Agito][Blade|Wand|Dagger],!<80 sleep res & hp100>,,attack:3434,force_strike:422,fs_boost:71,skill_1:5537,s1_bleed:5438,team_energy:277,dx:259,ds:624
+16563,Sazanka,4*,shadow,axe,5913,Kung_Fu_Masters,The_Fires_of_Hate,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,<80 sleep res & hp100>,,attack:3747,force_strike:474,fs_boost:80,skill_1:5982,s1_bleed:4998,team_energy:277,dx:293,ds:707
+14191,_c_Sazanka,4*,shadow,axe,5256,Kung_Fu_Masters,The_Fires_of_Hate,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,!<80 sleep res & hp100>,,attack:3319,force_strike:422,fs_boost:71,skill_1:5279,s1_bleed:3937,team_energy:277,dx:259,ds:624

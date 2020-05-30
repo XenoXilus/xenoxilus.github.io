@@ -1,18 +1,18 @@
 -,60,_
-19622,Ramona,5*,flame,axe,9579,[Summer_Paladyns+Primal_Crisis][Gala_Mars][Agito2][Blade|Wand|Marth],<hp60 & hit10 & hp50 & hit15>,,attack:2767,skill_1:10419,dx:4073,ds:2360
-13434,_c_Ramona,5*,flame,axe,8085,[Summer_Paladyns+Primal_Crisis][Gala_Mars][Agito2][Blade|Wand|Marth],!<hp60 & hit10 & hp50 & hit15>,,attack:1965,skill_1:7168,dx:2731,ds:1568
+19413,Ramona,5*,flame,axe,9579,Summer_Paladyns,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hp60 & hit10 & hp50 & hit15>,,attack:2767,skill_1:10210,dx:4073,ds:2360
+13434,_c_Ramona,5*,flame,axe,8085,Summer_Paladyns,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hp60 & hit10 & hp50 & hit15>,,attack:1965,skill_1:7168,dx:2731,ds:1568
 -,60,affliction
-22202,Ramona,5*,flame,axe,9577,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],<hp60 & hit10 & hp50 & hp70>,,attack:3379,skill_1:11547,dx:4729,ds:2545
-16649,_c_Ramona,5*,flame,axe,8084,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],!<hp60 & hit10 & hp50 & hp70>,,attack:2554,skill_1:8651,dx:3549,ds:1893
+22202,Ramona,5*,flame,axe,9577,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hp60 & hit10 & hp50 & hp70>,,attack:3379,skill_1:11547,dx:4729,ds:2545
+16649,_c_Ramona,5*,flame,axe,8084,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hp60 & hit10 & hp50 & hp70>,,attack:2554,skill_1:8651,dx:3549,ds:1893
 -,120,_
-19629,Ramona,5*,flame,axe,9579,[Summer_Paladyns+Primal_Crisis][Gala_Mars][Agito2][Blade|Wand|Marth],<hp60 & hit10 & hp50 & hit15>,,attack:3397,skill_1:11804,dx:2754,ds:1671
-13208,_c_Ramona,5*,flame,axe,8085,[Summer_Paladyns+Primal_Crisis][Gala_Mars][Agito2][Blade|Wand|Marth],!<hp60 & hit10 & hp50 & hit15>,,attack:2314,skill_1:7951,dx:1840,ds:1101
+19524,Ramona,5*,flame,axe,9579,Summer_Paladyns,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hp60 & hit10 & hp50 & hit15>,,attack:3397,skill_1:11700,dx:2754,ds:1671
+13208,_c_Ramona,5*,flame,axe,8085,Summer_Paladyns,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hp60 & hit10 & hp50 & hit15>,,attack:2314,skill_1:7951,dx:1840,ds:1101
 -,120,affliction
-21910,Ramona,5*,flame,axe,9577,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],<hp60 & hit10 & hp50 & hp70>,,attack:4028,skill_1:12882,dx:3197,ds:1801
-16325,_c_Ramona,5*,flame,axe,8084,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],!<hp60 & hit10 & hp50 & hp70>,,attack:3007,skill_1:9596,dx:2392,ds:1329
+21910,Ramona,5*,flame,axe,9577,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hp60 & hit10 & hp50 & hp70>,,attack:4028,skill_1:12882,dx:3197,ds:1801
+16325,_c_Ramona,5*,flame,axe,8084,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hp60 & hit10 & hp50 & hp70>,,attack:3007,skill_1:9596,dx:2392,ds:1329
 -,180,_
-20420,Ramona,5*,flame,axe,9579,[Summer_Paladyns+Primal_Crisis][Gala_Mars][Agito2][Blade|Wand|Marth],<hp60 & hit10 & hp50 & hit15>,,attack:3421,skill_1:12658,dx:2731,ds:1608
-13713,_c_Ramona,5*,flame,axe,8085,[Summer_Paladyns+Primal_Crisis][Gala_Mars][Agito2][Blade|Wand|Marth],!<hp60 & hit10 & hp50 & hit15>,,attack:2302,skill_1:8505,dx:1832,ds:1072
+20351,Ramona,5*,flame,axe,9579,Summer_Paladyns,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hp60 & hit10 & hp50 & hit15>,,attack:3421,skill_1:12588,dx:2731,ds:1608
+13713,_c_Ramona,5*,flame,axe,8085,Summer_Paladyns,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hp60 & hit10 & hp50 & hit15>,,attack:2302,skill_1:8505,dx:1832,ds:1072
 -,180,affliction
-22684,Ramona,5*,flame,axe,9577,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],<hp60 & hit10 & hp50 & hp70>,,attack:4028,skill_1:13751,dx:3171,ds:1734
-16933,_c_Ramona,5*,flame,axe,8084,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],!<hp60 & hit10 & hp50 & hp70>,,attack:2993,skill_1:10264,dx:2381,ds:1293
+22684,Ramona,5*,flame,axe,9577,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hp60 & hit10 & hp50 & hp70>,,attack:4028,skill_1:13751,dx:3171,ds:1734
+16933,_c_Ramona,5*,flame,axe,8084,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hp60 & hit10 & hp50 & hp70>,,attack:2993,skill_1:10264,dx:2381,ds:1293

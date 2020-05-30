@@ -1,18 +1,18 @@
 -,60,_
-11626,Jurota,3*,water,blade,6977,[Resounding_Rendition+Breakfast_at_Valerios][Leviathan][HDT2][Tiki|Xander|Dagger],<hit10 & hp70 & hit15>,,attack:3250,skill_1:2179,skill_3:593,dx:4172,ds:1429
-8469,_c_Jurota,3*,water,blade,6977,[Resounding_Rendition+Breakfast_at_Valerios][Leviathan][HDT2][Tiki|Xander|Dagger],!<hit10 & hp70 & hit15>,,attack:2442,skill_1:1583,skill_3:425,dx:2992,ds:1025
+11626,Jurota,3*,water,blade,6977,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,<hit10 & hp70 & hit15>,,attack:3250,skill_1:2179,skill_3:593,dx:4172,ds:1429
+8469,_c_Jurota,3*,water,blade,6977,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,!<hit10 & hp70 & hit15>,,attack:2442,skill_1:1583,skill_3:425,dx:2992,ds:1025
 -,60,affliction
-12426,Jurota,3*,water,blade,6935,[Primal_Crisis+His_Clever_Brother][Leviathan][HDT2][Tiki|Xander|Dagger],<hit10 & hit15>,,attack:3485,skill_1:2306,skill_3:528,dx:4831,ds:1273
-9390,_c_Jurota,3*,water,blade,6935,[Primal_Crisis+His_Clever_Brother][Leviathan][HDT2][Tiki|Xander|Dagger],!<hit10 & hit15>,,attack:2712,skill_1:1776,skill_3:390,dx:3570,ds:940
+12426,Jurota,3*,water,blade,6935,Primal_Crisis,His_Clever_Brother,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,<hit10 & hit15>,,attack:3485,skill_1:2306,skill_3:528,dx:4831,ds:1273
+9390,_c_Jurota,3*,water,blade,6935,Primal_Crisis,His_Clever_Brother,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,!<hit10 & hit15>,,attack:2712,skill_1:1776,skill_3:390,dx:3570,ds:940
 -,120,_
-11411,Jurota,3*,water,blade,6977,[Resounding_Rendition+Breakfast_at_Valerios][Leviathan][HDT2][Tiki|Xander|Dagger],<hit10 & hp70 & hit15>,,attack:3704,skill_1:2474,skill_3:908,dx:3592,ds:729
-8269,_c_Jurota,3*,water,blade,6977,[Resounding_Rendition+Breakfast_at_Valerios][Leviathan][HDT2][Tiki|Xander|Dagger],!<hit10 & hp70 & hit15>,,attack:2721,skill_1:1795,skill_3:651,dx:2576,ds:523
+11411,Jurota,3*,water,blade,6977,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,<hit10 & hp70 & hit15>,,attack:3704,skill_1:2474,skill_3:908,dx:3592,ds:729
+8269,_c_Jurota,3*,water,blade,6977,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,!<hit10 & hp70 & hit15>,,attack:2721,skill_1:1795,skill_3:651,dx:2576,ds:523
 -,120,affliction
-12064,Jurota,3*,water,blade,6935,[Primal_Crisis+His_Clever_Brother][Leviathan][HDT2][Tiki|Xander|Dagger],<hit10 & hit15>,,attack:4008,skill_1:2386,skill_3:867,dx:4153,ds:648
-9044,_c_Jurota,3*,water,blade,6935,[Primal_Crisis+His_Clever_Brother][Leviathan][HDT2][Tiki|Xander|Dagger],!<hit10 & hit15>,,attack:3040,skill_1:1809,skill_3:646,dx:3068,ds:479
+12064,Jurota,3*,water,blade,6935,Primal_Crisis,His_Clever_Brother,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,<hit10 & hit15>,,attack:4008,skill_1:2386,skill_3:867,dx:4153,ds:648
+9044,_c_Jurota,3*,water,blade,6935,Primal_Crisis,His_Clever_Brother,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,!<hit10 & hit15>,,attack:3040,skill_1:1809,skill_3:646,dx:3068,ds:479
 -,180,_
-10851,Jurota,3*,water,blade,6977,[Resounding_Rendition+Breakfast_at_Valerios][Leviathan][HDT2][Tiki|Xander|Dagger],<hit10 & hp70 & hit15>,,attack:3992,skill_1:2723,skill_3:1255,dx:2393,ds:485
-7855,_c_Jurota,3*,water,blade,6977,[Resounding_Rendition+Breakfast_at_Valerios][Leviathan][HDT2][Tiki|Xander|Dagger],!<hit10 & hp70 & hit15>,,attack:2912,skill_1:1973,skill_3:904,dx:1716,ds:348
+10851,Jurota,3*,water,blade,6977,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,<hit10 & hp70 & hit15>,,attack:3992,skill_1:2723,skill_3:1255,dx:2393,ds:485
+7855,_c_Jurota,3*,water,blade,6977,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,!<hit10 & hp70 & hit15>,,attack:2912,skill_1:1973,skill_3:904,dx:1716,ds:348
 -,180,affliction
-11340,Jurota,3*,water,blade,6935,[Primal_Crisis+His_Clever_Brother][Leviathan][HDT2][Tiki|Xander|Dagger],<hit10 & hit15>,,attack:4445,skill_1:2703,skill_3:979,dx:2776,ds:433
-8482,_c_Jurota,3*,water,blade,6935,[Primal_Crisis+His_Clever_Brother][Leviathan][HDT2][Tiki|Xander|Dagger],!<hit10 & hit15>,,attack:3343,skill_1:2034,skill_3:731,dx:2051,ds:320
+11340,Jurota,3*,water,blade,6935,Primal_Crisis,His_Clever_Brother,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,<hit10 & hit15>,,attack:4445,skill_1:2703,skill_3:979,dx:2776,ds:433
+8482,_c_Jurota,3*,water,blade,6935,Primal_Crisis,His_Clever_Brother,Leviathan,HDT2,Tiki,Xander,Dagger,Weapon,,!<hit10 & hit15>,,attack:3343,skill_1:2034,skill_3:731,dx:2051,ds:320

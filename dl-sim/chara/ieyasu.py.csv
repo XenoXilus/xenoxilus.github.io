@@ -1,18 +1,18 @@
 -,60,_
-22012,Ieyasu,5*,shadow,blade,6274,[Resounding_Rendition+United_by_One_Vision][Shinobi][Agito1][Wand|Dagger|Axe2],<hp70>,,attack:3627,skill_1:8237,s1_bleed:5788,team_energy:826,dx:1001,ds:2529
-16549,_c_Ieyasu,5*,shadow,blade,5661,[Resounding_Rendition+United_by_One_Vision][Shinobi][Agito1][Wand|Dagger|Axe2],!<hp70>,,attack:2676,skill_1:6138,s1_bleed:4278,team_energy:826,dx:745,ds:1882
+22012,Ieyasu,5*,shadow,blade,6274,Resounding_Rendition,United_by_One_Vision,Shinobi,Agito1,Wand,Dagger,Axe2,Weapon,,<hp70>,,attack:3627,skill_1:8237,s1_bleed:5788,team_energy:826,dx:1001,ds:2529
+16549,_c_Ieyasu,5*,shadow,blade,5661,Resounding_Rendition,United_by_One_Vision,Shinobi,Agito1,Wand,Dagger,Axe2,Weapon,,!<hp70>,,attack:2676,skill_1:6138,s1_bleed:4278,team_energy:826,dx:745,ds:1882
 -,60,affliction
-27648,Ieyasu,5*,shadow,blade,6385,[Resounding_Rendition+The_Fires_of_Hate][Shinobi][Agito1][Wand|Bow|Axe2],<hp70 & hp100>,,attack:4045,skill_1:11070,s1_bleed:7752,team_energy:826,dx:1120,ds:2831
-20049,_c_Ieyasu,5*,shadow,blade,5676,[Resounding_Rendition+The_Fires_of_Hate][Shinobi][Agito1][Wand|Bow|Axe2],!<hp70 & hp100>,,attack:2878,skill_1:7972,s1_bleed:5528,team_energy:826,dx:805,ds:2036
+27648,Ieyasu,5*,shadow,blade,6385,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Wand,Bow,Axe2,Weapon,,<hp70 & hp100>,,attack:4045,skill_1:11070,s1_bleed:7752,team_energy:826,dx:1120,ds:2831
+20049,_c_Ieyasu,5*,shadow,blade,5676,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Wand,Bow,Axe2,Weapon,,!<hp70 & hp100>,,attack:2878,skill_1:7972,s1_bleed:5528,team_energy:826,dx:805,ds:2036
 -,120,_
-23754,Ieyasu,5*,shadow,blade,6274,[Resounding_Rendition+United_by_One_Vision][Shinobi][Agito1][Wand|Dagger|Axe2],<hp70>,,attack:3942,skill_1:9337,s1_bleed:8286,team_energy:415,dx:502,ds:1269
-17817,_c_Ieyasu,5*,shadow,blade,5661,[Resounding_Rendition+United_by_One_Vision][Shinobi][Agito1][Wand|Dagger|Axe2],!<hp70>,,attack:2927,skill_1:6969,s1_bleed:6185,team_energy:415,dx:374,ds:945
+23754,Ieyasu,5*,shadow,blade,6274,Resounding_Rendition,United_by_One_Vision,Shinobi,Agito1,Wand,Dagger,Axe2,Weapon,,<hp70>,,attack:3942,skill_1:9337,s1_bleed:8286,team_energy:415,dx:502,ds:1269
+17817,_c_Ieyasu,5*,shadow,blade,5661,Resounding_Rendition,United_by_One_Vision,Shinobi,Agito1,Wand,Dagger,Axe2,Weapon,,!<hp70>,,attack:2927,skill_1:6969,s1_bleed:6185,team_energy:415,dx:374,ds:945
 -,120,affliction
-30510,Ieyasu,5*,shadow,blade,6385,[Resounding_Rendition+The_Fires_of_Hate][Shinobi][Agito1][Wand|Bow|Axe2],<hp70 & hp100>,,attack:4408,skill_1:12557,s1_bleed:11144,team_energy:415,dx:562,ds:1421
-22108,_c_Ieyasu,5*,shadow,blade,5676,[Resounding_Rendition+The_Fires_of_Hate][Shinobi][Agito1][Wand|Bow|Axe2],!<hp70 & hp100>,,attack:3162,skill_1:9062,s1_bleed:8041,team_energy:415,dx:404,ds:1022
+30510,Ieyasu,5*,shadow,blade,6385,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Wand,Bow,Axe2,Weapon,,<hp70 & hp100>,,attack:4408,skill_1:12557,s1_bleed:11144,team_energy:415,dx:562,ds:1421
+22108,_c_Ieyasu,5*,shadow,blade,5676,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Wand,Bow,Axe2,Weapon,,!<hp70 & hp100>,,attack:3162,skill_1:9062,s1_bleed:8041,team_energy:415,dx:404,ds:1022
 -,180,_
-24170,Ieyasu,5*,shadow,blade,6274,[Resounding_Rendition+United_by_One_Vision][Shinobi][Agito1][Wand|Dagger|Axe2],<hp70>,,attack:4043,skill_1:9757,s1_bleed:8910,team_energy:276,dx:334,ds:846
-18124,_c_Ieyasu,5*,shadow,blade,5661,[Resounding_Rendition+United_by_One_Vision][Shinobi][Agito1][Wand|Dagger|Axe2],!<hp70>,,attack:3011,skill_1:7298,s1_bleed:6658,team_energy:276,dx:249,ds:629
+24170,Ieyasu,5*,shadow,blade,6274,Resounding_Rendition,United_by_One_Vision,Shinobi,Agito1,Wand,Dagger,Axe2,Weapon,,<hp70>,,attack:4043,skill_1:9757,s1_bleed:8910,team_energy:276,dx:334,ds:846
+18124,_c_Ieyasu,5*,shadow,blade,5661,Resounding_Rendition,United_by_One_Vision,Shinobi,Agito1,Wand,Dagger,Axe2,Weapon,,!<hp70>,,attack:3011,skill_1:7298,s1_bleed:6658,team_energy:276,dx:249,ds:629
 -,180,affliction
-31250,Ieyasu,5*,shadow,blade,6385,[Resounding_Rendition+The_Fires_of_Hate][Shinobi][Agito1][Wand|Bow|Axe2],<hp70 & hp100>,,attack:4527,skill_1:13134,s1_bleed:11989,team_energy:276,dx:374,ds:947
-22649,_c_Ieyasu,5*,shadow,blade,5676,[Resounding_Rendition+The_Fires_of_Hate][Shinobi][Agito1][Wand|Bow|Axe2],!<hp70 & hp100>,,attack:3257,skill_1:9501,s1_bleed:8662,team_energy:276,dx:269,ds:681
+31250,Ieyasu,5*,shadow,blade,6385,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Wand,Bow,Axe2,Weapon,,<hp70 & hp100>,,attack:4527,skill_1:13134,s1_bleed:11989,team_energy:276,dx:374,ds:947
+22649,_c_Ieyasu,5*,shadow,blade,5676,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Wand,Bow,Axe2,Weapon,,!<hp70 & hp100>,,attack:3257,skill_1:9501,s1_bleed:8662,team_energy:276,dx:269,ds:681

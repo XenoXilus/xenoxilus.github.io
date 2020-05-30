@@ -1,18 +1,18 @@
 -,60,_
-18845,Joe,3*,flame,bow,8798,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],<0 burn res & hp100 & hit10 & hp50 & hp70>,79% burn uptime,attack:3393,force_strike:807,skill_1:5081,s1_burn:1079,skill_2:1634,s2_burn:561,dx:4000,ds:2287
-10799,_c_Joe,3*,flame,bow,7872,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],!<0 burn res & hit10 & hp50 & hp70>,,attack:2091,force_strike:494,skill_1:3262,s1_burn:0,skill_2:975,s2_burn:0,dx:2619,ds:1356
+18845,Joe,3*,flame,bow,8798,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<0 burn res & hp100 & hit10 & hp50 & hp70>,79% burn uptime,attack:3393,force_strike:807,skill_1:5081,s1_burn:1079,skill_2:1634,s2_burn:561,dx:4000,ds:2287
+10799,_c_Joe,3*,flame,bow,7872,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<0 burn res & hit10 & hp50 & hp70>,,attack:2091,force_strike:494,skill_1:3262,s1_burn:0,skill_2:975,s2_burn:0,dx:2619,ds:1356
 -,60,affliction
-19942,Joe,3*,flame,bow,8798,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],<0 burn res & hp100 & hit10 & hp50 & hp70>,,attack:3525,force_strike:840,skill_1:5515,s1_burn:1200,skill_2:1634,s2_burn:561,dx:4377,ds:2287
-14039,_c_Joe,3*,flame,bow,7872,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],!<0 burn res & hit10 & hp50 & hp70>,,attack:2718,force_strike:642,skill_1:4241,s1_burn:0,skill_2:1267,s2_burn:0,dx:3404,ds:1763
+19942,Joe,3*,flame,bow,8798,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<0 burn res & hp100 & hit10 & hp50 & hp70>,,attack:3525,force_strike:840,skill_1:5515,s1_burn:1200,skill_2:1634,s2_burn:561,dx:4377,ds:2287
+14039,_c_Joe,3*,flame,bow,7872,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<0 burn res & hit10 & hp50 & hp70>,,attack:2718,force_strike:642,skill_1:4241,s1_burn:0,skill_2:1267,s2_burn:0,dx:3404,ds:1763
 -,120,_
-19427,Joe,3*,flame,bow,8798,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],<0 burn res & hp100 & hit10 & hp50 & hp70>,90% burn uptime,attack:3712,force_strike:908,skill_1:5170,s1_burn:1441,skill_2:1883,s2_burn:647,dx:3374,ds:2289
-10556,_c_Joe,3*,flame,bow,7872,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],!<0 burn res & hit10 & hp50 & hp70>,,attack:2231,force_strike:544,skill_1:3178,s1_burn:0,skill_2:1115,s2_burn:0,dx:2128,ds:1357
+19427,Joe,3*,flame,bow,8798,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<0 burn res & hp100 & hit10 & hp50 & hp70>,90% burn uptime,attack:3712,force_strike:908,skill_1:5170,s1_burn:1441,skill_2:1883,s2_burn:647,dx:3374,ds:2289
+10556,_c_Joe,3*,flame,bow,7872,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<0 burn res & hit10 & hp50 & hp70>,,attack:2231,force_strike:544,skill_1:3178,s1_burn:0,skill_2:1115,s2_burn:0,dx:2128,ds:1357
 -,120,affliction
-19976,Joe,3*,flame,bow,8798,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],<0 burn res & hp100 & hit10 & hp50 & hp70>,,attack:3777,force_strike:925,skill_1:5387,s1_burn:1502,skill_2:1883,s2_burn:647,dx:3563,ds:2289
-13722,_c_Joe,3*,flame,bow,7872,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],!<0 burn res & hit10 & hp50 & hp70>,,attack:2901,force_strike:707,skill_1:4132,s1_burn:0,skill_2:1449,s2_burn:0,dx:2766,ds:1764
+19976,Joe,3*,flame,bow,8798,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<0 burn res & hp100 & hit10 & hp50 & hp70>,,attack:3777,force_strike:925,skill_1:5387,s1_burn:1502,skill_2:1883,s2_burn:647,dx:3563,ds:2289
+13722,_c_Joe,3*,flame,bow,7872,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<0 burn res & hit10 & hp50 & hp70>,,attack:2901,force_strike:707,skill_1:4132,s1_burn:0,skill_2:1449,s2_burn:0,dx:2766,ds:1764
 -,180,_
-17595,Joe,3*,flame,bow,8798,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],<0 burn res & hp100 & hit10 & hp50 & hp70>,69% burn uptime,attack:3790,force_strike:908,skill_1:5314,s1_burn:1122,skill_2:2145,s2_burn:512,dx:2453,ds:1347
-10322,_c_Joe,3*,flame,bow,7872,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],!<0 burn res & hit10 & hp50 & hp70>,,attack:2360,force_strike:565,skill_1:3402,s1_burn:0,skill_2:1345,s2_burn:0,dx:1744,ds:903
+17595,Joe,3*,flame,bow,8798,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<0 burn res & hp100 & hit10 & hp50 & hp70>,69% burn uptime,attack:3790,force_strike:908,skill_1:5314,s1_burn:1122,skill_2:2145,s2_burn:512,dx:2453,ds:1347
+10322,_c_Joe,3*,flame,bow,7872,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<0 burn res & hit10 & hp50 & hp70>,,attack:2360,force_strike:565,skill_1:3402,s1_burn:0,skill_2:1345,s2_burn:0,dx:1744,ds:903
 -,180,affliction
-19099,Joe,3*,flame,bow,8798,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],<0 burn res & hp100 & hit10 & hp50 & hp70>,,attack:3995,force_strike:960,skill_1:5758,s1_burn:1162,skill_2:2271,s2_burn:512,dx:2915,ds:1523
-13419,_c_Joe,3*,flame,bow,7872,[Resounding_Rendition+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],!<0 burn res & hit10 & hp50 & hp70>,,attack:3068,force_strike:735,skill_1:4423,s1_burn:0,skill_2:1749,s2_burn:0,dx:2268,ds:1174
+19099,Joe,3*,flame,bow,8798,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<0 burn res & hp100 & hit10 & hp50 & hp70>,,attack:3995,force_strike:960,skill_1:5758,s1_burn:1162,skill_2:2271,s2_burn:512,dx:2915,ds:1523
+13419,_c_Joe,3*,flame,bow,7872,Resounding_Rendition,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<0 burn res & hit10 & hp50 & hp70>,,attack:3068,force_strike:735,skill_1:4423,s1_burn:0,skill_2:1749,s2_burn:0,dx:2268,ds:1174

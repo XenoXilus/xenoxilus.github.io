@@ -1,18 +1,18 @@
 -,60,_
-11824,Fritz,4*,light,dagger,6216,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],<hit10 & hit15 & hp70>,,attack:2994,force_strike:338,fs_boost:301,skill_1:1842,skill_3:1154,team_buff:873,dx:3629,ds:689
-8095,_c_Fritz,4*,light,dagger,6216,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],!<hit10 & hit15 & hp70>,,attack:2015,force_strike:230,fs_boost:197,skill_1:1203,skill_3:753,team_buff:873,dx:2370,ds:450
+11824,Fritz,4*,light,dagger,6216,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15 & hp70>,,attack:2994,force_strike:338,fs_boost:301,skill_1:1842,skill_3:1154,team_buff:873,dx:3629,ds:689
+8095,_c_Fritz,4*,light,dagger,6216,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15 & hp70>,,attack:2015,force_strike:230,fs_boost:197,skill_1:1203,skill_3:753,team_buff:873,dx:2370,ds:450
 -,60,affliction
-13187,Fritz,4*,light,dagger,6418,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],<hit10 & hit15 & hp100>,,attack:3367,force_strike:381,fs_boost:339,skill_1:2071,skill_3:1298,team_buff:873,dx:4080,ds:775
-9400,_c_Fritz,4*,light,dagger,6218,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],!<hit10 & hit15 & hp100>,,attack:2379,force_strike:272,fs_boost:232,skill_1:1420,skill_3:890,team_buff:873,dx:2798,ds:531
+13187,Fritz,4*,light,dagger,6418,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15 & hp100>,,attack:3367,force_strike:381,fs_boost:339,skill_1:2071,skill_3:1298,team_buff:873,dx:4080,ds:775
+9400,_c_Fritz,4*,light,dagger,6218,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15 & hp100>,,attack:2379,force_strike:272,fs_boost:232,skill_1:1420,skill_3:890,team_buff:873,dx:2798,ds:531
 -,120,_
-11510,Fritz,4*,light,dagger,6216,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],<hit10 & hit15 & hp70>,,attack:3237,force_strike:275,fs_boost:301,skill_1:2323,skill_3:1438,team_buff:671,dx:2571,ds:690
-7784,_c_Fritz,4*,light,dagger,6216,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],!<hit10 & hit15 & hp70>,,attack:2144,force_strike:184,fs_boost:197,skill_1:1517,skill_3:939,team_buff:671,dx:1679,ds:450
+11510,Fritz,4*,light,dagger,6216,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15 & hp70>,,attack:3237,force_strike:275,fs_boost:301,skill_1:2323,skill_3:1438,team_buff:671,dx:2571,ds:690
+7784,_c_Fritz,4*,light,dagger,6216,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15 & hp70>,,attack:2144,force_strike:184,fs_boost:197,skill_1:1517,skill_3:939,team_buff:671,dx:1679,ds:450
 -,120,affliction
-12858,Fritz,4*,light,dagger,6418,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],<hit10 & hit15 & hp100>,,attack:3640,force_strike:310,fs_boost:339,skill_1:2612,skill_3:1616,team_buff:671,dx:2890,ds:776
-9070,_c_Fritz,4*,light,dagger,6218,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],!<hit10 & hit15 & hp100>,,attack:2532,force_strike:218,fs_boost:232,skill_1:1791,skill_3:1108,team_buff:671,dx:1982,ds:532
+12858,Fritz,4*,light,dagger,6418,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15 & hp100>,,attack:3640,force_strike:310,fs_boost:339,skill_1:2612,skill_3:1616,team_buff:671,dx:2890,ds:776
+9070,_c_Fritz,4*,light,dagger,6218,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15 & hp100>,,attack:2532,force_strike:218,fs_boost:232,skill_1:1791,skill_3:1108,team_buff:671,dx:1982,ds:532
 -,180,_
-11593,Fritz,4*,light,dagger,6216,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],<hit10 & hit15 & hp70>,,attack:3306,force_strike:278,fs_boost:335,skill_1:2484,skill_3:1538,team_buff:792,dx:2407,ds:450
-7869,_c_Fritz,4*,light,dagger,6216,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],!<hit10 & hit15 & hp70>,,attack:2179,force_strike:184,fs_boost:218,skill_1:1622,skill_3:1004,team_buff:792,dx:1572,ds:294
+11593,Fritz,4*,light,dagger,6216,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15 & hp70>,,attack:3306,force_strike:278,fs_boost:335,skill_1:2484,skill_3:1538,team_buff:792,dx:2407,ds:450
+7869,_c_Fritz,4*,light,dagger,6216,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15 & hp70>,,attack:2179,force_strike:184,fs_boost:218,skill_1:1622,skill_3:1004,team_buff:792,dx:1572,ds:294
 -,180,affliction
-12936,Fritz,4*,light,dagger,6418,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],<hit10 & hit15 & hp100>,,attack:3718,force_strike:312,fs_boost:376,skill_1:2793,skill_3:1729,team_buff:792,dx:2706,ds:506
-9147,_c_Fritz,4*,light,dagger,6218,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Halloween_Elisanne|Peony],!<hit10 & hit15 & hp100>,,attack:2573,force_strike:218,fs_boost:258,skill_1:1915,skill_3:1186,team_buff:792,dx:1856,ds:347
+12936,Fritz,4*,light,dagger,6418,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15 & hp100>,,attack:3718,force_strike:312,fs_boost:376,skill_1:2793,skill_3:1729,team_buff:792,dx:2706,ds:506
+9147,_c_Fritz,4*,light,dagger,6218,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15 & hp100>,,attack:2573,force_strike:218,fs_boost:258,skill_1:1915,skill_3:1186,team_buff:792,dx:1856,ds:347

@@ -1,18 +1,18 @@
 -,60,_
-15183,Melsa,4*,flame,dagger,8493,[Twinfold_Bonds+Stellar_Show][Gala_Mars][Agito2][Blade|Serena|Marth],<hit15 & hit10 & hp50>,,attack:2019,force_strike:2729,skill_1:2876,skill_2:1381,dx:4147,ds:2029
-9996,_c_Melsa,4*,flame,dagger,7599,[Twinfold_Bonds+Stellar_Show][Gala_Mars][Agito2][Blade|Serena|Marth],!<hit15 & hit10 & hp50>,,attack:1345,force_strike:1804,skill_1:1878,skill_2:908,dx:2733,ds:1325
+15183,Melsa,4*,flame,dagger,8493,Twinfold_Bonds,Stellar_Show,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,<hit15 & hit10 & hp50>,,attack:2019,force_strike:2729,skill_1:2876,skill_2:1381,dx:4147,ds:2029
+9996,_c_Melsa,4*,flame,dagger,7599,Twinfold_Bonds,Stellar_Show,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,!<hit15 & hit10 & hp50>,,attack:1345,force_strike:1804,skill_1:1878,skill_2:908,dx:2733,ds:1325
 -,60,affliction
-17813,Melsa,4*,flame,dagger,8470,[Twinfold_Bonds+Elegant_Escort][Gala_Mars][Agito2][Blade|Serena|Marth],<hit15 & hit10 & hp50>,,attack:2522,force_strike:2272,skill_1:3588,skill_2:1723,dx:5173,ds:2532
-11981,_c_Melsa,4*,flame,dagger,7579,[Twinfold_Bonds+Elegant_Escort][Gala_Mars][Agito2][Blade|Serena|Marth],!<hit15 & hit10 & hp50>,,attack:1716,force_strike:1534,skill_1:2395,skill_2:1158,dx:3485,ds:1690
+17813,Melsa,4*,flame,dagger,8470,Twinfold_Bonds,Elegant_Escort,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,<hit15 & hit10 & hp50>,,attack:2522,force_strike:2272,skill_1:3588,skill_2:1723,dx:5173,ds:2532
+11981,_c_Melsa,4*,flame,dagger,7579,Twinfold_Bonds,Elegant_Escort,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,!<hit15 & hit10 & hp50>,,attack:1716,force_strike:1534,skill_1:2395,skill_2:1158,dx:3485,ds:1690
 -,120,_
-15182,Melsa,4*,flame,dagger,8493,[Twinfold_Bonds+Stellar_Show][Gala_Mars][Agito2][Blade|Serena|Marth],<hit15 & hit10 & hp50>,,attack:2020,force_strike:2780,skill_1:3098,skill_2:1286,dx:3974,ds:2022
-9943,_c_Melsa,4*,flame,dagger,7599,[Twinfold_Bonds+Stellar_Show][Gala_Mars][Agito2][Blade|Serena|Marth],!<hit15 & hit10 & hp50>,,attack:1327,force_strike:1819,skill_1:2015,skill_2:840,dx:2618,ds:1320
+15182,Melsa,4*,flame,dagger,8493,Twinfold_Bonds,Stellar_Show,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,<hit15 & hit10 & hp50>,,attack:2020,force_strike:2780,skill_1:3098,skill_2:1286,dx:3974,ds:2022
+9943,_c_Melsa,4*,flame,dagger,7599,Twinfold_Bonds,Stellar_Show,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,!<hit15 & hit10 & hp50>,,attack:1327,force_strike:1819,skill_1:2015,skill_2:840,dx:2618,ds:1320
 -,120,affliction
-17787,Melsa,4*,flame,dagger,8470,[Twinfold_Bonds+Elegant_Escort][Gala_Mars][Agito2][Blade|Serena|Marth],<hit15 & hit10 & hp50>,,attack:2521,force_strike:2313,skill_1:3865,skill_2:1604,dx:4958,ds:2522
-11906,_c_Melsa,4*,flame,dagger,7579,[Twinfold_Bonds+Elegant_Escort][Gala_Mars][Agito2][Blade|Serena|Marth],!<hit15 & hit10 & hp50>,,attack:1693,force_strike:1547,skill_1:2570,skill_2:1071,dx:3339,ds:1684
+17787,Melsa,4*,flame,dagger,8470,Twinfold_Bonds,Elegant_Escort,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,<hit15 & hit10 & hp50>,,attack:2521,force_strike:2313,skill_1:3865,skill_2:1604,dx:4958,ds:2522
+11906,_c_Melsa,4*,flame,dagger,7579,Twinfold_Bonds,Elegant_Escort,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,!<hit15 & hit10 & hp50>,,attack:1693,force_strike:1547,skill_1:2570,skill_2:1071,dx:3339,ds:1684
 -,180,_
-14461,Melsa,4*,flame,dagger,8493,[Twinfold_Bonds+Stellar_Show][Gala_Mars][Agito2][Blade|Serena|Marth],<hit15 & hit10 & hp50>,,attack:2237,force_strike:3101,skill_1:3264,skill_2:1726,dx:2773,ds:1357
-9459,_c_Melsa,4*,flame,dagger,7599,[Twinfold_Bonds+Stellar_Show][Gala_Mars][Agito2][Blade|Serena|Marth],!<hit15 & hit10 & hp50>,,attack:1465,force_strike:2025,skill_1:2125,skill_2:1127,dx:1827,ds:886
+14461,Melsa,4*,flame,dagger,8493,Twinfold_Bonds,Stellar_Show,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,<hit15 & hit10 & hp50>,,attack:2237,force_strike:3101,skill_1:3264,skill_2:1726,dx:2773,ds:1357
+9459,_c_Melsa,4*,flame,dagger,7599,Twinfold_Bonds,Stellar_Show,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,!<hit15 & hit10 & hp50>,,attack:1465,force_strike:2025,skill_1:2125,skill_2:1127,dx:1827,ds:886
 -,180,affliction
-16753,Melsa,4*,flame,dagger,8470,[Twinfold_Bonds+Elegant_Escort][Gala_Mars][Agito2][Blade|Serena|Marth],<hit15 & hit10 & hp50>,,attack:2792,force_strike:2580,skill_1:4073,skill_2:2154,dx:3459,ds:1693
-11202,_c_Melsa,4*,flame,dagger,7579,[Twinfold_Bonds+Elegant_Escort][Gala_Mars][Agito2][Blade|Serena|Marth],!<hit15 & hit10 & hp50>,,attack:1868,force_strike:1722,skill_1:2711,skill_2:1438,dx:2330,ds:1130
+16753,Melsa,4*,flame,dagger,8470,Twinfold_Bonds,Elegant_Escort,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,<hit15 & hit10 & hp50>,,attack:2792,force_strike:2580,skill_1:4073,skill_2:2154,dx:3459,ds:1693
+11202,_c_Melsa,4*,flame,dagger,7579,Twinfold_Bonds,Elegant_Escort,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,!<hit15 & hit10 & hp50>,,attack:1868,force_strike:1722,skill_1:2711,skill_2:1438,dx:2330,ds:1130

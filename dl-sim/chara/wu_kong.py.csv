@@ -1,18 +1,18 @@
 -,60,_
-12487,Wu_Kong,5*,light,dagger,6255,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2][Blade|Wand|Peony],<hit15 & hp70>,,attack:2339,force_strike:296,skill_1:2430,skill_2:1681,skill_3:1159,team_buff:663,dx:3221,ds:692
-9443,_c_Wu_Kong,5*,light,dagger,6255,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2][Blade|Wand|Peony],!<hit15 & hp70>,,attack:1771,force_strike:228,skill_1:1793,skill_2:1240,skill_3:855,team_buff:663,dx:2377,ds:511
+12487,Wu_Kong,5*,light,dagger,6255,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,<hit15 & hp70>,,attack:2339,force_strike:296,skill_1:2430,skill_2:1681,skill_3:1159,team_buff:663,dx:3221,ds:692
+9443,_c_Wu_Kong,5*,light,dagger,6255,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,!<hit15 & hp70>,,attack:1771,force_strike:228,skill_1:1793,skill_2:1240,skill_3:855,team_buff:663,dx:2377,ds:511
 -,60,affliction
-17283,Wu_Kong,5*,light,dagger,6459,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Peony],<hit15 & hp100>,,attack:3290,force_strike:417,skill_1:3416,skill_2:2363,skill_3:1629,team_buff:663,dx:4527,ds:973
-13622,_c_Wu_Kong,5*,light,dagger,6257,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Peony],!<hit15 & hp100>,,attack:2615,force_strike:337,skill_1:2647,skill_2:1831,skill_3:1262,team_buff:663,dx:3509,ds:754
+17283,Wu_Kong,5*,light,dagger,6459,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,<hit15 & hp100>,,attack:3290,force_strike:417,skill_1:3416,skill_2:2363,skill_3:1629,team_buff:663,dx:4527,ds:973
+13622,_c_Wu_Kong,5*,light,dagger,6257,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,!<hit15 & hp100>,,attack:2615,force_strike:337,skill_1:2647,skill_2:1831,skill_3:1262,team_buff:663,dx:3509,ds:754
 -,120,_
-12255,Wu_Kong,5*,light,dagger,6255,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2][Blade|Wand|Peony],<hit15 & hp70>,,attack:2558,force_strike:303,skill_1:2429,skill_2:2520,skill_3:1158,team_buff:331,dx:2259,ds:692
-9157,_c_Wu_Kong,5*,light,dagger,6255,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2][Blade|Wand|Peony],!<hit15 & hp70>,,attack:1910,force_strike:228,skill_1:1792,skill_2:1860,skill_3:855,team_buff:331,dx:1667,ds:511
+12255,Wu_Kong,5*,light,dagger,6255,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,<hit15 & hp70>,,attack:2558,force_strike:303,skill_1:2429,skill_2:2520,skill_3:1158,team_buff:331,dx:2259,ds:692
+9157,_c_Wu_Kong,5*,light,dagger,6255,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,!<hit15 & hp70>,,attack:1910,force_strike:228,skill_1:1792,skill_2:1860,skill_3:855,team_buff:331,dx:1667,ds:511
 -,120,affliction
-17089,Wu_Kong,5*,light,dagger,6459,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Peony],<hit15 & hp100>,,attack:3596,force_strike:426,skill_1:3414,skill_2:3542,skill_3:1628,team_buff:331,dx:3175,ds:973
-13358,_c_Wu_Kong,5*,light,dagger,6257,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Peony],!<hit15 & hp100>,,attack:2819,force_strike:337,skill_1:2646,skill_2:2745,skill_3:1262,team_buff:331,dx:2461,ds:754
+17089,Wu_Kong,5*,light,dagger,6459,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,<hit15 & hp100>,,attack:3596,force_strike:426,skill_1:3414,skill_2:3542,skill_3:1628,team_buff:331,dx:3175,ds:973
+13358,_c_Wu_Kong,5*,light,dagger,6257,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,!<hit15 & hp100>,,attack:2819,force_strike:337,skill_1:2646,skill_2:2745,skill_3:1262,team_buff:331,dx:2461,ds:754
 -,180,_
-12329,Wu_Kong,5*,light,dagger,6255,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2][Blade|Wand|Peony],<hit15 & hp70>,,attack:2621,force_strike:242,skill_1:2553,skill_2:2516,skill_3:1349,team_buff:441,dx:2142,ds:460
-9232,_c_Wu_Kong,5*,light,dagger,6255,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2][Blade|Wand|Peony],!<hit15 & hp70>,,attack:1949,force_strike:182,skill_1:1884,skill_2:1856,skill_3:995,team_buff:441,dx:1581,ds:340
+12329,Wu_Kong,5*,light,dagger,6255,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,<hit15 & hp70>,,attack:2621,force_strike:242,skill_1:2553,skill_2:2516,skill_3:1349,team_buff:441,dx:2142,ds:460
+9232,_c_Wu_Kong,5*,light,dagger,6255,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,!<hit15 & hp70>,,attack:1949,force_strike:182,skill_1:1884,skill_2:1856,skill_3:995,team_buff:441,dx:1581,ds:340
 -,180,affliction
-17148,Wu_Kong,5*,light,dagger,6459,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Peony],<hit15 & hp100>,,attack:3684,force_strike:341,skill_1:3588,skill_2:3536,skill_3:1896,team_buff:441,dx:3011,ds:647
-13415,_c_Wu_Kong,5*,light,dagger,6257,[Twinfold_Bonds+Spirit_of_the_Season][Daikokuten][HDT2][Blade|Wand|Peony],!<hit15 & hp100>,,attack:2877,force_strike:269,skill_1:2781,skill_2:2740,skill_3:1469,team_buff:441,dx:2333,ds:501
+17148,Wu_Kong,5*,light,dagger,6459,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,<hit15 & hp100>,,attack:3684,force_strike:341,skill_1:3588,skill_2:3536,skill_3:1896,team_buff:441,dx:3011,ds:647
+13415,_c_Wu_Kong,5*,light,dagger,6257,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,!<hit15 & hp100>,,attack:2877,force_strike:269,skill_1:2781,skill_2:2740,skill_3:1469,team_buff:441,dx:2333,ds:501

@@ -1,18 +1,18 @@
 -,60,_
-24538,Chrom,5*,flame,sword,9412,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito2][Blade|Wand|Marth],<hp100 & hit10 & hp50 & hit15>,,attack:3257,force_strike:1379,skill_1:2048,skill_2:11353,dx:4152,ds:2345
-15923,_c_Chrom,5*,flame,sword,7805,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito2][Blade|Wand|Marth],!<hp100 & hit10 & hp50 & hit15>,,attack:2152,force_strike:909,skill_1:1337,skill_2:7309,dx:2701,ds:1513
+24538,Chrom,5*,flame,sword,9412,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hp100 & hit10 & hp50 & hit15>,,attack:3257,force_strike:1379,skill_1:2048,skill_2:11353,dx:4152,ds:2345
+15923,_c_Chrom,5*,flame,sword,7805,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hp100 & hit10 & hp50 & hit15>,,attack:2152,force_strike:909,skill_1:1337,skill_2:7309,dx:2701,ds:1513
 -,60,affliction
-29834,Chrom,5*,flame,sword,9410,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],<hp100 & hit10 & hp50>,,attack:3680,force_strike:1555,skill_1:2307,skill_2:15091,dx:4600,ds:2598
-22595,_c_Chrom,5*,flame,sword,7803,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],!<hp100 & hit10 & hp50>,,attack:2797,force_strike:1181,skill_1:1737,skill_2:11400,dx:3511,ds:1966
+29834,Chrom,5*,flame,sword,9410,The_Shining_Overlord,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hp100 & hit10 & hp50>,,attack:3680,force_strike:1555,skill_1:2307,skill_2:15091,dx:4600,ds:2598
+22595,_c_Chrom,5*,flame,sword,7803,The_Shining_Overlord,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hp100 & hit10 & hp50>,,attack:2797,force_strike:1181,skill_1:1737,skill_2:11400,dx:3511,ds:1966
 -,120,_
-24470,Chrom,5*,flame,sword,9412,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito2][Blade|Wand|Marth],<hp100 & hit10 & hp50 & hit15>,,attack:3425,force_strike:1441,skill_1:2024,skill_2:11356,dx:3804,ds:2417
-15819,_c_Chrom,5*,flame,sword,7805,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito2][Blade|Wand|Marth],!<hp100 & hit10 & hp50 & hit15>,,attack:2222,force_strike:934,skill_1:1307,skill_2:7311,dx:2478,ds:1563
+24470,Chrom,5*,flame,sword,9412,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hp100 & hit10 & hp50 & hit15>,,attack:3425,force_strike:1441,skill_1:2024,skill_2:11356,dx:3804,ds:2417
+15819,_c_Chrom,5*,flame,sword,7805,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hp100 & hit10 & hp50 & hit15>,,attack:2222,force_strike:934,skill_1:1307,skill_2:7311,dx:2478,ds:1563
 -,120,affliction
-29691,Chrom,5*,flame,sword,9410,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],<hp100 & hit10 & hp50>,,attack:3830,force_strike:1610,skill_1:2261,skill_2:15095,dx:4214,ds:2677
-22460,_c_Chrom,5*,flame,sword,7803,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],!<hp100 & hit10 & hp50>,,attack:2889,force_strike:1214,skill_1:1699,skill_2:11403,dx:3220,ds:2032
+29691,Chrom,5*,flame,sword,9410,The_Shining_Overlord,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hp100 & hit10 & hp50>,,attack:3830,force_strike:1610,skill_1:2261,skill_2:15095,dx:4214,ds:2677
+22460,_c_Chrom,5*,flame,sword,7803,The_Shining_Overlord,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hp100 & hit10 & hp50>,,attack:2889,force_strike:1214,skill_1:1699,skill_2:11403,dx:3220,ds:2032
 -,180,_
-25646,Chrom,5*,flame,sword,9412,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito2][Blade|Wand|Marth],<hp100 & hit10 & hp50 & hit15>,,attack:3772,force_strike:1598,skill_1:2268,skill_2:13546,dx:2848,ds:1613
-16572,_c_Chrom,5*,flame,sword,7805,[The_Shining_Overlord+Primal_Crisis][Gala_Mars][Agito2][Blade|Wand|Marth],!<hp100 & hit10 & hp50 & hit15>,,attack:2437,force_strike:1031,skill_1:1462,skill_2:8739,dx:1857,ds:1043
+25646,Chrom,5*,flame,sword,9412,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hp100 & hit10 & hp50 & hit15>,,attack:3772,force_strike:1598,skill_1:2268,skill_2:13546,dx:2848,ds:1613
+16572,_c_Chrom,5*,flame,sword,7805,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hp100 & hit10 & hp50 & hit15>,,attack:2437,force_strike:1031,skill_1:1462,skill_2:8739,dx:1857,ds:1043
 -,180,affliction
-31455,Chrom,5*,flame,sword,9410,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],<hp100 & hit10 & hp50>,,attack:4202,force_strike:1779,skill_1:2525,skill_2:18005,dx:3154,ds:1786
-23811,_c_Chrom,5*,flame,sword,7803,[The_Shining_Overlord+Elegant_Escort][Gala_Mars][Agito2][Blade|Wand|Marth],!<hp100 & hit10 & hp50>,,attack:3168,force_strike:1341,skill_1:1901,skill_2:13630,dx:2413,ds:1356
+31455,Chrom,5*,flame,sword,9410,The_Shining_Overlord,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hp100 & hit10 & hp50>,,attack:4202,force_strike:1779,skill_1:2525,skill_2:18005,dx:3154,ds:1786
+23811,_c_Chrom,5*,flame,sword,7803,The_Shining_Overlord,Elegant_Escort,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hp100 & hit10 & hp50>,,attack:3168,force_strike:1341,skill_1:1901,skill_2:13630,dx:2413,ds:1356
