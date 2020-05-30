@@ -62,8 +62,8 @@
 7157,_c_Eleonora,4*,wind,bow,5071,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<0 poison res & hit10 & hp70 & hp100>,,attack:1280,force_strike:711,skill_1:2795,s1_poison:0,skill_2:1464,s2_poison:0,dx:277,ds:627
 9818,Elias,4*,light,bow,8361,Forest_Bonds,Dear_Diary,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<last offense & hit10 & hit15 & hp30 every 180s>,,attack:1905,force_strike:1120,skill_1:2730,skill_3:889,team_buff:442,team_energy:138,dx:2182,ds:408
 6946,_c_Elias,4*,light,bow,5972,Forest_Bonds,Dear_Diary,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<last offense & hit10 & hit15 & hp30 every 180s>,,attack:1299,force_strike:759,skill_1:1869,skill_3:622,team_buff:442,team_energy:138,dx:1528,ds:285
-19055,Elisanne,4*,water,lance,5730,Beach_Battle,Castle_Cheer_Corps,Gaibhne_and_Creidhne,HDT2,Tobias,Renee,Bow,Weapon,,<hp60>,no s2 or s3,attack:2742,force_strike:301,skill_3:1707,team_buff:14303
-18974,_c_Elisanne,4*,water,lance,5563,Beach_Battle,Castle_Cheer_Corps,Gaibhne_and_Creidhne,HDT2,Tobias,Renee,Bow,Weapon,,!<hp60>,no s2 or s3,attack:2696,force_strike:296,skill_3:1678,team_buff:14303
+26728,Elisanne,4*,water,lance,5730,Beach_Battle,Castle_Cheer_Corps,Gaibhne_and_Creidhne,HDT2,Tobias,Renee,Bow,Weapon,,<hp60>,no s2 or s3,attack:3970,force_strike:1007,team_buff:21750
+26656,_c_Elisanne,4*,water,lance,5563,Beach_Battle,Castle_Cheer_Corps,Gaibhne_and_Creidhne,HDT2,Tobias,Renee,Bow,Weapon,,!<hp60>,no s2 or s3,attack:3914,force_strike:991,team_buff:21750
 20560,Emma,4*,flame,lance,8002,Castle_Cheer_Corps,From_Whence_He_Comes,Gala_Mars,Agito2,Tobias,Tiki,Bow,Weapon,,<buff all team & hp50>,,attack:4844,force_strike:582,team_buff:12663,dx:1546,ds:922
 7066,_c_Emma,4*,flame,lance,7160,Castle_Cheer_Corps,From_Whence_He_Comes,Gala_Mars,Agito2,Tobias,Tiki,Bow,Weapon,,!<buff all team & hp50>,,attack:4334,force_strike:521,dx:1383,ds:825
 18119,Erik,3*,shadow,axe,8321,Kung_Fu_Masters,Flower_in_the_Fray,Fatalis,Agito1,Blade,Wand,Dagger,Weapon,,<>,,attack:5377,force_strike:784,skill_1:8012,skill_2:3945

@@ -62,8 +62,8 @@
 8959,_c_Eleonora,4*,wind,bow,5071,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<0 poison res & hit10 & hp70 & hp100>,,attack:1459,force_strike:814,skill_1:3390,s1_poison:0,skill_2:1671,s2_poison:0,dx:497,ds:1125
 10876,Elias,4*,light,bow,9170,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<last offense & hit10 & hit15 & hp70 & hp100>,,attack:2178,force_strike:1274,skill_1:2781,skill_3:853,team_buff:331,team_energy:165,dx:2637,ds:652
 7238,_c_Elias,4*,light,bow,5972,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<last offense & hit10 & hit15 & hp70 & hp100>,,attack:1389,force_strike:804,skill_1:1784,skill_3:568,team_buff:331,team_energy:165,dx:1758,ds:435
-17945,Elisanne,4*,water,lance,5730,Beach_Battle,Castle_Cheer_Corps,Gaibhne_and_Creidhne,HDT2,Tobias,Renee,Bow,Weapon,,<hp60>,no s2 or s3,attack:2716,force_strike:313,skill_3:1604,team_buff:13309
-17864,_c_Elisanne,4*,water,lance,5563,Beach_Battle,Castle_Cheer_Corps,Gaibhne_and_Creidhne,HDT2,Tobias,Renee,Bow,Weapon,,!<hp60>,no s2 or s3,attack:2669,force_strike:308,skill_3:1576,team_buff:13309
+25307,Elisanne,4*,water,lance,5730,Beach_Battle,Castle_Cheer_Corps,Gaibhne_and_Creidhne,HDT2,Tobias,Renee,Bow,Weapon,,<hp60>,no s2 or s3,attack:3851,force_strike:976,team_buff:20478
+25236,_c_Elisanne,4*,water,lance,5563,Beach_Battle,Castle_Cheer_Corps,Gaibhne_and_Creidhne,HDT2,Tobias,Renee,Bow,Weapon,,!<hp60>,no s2 or s3,attack:3796,force_strike:961,team_buff:20478
 20405,Emma,4*,flame,lance,8002,Castle_Cheer_Corps,From_Whence_He_Comes,Gala_Mars,Agito2,Tobias,Tiki,Bow,Weapon,,<buff all team & hp50>,,attack:4731,force_strike:574,team_buff:12310,dx:1741,ds:1047
 7242,_c_Emma,4*,flame,lance,7160,Castle_Cheer_Corps,From_Whence_He_Comes,Gala_Mars,Agito2,Tobias,Tiki,Bow,Weapon,,!<buff all team & hp50>,,attack:4233,force_strike:513,dx:1557,ds:936
 28410,Erik,3*,shadow,axe,6260,Kung_Fu_Masters,The_Fires_of_Hate,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,<hp100>,,attack:4361,force_strike:651,skill_1:13904,skill_2:7503,team_energy:414,dx:461,ds:1112
