@@ -1,9 +1,9 @@
 -,60,_
-13549,Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15>,,attack:3090,skill_1:3128,skill_3:856,team_buff:648,team_energy:324,dx:4135,ds:1365
-10203,_c_Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15>,,attack:2324,skill_1:2277,skill_3:623,team_buff:648,team_energy:324,dx:3010,ds:994
+13462,Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15>,,attack:3090,skill_1:3400,skill_3:856,team_buff:648,team_energy:324,dx:4135,ds:1006
+10140,_c_Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15>,,attack:2324,skill_1:2475,skill_3:623,team_buff:648,team_energy:324,dx:3010,ds:732
 -,60,affliction
-14890,Lucretia,5*,light,wand,7880,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp100>,,attack:3464,skill_1:3446,skill_3:943,team_buff:648,team_energy:324,dx:4556,ds:1504
-12078,_c_Lucretia,5*,light,wand,7185,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp100>,,attack:2796,skill_1:2739,skill_3:749,team_buff:648,team_energy:324,dx:3621,ds:1196
+14794,Lucretia,5*,light,wand,7880,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp100>,,attack:3464,skill_1:3747,skill_3:943,team_buff:648,team_energy:324,dx:4556,ds:1108
+12002,_c_Lucretia,5*,light,wand,7185,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp100>,,attack:2796,skill_1:2978,skill_3:749,team_buff:648,team_energy:324,dx:3621,ds:881
 -,120,_
 12256,Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15>,,attack:3589,skill_1:3610,skill_3:2011,team_buff:331,team_energy:331,dx:1946,ds:434
 9195,_c_Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15>,,attack:2651,skill_1:2628,skill_3:1517,team_buff:331,team_energy:331,dx:1416,ds:316
@@ -11,8 +11,8 @@
 13549,Lucretia,5*,light,wand,7880,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp100>,,attack:3986,skill_1:3978,skill_3:2297,team_buff:331,team_energy:331,dx:2144,ds:479
 10927,_c_Lucretia,5*,light,wand,7185,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp100>,,attack:3190,skill_1:3162,skill_3:1826,team_buff:331,team_energy:331,dx:1704,ds:380
 -,180,_
-12801,Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15>,,attack:3526,skill_1:3878,skill_3:1737,team_buff:222,team_energy:333,dx:2344,ds:758
-9516,_c_Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15>,,attack:2592,skill_1:2843,skill_3:1264,team_buff:222,team_energy:333,dx:1706,ds:552
+12771,Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15>,,attack:3526,skill_1:3865,skill_3:1842,team_buff:222,team_energy:333,dx:2344,ds:635
+9492,_c_Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15>,,attack:2592,skill_1:2832,skill_3:1341,team_buff:222,team_energy:333,dx:1706,ds:462
 -,180,affliction
-14099,Lucretia,5*,light,wand,7880,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp100>,,attack:3906,skill_1:4303,skill_3:1914,team_buff:222,team_energy:333,dx:2583,ds:836
-11336,_c_Lucretia,5*,light,wand,7185,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp100>,,attack:3119,skill_1:3420,skill_3:1521,team_buff:222,team_energy:333,dx:2053,ds:664
+14063,Lucretia,5*,light,wand,7880,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp100>,,attack:3906,skill_1:4286,skill_3:2029,team_buff:222,team_energy:333,dx:2583,ds:700
+11307,_c_Lucretia,5*,light,wand,7185,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp100>,,attack:3119,skill_1:3407,skill_3:1613,team_buff:222,team_energy:333,dx:2053,ds:556
