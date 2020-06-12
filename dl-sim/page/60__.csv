@@ -328,8 +328,8 @@
 8686,_c_Zardin,3*,water,sword,4498,Primal_Crisis,The_Shining_Overlord,Siren,HDT2,Xander,Dagger,Yurius,Weapon,,!<hp100 & hp60 & hit10 & hit15>,,attack:1278,force_strike:588,skill_1:3427,skill_2:1057,skill_3:822,dx:681,ds:830
 15203,Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,,<hp=20.0%>,10% stun uptime,attack:0,force_strike:6232,skill_1:8970
 11559,_c_Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,,!<hp=20.0%>,10% stun uptime,attack:0,force_strike:6232,skill_1:5326
-23282,Linnea,5*,shadow,blade,8894,The_Lurker_in_the_Woods,Beautiful_Nothingness,Fatalis,Agito1,Dagger,Grace,Axe2,Weapon,,<hp70>,use skill share instead of agito s3 (see custom),attack:716,fs3:21954,skill_2:611
-22057,_c_Linnea,5*,shadow,blade,8426,The_Lurker_in_the_Woods,Beautiful_Nothingness,Fatalis,Agito1,Dagger,Grace,Axe2,Weapon,,!<hp70>,use skill share instead of agito s3 (see custom),attack:678,fs3:20798,skill_2:579
+23282,Linnea,5*,shadow,blade,8894,The_Lurker_in_the_Woods,Beautiful_Nothingness,Fatalis,Agito1,Dagger,Grace,Axe2,Weapon,,<hp70>,,attack:716,fs3:21954,skill_2:611
+22057,_c_Linnea,5*,shadow,blade,8426,The_Lurker_in_the_Woods,Beautiful_Nothingness,Fatalis,Agito1,Dagger,Grace,Axe2,Weapon,,!<hp70>,,attack:678,fs3:20798,skill_2:579
 19203,Victor,5*,wind,blade,6372,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,,<hp70 & hit10>,,attack:3198,skill_1:5776,s1_bleed:4880,skill_2:1035,dx:1322,ds:2988
 13350,_c_Victor,5*,wind,blade,5347,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,,!<hp70 & hit10>,,attack:2171,skill_1:3867,s1_bleed:3719,skill_2:690,dx:890,ds:2011
 14418,Summer_Cleo,5*,light,bow,6688,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Sharena,Peony,Weapon,,<buff all team & 0 paralysis res & hit15 & hp70 & hp100>,nofs; 63% paralysis uptime,attack:2917,skill_1:2956,s1_boost:949,s1_paralysis:726,skill_3:1792,team_buff:1075,dx:3222,ds:777

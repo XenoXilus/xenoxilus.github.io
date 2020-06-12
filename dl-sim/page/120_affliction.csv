@@ -332,8 +332,8 @@
 8546,_c_Zardin,3*,water,sword,4482,Primal_Crisis,His_Clever_Brother,Siren,HDT2,Xander,Dagger,Wand,Weapon,,!<hp100 & hp60 & hit10 & hit15>,,attack:1716,force_strike:789,skill_1:3410,skill_2:1454,skill_3:1174
 23589,Zhu_Bajie,5*,light,axe,7270,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,,<hp=20.0%>,,attack:0,force_strike:12144,skill_1:11444
 18741,_c_Zhu_Bajie,5*,light,axe,6609,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,,!<hp=20.0%>,,attack:0,force_strike:12058,skill_1:6683
-37526,Linnea,5*,shadow,blade,9157,The_Lurker_in_the_Woods,The_Fires_of_Hate,Fatalis,Agito1,Dagger,Grace,Axe2,Weapon,,<hp100>,use skill share instead of agito s3 (see custom),attack:425,fs3:36009,skill_2:1090
-34640,_c_Linnea,5*,shadow,blade,8453,The_Lurker_in_the_Woods,The_Fires_of_Hate,Fatalis,Agito1,Dagger,Grace,Axe2,Weapon,,!<hp100>,use skill share instead of agito s3 (see custom),attack:393,fs3:33239,skill_2:1006
+37526,Linnea,5*,shadow,blade,9157,The_Lurker_in_the_Woods,The_Fires_of_Hate,Fatalis,Agito1,Dagger,Grace,Axe2,Weapon,,<hp100>,,attack:425,fs3:36009,skill_2:1090
+34640,_c_Linnea,5*,shadow,blade,8453,The_Lurker_in_the_Woods,The_Fires_of_Hate,Fatalis,Agito1,Dagger,Grace,Axe2,Weapon,,!<hp100>,,attack:393,fs3:33239,skill_2:1006
 24742,Victor,5*,wind,blade,6616,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,,<hp70 & hit10 & hp100>,,attack:4428,skill_1:7486,s1_bleed:7817,skill_2:2346,dx:816,ds:1845
 15154,_c_Victor,5*,wind,blade,5364,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,,!<hp70 & hit10 & hp100>,,attack:2875,skill_1:4890,s1_bleed:4186,skill_2:1470,dx:530,ds:1199
 17765,Summer_Cleo,5*,light,bow,6688,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Sharena,Peony,Weapon,,<buff all team & 0 paralysis res & hit15 & hp70 & hp100>,nofs,attack:3478,skill_1:3997,s1_boost:1738,s1_paralysis:1159,skill_3:1818,team_buff:1154,dx:3551,ds:867
