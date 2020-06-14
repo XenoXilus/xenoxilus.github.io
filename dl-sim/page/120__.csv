@@ -328,8 +328,8 @@
 8511,_c_Zardin,3*,water,sword,4498,Primal_Crisis,The_Shining_Overlord,Siren,HDT2,Xander,Dagger,Yurius,Weapon,,!<hp100 & hp60 & hit10 & hit15>,,attack:1384,force_strike:629,skill_1:3392,skill_2:1299,skill_3:1050,dx:340,ds:414
 15954,Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,,<hp=20.0%>,,attack:0,force_strike:6583,skill_1:9370
 12061,_c_Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,,!<hp=20.0%>,,attack:0,force_strike:6583,skill_1:5477
-27622,Linnea,5*,shadow,blade,8894,The_Lurker_in_the_Woods,Beautiful_Nothingness,Fatalis,Agito1,Dagger,Grace,Axe2,Weapon,,<hp70>,,attack:603,fs3:26109,skill_2:909
-26168,_c_Linnea,5*,shadow,blade,8426,The_Lurker_in_the_Woods,Beautiful_Nothingness,Fatalis,Agito1,Dagger,Grace,Axe2,Weapon,,!<hp70>,,attack:571,fs3:24734,skill_2:861
+28106,Linnea,5*,shadow,blade,8451,The_Lurker_in_the_Woods,Levins_Champion,Fatalis,Agito1,Dagger,Grace,Axe2,Weapon,,<hp70>,,attack:614,fs3:26567,skill_2:925
+25527,_c_Linnea,5*,shadow,blade,8451,The_Lurker_in_the_Woods,Levins_Champion,Fatalis,Agito1,Dagger,Grace,Axe2,Weapon,,!<hp70>,,attack:557,fs3:24128,skill_2:840
 20337,Victor,5*,wind,blade,6372,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,,<hp70 & hit10>,,attack:3662,skill_1:6191,s1_bleed:6342,skill_2:1939,dx:675,ds:1526
 14308,_c_Victor,5*,wind,blade,5347,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,,!<hp70 & hit10>,,attack:2475,skill_1:4183,s1_bleed:4911,skill_2:1257,dx:454,ds:1026
 16992,Summer_Cleo,5*,light,bow,6688,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Sharena,Peony,Weapon,,<buff all team & 0 paralysis res & hit15 & hp70 & hp100>,nofs; 81% paralysis uptime,attack:3191,skill_1:3940,s1_boost:1730,s1_paralysis:1060,skill_3:1786,team_buff:1154,dx:3297,ds:831
