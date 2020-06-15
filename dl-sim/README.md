@@ -62,5 +62,5 @@ haukist
 mushymato (maintainer)
 
 ## Acknowledgement
-Totakeke, Shark3143, SanyamBansal, emrysduvent, ZedK, B3GG, 6tennis, CarelessParsley, MsNyara
+Totakeke, Shark3143, SanyamBansal, emrysduvent, ZedK, B3GG, 6tennis, CarelessParsley, MsNyara  
 See https://github.com/dl-stuff/dl/graphs/contributors for full list of contributors
