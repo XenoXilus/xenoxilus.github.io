@@ -57,8 +57,10 @@ luciferz2012 (first version of website)
 solofandy (front-end engineering)  
 kenchendesign (UI design)  
 Matt (rotation improve)  
-qwewqa 
+qwewqa
+
 haukist
+
 mushymato (maintainer)
 
 ## Acknowledgement
