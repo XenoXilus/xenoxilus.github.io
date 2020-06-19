@@ -1,18 +1,18 @@
 -,60,_
-21219,Ranzal,4*,wind,axe,6300,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,<hit15 & last offense & hp60 & hp70 & hp100>,85% poison uptime,attack:4013,skill_1:13069,s1_poison:1499,dx:1123,ds:1512
-17010,_c_Ranzal,4*,wind,axe,5437,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,!<hit15 & last offense & hp60 & hp70 & hp100>,85% poison uptime,attack:3217,skill_1:10526,s1_poison:1213,dx:874,ds:1177
+21219,Ranzal,4*,wind,axe,6300,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,<0 poison res & hit15 & last offense & hp60 & hp70 & hp100>,85% poison uptime,attack:4013,skill_1:13069,s1_poison:1499,dx:1123,ds:1512
+13505,_c_Ranzal,4*,wind,axe,5437,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,!<0 poison res & hit15 & last offense & hp60 & hp70 & hp100>,,attack:2752,skill_1:9042,s1_poison:0,dx:728,ds:981
 -,60,affliction
-21671,Ranzal,4*,wind,axe,6300,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,<hit15 & last offense & hp60 & hp70 & hp100>,,attack:4099,skill_1:13394,s1_poison:1542,dx:1123,ds:1512
-17462,_c_Ranzal,4*,wind,axe,5437,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,!<hit15 & last offense & hp60 & hp70 & hp100>,,attack:3302,skill_1:10851,s1_poison:1255,dx:874,ds:1177
+21671,Ranzal,4*,wind,axe,6300,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,<0 poison res & hit15 & last offense & hp60 & hp70 & hp100>,,attack:4099,skill_1:13394,s1_poison:1542,dx:1123,ds:1512
+16206,_c_Ranzal,4*,wind,axe,5437,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,!<0 poison res & hit15 & last offense & hp60 & hp70 & hp100>,,attack:3302,skill_1:10851,s1_poison:0,dx:874,ds:1177
 -,120,_
-22981,Ranzal,4*,wind,axe,6300,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,<hit15 & last offense & hp60 & hp70 & hp100>,93% poison uptime,attack:4448,skill_1:14417,s1_poison:1851,dx:694,ds:1569
-18132,_c_Ranzal,4*,wind,axe,5437,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,!<hit15 & last offense & hp60 & hp70 & hp100>,93% poison uptime,attack:3508,skill_1:11396,s1_poison:1463,dx:540,ds:1222
+22981,Ranzal,4*,wind,axe,6300,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,<0 poison res & hit15 & last offense & hp60 & hp70 & hp100>,93% poison uptime,attack:4448,skill_1:14417,s1_poison:1851,dx:694,ds:1569
+14061,_c_Ranzal,4*,wind,axe,5437,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,!<0 poison res & hit15 & last offense & hp60 & hp70 & hp100>,,attack:2959,skill_1:9632,s1_poison:0,dx:450,ds:1018
 -,120,affliction
-23208,Ranzal,4*,wind,axe,6300,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,<hit15 & last offense & hp60 & hp70 & hp100>,,attack:4491,skill_1:14580,s1_poison:1872,dx:694,ds:1569
-18358,_c_Ranzal,4*,wind,axe,5437,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,!<hit15 & last offense & hp60 & hp70 & hp100>,,attack:3550,skill_1:11558,s1_poison:1485,dx:540,ds:1222
+23208,Ranzal,4*,wind,axe,6300,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,<0 poison res & hit15 & last offense & hp60 & hp70 & hp100>,,attack:4491,skill_1:14580,s1_poison:1872,dx:694,ds:1569
+16873,_c_Ranzal,4*,wind,axe,5437,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,!<0 poison res & hit15 & last offense & hp60 & hp70 & hp100>,,attack:3550,skill_1:11558,s1_poison:0,dx:540,ds:1222
 -,180,_
-24419,Ranzal,4*,wind,axe,6300,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,<hit15 & last offense & hp60 & hp70 & hp100>,94% poison uptime,attack:4671,skill_1:16284,s1_poison:1955,dx:462,ds:1045
-19170,_c_Ranzal,4*,wind,axe,5437,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,!<hit15 & last offense & hp60 & hp70 & hp100>,94% poison uptime,attack:3666,skill_1:12791,s1_poison:1536,dx:360,ds:814
+24419,Ranzal,4*,wind,axe,6300,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,<0 poison res & hit15 & last offense & hp60 & hp70 & hp100>,94% poison uptime,attack:4671,skill_1:16284,s1_poison:1955,dx:462,ds:1045
+14858,_c_Ranzal,4*,wind,axe,5437,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,!<0 poison res & hit15 & last offense & hp60 & hp70 & hp100>,,attack:3086,skill_1:10784,s1_poison:0,dx:302,ds:684
 -,180,affliction
-24651,Ranzal,4*,wind,axe,6300,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,<hit15 & last offense & hp60 & hp70 & hp100>,,attack:4711,skill_1:16445,s1_poison:1972,dx:466,ds:1054
-19384,_c_Ranzal,4*,wind,axe,5437,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,!<hit15 & last offense & hp60 & hp70 & hp100>,,attack:3703,skill_1:12941,s1_poison:1553,dx:363,ds:821
+24651,Ranzal,4*,wind,axe,6300,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,<0 poison res & hit15 & last offense & hp60 & hp70 & hp100>,,attack:4711,skill_1:16445,s1_poison:1972,dx:466,ds:1054
+17830,_c_Ranzal,4*,wind,axe,5437,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Eleonora,Weapon,,!<0 poison res & hit15 & last offense & hp60 & hp70 & hp100>,,attack:3703,skill_1:12941,s1_poison:0,dx:363,ds:821
