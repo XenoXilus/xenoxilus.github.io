@@ -57,9 +57,10 @@ luciferz2012 (first version of website)
 solofandy (front-end engineering)  
 kenchendesign (UI design)  
 Matt (rotation improve)  
-qwewqa 
-haukist
+qwewqa  
+haukist  
 mushymato (maintainer)
 
 ## Acknowledgement
-Totakeke, Shark3143, SanyamBansal, emrysduvent, ZedK, B3GG, 6tennis, CarelessParsley, MsNyara
+Totakeke, Shark3143, SanyamBansal, emrysduvent, ZedK, B3GG, 6tennis, CarelessParsley, MsNyara  
+See https://github.com/dl-stuff/dl/graphs/contributors for full list of contributors
