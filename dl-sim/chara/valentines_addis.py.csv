@@ -1,18 +1,18 @@
 -,60,_
-27382,Valentines_Addis,5*,shadow,bow,5950,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once; 89% poison uptime,attack:4527,skill_1:14069,s1_poison:3582,team_energy:832,dx:1373,ds:2996
-8064,_c_Valentines_Addis,5*,shadow,bow,4612,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,!<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once,attack:1926,skill_1:3516,s1_poison:0,team_energy:832,dx:562,ds:1226
+28318,Valentines_Addis,5*,shadow,bow,5950,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once; 89% poison uptime,attack:4527,skill_1:14069,s1_poison:3582,team_energy:832,dx:1667,ds:3638
+8447,_c_Valentines_Addis,5*,shadow,bow,4612,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,!<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once,attack:1926,skill_1:3516,s1_poison:0,team_energy:832,dx:682,ds:1489
 -,60,affliction
-27653,Valentines_Addis,5*,shadow,bow,5950,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once,attack:4688,skill_1:14069,s1_poison:3692,team_energy:832,dx:1373,ds:2996
-12041,_c_Valentines_Addis,5*,shadow,bow,4612,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,!<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once,attack:2985,skill_1:5450,s1_poison:0,team_energy:832,dx:871,ds:1901
+28589,Valentines_Addis,5*,shadow,bow,5950,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once,attack:4688,skill_1:14069,s1_poison:3692,team_energy:832,dx:1667,ds:3638
+12635,_c_Valentines_Addis,5*,shadow,bow,4612,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,!<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once,attack:2985,skill_1:5450,s1_poison:0,team_energy:832,dx:1057,ds:2308
 -,120,_
-28754,Valentines_Addis,5*,shadow,bow,5950,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once; 90% poison uptime,attack:5051,skill_1:17171,s1_poison:3951,team_energy:415,dx:680,ds:1484
-7558,_c_Valentines_Addis,5*,shadow,bow,4612,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,!<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once,attack:2145,skill_1:4102,s1_poison:0,team_energy:415,dx:280,ds:613
+29217,Valentines_Addis,5*,shadow,bow,5950,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once; 90% poison uptime,attack:5051,skill_1:17171,s1_poison:3951,team_energy:415,dx:825,ds:1802
+7750,_c_Valentines_Addis,5*,shadow,bow,4612,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,!<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once,attack:2145,skill_1:4102,s1_poison:0,team_energy:415,dx:341,ds:744
 -,120,affliction
-29240,Valentines_Addis,5*,shadow,bow,5950,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once,attack:5232,skill_1:17345,s1_poison:4062,team_energy:415,dx:686,ds:1497
-11487,_c_Valentines_Addis,5*,shadow,bow,4612,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,!<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once,attack:3325,skill_1:6359,s1_poison:0,team_energy:415,dx:435,ds:950
+29708,Valentines_Addis,5*,shadow,bow,5950,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once,attack:5232,skill_1:17345,s1_poison:4062,team_energy:415,dx:833,ds:1818
+11784,_c_Valentines_Addis,5*,shadow,bow,4612,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,!<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once,attack:3325,skill_1:6359,s1_poison:0,team_energy:415,dx:528,ds:1153
 -,180,_
-27250,Valentines_Addis,5*,shadow,bow,5950,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once; 83% poison uptime,attack:5079,skill_1:17133,s1_poison:3407,team_energy:277,dx:424,ds:927
-7254,_c_Valentines_Addis,5*,shadow,bow,4612,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,!<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once,attack:2219,skill_1:4160,s1_poison:0,team_energy:277,dx:187,ds:409
+27539,Valentines_Addis,5*,shadow,bow,5950,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once; 83% poison uptime,attack:5079,skill_1:17133,s1_poison:3407,team_energy:277,dx:515,ds:1125
+7381,_c_Valentines_Addis,5*,shadow,bow,4612,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,!<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once,attack:2219,skill_1:4160,s1_poison:0,team_energy:277,dx:227,ds:496
 -,180,affliction
-28582,Valentines_Addis,5*,shadow,bow,5950,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once,attack:5415,skill_1:17829,s1_poison:3602,team_energy:277,dx:457,ds:999
-11090,_c_Valentines_Addis,5*,shadow,bow,4612,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,!<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once,attack:3440,skill_1:6448,s1_poison:0,team_energy:277,dx:290,ds:633
+28894,Valentines_Addis,5*,shadow,bow,5950,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once,attack:5415,skill_1:17829,s1_poison:3602,team_energy:277,dx:555,ds:1213
+11289,_c_Valentines_Addis,5*,shadow,bow,4612,The_Plaguebringer,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,!<0 poison res & hp≤40 & hit15 & hp=20.0%>,use s2 once,attack:3440,skill_1:6448,s1_poison:0,team_energy:277,dx:352,ds:769

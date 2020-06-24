@@ -1,18 +1,18 @@
 -,60,_
-10604,Ryozen,4*,light,lance,6842,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hp60 & hit15 & hp70>,,attack:2498,force_strike:513,skill_2:1488,skill_3:1088,team_buff:661,dx:3708,ds:644
-7418,_c_Ryozen,4*,light,lance,6516,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hp60 & hit15 & hp70>,,attack:1736,force_strike:357,skill_2:1001,skill_3:732,team_buff:661,dx:2495,ds:433
+11537,Ryozen,4*,light,lance,6842,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hp60 & hit15 & hp70>,,attack:2498,force_strike:513,skill_2:1488,skill_3:1088,team_buff:661,dx:4503,ds:782
+8046,_c_Ryozen,4*,light,lance,6516,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hp60 & hit15 & hp70>,,attack:1736,force_strike:357,skill_2:1001,skill_3:732,team_buff:661,dx:3030,ds:526
 -,60,affliction
-11812,Ryozen,4*,light,lance,7504,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hp60 & hit15 & hp70 & hp100>,,attack:2829,force_strike:581,skill_2:1662,skill_3:1215,team_buff:661,dx:4141,ds:719
-8733,_c_Ryozen,4*,light,lance,6516,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hp60 & hit15 & hp70 & hp100>,,attack:2074,force_strike:426,skill_2:1196,skill_3:874,team_buff:661,dx:2981,ds:517
+12853,Ryozen,4*,light,lance,7504,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hp60 & hit15 & hp70 & hp100>,,attack:2829,force_strike:581,skill_2:1662,skill_3:1215,team_buff:661,dx:5029,ds:873
+9483,_c_Ryozen,4*,light,lance,6516,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hp60 & hit15 & hp70 & hp100>,,attack:2074,force_strike:426,skill_2:1196,skill_3:874,team_buff:661,dx:3620,ds:628
 -,120,_
-9682,Ryozen,4*,light,lance,6842,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hp60 & hit15 & hp70>,,attack:2687,force_strike:525,skill_2:1748,skill_3:1369,team_buff:332,dx:2369,ds:648
-6657,_c_Ryozen,4*,light,lance,6516,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hp60 & hit15 & hp70>,,attack:1836,force_strike:359,skill_2:1176,skill_3:921,team_buff:332,dx:1594,ds:436
+10328,Ryozen,4*,light,lance,6842,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hp60 & hit15 & hp70>,,attack:2687,force_strike:525,skill_2:1748,skill_3:1369,team_buff:332,dx:2877,ds:787
+7092,_c_Ryozen,4*,light,lance,6516,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hp60 & hit15 & hp70>,,attack:1836,force_strike:359,skill_2:1176,skill_3:921,team_buff:332,dx:1936,ds:529
 -,120,affliction
-10796,Ryozen,4*,light,lance,7504,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hp60 & hit15 & hp70 & hp100>,,attack:3020,force_strike:591,skill_2:1952,skill_3:1529,team_buff:332,dx:2646,ds:723
-7888,_c_Ryozen,4*,light,lance,6516,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hp60 & hit15 & hp70 & hp100>,,attack:2193,force_strike:429,skill_2:1405,skill_3:1100,team_buff:332,dx:1904,ds:521
+11519,Ryozen,4*,light,lance,7504,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hp60 & hit15 & hp70 & hp100>,,attack:3020,force_strike:591,skill_2:1952,skill_3:1529,team_buff:332,dx:3213,ds:879
+8407,_c_Ryozen,4*,light,lance,6516,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hp60 & hit15 & hp70 & hp100>,,attack:2193,force_strike:429,skill_2:1405,skill_3:1100,team_buff:332,dx:2312,ds:632
 -,180,_
-9608,Ryozen,4*,light,lance,6842,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hp60 & hit15 & hp70>,,attack:2774,force_strike:528,skill_2:1664,skill_3:1277,team_buff:443,dx:2487,ds:432
-6633,_c_Ryozen,4*,light,lance,6516,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hp60 & hit15 & hp70>,,attack:1885,force_strike:359,skill_2:1119,skill_3:859,team_buff:443,dx:1674,ds:290
+10234,Ryozen,4*,light,lance,6842,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hp60 & hit15 & hp70>,,attack:2774,force_strike:528,skill_2:1664,skill_3:1277,team_buff:443,dx:3020,ds:524
+7054,_c_Ryozen,4*,light,lance,6516,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hp60 & hit15 & hp70>,,attack:1885,force_strike:359,skill_2:1119,skill_3:859,team_buff:443,dx:2032,ds:353
 -,180,affliction
-10693,Ryozen,4*,light,lance,7504,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hp60 & hit15 & hp70 & hp100>,,attack:3111,force_strike:592,skill_2:1858,skill_3:1426,team_buff:443,dx:2778,ds:482
-7837,_c_Ryozen,4*,light,lance,6516,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hp60 & hit15 & hp70 & hp100>,,attack:2252,force_strike:429,skill_2:1337,skill_3:1026,team_buff:443,dx:1999,ds:347
+11392,Ryozen,4*,light,lance,7504,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hp60 & hit15 & hp70 & hp100>,,attack:3111,force_strike:592,skill_2:1858,skill_3:1426,team_buff:443,dx:3373,ds:585
+8340,_c_Ryozen,4*,light,lance,6516,Resounding_Rendition,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hp60 & hit15 & hp70 & hp100>,,attack:2252,force_strike:429,skill_2:1337,skill_3:1026,team_buff:443,dx:2428,ds:421

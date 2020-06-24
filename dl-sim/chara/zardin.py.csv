@@ -1,18 +1,18 @@
 -,60,_
-12430,Zardin,3*,water,sword,5019,Primal_Crisis,The_Shining_Overlord,Siren,HDT2,Xander,Dagger,Yurius,Weapon,,<hp100 & hp60 & hit10 & hit15>,,attack:1772,force_strike:828,skill_1:4748,skill_2:1511,skill_3:1264,dx:1038,ds:1264
-8686,_c_Zardin,3*,water,sword,4498,Primal_Crisis,The_Shining_Overlord,Siren,HDT2,Xander,Dagger,Yurius,Weapon,,!<hp100 & hp60 & hit10 & hit15>,,attack:1278,force_strike:588,skill_1:3427,skill_2:1057,skill_3:822,dx:681,ds:830
+12923,Zardin,3*,water,sword,5019,Primal_Crisis,The_Shining_Overlord,Siren,HDT2,Xander,Dagger,Yurius,Weapon,,<hp100 & hp60 & hit10 & hit15>,,attack:1772,force_strike:828,skill_1:4748,skill_2:1511,skill_3:1264,dx:1261,ds:1535
+9010,_c_Zardin,3*,water,sword,4498,Primal_Crisis,The_Shining_Overlord,Siren,HDT2,Xander,Dagger,Yurius,Weapon,,!<hp100 & hp60 & hit10 & hit15>,,attack:1278,force_strike:588,skill_1:3427,skill_2:1057,skill_3:822,dx:827,ds:1008
 -,60,affliction
 12564,Zardin,3*,water,sword,5001,Primal_Crisis,His_Clever_Brother,Siren,HDT2,Xander,Dagger,Wand,Weapon,,<hp100 & hp60 & hit10 & hit15>,,attack:2628,force_strike:1212,skill_1:4900,skill_2:2002,skill_3:1819
 8276,_c_Zardin,3*,water,sword,4482,Primal_Crisis,His_Clever_Brother,Siren,HDT2,Xander,Dagger,Wand,Weapon,,!<hp100 & hp60 & hit10 & hit15>,,attack:1752,force_strike:806,skill_1:3241,skill_2:1297,skill_3:1178
 -,120,_
-12567,Zardin,3*,water,sword,5019,Primal_Crisis,The_Shining_Overlord,Siren,HDT2,Xander,Dagger,Yurius,Weapon,,<hp100 & hp60 & hit10 & hit15>,,attack:2027,force_strike:929,skill_1:4964,skill_2:1886,skill_3:1609,dx:518,ds:631
-8511,_c_Zardin,3*,water,sword,4498,Primal_Crisis,The_Shining_Overlord,Siren,HDT2,Xander,Dagger,Yurius,Weapon,,!<hp100 & hp60 & hit10 & hit15>,,attack:1384,force_strike:629,skill_1:3392,skill_2:1299,skill_3:1050,dx:340,ds:414
+12813,Zardin,3*,water,sword,5019,Primal_Crisis,The_Shining_Overlord,Siren,HDT2,Xander,Dagger,Yurius,Weapon,,<hp100 & hp60 & hit10 & hit15>,,attack:2027,force_strike:929,skill_1:4964,skill_2:1886,skill_3:1609,dx:629,ds:766
+8673,_c_Zardin,3*,water,sword,4498,Primal_Crisis,The_Shining_Overlord,Siren,HDT2,Xander,Dagger,Yurius,Weapon,,!<hp100 & hp60 & hit10 & hit15>,,attack:1384,force_strike:629,skill_1:3392,skill_2:1299,skill_3:1050,dx:413,ds:503
 -,120,affliction
 13086,Zardin,3*,water,sword,5001,Primal_Crisis,His_Clever_Brother,Siren,HDT2,Xander,Dagger,Wand,Weapon,,<hp100 & hp60 & hit10 & hit15>,,attack:2611,force_strike:1203,skill_1:5213,skill_2:2245,skill_3:1813
 8546,_c_Zardin,3*,water,sword,4482,Primal_Crisis,His_Clever_Brother,Siren,HDT2,Xander,Dagger,Wand,Weapon,,!<hp100 & hp60 & hit10 & hit15>,,attack:1716,force_strike:789,skill_1:3410,skill_2:1454,skill_3:1174
 -,180,_
-12772,Zardin,3*,water,sword,5019,Primal_Crisis,The_Shining_Overlord,Siren,HDT2,Xander,Dagger,Yurius,Weapon,,<hp100 & hp60 & hit10 & hit15>,,attack:2127,force_strike:972,skill_1:5131,skill_2:1813,skill_3:1959,dx:346,ds:421
-8510,_c_Zardin,3*,water,sword,4498,Primal_Crisis,The_Shining_Overlord,Siren,HDT2,Xander,Dagger,Yurius,Weapon,,!<hp100 & hp60 & hit10 & hit15>,,attack:1430,force_strike:652,skill_1:3423,skill_2:1217,skill_3:1281,dx:227,ds:276
+12937,Zardin,3*,water,sword,5019,Primal_Crisis,The_Shining_Overlord,Siren,HDT2,Xander,Dagger,Yurius,Weapon,,<hp100 & hp60 & hit10 & hit15>,,attack:2127,force_strike:972,skill_1:5131,skill_2:1813,skill_3:1959,dx:420,ds:511
+8618,_c_Zardin,3*,water,sword,4498,Primal_Crisis,The_Shining_Overlord,Siren,HDT2,Xander,Dagger,Yurius,Weapon,,!<hp100 & hp60 & hit10 & hit15>,,attack:1430,force_strike:652,skill_1:3423,skill_2:1217,skill_3:1281,dx:275,ds:335
 -,180,affliction
 13159,Zardin,3*,water,sword,5001,Primal_Crisis,His_Clever_Brother,Siren,HDT2,Xander,Dagger,Wand,Weapon,,<hp100 & hp60 & hit10 & hit15>,,attack:2622,force_strike:1207,skill_1:5164,skill_2:2340,skill_3:1823
 8570,_c_Zardin,3*,water,sword,4482,Primal_Crisis,His_Clever_Brother,Siren,HDT2,Xander,Dagger,Wand,Weapon,,!<hp100 & hp60 & hit10 & hit15>,,attack:1715,force_strike:789,skill_1:3368,skill_2:1516,skill_3:1181
