@@ -1,18 +1,18 @@
 -,60,_
-10819,Rex,3*,water,axe,6946,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,HDT2,Blade,Xander,Dagger,Weapon,,<hp60 & hit10 & hp70 & hit15>,,attack:2557,force_strike:230,skill_1:2258,skill_2:523,skill_3:633,dx:3744,ds:870
-7730,_c_Rex,3*,water,axe,6744,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,HDT2,Blade,Xander,Dagger,Weapon,,!<hp60 & hit10 & hp70 & hit15>,,attack:1894,force_strike:173,skill_1:1624,skill_2:365,skill_3:443,dx:2619,ds:608
+11489,Rex,3*,water,axe,7243,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Blade,Xander,Dagger,Weapon,,<hp60 & hit10 & hp70 & hit15>,,attack:2975,force_strike:253,skill_1:2522,skill_2:584,dx:4182,ds:972
+8255,_c_Rex,3*,water,axe,7032,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Blade,Xander,Dagger,Weapon,,!<hp60 & hit10 & hp70 & hit15>,,attack:2199,force_strike:190,skill_1:1825,skill_2:411,dx:2943,ds:684
 -,60,affliction
-11931,Rex,3*,water,axe,6921,Kung_Fu_Masters,His_Clever_Brother,Leviathan,HDT2,Blade,Xander,Yurius,Weapon,,<hp60 & hit10>,,attack:2417,force_strike:240,skill_1:1862,skill_2:559,skill_3:677,dx:4313,ds:1860
-10349,_c_Rex,3*,water,axe,6719,Kung_Fu_Masters,His_Clever_Brother,Leviathan,HDT2,Blade,Xander,Yurius,Weapon,,!<hp60 & hit10>,,attack:2139,force_strike:215,skill_1:1605,skill_2:481,skill_3:583,dx:3718,ds:1604
+12663,Rex,3*,water,axe,7218,Kung_Fu_Masters,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Yurius,Weapon,,<hp60 & hit10>,,attack:2631,force_strike:358,skill_1:2095,skill_2:629,dx:4854,ds:2094
+10983,_c_Rex,3*,water,axe,7008,Kung_Fu_Masters,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Yurius,Weapon,,!<hp60 & hit10>,,attack:2326,force_strike:317,skill_1:1806,skill_2:542,dx:4184,ds:1805
 -,120,_
-11203,Rex,3*,water,axe,6946,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,HDT2,Blade,Xander,Dagger,Weapon,,<hp60 & hit10 & hp70 & hit15>,,attack:2754,force_strike:202,skill_1:2340,skill_2:801,skill_3:647,dx:3566,ds:889
-7919,_c_Rex,3*,water,axe,6744,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,HDT2,Blade,Xander,Dagger,Weapon,,!<hp60 & hit10 & hp70 & hit15>,,attack:1981,force_strike:147,skill_1:1660,skill_2:560,skill_3:452,dx:2494,ds:622
+12409,Rex,3*,water,axe,7243,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Blade,Xander,Dagger,Weapon,,<hp60 & hit10 & hp70 & hit15>,,attack:3193,force_strike:317,skill_1:2611,skill_2:1192,dx:4101,ds:992
+8819,_c_Rex,3*,water,axe,7032,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Blade,Xander,Dagger,Weapon,,!<hp60 & hit10 & hp70 & hit15>,,attack:2301,force_strike:230,skill_1:1863,skill_2:839,dx:2886,ds:698
 -,120,affliction
-11783,Rex,3*,water,axe,6904,Primal_Crisis,His_Clever_Brother,Leviathan,HDT2,Blade,Xander,Dagger,Weapon,,<hp60 & hit10 & hit15>,,attack:3105,force_strike:280,skill_1:2067,skill_2:712,skill_3:575,dx:4249,ds:790
-8611,_c_Rex,3*,water,axe,6703,Primal_Crisis,His_Clever_Brother,Leviathan,HDT2,Blade,Xander,Dagger,Weapon,,!<hp60 & hit10 & hit15>,,attack:2319,force_strike:211,skill_1:1520,skill_2:513,skill_3:414,dx:3061,ds:569
+13075,Rex,3*,water,axe,7202,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Dagger,Weapon,,<hp60 & hit10 & hit15>,,attack:3681,force_strike:366,skill_1:2316,skill_2:1064,dx:4760,ds:885
+9586,_c_Rex,3*,water,axe,6992,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Dagger,Weapon,,!<hp60 & hit10 & hit15>,,attack:2746,force_strike:274,skill_1:1710,skill_2:770,dx:3443,ds:640
 -,180,_
-10597,Rex,3*,water,axe,6928,Summer_Paladyns,Primal_Crisis,Leviathan,HDT2,Blade,Xander,Dagger,Weapon,,<hp60 & hit10 & hit15>,,attack:2893,force_strike:266,skill_1:2650,skill_2:1115,skill_3:675,dx:2376,ds:619
-7709,_c_Rex,3*,water,axe,6726,Summer_Paladyns,Primal_Crisis,Leviathan,HDT2,Blade,Xander,Dagger,Weapon,,!<hp60 & hit10 & hit15>,,attack:2130,force_strike:196,skill_1:1933,skill_2:803,skill_3:486,dx:1711,ds:445
+11569,Rex,3*,water,axe,7225,Summer_Paladyns,Primal_Crisis,Leviathan,Agito1,Blade,Xander,Dagger,Weapon,,<hp60 & hit10 & hit15>,,attack:3411,force_strike:386,skill_1:3186,skill_2:1244,dx:2649,ds:690
+8447,_c_Rex,3*,water,axe,7015,Summer_Paladyns,Primal_Crisis,Leviathan,Agito1,Blade,Xander,Dagger,Weapon,,!<hp60 & hit10 & hit15>,,attack:2514,force_strike:285,skill_1:2332,skill_2:900,dx:1916,ds:499
 -,180,affliction
-10886,Rex,3*,water,axe,6921,Kung_Fu_Masters,His_Clever_Brother,Leviathan,HDT2,Blade,Xander,Yurius,Weapon,,<hp60 & hit10>,,attack:2966,force_strike:305,skill_1:2507,skill_2:1129,skill_3:911,dx:2438,ds:626
-9406,_c_Rex,3*,water,axe,6719,Kung_Fu_Masters,His_Clever_Brother,Leviathan,HDT2,Blade,Xander,Yurius,Weapon,,!<hp60 & hit10>,,attack:2575,force_strike:266,skill_1:2161,skill_2:973,skill_3:785,dx:2102,ds:540
+11922,Rex,3*,water,axe,7218,Kung_Fu_Masters,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Yurius,Weapon,,<hp60 & hit10>,,attack:3511,force_strike:434,skill_1:3276,skill_2:1264,dx:2732,ds:701
+10300,_c_Rex,3*,water,axe,7008,Kung_Fu_Masters,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Yurius,Weapon,,!<hp60 & hit10>,,attack:3046,force_strike:377,skill_1:2824,skill_2:1090,dx:2355,ds:604
