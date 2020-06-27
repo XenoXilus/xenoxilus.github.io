@@ -1,15 +1,15 @@
 -,60,_
-24902,Forte,5*,shadow,lance,6608,The_Red_Impulse,Heralds_of_Hinomoto,Epimetheus,Agito1,Ieyasu,Wand,Bow,Weapon,,<>,Cleo coab hits 10 stack buff limit; 67% poison uptime,attack:2609,force_strike:398,skill_1:8052,skill_2:7979,dx:2225,ds_poison:660,ds:2976
+23103,Forte,5*,shadow,lance,6608,The_Red_Impulse,Heralds_of_Hinomoto,Epimetheus,Agito1,Ieyasu,Wand,Cleo,Weapon,,<>,62% poison uptime,attack:2973,force_strike:429,skill_1:8760,skill_2:5956,dx:2546,ds_poison:657,ds:1778
 -,60,affliction
-39312,Forte,5*,shadow,lance,5948,The_Red_Impulse,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Bow,Weapon,,<hp100>,Cleo coab hits 10 stack buff limit,attack:2708,force_strike:471,skill_1:13248,skill_2:13291,team_energy:1245,dx:2349,ds:5996
-35082,_c_Forte,5*,shadow,lance,5287,The_Red_Impulse,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Bow,Weapon,,!<hp100>,Cleo coab hits 10 stack buff limit,attack:2407,force_strike:419,skill_1:11776,skill_2:11814,team_energy:1245,dx:2088,ds:5329
+35011,Forte,5*,shadow,lance,5948,The_Red_Impulse,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Cleo,Weapon,,<hp100>,,attack:3257,force_strike:354,skill_1:12130,skill_2:8515,team_energy:1246,dx:2671,ds:6835
+31260,_c_Forte,5*,shadow,lance,5287,The_Red_Impulse,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Cleo,Weapon,,!<hp100>,,attack:2895,force_strike:314,skill_1:10783,skill_2:7569,team_energy:1246,dx:2374,ds:6075
 -,120,_
-30862,Forte,5*,shadow,lance,6608,The_Red_Impulse,Heralds_of_Hinomoto,Epimetheus,Agito1,Ieyasu,Wand,Bow,Weapon,,<>,Cleo coab hits 10 stack buff limit; 74% poison uptime,attack:3191,force_strike:657,skill_1:12034,skill_2:10359,dx:1600,ds_poison:845,ds:2173
+30709,Forte,5*,shadow,lance,6608,The_Red_Impulse,Heralds_of_Hinomoto,Epimetheus,Agito1,Ieyasu,Wand,Cleo,Weapon,,<>,73% poison uptime,attack:3790,force_strike:593,skill_1:12306,skill_2:8769,dx:1856,ds_poison:865,ds:2527
 -,120,affliction
-41535,Forte,5*,shadow,lance,5948,The_Red_Impulse,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Bow,Weapon,,<hp100>,Cleo coab hits 10 stack buff limit,attack:3500,force_strike:427,skill_1:17023,skill_2:13832,team_energy:833,dx:1645,ds:4272
-37013,_c_Forte,5*,shadow,lance,5287,The_Red_Impulse,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Bow,Weapon,,!<hp100>,Cleo coab hits 10 stack buff limit,attack:3111,force_strike:380,skill_1:15132,skill_2:12295,team_energy:833,dx:1462,ds:3797
+41716,Forte,5*,shadow,lance,5948,The_Red_Impulse,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Cleo,Weapon,,<hp100>,,attack:3935,force_strike:548,skill_1:17382,skill_2:12201,team_energy:831,dx:1892,ds:4925
+37173,_c_Forte,5*,shadow,lance,5287,The_Red_Impulse,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Cleo,Weapon,,!<hp100>,,attack:3498,force_strike:487,skill_1:15450,skill_2:10846,team_energy:831,dx:1682,ds:4377
 -,180,_
-33289,Forte,5*,shadow,lance,6608,The_Red_Impulse,Heralds_of_Hinomoto,Epimetheus,Agito1,Ieyasu,Wand,Bow,Weapon,,<>,Cleo coab hits 10 stack buff limit; 78% poison uptime,attack:3532,force_strike:794,skill_1:13787,skill_2:11892,dx:1137,ds_poison:658,ds:1486
+33332,Forte,5*,shadow,lance,6608,The_Red_Impulse,Heralds_of_Hinomoto,Epimetheus,Agito1,Ieyasu,Wand,Cleo,Weapon,,<>,73% poison uptime,attack:4252,force_strike:607,skill_1:14153,skill_2:11029,dx:1137,ds_poison:599,ds:1552
 -,180,affliction
-44274,Forte,5*,shadow,lance,5948,The_Red_Impulse,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Bow,Weapon,,<hp100>,Cleo coab hits 10 stack buff limit,attack:3516,force_strike:715,skill_1:19207,skill_2:15047,team_energy:693,dx:1407,ds:3687
-39432,_c_Forte,5*,shadow,lance,5287,The_Red_Impulse,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Bow,Weapon,,!<hp100>,Cleo coab hits 10 stack buff limit,attack:3125,force_strike:635,skill_1:17073,skill_2:13375,team_energy:693,dx:1250,ds:3277
+45687,Forte,5*,shadow,lance,5948,The_Red_Impulse,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Cleo,Weapon,,<hp100>,,attack:4340,force_strike:640,skill_1:19472,skill_2:14607,team_energy:693,dx:1635,ds:4295
+40688,_c_Forte,5*,shadow,lance,5287,The_Red_Impulse,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Cleo,Weapon,,!<hp100>,,attack:3858,force_strike:569,skill_1:17308,skill_2:12984,team_energy:693,dx:1454,ds:3818
