@@ -1,6 +1,6 @@
 -,sp,_
-31760,Natalie,5*,shadow,blade,8153,Heralds_of_Hinomoto,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,<hp≤40 & hit15 & hp=1>,,attack:6030,skill_1:23877,team_energy:277,dx:446,ds:1127
-13016,_c_Natalie,5*,shadow,blade,6320,Heralds_of_Hinomoto,Primal_Crisis,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,!<hp≤40 & hit15 & hp=1>,,attack:3934,skill_1:7789,team_energy:277,dx:287,ds:726
+49485,Natalie,5*,shadow,blade,6988,Heralds_of_Hinomoto,Primal_Crisis,Gala_Cat_Sith,Agito1,Wand,Curran,Berserker,Weapon,Veronica,<always connect hits & hp≤40 & hit15 & hp=1>,,attack:4940,skill_1:30372,skill_4:12167,dx:576,ds:1427
+18105,_c_Natalie,5*,shadow,blade,5417,Heralds_of_Hinomoto,Primal_Crisis,Gala_Cat_Sith,Agito1,Wand,Curran,Berserker,Weapon,Veronica,!<always connect hits & hp≤40 & hit15 & hp=1>,,attack:3156,skill_1:9148,skill_4:4844,dx:364,ds:591
 -,sp,affliction
-32487,Natalie,5*,shadow,blade,8143,Heralds_of_Hinomoto,The_Plaguebringer,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,<hp≤40 & hp=1>,,attack:6201,skill_1:24400,team_energy:277,dx:455,ds:1151
-16181,_c_Natalie,5*,shadow,blade,6312,Heralds_of_Hinomoto,The_Plaguebringer,Shinobi,Agito1,Wand,Curran,Berserker,Weapon,,!<hp≤40 & hp=1>,,attack:4912,skill_1:9725,team_energy:277,dx:358,ds:907
+52007,Natalie,5*,shadow,blade,6979,Heralds_of_Hinomoto,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Curran,Berserker,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,,attack:4981,skill_1:30403,skill_4:14615,dx:577,ds:1429
+23813,_c_Natalie,5*,shadow,blade,5410,Heralds_of_Hinomoto,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Curran,Berserker,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,,attack:3940,skill_1:11421,skill_4:7257,dx:454,ds:738

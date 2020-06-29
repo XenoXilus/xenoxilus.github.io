@@ -1,18 +1,18 @@
 -,60,_
-10744,Waike,3*,water,bow,6545,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Tiki,Weapon,,<100 bog res & hit10 & hit15>,,attack:1494,force_strike:1076,skill_1:1584,skill_2:342,dx:4652,ds:1593
-7973,_c_Waike,3*,water,bow,6545,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Tiki,Weapon,,!<100 bog res & hit10 & hit15>,,attack:1135,force_strike:795,skill_1:1170,skill_2:253,dx:3440,ds:1178
+10757,Waike,3*,water,bow,6545,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Tiki,Gala_Elisanne,Ranzal,<100 bog res & hit10 & hit15 & buff all team>,18% poison uptime,attack:1467,force_strike:1121,skill_1:1137,skill_2:321,skill_4:751,s4_poison:84,dx:4374,ds:1498
+7947,_c_Waike,3*,water,bow,6545,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Tiki,Gala_Elisanne,Ranzal,!<100 bog res & hit10 & hit15 & buff all team>,18% poison uptime,attack:1111,force_strike:825,skill_1:837,skill_2:236,skill_4:552,s4_poison:61,dx:3219,ds:1102
 -,60,affliction
-11536,Waike,3*,water,bow,6538,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Tiki,Weapon,,<100 bog res & hit10 & hit15>,,attack:1791,force_strike:921,skill_1:1460,skill_2:315,dx:5576,ds:1469
-8565,_c_Waike,3*,water,bow,6538,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Tiki,Weapon,,!<100 bog res & hit10 & hit15>,,attack:1360,force_strike:680,skill_1:1079,skill_2:233,dx:4124,ds:1086
+11461,Waike,3*,water,bow,6538,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Tiki,Gala_Elisanne,Ranzal,<100 bog res & hit10 & hit15 & buff all team>,18% poison uptime,attack:1758,force_strike:960,skill_1:1049,skill_2:296,skill_4:692,s4_poison:77,dx:5244,ds:1381
+8472,_c_Waike,3*,water,bow,6538,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Tiki,Gala_Elisanne,Ranzal,!<100 bog res & hit10 & hit15 & buff all team>,18% poison uptime,attack:1332,force_strike:706,skill_1:772,skill_2:218,skill_4:509,s4_poison:57,dx:3858,ds:1016
 -,120,_
-10196,Waike,3*,water,bow,6545,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Tiki,Weapon,,<100 bog res & hit10 & hit15>,,attack:1758,force_strike:1296,skill_1:1629,skill_2:697,dx:4001,ds:812
-7554,_c_Waike,3*,water,bow,6545,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Tiki,Weapon,,!<100 bog res & hit10 & hit15>,,attack:1315,force_strike:958,skill_1:1204,skill_2:516,dx:2958,ds:600
+11103,Waike,3*,water,bow,6545,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Tiki,Gala_Elisanne,Ranzal,<100 bog res & hit10 & hit15 & buff all team>,25% poison uptime,attack:1692,force_strike:1173,skill_1:1630,skill_2:486,skill_4:757,s4_poison:141,team_buff:746,dx:3720,ds:755
+7660,_c_Waike,3*,water,bow,6545,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Tiki,Gala_Elisanne,Ranzal,!<100 bog res & hit10 & hit15 & buff all team>,25% poison uptime,attack:1268,force_strike:869,skill_1:1209,skill_2:358,skill_4:557,s4_poison:104,dx:2737,ds:555
 -,120,affliction
-10910,Waike,3*,water,bow,6538,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Tiki,Weapon,,<100 bog res & hit10 & hit15>,,attack:2108,force_strike:1109,skill_1:1502,skill_2:643,dx:4796,ds:749
-8085,_c_Waike,3*,water,bow,6538,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Tiki,Weapon,,!<100 bog res & hit10 & hit15>,,attack:1577,force_strike:820,skill_1:1110,skill_2:475,dx:3546,ds:553
+11802,Waike,3*,water,bow,6538,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Tiki,Gala_Elisanne,Ranzal,<100 bog res & hit10 & hit15 & buff all team>,25% poison uptime,attack:1976,force_strike:990,skill_1:1458,skill_2:638,skill_4:698,s4_poison:130,team_buff:747,dx:4463,ds:697
+8175,_c_Waike,3*,water,bow,6538,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Tiki,Gala_Elisanne,Ranzal,!<100 bog res & hit10 & hit15 & buff all team>,25% poison uptime,attack:1482,force_strike:733,skill_1:1077,skill_2:473,skill_4:514,s4_poison:96,dx:3284,ds:512
 -,180,_
-9214,Waike,3*,water,bow,6545,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Tiki,Weapon,,<100 bog res & hit10 & hit15>,,attack:1931,force_strike:1345,skill_1:1910,skill_2:814,dx:2670,ds:542
-6823,_c_Waike,3*,water,bow,6545,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Tiki,Weapon,,!<100 bog res & hit10 & hit15>,,attack:1438,force_strike:994,skill_1:1412,skill_2:602,dx:1974,ds:400
+10828,Waike,3*,water,bow,6545,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Tiki,Gala_Elisanne,Ranzal,<100 bog res & hit10 & hit15 & buff all team>,29% poison uptime,attack:1867,force_strike:1359,skill_1:1719,skill_2:539,skill_4:1073,s4_poison:172,team_buff:992,dx:2534,ds:568
+7289,_c_Waike,3*,water,bow,6545,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Tiki,Gala_Elisanne,Ranzal,!<100 bog res & hit10 & hit15 & buff all team>,29% poison uptime,attack:1392,force_strike:1007,skill_1:1271,skill_2:396,skill_4:796,s4_poison:128,dx:1870,ds:424
 -,180,affliction
-9680,Waike,3*,water,bow,6538,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Tiki,Weapon,,<100 bog res & hit10 & hit15>,,attack:2315,force_strike:1151,skill_1:1761,skill_2:751,dx:3200,ds:499
-7170,_c_Waike,3*,water,bow,6538,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Tiki,Weapon,,!<100 bog res & hit10 & hit15>,,attack:1724,force_strike:851,skill_1:1302,skill_2:555,dx:2366,ds:369
+11221,Waike,3*,water,bow,6538,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Tiki,Gala_Elisanne,Ranzal,<100 bog res & hit10 & hit15 & buff all team>,26% poison uptime,attack:2271,force_strike:1190,skill_1:1476,skill_2:500,skill_4:1057,s4_poison:142,team_buff:998,dx:3055,ds:527
+7586,_c_Waike,3*,water,bow,6538,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Tiki,Gala_Elisanne,Ranzal,!<100 bog res & hit10 & hit15 & buff all team>,26% poison uptime,attack:1695,force_strike:884,skill_1:1092,skill_2:367,skill_4:790,s4_poison:105,dx:2255,ds:394

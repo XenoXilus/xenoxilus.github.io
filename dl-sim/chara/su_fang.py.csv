@@ -1,18 +1,18 @@
 -,60,_
-19741,Su_Fang,4*,wind,dagger,5578,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,<hit10 & hit15 & hp100>,49% poison uptime,attack:3001,force_strike:574,fs_poison:276,skill_1:9347,dx:1825,ds:4715
-15596,_c_Su_Fang,4*,wind,dagger,5355,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<hit10 & hit15 & hp100>,49% poison uptime,attack:2384,force_strike:456,fs_poison:218,skill_1:7364,dx:1442,ds:3729
+21381,Su_Fang,4*,wind,dagger,5578,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hit10 & hit15 & hp100>,47% poison uptime,attack:3009,force_strike:580,fs_poison:252,skill_1:8507,skill_4:4504,team_buff:174,dx:1585,ds:2766
+16964,_c_Su_Fang,4*,wind,dagger,5355,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hit10 & hit15 & hp100>,47% poison uptime,attack:2390,force_strike:461,fs_poison:200,skill_1:6708,skill_4:3577,team_buff:174,dx:1254,ds:2196
 -,60,affliction
-21547,Su_Fang,4*,wind,dagger,5578,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,<hit10 & hit15 & hp100>,,attack:3306,force_strike:626,fs_poison:331,skill_1:10286,dx:1879,ds:5116
-17004,_c_Su_Fang,4*,wind,dagger,5355,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<hit10 & hit15 & hp100>,,attack:2627,force_strike:498,fs_poison:262,skill_1:8085,dx:1485,ds:4044
+23375,Su_Fang,4*,wind,dagger,5578,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hit10 & hit15 & hp100>,,attack:3338,force_strike:646,fs_poison:303,skill_1:10055,skill_4:4504,team_buff:174,dx:1585,ds:2766
+18516,_c_Su_Fang,4*,wind,dagger,5355,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hit10 & hit15 & hp100>,,attack:2651,force_strike:514,fs_poison:240,skill_1:7906,skill_4:3577,team_buff:174,dx:1254,ds:2196
 -,120,_
-21165,Su_Fang,4*,wind,dagger,5578,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,<hit10 & hit15 & hp100>,65% poison uptime,attack:3646,force_strike:698,fs_poison:355,skill_1:13649,dx:823,ds:1991
-16750,_c_Su_Fang,4*,wind,dagger,5355,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<hit10 & hit15 & hp100>,65% poison uptime,attack:2892,force_strike:553,fs_poison:282,skill_1:10815,dx:645,ds:1560
+24863,Su_Fang,4*,wind,dagger,5578,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hit10 & hit15 & hp100>,62% poison uptime,attack:3433,force_strike:679,fs_poison:354,skill_1:11130,skill_4:5404,team_buff:262,dx:979,ds:2617
+19738,_c_Su_Fang,4*,wind,dagger,5355,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hit10 & hit15 & hp100>,62% poison uptime,attack:2720,force_strike:538,fs_poison:281,skill_1:8805,skill_4:4286,team_buff:262,dx:774,ds:2069
 -,120,affliction
-22484,Su_Fang,4*,wind,dagger,5578,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,<hit10 & hit15 & hp100>,,attack:3887,force_strike:734,fs_poison:427,skill_1:14167,dx:877,ds:2389
-17781,_c_Su_Fang,4*,wind,dagger,5355,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<hit10 & hit15 & hp100>,,attack:3083,force_strike:582,fs_poison:338,skill_1:11215,dx:687,ds:1872
+26130,Su_Fang,4*,wind,dagger,5578,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hit10 & hit15 & hp100>,,attack:3675,force_strike:733,fs_poison:425,skill_1:12031,skill_4:5404,team_buff:262,dx:979,ds:2617
+20728,_c_Su_Fang,4*,wind,dagger,5355,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hit10 & hit15 & hp100>,,attack:2912,force_strike:580,fs_poison:337,skill_1:9505,skill_4:4286,team_buff:262,dx:774,ds:2069
 -,180,_
-20791,Su_Fang,4*,wind,dagger,5578,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,<hit10 & hit15 & hp100>,70% poison uptime,attack:3917,force_strike:780,fs_poison:396,skill_1:13466,dx:619,ds:1611
-16466,_c_Su_Fang,4*,wind,dagger,5355,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<hit10 & hit15 & hp100>,70% poison uptime,attack:3104,force_strike:617,fs_poison:314,skill_1:10665,dx:489,ds:1274
+25186,Su_Fang,4*,wind,dagger,5578,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hit10 & hit15 & hp100>,66% poison uptime,attack:3619,force_strike:697,fs_poison:374,skill_1:12707,skill_4:5189,team_buff:233,dx:634,ds:1728
+20007,_c_Su_Fang,4*,wind,dagger,5355,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hit10 & hit15 & hp100>,66% poison uptime,attack:2865,force_strike:551,fs_poison:296,skill_1:10059,skill_4:4118,team_buff:233,dx:505,ds:1375
 -,180,affliction
-21944,Su_Fang,4*,wind,dagger,5578,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,<hit10 & hit15 & hp100>,,attack:4130,force_strike:812,fs_poison:475,skill_1:14135,dx:642,ds:1748
-17373,_c_Su_Fang,4*,wind,dagger,5355,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<hit10 & hit15 & hp100>,,attack:3273,force_strike:642,fs_poison:377,skill_1:11189,dx:507,ds:1381
+26482,Su_Fang,4*,wind,dagger,5578,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hit10 & hit15 & hp100>,,attack:3829,force_strike:738,fs_poison:449,skill_1:13284,skill_4:5341,team_buff:233,dx:700,ds:1906
+21028,_c_Su_Fang,4*,wind,dagger,5355,Twinfold_Bonds,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hit10 & hit15 & hp100>,,attack:3031,force_strike:583,fs_poison:356,skill_1:10509,skill_4:4238,team_buff:233,dx:557,ds:1517

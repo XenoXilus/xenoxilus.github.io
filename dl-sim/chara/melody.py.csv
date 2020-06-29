@@ -1,18 +1,18 @@
 -,60,_
-25972,Melody,3*,wind,blade,6897,A_Dogs_Day,From_Whence_He_Comes,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,,<hp100>,,attack:8274,force_strike:2722,team_buff:14975
-24940,_c_Melody,3*,wind,blade,6897,A_Dogs_Day,From_Whence_He_Comes,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,,!<hp100>,,attack:7497,force_strike:2467,team_buff:14975
+28326,Melody,3*,wind,blade,6897,A_Dogs_Day,From_Whence_He_Comes,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,Dragonyule_Xainfried,<hp100 & buff all team>,,attack:8886,force_strike:1895,team_buff:17543
+23160,_c_Melody,3*,wind,blade,6897,A_Dogs_Day,From_Whence_He_Comes,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,Dragonyule_Xainfried,!<hp100 & buff all team>,,attack:8143,force_strike:1735,team_buff:13280
 -,60,affliction
-28689,Melody,3*,wind,blade,7613,A_Dogs_Day,The_Fires_of_Hate,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,,<hp100>,,attack:10722,force_strike:3420,team_buff:14545
-26197,_c_Melody,3*,wind,blade,6921,A_Dogs_Day,The_Fires_of_Hate,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,,!<hp100>,,attack:8833,force_strike:2818,team_buff:14545
+29983,Melody,3*,wind,blade,7613,A_Dogs_Day,The_Fires_of_Hate,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,Dragonyule_Xainfried,<hp100 & buff all team>,,attack:11294,force_strike:2150,team_buff:16538
+23922,_c_Melody,3*,wind,blade,6921,A_Dogs_Day,The_Fires_of_Hate,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,Dragonyule_Xainfried,!<hp100 & buff all team>,,attack:9399,force_strike:1787,team_buff:12734
 -,120,_
-28927,Melody,3*,wind,blade,6897,A_Dogs_Day,From_Whence_He_Comes,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,,<hp100>,,attack:8825,force_strike:2946,team_buff:17154
-27822,_c_Melody,3*,wind,blade,6897,A_Dogs_Day,From_Whence_He_Comes,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,,!<hp100>,,attack:7997,force_strike:2669,team_buff:17154
+31778,Melody,3*,wind,blade,6897,A_Dogs_Day,From_Whence_He_Comes,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,Dragonyule_Xainfried,<hp100 & buff all team>,,attack:9388,force_strike:1947,team_buff:20442
+25789,_c_Melody,3*,wind,blade,6897,A_Dogs_Day,From_Whence_He_Comes,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,Dragonyule_Xainfried,!<hp100 & buff all team>,,attack:8613,force_strike:1783,team_buff:15391
 -,120,affliction
-32164,Melody,3*,wind,blade,7613,A_Dogs_Day,The_Fires_of_Hate,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,,<hp100>,,attack:11334,force_strike:3613,team_buff:17215
-29529,_c_Melody,3*,wind,blade,6921,A_Dogs_Day,The_Fires_of_Hate,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,,!<hp100>,,attack:9337,force_strike:2976,team_buff:17215
+34355,Melody,3*,wind,blade,7613,A_Dogs_Day,The_Fires_of_Hate,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,Dragonyule_Xainfried,<hp100 & buff all team>,,attack:12123,force_strike:2561,team_buff:19669
+27141,_c_Melody,3*,wind,blade,6921,A_Dogs_Day,The_Fires_of_Hate,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,Dragonyule_Xainfried,!<hp100 & buff all team>,,attack:10104,force_strike:2132,team_buff:14904
 -,180,_
-30643,Melody,3*,wind,blade,6897,A_Dogs_Day,From_Whence_He_Comes,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,,<hp100>,,attack:9040,force_strike:3120,team_buff:18482
-29502,_c_Melody,3*,wind,blade,6897,A_Dogs_Day,From_Whence_He_Comes,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,,!<hp100>,,attack:8192,force_strike:2827,team_buff:18482
+33352,Melody,3*,wind,blade,6897,A_Dogs_Day,From_Whence_He_Comes,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,Dragonyule_Xainfried,<hp100 & buff all team>,,attack:9643,force_strike:1976,team_buff:21732
+26897,_c_Melody,3*,wind,blade,6897,A_Dogs_Day,From_Whence_He_Comes,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,Dragonyule_Xainfried,!<hp100 & buff all team>,,attack:8853,force_strike:1811,team_buff:16232
 -,180,affliction
-33240,Melody,3*,wind,blade,7613,A_Dogs_Day,The_Fires_of_Hate,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,,<hp100>,,attack:11583,force_strike:3803,team_buff:17853
-30529,_c_Melody,3*,wind,blade,6921,A_Dogs_Day,The_Fires_of_Hate,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,,!<hp100>,,attack:9542,force_strike:3132,team_buff:17853
+35796,Melody,3*,wind,blade,7613,A_Dogs_Day,The_Fires_of_Hate,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,Dragonyule_Xainfried,<hp100 & buff all team>,,attack:12416,force_strike:2606,team_buff:20773
+28176,_c_Melody,3*,wind,blade,6921,A_Dogs_Day,The_Fires_of_Hate,Ariel,Agito1,Bow,Tobias,Tiki,Weapon,Dragonyule_Xainfried,!<hp100 & buff all team>,,attack:10353,force_strike:2170,team_buff:15651

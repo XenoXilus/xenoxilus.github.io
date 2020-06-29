@@ -1,18 +1,18 @@
 -,60,_
-11386,Templar_Hope,4*,wind,sword,7075,The_Shining_Overlord,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,,<maintain shield & hp60 & hp70>,,attack:2960,force_strike:1731,skill_2:2011,dx:3921,ds:761
-8899,_c_Templar_Hope,4*,wind,sword,6317,The_Shining_Overlord,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,,!<maintain shield & hp60 & hp70>,,attack:2360,force_strike:1378,skill_2:1589,dx:2990,ds:580
+13083,Templar_Hope,4*,wind,sword,7075,The_Shining_Overlord,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,Curran,<maintain shield & hp60 & hp70>,,attack:2706,force_strike:1546,skill_2:2070,skill_4:1714,team_buff:350,dx:3930,ds:763
+10275,_c_Templar_Hope,4*,wind,sword,6317,The_Shining_Overlord,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,Curran,!<maintain shield & hp60 & hp70>,,attack:2168,force_strike:1237,skill_2:1634,skill_4:1304,team_buff:350,dx:2997,ds:581
 -,60,affliction
-13610,Templar_Hope,4*,wind,sword,7321,The_Shining_Overlord,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,,<maintain shield & hp60 & hp100>,,attack:3540,force_strike:2070,skill_2:2404,dx:4684,ds:909
-10358,_c_Templar_Hope,4*,wind,sword,6339,The_Shining_Overlord,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,,!<maintain shield & hp60 & hp100>,,attack:2747,force_strike:1604,skill_2:1849,dx:3480,ds:675
+16798,Templar_Hope,4*,wind,sword,7321,The_Shining_Overlord,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,Curran,<maintain shield & hp60 & hp100>,,attack:3237,force_strike:1849,skill_2:2475,skill_4:3277,team_buff:350,dx:4694,ds:911
+12812,_c_Templar_Hope,4*,wind,sword,6339,The_Shining_Overlord,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,Curran,!<maintain shield & hp60 & hp100>,,attack:2523,force_strike:1440,skill_2:1902,skill_4:2429,team_buff:350,dx:3488,ds:677
 -,120,_
-11941,Templar_Hope,4*,wind,sword,7075,The_Shining_Overlord,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,,<maintain shield & hp60 & hp70>,,attack:3222,force_strike:1848,skill_2:2301,dx:3755,ds:813
-9214,_c_Templar_Hope,4*,wind,sword,6317,The_Shining_Overlord,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,,!<maintain shield & hp60 & hp70>,,attack:2506,force_strike:1437,skill_2:1780,dx:2868,ds:621
+13960,Templar_Hope,4*,wind,sword,7075,The_Shining_Overlord,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,Curran,<maintain shield & hp60 & hp70>,,attack:2946,force_strike:1673,skill_2:2104,skill_4:2161,team_buff:437,dx:3803,ds:833
+10855,_c_Templar_Hope,4*,wind,sword,6317,The_Shining_Overlord,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,Curran,!<maintain shield & hp60 & hp70>,,attack:2296,force_strike:1304,skill_2:1630,skill_4:1644,team_buff:437,dx:2905,ds:637
 -,120,affliction
-14269,Templar_Hope,4*,wind,sword,7321,The_Shining_Overlord,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,,<maintain shield & hp60 & hp100>,,attack:3851,force_strike:2209,skill_2:2750,dx:4485,ds:971
-10724,_c_Templar_Hope,4*,wind,sword,6339,The_Shining_Overlord,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,,!<maintain shield & hp60 & hp100>,,attack:2917,force_strike:1672,skill_2:2072,dx:3338,ds:723
+18145,Templar_Hope,4*,wind,sword,7321,The_Shining_Overlord,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,Curran,<maintain shield & hp60 & hp100>,,attack:3521,force_strike:2000,skill_2:2514,skill_4:4130,team_buff:437,dx:4543,ds:996
+13712,_c_Templar_Hope,4*,wind,sword,6339,The_Shining_Overlord,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,Curran,!<maintain shield & hp60 & hp100>,,attack:2672,force_strike:1517,skill_2:1897,skill_4:3062,team_buff:437,dx:3381,ds:741
 -,180,_
-11534,Templar_Hope,4*,wind,sword,7075,The_Shining_Overlord,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,,<maintain shield & hp60 & hp70>,,attack:3596,force_strike:2071,skill_2:2826,dx:2498,ds:541
-8865,_c_Templar_Hope,4*,wind,sword,6317,The_Shining_Overlord,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,,!<maintain shield & hp60 & hp70>,,attack:2774,force_strike:1597,skill_2:2172,dx:1908,ds:413
+13530,Templar_Hope,4*,wind,sword,7075,The_Shining_Overlord,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,Curran,<maintain shield & hp60 & hp70>,,attack:3303,force_strike:1889,skill_2:2526,skill_4:2322,team_buff:408,dx:2523,ds:554
+10483,_c_Templar_Hope,4*,wind,sword,6317,The_Shining_Overlord,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,Curran,!<maintain shield & hp60 & hp70>,,attack:2551,force_strike:1458,skill_2:1943,skill_4:1768,team_buff:408,dx:1928,ds:423
 -,180,affliction
-13780,Templar_Hope,4*,wind,sword,7321,The_Shining_Overlord,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,,<maintain shield & hp60 & hp100>,,attack:4297,force_strike:2474,skill_2:3377,dx:2984,ds:646
-10319,_c_Templar_Hope,4*,wind,sword,6339,The_Shining_Overlord,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,,!<maintain shield & hp60 & hp100>,,attack:3229,force_strike:1858,skill_2:2528,dx:2221,ds:481
+17751,Templar_Hope,4*,wind,sword,7321,The_Shining_Overlord,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,Curran,<maintain shield & hp60 & hp100>,,attack:3948,force_strike:2257,skill_2:3018,skill_4:4439,team_buff:408,dx:3014,ds:662
+13369,_c_Templar_Hope,4*,wind,sword,6339,The_Shining_Overlord,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Tiki,Weapon,Curran,!<maintain shield & hp60 & hp100>,,attack:2969,force_strike:1697,skill_2:2261,skill_4:3292,team_buff:408,dx:2244,ds:493

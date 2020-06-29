@@ -1,18 +1,18 @@
 -,60,_
-16734,Melsa,4*,flame,dagger,8610,Twinfold_Bonds,Stellar_Show,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,<hit15 & hit10 & hp50>,,attack:2046,force_strike:2767,skill_1:2915,skill_2:1400,dx:5105,ds:2498
-11015,_c_Melsa,4*,flame,dagger,7704,Twinfold_Bonds,Stellar_Show,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,!<hit15 & hit10 & hp50>,,attack:1364,force_strike:1829,skill_1:1904,skill_2:920,dx:3364,ds:1631
+18218,Melsa,4*,flame,dagger,8610,Twinfold_Bonds,Stellar_Show,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,Ranzal,<hit15 & hit10 & hp50>,16% poison uptime,attack:1894,force_strike:2621,skill_1:2827,skill_2:1407,skill_4:1640,s4_poison:183,dx:5130,ds:2510
+11985,_c_Melsa,4*,flame,dagger,7704,Twinfold_Bonds,Stellar_Show,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,Ranzal,!<hit15 & hit10 & hp50>,16% poison uptime,attack:1264,force_strike:1733,skill_1:1840,skill_2:925,skill_4:1078,s4_poison:120,dx:3381,ds:1639
 -,60,affliction
-19781,Melsa,4*,flame,dagger,8608,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,<hit15 & hit10 & hp50>,,attack:2563,force_strike:2309,skill_1:3646,skill_2:1751,dx:6384,ds:3124
-13303,_c_Melsa,4*,flame,dagger,7702,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,!<hit15 & hit10 & hp50>,,attack:1743,force_strike:1559,skill_1:2434,skill_2:1177,dx:4301,ds:2086
+21697,Melsa,4*,flame,dagger,8608,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,Ranzal,<hit15 & hit10 & hp50>,16% poison uptime,attack:2373,force_strike:2188,skill_1:3536,skill_2:1760,skill_4:2051,s4_poison:230,dx:6416,ds:3140
+14583,_c_Melsa,4*,flame,dagger,7702,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,Ranzal,!<hit15 & hit10 & hp50>,16% poison uptime,attack:1616,force_strike:1477,skill_1:2352,skill_2:1182,skill_4:1378,s4_poison:154,dx:4323,ds:2096
 -,120,_
-16694,Melsa,4*,flame,dagger,8610,Twinfold_Bonds,Stellar_Show,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,<hit15 & hit10 & hp50>,,attack:2047,force_strike:2818,skill_1:3141,skill_2:1304,dx:4892,ds:2489
-10935,_c_Melsa,4*,flame,dagger,7704,Twinfold_Bonds,Stellar_Show,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,!<hit15 & hit10 & hp50>,,attack:1346,force_strike:1844,skill_1:2043,skill_2:851,dx:3223,ds:1625
+17940,Melsa,4*,flame,dagger,8610,Twinfold_Bonds,Stellar_Show,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,Ranzal,<hit15 & hit10 & hp50>,25% poison uptime,attack:1966,force_strike:2738,skill_1:2751,skill_2:1303,skill_4:1518,s4_poison:283,dx:4889,ds:2487
+11747,_c_Melsa,4*,flame,dagger,7704,Twinfold_Bonds,Stellar_Show,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,Ranzal,!<hit15 & hit10 & hp50>,25% poison uptime,attack:1292,force_strike:1791,skill_1:1786,skill_2:851,skill_4:992,s4_poison:185,dx:3221,ds:1624
 -,120,affliction
-19706,Melsa,4*,flame,dagger,8608,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,<hit15 & hit10 & hp50>,,attack:2562,force_strike:2351,skill_1:3928,skill_2:1631,dx:6118,ds:3113
-13194,_c_Melsa,4*,flame,dagger,7702,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,!<hit15 & hit10 & hp50>,,attack:1720,force_strike:1572,skill_1:2612,skill_2:1088,dx:4121,ds:2078
+21297,Melsa,4*,flame,dagger,8608,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,Ranzal,<hit15 & hit10 & hp50>,25% poison uptime,attack:2460,force_strike:2284,skill_1:3440,skill_2:1630,skill_4:1899,s4_poison:355,dx:6115,ds:3111
+14254,_c_Melsa,4*,flame,dagger,7702,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,Ranzal,!<hit15 & hit10 & hp50>,25% poison uptime,attack:1652,force_strike:1527,skill_1:2284,skill_2:1088,skill_4:1268,s4_poison:237,dx:4119,ds:2077
 -,180,_
-15558,Melsa,4*,flame,dagger,8610,Twinfold_Bonds,Stellar_Show,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,<hit15 & hit10 & hp50>,,attack:2268,force_strike:3143,skill_1:3309,skill_2:1750,dx:3413,ds:1670
-10179,_c_Melsa,4*,flame,dagger,7704,Twinfold_Bonds,Stellar_Show,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,!<hit15 & hit10 & hp50>,,attack:1485,force_strike:2053,skill_1:2155,skill_2:1143,dx:2250,ds:1091
+17310,Melsa,4*,flame,dagger,8610,Twinfold_Bonds,Stellar_Show,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,Ranzal,<hit15 & hit10 & hp50>,26% poison uptime,attack:2121,force_strike:2937,skill_1:3282,skill_2:1550,skill_4:2043,s4_poison:279,dx:3420,ds:1673
+11320,_c_Melsa,4*,flame,dagger,7704,Twinfold_Bonds,Stellar_Show,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,Ranzal,!<hit15 & hit10 & hp50>,26% poison uptime,attack:1388,force_strike:1918,skill_1:2134,skill_2:1013,skill_4:1334,s4_poison:182,dx:2254,ds:1093
 -,180,affliction
-18148,Melsa,4*,flame,dagger,8608,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,<hit15 & hit10 & hp50>,,attack:2838,force_strike:2622,skill_1:4139,skill_2:2189,dx:4269,ds:2089
-12138,_c_Melsa,4*,flame,dagger,7702,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,,!<hit15 & hit10 & hp50>,,attack:1899,force_strike:1750,skill_1:2755,skill_2:1461,dx:2876,ds:1395
+20426,Melsa,4*,flame,dagger,8608,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,Ranzal,<hit15 & hit10 & hp50>,26% poison uptime,attack:2654,force_strike:2450,skill_1:4104,skill_2:1938,skill_4:2556,s4_poison:350,dx:4277,ds:2093
+13655,_c_Melsa,4*,flame,dagger,7702,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Serena,Marth,Weapon,Ranzal,!<hit15 & hit10 & hp50>,26% poison uptime,attack:1775,force_strike:1634,skill_1:2729,skill_2:1295,skill_4:1706,s4_poison:233,dx:2882,ds:1397

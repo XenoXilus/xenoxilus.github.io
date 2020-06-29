@@ -1,18 +1,18 @@
 -,60,_
-18080,Audric,4*,shadow,sword,5565,The_Shining_Overlord,Beautiful_Nothingness,Shinobi,Agito1,Ieyasu,Tiki,Forte,Weapon,,<hp70>,,attack:1589,force_strike:573,skill_1:2932,skill_2:1313,team_energy:824,dx:8342,ds:2503
-16753,_c_Audric,4*,shadow,sword,5137,The_Shining_Overlord,Beautiful_Nothingness,Shinobi,Agito1,Ieyasu,Tiki,Forte,Weapon,,!<hp70>,,attack:1467,force_strike:529,skill_1:2706,skill_2:1212,team_energy:824,dx:7700,ds:2311
+22442,Audric,4*,shadow,sword,4709,The_Shining_Overlord,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Ieyasu,Tiki,Forte,Weapon,Curran,<always connect hits & hp70>,,attack:2056,force_strike:723,skill_1:5905,skill_2:2892,skill_4:2240,team_buff:350,dx:2775,ds:5498
+20433,_c_Audric,4*,shadow,sword,4281,The_Shining_Overlord,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Ieyasu,Tiki,Forte,Weapon,Curran,!<always connect hits & hp70>,,attack:1869,force_strike:657,skill_1:5369,skill_2:2629,skill_4:2036,team_buff:350,dx:2522,ds:4998
 -,60,affliction
-21755,Audric,4*,shadow,sword,5798,The_Shining_Overlord,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Tiki,Forte,Weapon,,<hp100>,,attack:1921,force_strike:692,skill_1:3544,skill_2:1587,team_energy:824,dx:10140,ds:3043
-19430,_c_Audric,4*,shadow,sword,5154,The_Shining_Overlord,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Tiki,Forte,Weapon,,!<hp100>,,attack:1707,force_strike:615,skill_1:3150,skill_2:1411,team_energy:824,dx:9013,ds:2705
+28923,Audric,4*,shadow,sword,4939,The_Shining_Overlord,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Tiki,Forte,Weapon,Curran,<always connect hits & hp100>,,attack:2501,force_strike:879,skill_1:7186,skill_2:3518,skill_4:4361,team_buff:350,dx:3396,ds:6729
+25196,_c_Audric,4*,shadow,sword,4295,The_Shining_Overlord,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Tiki,Forte,Weapon,Curran,!<always connect hits & hp100>,,attack:2175,force_strike:765,skill_1:6248,skill_2:3059,skill_4:3792,team_buff:350,dx:2953,ds:5851
 -,120,_
-18438,Audric,4*,shadow,sword,5565,The_Shining_Overlord,Beautiful_Nothingness,Shinobi,Agito1,Ieyasu,Tiki,Forte,Weapon,,<hp70>,,attack:2191,force_strike:815,skill_1:3888,skill_2:1852,team_energy:623,dx:6973,ds:2092
-17068,_c_Audric,4*,shadow,sword,5137,The_Shining_Overlord,Beautiful_Nothingness,Shinobi,Agito1,Ieyasu,Tiki,Forte,Weapon,,!<hp70>,,attack:2022,force_strike:752,skill_1:3589,skill_2:1709,team_energy:623,dx:6436,ds:1931
+23019,Audric,4*,shadow,sword,4709,The_Shining_Overlord,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Ieyasu,Tiki,Forte,Weapon,Curran,<always connect hits & hp70>,,attack:2393,force_strike:898,skill_1:7011,skill_2:3471,skill_4:3037,team_buff:350,dx:1964,ds:3891
+20959,_c_Audric,4*,shadow,sword,4281,The_Shining_Overlord,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Ieyasu,Tiki,Forte,Weapon,Curran,!<always connect hits & hp70>,,attack:2175,force_strike:817,skill_1:6374,skill_2:3156,skill_4:2760,team_buff:350,dx:1785,ds:3538
 -,120,affliction
-22217,Audric,4*,shadow,sword,5798,The_Shining_Overlord,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Tiki,Forte,Weapon,,<hp100>,,attack:2648,force_strike:985,skill_1:4699,skill_2:2238,team_energy:623,dx:8476,ds:2544
-19818,_c_Audric,4*,shadow,sword,5154,The_Shining_Overlord,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Tiki,Forte,Weapon,,!<hp100>,,attack:2354,force_strike:876,skill_1:4177,skill_2:1990,team_energy:623,dx:7534,ds:2261
+30191,Audric,4*,shadow,sword,4939,The_Shining_Overlord,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Tiki,Forte,Weapon,Curran,<always connect hits & hp100>,,attack:2912,force_strike:1093,skill_1:8531,skill_2:4224,skill_4:5912,team_buff:350,dx:2403,ds:4762
+26299,_c_Audric,4*,shadow,sword,4295,The_Shining_Overlord,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Tiki,Forte,Weapon,Curran,!<always connect hits & hp100>,,attack:2532,force_strike:951,skill_1:7418,skill_2:3673,skill_4:5141,team_buff:350,dx:2090,ds:4141
 -,180,_
-18803,Audric,4*,shadow,sword,5565,The_Shining_Overlord,Beautiful_Nothingness,Shinobi,Agito1,Ieyasu,Tiki,Forte,Weapon,,<hp70>,,attack:2415,force_strike:910,skill_1:4389,skill_2:2097,team_energy:554,dx:6487,ds:1947
-17400,_c_Audric,4*,shadow,sword,5137,The_Shining_Overlord,Beautiful_Nothingness,Shinobi,Agito1,Ieyasu,Tiki,Forte,Weapon,,!<hp70>,,attack:2229,force_strike:840,skill_1:4052,skill_2:1936,team_energy:554,dx:5988,ds:1797
+23008,Audric,4*,shadow,sword,4709,The_Shining_Overlord,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Ieyasu,Tiki,Forte,Weapon,Curran,<always connect hits & hp70>,,attack:2578,force_strike:961,skill_1:7562,skill_2:3665,skill_4:3009,team_buff:409,dx:1617,ds:3205
+20954,_c_Audric,4*,shadow,sword,4281,The_Shining_Overlord,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Ieyasu,Tiki,Forte,Weapon,Curran,!<always connect hits & hp70>,,attack:2343,force_strike:873,skill_1:6874,skill_2:3332,skill_4:2735,team_buff:409,dx:1470,ds:2913
 -,180,affliction
-22669,Audric,4*,shadow,sword,5798,The_Shining_Overlord,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Tiki,Forte,Weapon,,<hp100>,,attack:2919,force_strike:1101,skill_1:5305,skill_2:2535,team_energy:554,dx:7886,ds:2366
-20212,_c_Audric,4*,shadow,sword,5154,The_Shining_Overlord,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Tiki,Forte,Weapon,,!<hp100>,,attack:2595,force_strike:978,skill_1:4716,skill_2:2253,team_energy:554,dx:7009,ds:2103
+30137,Audric,4*,shadow,sword,4939,The_Shining_Overlord,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Tiki,Forte,Weapon,Curran,<always connect hits & hp100>,,attack:3137,force_strike:1169,skill_1:9201,skill_2:4460,skill_4:5857,team_buff:409,dx:1979,ds:3922
+26259,_c_Audric,4*,shadow,sword,4295,The_Shining_Overlord,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Tiki,Forte,Weapon,Curran,!<always connect hits & hp100>,,attack:2727,force_strike:1016,skill_1:8000,skill_2:3878,skill_4:5093,team_buff:409,dx:1721,ds:3410

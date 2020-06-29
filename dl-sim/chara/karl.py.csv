@@ -1,18 +1,18 @@
 -,60,_
-23233,Karl,4*,flame,sword,10144,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,,<hit15 & hp70 & hit10 & hp50>,,attack:6246,force_strike:4650,team_buff:2994,dx:7088,ds:2253
-16095,_c_Karl,4*,flame,sword,8412,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,,!<hit15 & hp70 & hit10 & hp50>,,attack:4072,force_strike:3022,team_buff:2994,dx:4557,ds:1447
+25141,Karl,4*,flame,sword,10144,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,Ranzal,<hit15 & hp70 & hit10 & hp50>,50% poison uptime,attack:5606,force_strike:4060,skill_4:2751,s4_poison:514,team_buff:3151,dx:6934,ds:2121
+17367,_c_Karl,4*,flame,sword,8412,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,Ranzal,!<hit15 & hp70 & hit10 & hp50>,50% poison uptime,attack:3663,force_strike:2644,skill_4:1767,s4_poison:330,team_buff:3151,dx:4452,ds:1357
 -,60,affliction
-26406,Karl,4*,flame,sword,9775,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,,<hit15 & hp70 & hit10 & hp50>,,attack:7825,force_strike:3884,team_buff:2994,dx:8879,ds:2822
-18143,_c_Karl,4*,flame,sword,8106,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,,!<hit15 & hp70 & hit10 & hp50>,,attack:5101,force_strike:2524,team_buff:2994,dx:5709,ds:1813
+29002,Karl,4*,flame,sword,9775,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,Ranzal,<hit15 & hp70 & hit10 & hp50>,50% poison uptime,attack:7023,force_strike:3390,skill_4:3447,s4_poison:644,team_buff:3151,dx:8687,ds:2657
+19855,_c_Karl,4*,flame,sword,8106,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,Ranzal,!<hit15 & hp70 & hit10 & hp50>,50% poison uptime,attack:4588,force_strike:2208,skill_4:2214,s4_poison:413,team_buff:3151,dx:5578,ds:1700
 -,120,_
-23385,Karl,4*,flame,sword,10144,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,,<hit15 & hp70 & hit10 & hp50>,,attack:7289,force_strike:5578,team_buff:4638,dx:4186,ds:1691
-16706,_c_Karl,4*,flame,sword,8412,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,,!<hit15 & hp70 & hit10 & hp50>,,attack:4699,force_strike:3590,team_buff:4638,dx:2691,ds:1086
+25340,Karl,4*,flame,sword,10144,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,Ranzal,<hit15 & hp70 & hit10 & hp50>,50% poison uptime,attack:6358,force_strike:4845,skill_4:2672,s4_poison:499,team_buff:4137,dx:5134,ds:1691
+17776,_c_Karl,4*,flame,sword,8412,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,Ranzal,!<hit15 & hp70 & hit10 & hp50>,50% poison uptime,attack:4099,force_strike:3117,skill_4:1713,s4_poison:320,team_buff:4137,dx:3300,ds:1086
 -,120,affliction
-25793,Karl,4*,flame,sword,9775,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,,<hit15 & hp70 & hit10 & hp50>,,attack:9132,force_strike:4658,team_buff:4638,dx:5244,ds:2119
-18257,_c_Karl,4*,flame,sword,8106,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,,!<hit15 & hp70 & hit10 & hp50>,,attack:5886,force_strike:2998,team_buff:4638,dx:3371,ds:1361
+28675,Karl,4*,flame,sword,9775,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,Ranzal,<hit15 & hp70 & hit10 & hp50>,50% poison uptime,attack:7965,force_strike:4046,skill_4:3348,s4_poison:625,team_buff:4137,dx:6432,ds:2118
+19921,_c_Karl,4*,flame,sword,8106,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,Ranzal,!<hit15 & hp70 & hit10 & hp50>,50% poison uptime,attack:5135,force_strike:2603,skill_4:2146,s4_poison:401,team_buff:4137,dx:4135,ds:1361
 -,180,_
-23806,Karl,4*,flame,sword,10144,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,,<hit15 & hp70 & hit10 & hp50>,,attack:7331,force_strike:5576,team_buff:4663,dx:4731,ds:1503
-16968,_c_Karl,4*,flame,sword,8412,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,,!<hit15 & hp70 & hit10 & hp50>,,attack:4714,force_strike:3581,team_buff:4663,dx:3042,ds:966
+25853,Karl,4*,flame,sword,10144,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,Ranzal,<hit15 & hp70 & hit10 & hp50>,57% poison uptime,attack:6445,force_strike:4902,skill_4:3538,s4_poison:555,team_buff:4297,dx:4665,ds:1448
+18137,_c_Karl,4*,flame,sword,8412,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,Ranzal,!<hit15 & hp70 & hit10 & hp50>,57% poison uptime,attack:4141,force_strike:3145,skill_4:2268,s4_poison:355,team_buff:4297,dx:2998,ds:928
 -,180,affliction
-26316,Karl,4*,flame,sword,9775,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,,<hit15 & hp70 & hit10 & hp50>,,attack:9184,force_strike:4657,team_buff:4663,dx:5926,ds:1883
-18581,_c_Karl,4*,flame,sword,8106,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,,!<hit15 & hp70 & hit10 & hp50>,,attack:5905,force_strike:2991,team_buff:4663,dx:3811,ds:1210
+29253,Karl,4*,flame,sword,9775,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,Ranzal,<hit15 & hp70 & hit10 & hp50>,57% poison uptime,attack:8074,force_strike:4094,skill_4:4432,s4_poison:695,team_buff:4297,dx:5844,ds:1814
+20320,_c_Karl,4*,flame,sword,8106,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Tiki,Bow,Weapon,Ranzal,!<hit15 & hp70 & hit10 & hp50>,57% poison uptime,attack:5188,force_strike:2627,skill_4:2841,s4_poison:445,team_buff:4297,dx:3756,ds:1163

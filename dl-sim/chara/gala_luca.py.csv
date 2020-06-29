@@ -1,18 +1,18 @@
 -,60,_
-20620,Gala_Luca,5*,light,blade,6552,The_Wyrmclan_Duo,Primal_Crisis,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,,<hit15 & hp70>,,attack:4399,force_strike:185,skill_1:5948,skill_3:897,team_buff:665,dx:6708,ds:1813
-12859,_c_Gala_Luca,5*,light,blade,6552,The_Wyrmclan_Duo,Primal_Crisis,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,,!<hit15 & hp70>,,attack:2768,force_strike:120,skill_1:3590,skill_3:552,team_buff:665,dx:4001,ds:1158
+22210,Gala_Luca,5*,light,blade,6552,The_Wyrmclan_Duo,Primal_Crisis,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,Ranzal,<hit15 & hp70>,23% poison uptime,attack:4377,force_strike:107,skill_1:5923,skill_3:1164,skill_4:1304,s4_poison:195,team_buff:662,dx:6671,ds:1803
+13799,_c_Gala_Luca,5*,light,blade,6552,The_Wyrmclan_Duo,Primal_Crisis,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,Ranzal,!<hit15 & hp70>,23% poison uptime,attack:2754,force_strike:75,skill_1:3575,skill_3:676,skill_4:803,s4_poison:120,team_buff:662,dx:3979,ds:1152
 -,60,affliction
-22357,Gala_Luca,5*,light,blade,7205,The_Wyrmclan_Duo,Spirit_of_the_Season,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,,<hit15 & hp70 & hp100>,,attack:4806,force_strike:205,skill_1:6451,skill_3:974,team_buff:665,dx:7199,ds:2053
-15335,_c_Gala_Luca,5*,light,blade,6569,The_Wyrmclan_Duo,Spirit_of_the_Season,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,,!<hit15 & hp70 & hp100>,,attack:3330,force_strike:144,skill_1:4319,skill_3:665,team_buff:665,dx:4814,ds:1394
+24055,Gala_Luca,5*,light,blade,7205,The_Wyrmclan_Duo,Spirit_of_the_Season,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,Ranzal,<hit15 & hp70 & hp100>,23% poison uptime,attack:4782,force_strike:122,skill_1:6422,skill_3:1235,skill_4:1415,s4_poison:211,team_buff:662,dx:7159,ds:2042
+16468,_c_Gala_Luca,5*,light,blade,6569,The_Wyrmclan_Duo,Spirit_of_the_Season,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,Ranzal,!<hit15 & hp70 & hp100>,23% poison uptime,attack:3314,force_strike:90,skill_1:4301,skill_3:813,skill_4:966,s4_poison:144,team_buff:662,dx:4787,ds:1386
 -,120,_
-20759,Gala_Luca,5*,light,blade,6552,The_Wyrmclan_Duo,Primal_Crisis,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,,<hit15 & hp70>,,attack:5140,force_strike:160,skill_1:7226,skill_3:1743,team_buff:331,dx:4625,ds:1531
-12642,_c_Gala_Luca,5*,light,blade,6552,The_Wyrmclan_Duo,Primal_Crisis,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,,!<hit15 & hp70>,,attack:3102,force_strike:100,skill_1:4361,skill_3:1011,team_buff:331,dx:2768,ds:966
+22085,Gala_Luca,5*,light,blade,6552,The_Wyrmclan_Duo,Primal_Crisis,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,Ranzal,<hit15 & hp70>,25% poison uptime,attack:5038,force_strike:83,skill_1:7258,skill_3:1167,skill_4:1700,s4_poison:318,team_buff:333,dx:4635,ds:1549
+13414,_c_Gala_Luca,5*,light,blade,6552,The_Wyrmclan_Duo,Primal_Crisis,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,Ranzal,!<hit15 & hp70>,25% poison uptime,attack:3050,force_strike:56,skill_1:4376,skill_3:677,skill_4:982,s4_poison:184,team_buff:333,dx:2774,ds:979
 -,120,affliction
-22404,Gala_Luca,5*,light,blade,7205,The_Wyrmclan_Duo,Spirit_of_the_Season,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,,<hit15 & hp70 & hp100>,,attack:5529,force_strike:174,skill_1:7837,skill_3:1848,team_buff:331,dx:4967,ds:1715
-15142,_c_Gala_Luca,5*,light,blade,6569,The_Wyrmclan_Duo,Spirit_of_the_Season,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,,!<hit15 & hp70 & hp100>,,attack:3732,force_strike:120,skill_1:5247,skill_3:1216,team_buff:331,dx:3330,ds:1163
+23816,Gala_Luca,5*,light,blade,7205,The_Wyrmclan_Duo,Spirit_of_the_Season,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,Ranzal,<hit15 & hp70 & hp100>,25% poison uptime,attack:5426,force_strike:93,skill_1:7871,skill_3:1237,skill_4:1800,s4_poison:336,team_buff:333,dx:4979,ds:1735
+16071,_c_Gala_Luca,5*,light,blade,6569,The_Wyrmclan_Duo,Spirit_of_the_Season,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,Ranzal,!<hit15 & hp70 & hp100>,25% poison uptime,attack:3670,force_strike:67,skill_1:5265,skill_3:815,skill_4:1182,s4_poison:221,team_buff:333,dx:3337,ds:1177
 -,180,_
-20763,Gala_Luca,5*,light,blade,6552,The_Wyrmclan_Duo,Primal_Crisis,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,,<hit15 & hp70>,,attack:5310,force_strike:138,skill_1:7869,skill_3:1942,team_buff:442,dx:4030,ds:1027
-12691,_c_Gala_Luca,5*,light,blade,6552,The_Wyrmclan_Duo,Primal_Crisis,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,,!<hit15 & hp70>,,attack:3174,force_strike:84,skill_1:4747,skill_3:1128,team_buff:442,dx:2463,ds:649
+22021,Gala_Luca,5*,light,blade,6552,The_Wyrmclan_Duo,Primal_Crisis,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,Ranzal,<hit15 & hp70>,25% poison uptime,attack:5258,force_strike:112,skill_1:7640,skill_3:1547,skill_4:1693,s4_poison:316,team_buff:440,dx:3993,ds:1017
+13420,_c_Gala_Luca,5*,light,blade,6552,The_Wyrmclan_Duo,Primal_Crisis,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,Ranzal,!<hit15 & hp70>,25% poison uptime,attack:3146,force_strike:69,skill_1:4616,skill_3:898,skill_4:981,s4_poison:183,team_buff:440,dx:2440,ds:642
 -,180,affliction
-22392,Gala_Luca,5*,light,blade,7205,The_Wyrmclan_Duo,Spirit_of_the_Season,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,,<hit15 & hp70 & hp100>,,attack:5692,force_strike:149,skill_1:8534,skill_3:2060,team_buff:442,dx:4364,ds:1146
-15178,_c_Gala_Luca,5*,light,blade,6569,The_Wyrmclan_Duo,Spirit_of_the_Season,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,,!<hit15 & hp70 & hp100>,,attack:3819,force_strike:101,skill_1:5711,skill_3:1357,team_buff:442,dx:2963,ds:781
+23730,Gala_Luca,5*,light,blade,7205,The_Wyrmclan_Duo,Spirit_of_the_Season,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,Ranzal,<hit15 & hp70 & hp100>,25% poison uptime,attack:5639,force_strike:122,skill_1:8293,skill_3:1640,skill_4:1795,s4_poison:335,team_buff:440,dx:4324,ds:1138
+16057,_c_Gala_Luca,5*,light,blade,6569,The_Wyrmclan_Duo,Spirit_of_the_Season,Daikokuten,HDT2,Axe2,Dagger,Peony,Weapon,Ranzal,!<hit15 & hp70 & hp100>,25% poison uptime,attack:3785,force_strike:83,skill_1:5554,skill_3:1081,skill_4:1180,s4_poison:221,team_buff:440,dx:2935,ds:773

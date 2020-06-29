@@ -1,18 +1,18 @@
 -,60,_
-13357,Wu_Kong,5*,light,dagger,6270,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,<hit15 & hp70>,,attack:2345,force_strike:297,skill_1:2436,skill_2:1685,skill_3:1162,team_buff:663,dx:3921,ds:843
-10086,_c_Wu_Kong,5*,light,dagger,6270,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,!<hit15 & hp70>,,attack:1776,force_strike:229,skill_1:1798,skill_2:1243,skill_3:857,team_buff:663,dx:2894,ds:622
+14092,Wu_Kong,5*,light,dagger,6270,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,Ranzal,<hit15 & hp70>,20% poison uptime,attack:2376,force_strike:173,skill_1:2009,skill_2:1683,skill_3:1160,skill_4:1102,s4_poison:164,team_buff:662,dx:3916,ds:842
+10627,_c_Wu_Kong,5*,light,dagger,6270,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,Ranzal,!<hit15 & hp70>,20% poison uptime,attack:1798,force_strike:137,skill_1:1482,skill_2:1242,skill_3:856,skill_4:813,s4_poison:121,team_buff:662,dx:2890,ds:621
 -,60,affliction
-18505,Wu_Kong,5*,light,dagger,6475,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,<hit15 & hp100>,,attack:3298,force_strike:418,skill_1:3424,skill_2:2368,skill_3:1633,team_buff:663,dx:5511,ds:1185
-14569,_c_Wu_Kong,5*,light,dagger,6272,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,!<hit15 & hp100>,,attack:2621,force_strike:338,skill_1:2654,skill_2:1835,skill_3:1266,team_buff:663,dx:4271,ds:918
+19538,Wu_Kong,5*,light,dagger,6475,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,Ranzal,<hit15 & hp100>,20% poison uptime,attack:3341,force_strike:243,skill_1:2823,skill_2:2365,skill_3:1631,skill_4:1548,s4_poison:231,team_buff:662,dx:5504,ds:1183
+15370,_c_Wu_Kong,5*,light,dagger,6272,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,Ranzal,!<hit15 & hp100>,20% poison uptime,attack:2654,force_strike:202,skill_1:2188,skill_2:1833,skill_3:1264,skill_4:1200,s4_poison:179,team_buff:662,dx:4266,ds:917
 -,120,_
-12918,Wu_Kong,5*,light,dagger,6270,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,<hit15 & hp70>,,attack:2564,force_strike:303,skill_1:2435,skill_2:2526,skill_3:1161,team_buff:331,dx:2750,ds:843
-9647,_c_Wu_Kong,5*,light,dagger,6270,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,!<hit15 & hp70>,,attack:1915,force_strike:228,skill_1:1797,skill_2:1864,skill_3:857,team_buff:331,dx:2029,ds:622
+13734,Wu_Kong,5*,light,dagger,6270,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,Ranzal,<hit15 & hp70>,25% poison uptime,attack:2467,force_strike:274,skill_1:2447,skill_2:2116,skill_3:1167,skill_4:1108,s4_poison:207,team_buff:333,dx:2764,ds:847
+10250,_c_Wu_Kong,5*,light,dagger,6270,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,Ranzal,!<hit15 & hp70>,25% poison uptime,attack:1843,force_strike:207,skill_1:1806,skill_2:1561,skill_3:861,skill_4:817,s4_poison:152,team_buff:333,dx:2039,ds:625
 -,120,affliction
-18021,Wu_Kong,5*,light,dagger,6475,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,<hit15 & hp100>,,attack:3605,force_strike:427,skill_1:3422,skill_2:3551,skill_3:1632,team_buff:331,dx:3865,ds:1184
-14080,_c_Wu_Kong,5*,light,dagger,6272,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,!<hit15 & hp100>,,attack:2826,force_strike:337,skill_1:2652,skill_2:2752,skill_3:1265,team_buff:331,dx:2995,ds:918
+19167,Wu_Kong,5*,light,dagger,6475,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,Ranzal,<hit15 & hp100>,25% poison uptime,attack:3468,force_strike:385,skill_1:3439,skill_2:2974,skill_3:1640,skill_4:1557,s4_poison:291,team_buff:333,dx:3884,ds:1190
+14969,_c_Wu_Kong,5*,light,dagger,6272,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,Ranzal,!<hit15 & hp100>,25% poison uptime,attack:2721,force_strike:305,skill_1:2665,skill_2:2304,skill_3:1271,skill_4:1207,s4_poison:225,team_buff:333,dx:3010,ds:922
 -,180,_
-12917,Wu_Kong,5*,light,dagger,6270,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,<hit15 & hp70>,,attack:2628,force_strike:243,skill_1:2559,skill_2:2522,skill_3:1352,team_buff:441,dx:2608,ds:560
-9666,_c_Wu_Kong,5*,light,dagger,6270,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,!<hit15 & hp70>,,attack:1954,force_strike:182,skill_1:1889,skill_2:1861,skill_3:998,team_buff:441,dx:1924,ds:413
+13976,Wu_Kong,5*,light,dagger,6270,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,Ranzal,<hit15 & hp70>,26% poison uptime,attack:2534,force_strike:203,skill_1:2303,skill_2:2255,skill_3:1361,skill_4:1476,s4_poison:207,team_buff:444,dx:2624,ds:564
+10448,_c_Wu_Kong,5*,light,dagger,6270,Twinfold_Bonds,Levins_Champion,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,Ranzal,!<hit15 & hp70>,26% poison uptime,attack:1885,force_strike:153,skill_1:1700,skill_2:1664,skill_3:1004,skill_4:1089,s4_poison:152,team_buff:444,dx:1936,ds:416
 -,180,affliction
-17975,Wu_Kong,5*,light,dagger,6475,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,<hit15 & hp100>,,attack:3694,force_strike:342,skill_1:3597,skill_2:3544,skill_3:1901,team_buff:441,dx:3665,ds:788
-14056,_c_Wu_Kong,5*,light,dagger,6272,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,,!<hit15 & hp100>,,attack:2884,force_strike:269,skill_1:2787,skill_2:2747,skill_3:1473,team_buff:441,dx:2840,ds:610
+19462,Wu_Kong,5*,light,dagger,6475,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,Ranzal,<hit15 & hp100>,26% poison uptime,attack:3562,force_strike:286,skill_1:3237,skill_2:3170,skill_3:1913,skill_4:2075,s4_poison:290,team_buff:444,dx:3688,ds:793
+15210,_c_Wu_Kong,5*,light,dagger,6272,Twinfold_Bonds,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Wand,Peony,Weapon,Ranzal,!<hit15 & hp100>,26% poison uptime,attack:2782,force_strike:226,skill_1:2509,skill_2:2457,skill_3:1482,skill_4:1608,s4_poison:225,team_buff:444,dx:2858,ds:614

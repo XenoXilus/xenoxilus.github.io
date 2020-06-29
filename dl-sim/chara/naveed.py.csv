@@ -1,18 +1,18 @@
 -,60,_
-20803,Naveed,5*,flame,sword,9805,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,,<hit15 & hp60 & hp50 & always connect hits>,,attack:3238,force_strike:802,skill_1:9100,dx:4903,ds:2757
-14676,_c_Naveed,5*,flame,sword,8276,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,,!<hit15 & hp60 & hp50 & always connect hits>,,attack:2310,force_strike:559,skill_1:6439,dx:3439,ds:1926
+22837,Naveed,5*,flame,sword,9805,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,Ranzal,<hit15 & hp60 & always connect hits & hp50>,45% poison uptime,attack:2991,force_strike:587,skill_1:7401,skill_4:3579,s4_poison:514,dx:4967,ds:2793
+16031,_c_Naveed,5*,flame,sword,8276,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,Ranzal,!<hit15 & hp60 & always connect hits & hp50>,45% poison uptime,attack:2130,force_strike:409,skill_1:5189,skill_4:2506,s4_poison:359,dx:3484,ds:1951
 -,60,affliction
-24041,Naveed,5*,flame,sword,9825,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,,<hit15 & hp60 & hp50 & always connect hits>,,attack:3648,force_strike:888,skill_1:11024,dx:5426,ds:3052
-19730,_c_Naveed,5*,flame,sword,8293,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,,!<hit15 & hp60 & hp50 & always connect hits>,,attack:3009,force_strike:728,skill_1:9001,dx:4480,ds:2509
+26185,Naveed,5*,flame,sword,9825,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,Ranzal,<hit15 & hp60 & always connect hits & hp50>,45% poison uptime,attack:3366,force_strike:650,skill_1:9047,skill_4:3961,s4_poison:569,dx:5497,ds:3092
+20883,_c_Naveed,5*,flame,sword,8293,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,Ranzal,!<hit15 & hp60 & always connect hits & hp50>,45% poison uptime,attack:2775,force_strike:533,skill_1:6759,skill_4:3264,s4_poison:468,dx:4539,ds:2542
 -,120,_
-22996,Naveed,5*,flame,sword,9805,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,,<hit15 & hp60 & hp50 & always connect hits>,,attack:3668,force_strike:1172,skill_1:11998,dx:4090,ds:2067
-15995,_c_Naveed,5*,flame,sword,8276,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,,!<hit15 & hp60 & hp50 & always connect hits>,,attack:2581,force_strike:816,skill_1:8283,dx:2869,ds:1444
+25967,Naveed,5*,flame,sword,9805,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,Ranzal,<hit15 & hp60 & always connect hits & hp50>,50% poison uptime,attack:3266,force_strike:835,skill_1:10896,skill_4:3335,s4_poison:623,dx:4130,ds:2879
+17618,_c_Naveed,5*,flame,sword,8276,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,Ranzal,!<hit15 & hp60 & always connect hits & hp50>,50% poison uptime,attack:2296,force_strike:581,skill_1:7063,skill_4:2328,s4_poison:435,dx:2897,ds:2014
 -,120,affliction
-26154,Naveed,5*,flame,sword,9825,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,,<hit15 & hp60 & hp50 & always connect hits>,,attack:4091,force_strike:1297,skill_1:13949,dx:4526,ds:2288
-21128,_c_Naveed,5*,flame,sword,8293,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,,!<hit15 & hp60 & hp50 & always connect hits>,,attack:3362,force_strike:1064,skill_1:11082,dx:3737,ds:1881
+28743,Naveed,5*,flame,sword,9825,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,Ranzal,<hit15 & hp60 & always connect hits & hp50>,50% poison uptime,attack:3642,force_strike:924,skill_1:12035,skill_4:3691,s4_poison:690,dx:4571,ds:3186
+23358,_c_Naveed,5*,flame,sword,8293,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,Ranzal,!<hit15 & hp60 & always connect hits & hp50>,50% poison uptime,attack:2992,force_strike:757,skill_1:9609,skill_4:3032,s4_poison:566,dx:3774,ds:2623
 -,180,_
-24766,Naveed,5*,flame,sword,9805,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,,<hit15 & hp60 & hp50 & always connect hits>,,attack:3975,force_strike:1337,skill_1:14128,dx:3404,ds:1920
-16780,_c_Naveed,5*,flame,sword,8276,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,,!<hit15 & hp60 & hp50 & always connect hits>,,attack:2787,force_strike:932,skill_1:9325,dx:2390,ds:1343
+26479,Naveed,5*,flame,sword,9805,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,Ranzal,<hit15 & hp60 & always connect hits & hp50>,44% poison uptime,attack:3614,force_strike:1035,skill_1:12525,skill_4:3449,s4_poison:535,dx:3400,ds:1918
+18114,_c_Naveed,5*,flame,sword,8276,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,Ranzal,!<hit15 & hp60 & always connect hits & hp50>,44% poison uptime,attack:2531,force_strike:720,skill_1:8346,skill_4:2411,s4_poison:373,dx:2388,ds:1341
 -,180,affliction
-27803,Naveed,5*,flame,sword,9825,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,,<hit15 & hp60 & hp50 & always connect hits>,,attack:4421,force_strike:1480,skill_1:16008,dx:3767,ds:2125
-22056,_c_Naveed,5*,flame,sword,8293,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,,!<hit15 & hp60 & hp50 & always connect hits>,,attack:3631,force_strike:1214,skill_1:12345,dx:3114,ds:1749
+29912,Naveed,5*,flame,sword,9825,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,Ranzal,<hit15 & hp60 & always connect hits & hp50>,44% poison uptime,attack:4018,force_strike:1145,skill_1:14451,skill_4:3817,s4_poison:592,dx:3763,ds:2123
+23793,_c_Naveed,5*,flame,sword,8293,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Gala_Sarisse,Weapon,Ranzal,!<hit15 & hp60 & always connect hits & hp50>,44% poison uptime,attack:3297,force_strike:938,skill_1:11069,skill_4:3140,s4_poison:486,dx:3111,ds:1748

@@ -1,18 +1,18 @@
 -,60,_
-18152,Xuan_Zang,4*,flame,lance,9219,The_Wyrmclan_Duo,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<hp70 & hp60 & hit10 & hp50 & hit15>,,attack:3905,force_strike:491,skill_1:3800,team_buff:1063,dx:6430,ds:2460
-11806,_c_Xuan_Zang,4*,flame,lance,7855,The_Wyrmclan_Duo,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<hp70 & hp60 & hit10 & hp50 & hit15>,,attack:2480,force_strike:311,skill_1:2358,team_buff:1063,dx:4058,ds:1533
+21057,Xuan_Zang,4*,flame,lance,9219,The_Wyrmclan_Duo,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hp70 & hp60 & hit10 & hp50 & hit15>,30% poison uptime,attack:3341,force_strike:372,skill_1:3895,skill_4:3201,s4_poison:261,team_buff:1111,dx:6417,ds:2455
+13646,_c_Xuan_Zang,4*,flame,lance,7855,The_Wyrmclan_Duo,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hp70 & hp60 & hit10 & hp50 & hit15>,30% poison uptime,attack:2122,force_strike:236,skill_1:2419,skill_4:2013,s4_poison:161,team_buff:1111,dx:4050,ds:1530
 -,60,affliction
-20520,Xuan_Zang,4*,flame,lance,9236,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<hp70 & hp60 & hit10 & hp50>,,attack:4505,force_strike:572,skill_1:4306,team_buff:1063,dx:7285,ds:2787
-15056,_c_Xuan_Zang,4*,flame,lance,7870,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<hp70 & hp60 & hit10 & hp50>,,attack:3230,force_strike:406,skill_1:3072,team_buff:1063,dx:5286,ds:1997
+23805,Xuan_Zang,4*,flame,lance,9236,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hp70 & hp60 & hit10 & hp50>,30% poison uptime,attack:3866,force_strike:436,skill_1:4413,skill_4:3627,s4_poison:296,team_buff:1111,dx:7271,ds:2782
+17437,_c_Xuan_Zang,4*,flame,lance,7870,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hp70 & hp60 & hit10 & hp50>,30% poison uptime,attack:2764,force_strike:308,skill_1:3151,skill_4:2622,s4_poison:210,team_buff:1111,dx:5275,ds:1994
 -,120,_
-18270,Xuan_Zang,4*,flame,lance,9219,The_Wyrmclan_Duo,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<hp70 & hp60 & hit10 & hp50 & hit15>,,attack:4441,force_strike:503,skill_1:4342,team_buff:1328,dx:5203,ds:2450
-11919,_c_Xuan_Zang,4*,flame,lance,7855,The_Wyrmclan_Duo,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<hp70 & hp60 & hit10 & hp50 & hit15>,,attack:2780,force_strike:314,skill_1:2691,team_buff:1328,dx:3275,ds:1527
+19467,Xuan_Zang,4*,flame,lance,9219,The_Wyrmclan_Duo,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hp70 & hp60 & hit10 & hp50 & hit15>,37% poison uptime,attack:4345,force_strike:505,skill_1:4413,skill_4:2304,s4_poison:404,team_buff:1313,dx:4375,ds:1804
+12654,_c_Xuan_Zang,4*,flame,lance,7855,The_Wyrmclan_Duo,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hp70 & hp60 & hit10 & hp50 & hit15>,37% poison uptime,attack:2716,force_strike:316,skill_1:2736,skill_4:1441,s4_poison:253,team_buff:1313,dx:2755,ds:1121
 -,120,affliction
-20570,Xuan_Zang,4*,flame,lance,9236,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<hp70 & hp60 & hit10 & hp50>,,attack:5072,force_strike:577,skill_1:4919,team_buff:1328,dx:5895,ds:2775
-15122,_c_Xuan_Zang,4*,flame,lance,7870,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<hp70 & hp60 & hit10 & hp50>,,attack:3621,force_strike:409,skill_1:3505,team_buff:1328,dx:4266,ds:1989
+21929,Xuan_Zang,4*,flame,lance,9236,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hp70 & hp60 & hit10 & hp50>,37% poison uptime,attack:4963,force_strike:580,skill_1:5000,skill_4:2611,s4_poison:458,team_buff:1313,dx:4957,ds:2044
+16084,_c_Xuan_Zang,4*,flame,lance,7870,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hp70 & hp60 & hit10 & hp50>,37% poison uptime,attack:3538,force_strike:411,skill_1:3564,skill_4:1877,s4_poison:329,team_buff:1313,dx:3588,ds:1460
 -,180,_
-17877,Xuan_Zang,4*,flame,lance,9219,The_Wyrmclan_Duo,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<hp70 & hp60 & hit10 & hp50 & hit15>,,attack:4871,force_strike:511,skill_1:4865,team_buff:1587,dx:4332,ds:1709
-11759,_c_Xuan_Zang,4*,flame,lance,7855,The_Wyrmclan_Duo,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<hp70 & hp60 & hit10 & hp50 & hit15>,,attack:3035,force_strike:318,skill_1:3017,team_buff:1587,dx:2734,ds:1065
+19305,Xuan_Zang,4*,flame,lance,9219,The_Wyrmclan_Duo,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hp70 & hp60 & hit10 & hp50 & hit15>,33% poison uptime,attack:4637,force_strike:510,skill_1:4545,skill_4:2003,s4_poison:374,team_buff:1417,dx:4142,ds:1673
+12573,_c_Xuan_Zang,4*,flame,lance,7855,The_Wyrmclan_Duo,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hp70 & hp60 & hit10 & hp50 & hit15>,33% poison uptime,attack:2885,force_strike:317,skill_1:2813,skill_4:1249,s4_poison:233,team_buff:1417,dx:2612,ds:1043
 -,180,affliction
-20076,Xuan_Zang,4*,flame,lance,9236,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<hp70 & hp60 & hit10 & hp50>,,attack:5545,force_strike:584,skill_1:5512,team_buff:1587,dx:4908,ds:1936
-14835,_c_Xuan_Zang,4*,flame,lance,7870,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<hp70 & hp60 & hit10 & hp50>,,attack:3953,force_strike:414,skill_1:3930,team_buff:1587,dx:3561,ds:1387
+21716,Xuan_Zang,4*,flame,lance,9236,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hp70 & hp60 & hit10 & hp50>,33% poison uptime,attack:5281,force_strike:583,skill_1:5149,skill_4:2270,s4_poison:424,team_buff:1417,dx:4693,ds:1895
+15948,_c_Xuan_Zang,4*,flame,lance,7870,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hp70 & hp60 & hit10 & hp50>,33% poison uptime,attack:3758,force_strike:413,skill_1:3664,skill_4:1627,s4_poison:304,team_buff:1417,dx:3403,ds:1358

@@ -1,18 +1,18 @@
 -,60,_
-10494,Aeleen,4*,wind,lance,6908,Resounding_Rendition,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,<maintain shield & hit10 & hp70>,,attack:2880,force_strike:447,skill_1:3145,dx:3245,ds:775
-7329,_c_Aeleen,4*,wind,lance,6476,Resounding_Rendition,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<maintain shield & hit10 & hp70>,,attack:2073,force_strike:319,skill_1:2190,dx:2216,ds:529
+12217,Aeleen,4*,wind,lance,6908,Resounding_Rendition,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<maintain shield & hit10 & hp70>,,attack:2657,force_strike:440,skill_1:3138,skill_4:1753,team_buff:172,dx:3250,ds:803
+8558,_c_Aeleen,4*,wind,lance,6476,Resounding_Rendition,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<maintain shield & hit10 & hp70>,,attack:1919,force_strike:314,skill_1:2187,skill_4:1194,team_buff:172,dx:2220,ds:549
 -,60,affliction
-12564,Aeleen,4*,wind,lance,7147,Resounding_Rendition,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,<maintain shield & hit10 & hp70 & hp100>,,attack:3450,force_strike:536,skill_1:3766,dx:3882,ds:928
-8530,_c_Aeleen,4*,wind,lance,6497,Resounding_Rendition,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<maintain shield & hit10 & hp70 & hp100>,,attack:2412,force_strike:371,skill_1:2549,dx:2580,ds:616
+15850,Aeleen,4*,wind,lance,7147,Resounding_Rendition,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<maintain shield & hit10 & hp70 & hp100>,,attack:3184,force_strike:527,skill_1:3757,skill_4:3356,team_buff:172,dx:3889,ds:961
+10765,_c_Aeleen,4*,wind,lance,6497,Resounding_Rendition,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<maintain shield & hit10 & hp70 & hp100>,,attack:2234,force_strike:365,skill_1:2546,skill_4:2223,team_buff:172,dx:2584,ds:639
 -,120,_
-10902,Aeleen,4*,wind,lance,6908,Resounding_Rendition,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,<maintain shield & hit10 & hp70>,,attack:3194,force_strike:504,skill_1:3922,dx:2481,ds:798
-7525,_c_Aeleen,4*,wind,lance,6476,Resounding_Rendition,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<maintain shield & hit10 & hp70>,,attack:2231,force_strike:351,skill_1:2696,dx:1699,ds:546
+12724,Aeleen,4*,wind,lance,6908,Resounding_Rendition,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<maintain shield & hit10 & hp70>,,attack:3155,force_strike:391,skill_1:3652,skill_4:1781,team_buff:350,dx:2548,ds:844
+8880,_c_Aeleen,4*,wind,lance,6476,Resounding_Rendition,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<maintain shield & hit10 & hp70>,,attack:2204,force_strike:273,skill_1:2512,skill_4:1213,team_buff:350,dx:1745,ds:578
 -,120,affliction
-13048,Aeleen,4*,wind,lance,7147,Resounding_Rendition,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,<maintain shield & hit10 & hp70 & hp100>,,attack:3825,force_strike:604,skill_1:4694,dx:2969,ds:954
-8758,_c_Aeleen,4*,wind,lance,6497,Resounding_Rendition,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<maintain shield & hit10 & hp70 & hp100>,,attack:2597,force_strike:408,skill_1:3137,dx:1977,ds:636
+16439,Aeleen,4*,wind,lance,7147,Resounding_Rendition,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<maintain shield & hit10 & hp70 & hp100>,,attack:3777,force_strike:468,skill_1:4371,skill_4:3410,team_buff:350,dx:3049,ds:1010
+11124,_c_Aeleen,4*,wind,lance,6497,Resounding_Rendition,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<maintain shield & hit10 & hp70 & hp100>,,attack:2565,force_strike:318,skill_1:2924,skill_4:2259,team_buff:350,dx:2030,ds:673
 -,180,_
-10878,Aeleen,4*,wind,lance,6908,Resounding_Rendition,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,<maintain shield & hit10 & hp70>,,attack:3370,force_strike:527,skill_1:4207,dx:2237,ds:534
-7481,_c_Aeleen,4*,wind,lance,6476,Resounding_Rendition,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<maintain shield & hit10 & hp70>,,attack:2333,force_strike:364,skill_1:2882,dx:1533,ds:366
+12577,Aeleen,4*,wind,lance,6908,Resounding_Rendition,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<maintain shield & hit10 & hp70>,,attack:3128,force_strike:454,skill_1:4063,skill_4:1780,team_buff:350,dx:2251,ds:548
+8750,_c_Aeleen,4*,wind,lance,6476,Resounding_Rendition,Beautiful_Nothingness,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<maintain shield & hit10 & hp70>,,attack:2168,force_strike:314,skill_1:2786,skill_4:1212,team_buff:350,dx:1543,ds:375
 -,180,affliction
-13019,Aeleen,4*,wind,lance,7147,Resounding_Rendition,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,<maintain shield & hit10 & hp70 & hp100>,,attack:4034,force_strike:631,skill_1:5035,dx:2676,ds:639
-8706,_c_Aeleen,4*,wind,lance,6497,Resounding_Rendition,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<maintain shield & hit10 & hp70 & hp100>,,attack:2716,force_strike:423,skill_1:3355,dx:1784,ds:426
+16260,Aeleen,4*,wind,lance,7147,Resounding_Rendition,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<maintain shield & hit10 & hp70 & hp100>,,attack:3745,force_strike:543,skill_1:4862,skill_4:3407,team_buff:350,dx:2694,ds:655
+10973,_c_Aeleen,4*,wind,lance,6497,Resounding_Rendition,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<maintain shield & hit10 & hp70 & hp100>,,attack:2523,force_strike:365,skill_1:3242,skill_4:2257,team_buff:350,dx:1796,ds:437

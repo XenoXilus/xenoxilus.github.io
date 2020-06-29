@@ -1,18 +1,18 @@
 -,60,_
-11489,Rex,3*,water,axe,7243,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Blade,Xander,Dagger,Weapon,,<hp60 & hit10 & hp70 & hit15>,,attack:2975,force_strike:253,skill_1:2522,skill_2:584,dx:4182,ds:972
-8255,_c_Rex,3*,water,axe,7032,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Blade,Xander,Dagger,Weapon,,!<hp60 & hit10 & hp70 & hit15>,,attack:2199,force_strike:190,skill_1:1825,skill_2:411,dx:2943,ds:684
+11846,Rex,3*,water,axe,7243,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Blade,Xander,Dagger,Gala_Elisanne,Ranzal,<hp60 & hit10 & hp70 & hit15 & buff all team>,,attack:3002,force_strike:244,skill_1:2390,skill_2:553,skill_4:923,dx:3808,ds:921
+8458,_c_Rex,3*,water,axe,7032,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Blade,Xander,Dagger,Gala_Elisanne,Ranzal,!<hp60 & hit10 & hp70 & hit15 & buff all team>,,attack:2212,force_strike:183,skill_1:1719,skill_2:387,skill_4:646,dx:2663,ds:644
 -,60,affliction
-12663,Rex,3*,water,axe,7218,Kung_Fu_Masters,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Yurius,Weapon,,<hp60 & hit10>,,attack:2631,force_strike:358,skill_1:2095,skill_2:629,dx:4854,ds:2094
-10983,_c_Rex,3*,water,axe,7008,Kung_Fu_Masters,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Yurius,Weapon,,!<hp60 & hit10>,,attack:2326,force_strike:317,skill_1:1806,skill_2:542,dx:4184,ds:1805
+12923,Rex,3*,water,axe,7218,Kung_Fu_Masters,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Yurius,Gala_Elisanne,Ranzal,<hp60 & hit10 & buff all team>,19% poison uptime,attack:2620,force_strike:251,skill_1:1943,skill_2:583,skill_4:973,s4_poison:109,dx:4500,ds:1941
+11207,_c_Rex,3*,water,axe,7008,Kung_Fu_Masters,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Yurius,Gala_Elisanne,Ranzal,!<hp60 & hit10 & buff all team>,19% poison uptime,attack:2316,force_strike:224,skill_1:1675,skill_2:502,skill_4:839,s4_poison:94,dx:3880,ds:1673
 -,120,_
-12409,Rex,3*,water,axe,7243,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Blade,Xander,Dagger,Weapon,,<hp60 & hit10 & hp70 & hit15>,,attack:3193,force_strike:317,skill_1:2611,skill_2:1192,dx:4101,ds:992
-8819,_c_Rex,3*,water,axe,7032,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Blade,Xander,Dagger,Weapon,,!<hp60 & hit10 & hp70 & hit15>,,attack:2301,force_strike:230,skill_1:1863,skill_2:839,dx:2886,ds:698
+12799,Rex,3*,water,axe,7243,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Blade,Xander,Dagger,Gala_Elisanne,Ranzal,<hp60 & hit10 & hp70 & hit15 & buff all team>,12% poison uptime,attack:3010,force_strike:310,skill_1:2595,skill_2:834,skill_4:463,s4_poison:86,team_buff:747,dx:3825,ds:925
+8547,_c_Rex,3*,water,axe,7032,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Blade,Xander,Dagger,Gala_Elisanne,Ranzal,!<hp60 & hit10 & hp70 & hit15 & buff all team>,12% poison uptime,attack:2174,force_strike:224,skill_1:1856,skill_2:583,skill_4:324,s4_poison:60,dx:2675,ds:647
 -,120,affliction
-13075,Rex,3*,water,axe,7202,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Dagger,Weapon,,<hp60 & hit10 & hit15>,,attack:3681,force_strike:366,skill_1:2316,skill_2:1064,dx:4760,ds:885
-9586,_c_Rex,3*,water,axe,6992,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Dagger,Weapon,,!<hp60 & hit10 & hit15>,,attack:2746,force_strike:274,skill_1:1710,skill_2:770,dx:3443,ds:640
+13725,Rex,3*,water,axe,7202,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Dagger,Gala_Elisanne,Ranzal,<hp60 & hit10 & hit15 & buff all team>,25% poison uptime,attack:3372,force_strike:355,skill_1:2291,skill_2:741,skill_4:824,s4_poison:154,team_buff:745,dx:4418,ds:822
+9510,_c_Rex,3*,water,axe,6992,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Dagger,Gala_Elisanne,Ranzal,!<hp60 & hit10 & hit15 & buff all team>,25% poison uptime,attack:2529,force_strike:267,skill_1:1699,skill_2:533,skill_4:593,s4_poison:111,dx:3182,ds:592
 -,180,_
-11569,Rex,3*,water,axe,7225,Summer_Paladyns,Primal_Crisis,Leviathan,Agito1,Blade,Xander,Dagger,Weapon,,<hp60 & hit10 & hit15>,,attack:3411,force_strike:386,skill_1:3186,skill_2:1244,dx:2649,ds:690
-8447,_c_Rex,3*,water,axe,7015,Summer_Paladyns,Primal_Crisis,Leviathan,Agito1,Blade,Xander,Dagger,Weapon,,!<hp60 & hit10 & hit15>,,attack:2514,force_strike:285,skill_1:2332,skill_2:900,dx:1916,ds:499
+12956,Rex,3*,water,axe,7225,Summer_Paladyns,Primal_Crisis,Leviathan,Agito1,Blade,Xander,Dagger,Gala_Elisanne,Ranzal,<hp60 & hit10 & hit15 & buff all team>,24% poison uptime,attack:3250,force_strike:292,skill_1:2986,skill_2:1163,skill_4:970,s4_poison:169,team_buff:999,dx:2477,ds:645
+8736,_c_Rex,3*,water,axe,7015,Summer_Paladyns,Primal_Crisis,Leviathan,Agito1,Blade,Xander,Dagger,Gala_Elisanne,Ranzal,!<hp60 & hit10 & hit15 & buff all team>,24% poison uptime,attack:2406,force_strike:217,skill_1:2202,skill_2:838,skill_4:699,s4_poison:122,dx:1784,ds:465
 -,180,affliction
-11922,Rex,3*,water,axe,7218,Kung_Fu_Masters,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Yurius,Weapon,,<hp60 & hit10>,,attack:3511,force_strike:434,skill_1:3276,skill_2:1264,dx:2732,ds:701
-10300,_c_Rex,3*,water,axe,7008,Kung_Fu_Masters,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Yurius,Weapon,,!<hp60 & hit10>,,attack:3046,force_strike:377,skill_1:2824,skill_2:1090,dx:2355,ds:604
+13512,Rex,3*,water,axe,7218,Kung_Fu_Masters,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Yurius,Gala_Elisanne,Ranzal,<hp60 & hit10 & buff all team>,25% poison uptime,attack:3454,force_strike:267,skill_1:2947,skill_2:1228,skill_4:1067,s4_poison:199,team_buff:999,dx:2607,ds:738
+10885,_c_Rex,3*,water,axe,7008,Kung_Fu_Masters,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Yurius,Gala_Elisanne,Ranzal,!<hp60 & hit10 & buff all team>,25% poison uptime,attack:3016,force_strike:234,skill_1:2556,skill_2:1066,skill_4:932,s4_poison:174,dx:2256,ds:648

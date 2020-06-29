@@ -1,18 +1,18 @@
 -,60,_
-19436,Yaten,5*,shadow,sword,6108,The_Shining_Overlord,United_by_One_Vision,Shinobi,Agito1,Ieyasu,Wand,Dagger,Weapon,,<hp60 & hp70>,,attack:2624,force_strike:1068,skill_1:7906,s1_boost:1780,team_energy:1663,dx:1206,ds:3186
-17100,_c_Yaten,5*,shadow,sword,5199,The_Shining_Overlord,United_by_One_Vision,Shinobi,Agito1,Ieyasu,Wand,Dagger,Weapon,,!<hp60 & hp70>,,attack:2265,force_strike:922,skill_1:6863,s1_boost:1560,team_energy:1663,dx:1050,ds:2774
+25427,Yaten,5*,shadow,sword,5189,The_Shining_Overlord,United_by_One_Vision,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Dagger,Weapon,Curran,<always connect hits & hp60 & hp70>,,attack:2061,force_strike:837,skill_1:9948,s1_boost:1847,skill_4:4045,team_buff:345,team_energy:655,dx:1551,ds:4134
+21805,_c_Yaten,5*,shadow,sword,4332,The_Shining_Overlord,United_by_One_Vision,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Dagger,Weapon,Curran,!<always connect hits & hp60 & hp70>,,attack:1748,force_strike:710,skill_1:8472,s1_boost:1590,skill_4:3421,team_buff:345,team_energy:655,dx:1326,ds:3534
 -,60,affliction
-22544,Yaten,5*,shadow,sword,6217,The_Shining_Overlord,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Bow,Weapon,,<hp60 & hp100>,,attack:3010,force_strike:1368,skill_1:9614,s1_boost:1912,team_energy:1638,dx:1372,ds:3626
-19541,_c_Yaten,5*,shadow,sword,5214,The_Shining_Overlord,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Bow,Weapon,,!<hp60 & hp100>,,attack:2566,force_strike:1166,skill_1:8220,s1_boost:1650,team_energy:1638,dx:1180,ds:3117
+32041,Yaten,5*,shadow,sword,5296,The_Shining_Overlord,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Bow,Weapon,Curran,<always connect hits & hp60 & hp100>,,attack:2362,force_strike:1014,skill_1:11423,s1_boost:2150,skill_4:7592,team_buff:350,team_energy:665,dx:1779,ds:4700
+27001,_c_Yaten,5*,shadow,sword,4345,The_Shining_Overlord,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Bow,Weapon,Curran,!<always connect hits & hp60 & hp100>,,attack:1971,force_strike:846,skill_1:9566,s1_boost:1824,skill_4:6322,team_buff:350,team_energy:665,dx:1497,ds:3954
 -,120,_
-19128,Yaten,5*,shadow,sword,6108,The_Shining_Overlord,United_by_One_Vision,Shinobi,Agito1,Ieyasu,Wand,Dagger,Weapon,,<hp60 & hp70>,,attack:3016,force_strike:1251,skill_1:9136,s1_boost:2331,team_energy:1333,dx:565,ds:1493
-16795,_c_Yaten,5*,shadow,sword,5199,The_Shining_Overlord,United_by_One_Vision,Shinobi,Agito1,Ieyasu,Wand,Dagger,Weapon,,!<hp60 & hp70>,,attack:2611,force_strike:1083,skill_1:7941,s1_boost:2041,team_energy:1333,dx:489,ds:1294
+26522,Yaten,5*,shadow,sword,5189,The_Shining_Overlord,United_by_One_Vision,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Dagger,Weapon,Curran,<always connect hits & hp60 & hp70>,,attack:2376,force_strike:968,skill_1:12194,s1_boost:2834,skill_4:4381,team_buff:521,team_energy:742,dx:682,ds:1819
+22797,_c_Yaten,5*,shadow,sword,4332,The_Shining_Overlord,United_by_One_Vision,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Dagger,Weapon,Curran,!<always connect hits & hp60 & hp70>,,attack:2021,force_strike:824,skill_1:10410,s1_boost:2442,skill_4:3717,team_buff:521,team_energy:742,dx:577,ds:1539
 -,120,affliction
-21357,Yaten,5*,shadow,sword,6217,The_Shining_Overlord,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Bow,Weapon,,<hp60 & hp100>,,attack:3399,force_strike:1544,skill_1:10534,s1_boost:2280,team_energy:1249,dx:645,ds:1704
-18466,_c_Yaten,5*,shadow,sword,5214,The_Shining_Overlord,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Bow,Weapon,,!<hp60 & hp100>,,attack:2904,force_strike:1319,skill_1:9016,s1_boost:1968,team_energy:1249,dx:551,ds:1456
+34126,Yaten,5*,shadow,sword,5296,The_Shining_Overlord,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Bow,Weapon,Curran,<always connect hits & hp60 & hp100>,,attack:2648,force_strike:1148,skill_1:14679,s1_boost:3301,skill_4:8118,team_buff:525,team_energy:748,dx:812,ds:2144
+28828,_c_Yaten,5*,shadow,sword,4345,The_Shining_Overlord,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Bow,Weapon,Curran,!<always connect hits & hp60 & hp100>,,attack:2215,force_strike:960,skill_1:12326,s1_boost:2801,skill_4:6778,team_buff:525,team_energy:748,dx:678,ds:1792
 -,180,_
-17748,Yaten,5*,shadow,sword,6108,The_Shining_Overlord,United_by_One_Vision,Shinobi,Agito1,Ieyasu,Wand,Dagger,Weapon,,<hp60 & hp70>,,attack:3087,force_strike:1329,skill_1:8319,s1_boost:2055,team_energy:1388,dx:430,ds:1137
-15602,_c_Yaten,5*,shadow,sword,5199,The_Shining_Overlord,United_by_One_Vision,Shinobi,Agito1,Ieyasu,Wand,Dagger,Weapon,,!<hp60 & hp70>,,attack:2672,force_strike:1150,skill_1:7222,s1_boost:1796,team_energy:1388,dx:376,ds:994
+26561,Yaten,5*,shadow,sword,5189,The_Shining_Overlord,United_by_One_Vision,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Dagger,Weapon,Curran,<always connect hits & hp60 & hp70>,,attack:2477,force_strike:1049,skill_1:11593,s1_boost:2892,skill_4:5240,team_buff:526,team_energy:944,dx:501,ds:1336
+21546,_c_Yaten,5*,shadow,sword,4332,The_Shining_Overlord,United_by_One_Vision,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Dagger,Weapon,Curran,!<always connect hits & hp60 & hp70>,,attack:2107,force_strike:892,skill_1:9489,s1_boost:2492,skill_4:3860,team_buff:526,team_energy:944,dx:429,ds:804
 -,180,affliction
-20931,Yaten,5*,shadow,sword,6217,The_Shining_Overlord,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Bow,Weapon,,<hp60 & hp100>,,attack:3464,force_strike:1572,skill_1:10791,s1_boost:2382,team_energy:1220,dx:411,ds:1086
-18099,_c_Yaten,5*,shadow,sword,5214,The_Shining_Overlord,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Bow,Weapon,,!<hp60 & hp100>,,attack:2959,force_strike:1343,skill_1:9240,s1_boost:2057,team_energy:1220,dx:350,ds:926
+35119,Yaten,5*,shadow,sword,5296,The_Shining_Overlord,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Bow,Weapon,Curran,<always connect hits & hp60 & hp100>,,attack:2739,force_strike:1209,skill_1:15126,s1_boost:3277,skill_4:9575,team_buff:525,team_energy:776,dx:515,ds:1373
+26045,_c_Yaten,5*,shadow,sword,4345,The_Shining_Overlord,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Bow,Weapon,Curran,!<always connect hits & hp60 & hp100>,,attack:2293,force_strike:1013,skill_1:10920,s1_boost:2376,skill_4:6948,team_buff:525,team_energy:776,dx:429,ds:761

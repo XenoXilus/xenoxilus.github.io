@@ -1,18 +1,18 @@
 -,60,_
-14564,Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15>,,attack:3090,skill_1:3400,skill_3:856,team_buff:648,team_energy:324,dx:5021,ds:1221
-10942,_c_Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15>,,attack:2324,skill_1:2475,skill_3:623,team_buff:648,team_energy:324,dx:3655,ds:889
+15784,Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,<hit15>,25% poison uptime,attack:2993,skill_1:2414,skill_3:873,skill_4:2043,s4_poison:382,team_buff:662,team_energy:248,dx:4918,ds:1247
+11815,_c_Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,!<hit15>,25% poison uptime,attack:2255,skill_1:1757,skill_3:636,skill_4:1487,s4_poison:278,team_buff:662,team_energy:248,dx:3580,ds:907
 -,60,affliction
-16008,Lucretia,5*,light,wand,7880,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp100>,,attack:3464,skill_1:3747,skill_3:943,team_buff:648,team_energy:324,dx:5532,ds:1346
-12966,_c_Lucretia,5*,light,wand,7185,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp100>,,attack:2796,skill_1:2978,skill_3:749,team_buff:648,team_energy:324,dx:4397,ds:1070
+17361,Lucretia,5*,light,wand,7880,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,<hit15 & hp100>,25% poison uptime,attack:3359,skill_1:2660,skill_3:962,skill_4:2252,s4_poison:420,team_buff:662,team_energy:248,dx:5419,ds:1374
+14030,_c_Lucretia,5*,light,wand,7185,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,!<hit15 & hp100>,25% poison uptime,attack:2713,skill_1:2114,skill_3:765,skill_4:1790,s4_poison:334,team_buff:662,team_energy:248,dx:4308,ds:1092
 -,120,_
-12767,Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15>,,attack:3589,skill_1:3610,skill_3:2011,team_buff:331,team_energy:331,dx:2363,ds:528
-9566,_c_Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15>,,attack:2651,skill_1:2628,skill_3:1517,team_buff:331,team_energy:331,dx:1720,ds:384
+14584,Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,<hit15>,25% poison uptime,attack:3362,skill_1:3565,skill_3:1586,skill_4:1654,s4_poison:309,team_buff:332,team_energy:332,dx:2815,ds:625
+10870,_c_Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,!<hit15>,25% poison uptime,attack:2486,skill_1:2595,skill_3:1188,skill_4:1204,s4_poison:225,team_buff:332,team_energy:332,dx:2049,ds:455
 -,120,affliction
-14111,Lucretia,5*,light,wand,7880,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp100>,,attack:3986,skill_1:3978,skill_3:2297,team_buff:331,team_energy:331,dx:2603,ds:581
-11374,_c_Lucretia,5*,light,wand,7185,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp100>,,attack:3190,skill_1:3162,skill_3:1826,team_buff:331,team_energy:331,dx:2069,ds:462
+16083,Lucretia,5*,light,wand,7880,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,<hit15 & hp100>,25% poison uptime,attack:3736,skill_1:3928,skill_3:1798,skill_4:1823,s4_poison:340,team_buff:332,team_energy:332,dx:3102,ds:689
+12942,_c_Lucretia,5*,light,wand,7185,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,!<hit15 & hp100>,25% poison uptime,attack:2991,skill_1:3122,skill_3:1429,skill_4:1449,s4_poison:270,team_buff:332,team_energy:332,dx:2465,ds:547
 -,180,_
-13409,Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15>,,attack:3526,skill_1:3865,skill_3:1842,team_buff:222,team_energy:333,dx:2847,ds:772
-9957,_c_Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15>,,attack:2592,skill_1:2832,skill_3:1341,team_buff:222,team_energy:333,dx:2072,ds:562
+15019,Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,<hit15>,25% poison uptime,attack:3388,skill_1:3719,skill_3:1647,skill_4:1525,s4_poison:285,team_buff:221,team_energy:305,dx:3155,ds:771
+11134,_c_Lucretia,5*,light,wand,7166,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,!<hit15>,25% poison uptime,attack:2492,skill_1:2739,skill_3:1199,skill_4:1110,s4_poison:207,team_buff:221,team_energy:305,dx:2297,ds:561
 -,180,affliction
-14767,Lucretia,5*,light,wand,7880,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hit15 & hp100>,,attack:3906,skill_1:4286,skill_3:2029,team_buff:222,team_energy:333,dx:3137,ds:850
-11866,_c_Lucretia,5*,light,wand,7185,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hit15 & hp100>,,attack:3119,skill_1:3407,skill_3:1613,team_buff:222,team_energy:333,dx:2493,ds:676
+16564,Lucretia,5*,light,wand,7880,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,<hit15 & hp100>,25% poison uptime,attack:3753,skill_1:4146,skill_3:1814,skill_4:1680,s4_poison:314,team_buff:221,team_energy:305,dx:3477,ds:849
+13289,_c_Lucretia,5*,light,wand,7185,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,!<hit15 & hp100>,25% poison uptime,attack:2998,skill_1:3296,skill_3:1442,skill_4:1335,s4_poison:249,team_buff:221,team_energy:305,dx:2763,ds:675

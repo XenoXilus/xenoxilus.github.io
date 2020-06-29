@@ -1,6 +1,6 @@
 -,sp,_
-55926,Bellina,5*,shadow,dagger,11139,Twinfold_Bonds,Howling_to_the_Heavens,Fatalis,Agito1,Ieyasu,Curran,Berserker,Weapon,,<hp≤40 & hit15 & hp=1>,,attack:27333,force_strike:166,skill_1:28386,dx:40
-21735,_c_Bellina,5*,shadow,dagger,8635,Twinfold_Bonds,Howling_to_the_Heavens,Fatalis,Agito1,Ieyasu,Curran,Berserker,Weapon,,!<hp≤40 & hit15 & hp=1>,,attack:9161,force_strike:112,skill_1:12434,dx:26
+62908,Bellina,5*,shadow,dagger,6683,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito1,Ieyasu,Curran,Berserker,Weapon,Veronica,<always connect hits & hp≤40 & hit15 & hp=1>,,attack:16409,force_strike:103,skill_1:34722,skill_2:807,skill_4:10839,dx:25
+18858,_c_Bellina,5*,shadow,dagger,5181,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito1,Ieyasu,Curran,Berserker,Weapon,Veronica,!<always connect hits & hp≤40 & hit15 & hp=1>,,attack:5264,force_strike:67,skill_1:10477,skill_2:168,skill_4:2863,dx:15
 -,sp,affliction
-62096,Bellina,5*,shadow,dagger,11096,Twinfold_Bonds,The_Plaguebringer,Fatalis,Agito1,Ieyasu,Curran,Berserker,Weapon,,<hp≤40 & hit15 & hp=1>,,attack:30352,force_strike:187,skill_1:31510,dx:44
-26479,_c_Bellina,5*,shadow,dagger,8602,Twinfold_Bonds,The_Plaguebringer,Fatalis,Agito1,Ieyasu,Curran,Berserker,Weapon,,!<hp≤40 & hit15 & hp=1>,,attack:11161,force_strike:136,skill_1:15148,dx:32
+72246,Bellina,5*,shadow,dagger,6657,Twinfold_Bonds,The_Plaguebringer,Gala_Cat_Sith,Agito1,Ieyasu,Curran,Berserker,Weapon,Veronica,<always connect hits & hp≤40 & hit15 & hp=1>,,attack:18222,force_strike:116,skill_1:38543,skill_2:896,skill_4:14438,dx:28
+23672,_c_Bellina,5*,shadow,dagger,5161,Twinfold_Bonds,The_Plaguebringer,Gala_Cat_Sith,Agito1,Ieyasu,Curran,Berserker,Weapon,Veronica,!<always connect hits & hp≤40 & hit15 & hp=1>,,attack:6413,force_strike:82,skill_1:12764,skill_2:205,skill_4:4186,dx:19

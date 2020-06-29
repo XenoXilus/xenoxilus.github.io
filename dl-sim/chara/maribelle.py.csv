@@ -1,18 +1,18 @@
 -,60,_
-16488,Maribelle,5*,wind,wand,6895,Candy_Couriers,Primal_Crisis,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,,<maintain shield & hp100 & hit10 & hit15>,,attack:3581,skill_1:5567,skill_2:2346,team_buff:438,dx:2088,ds:2464
-9013,_c_Maribelle,5*,wind,wand,6895,Candy_Couriers,Primal_Crisis,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,,!<maintain shield & hp100 & hit10 & hit15>,,attack:2210,skill_1:2857,skill_2:1157,team_buff:438,dx:1224,ds:1123
+19057,Maribelle,5*,wind,wand,6895,Candy_Couriers,Primal_Crisis,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,<maintain shield & hp100 & hit10 & hit15>,,attack:3261,skill_1:5738,skill_2:2418,skill_4:2470,team_buff:710,dx:2044,ds:2412
+10379,_c_Maribelle,5*,wind,wand,6895,Candy_Couriers,Primal_Crisis,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,!<maintain shield & hp100 & hit10 & hit15>,,attack:2004,skill_1:2848,skill_2:1194,skill_4:1321,team_buff:710,dx:1198,ds:1100
 -,60,affliction
-18325,Maribelle,5*,wind,wand,7603,Candy_Couriers,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,,<maintain shield & hp100 & hit10>,,attack:3985,skill_1:6296,skill_2:2582,team_buff:438,dx:2303,ds:2718
-10753,_c_Maribelle,5*,wind,wand,6912,Candy_Couriers,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,,!<maintain shield & hp100 & hit10>,,attack:2659,skill_1:3437,skill_2:1392,team_buff:438,dx:1473,ds:1351
+23122,Maribelle,5*,wind,wand,7603,Candy_Couriers,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,<maintain shield & hp100 & hit10>,,attack:3623,skill_1:6488,skill_2:2661,skill_4:4720,team_buff:710,dx:2255,ds:2661
+13295,_c_Maribelle,5*,wind,wand,6912,Candy_Couriers,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,!<maintain shield & hp100 & hit10>,,attack:2411,skill_1:3427,skill_2:1437,skill_4:2543,team_buff:710,dx:1442,ds:1323
 -,120,_
-16540,Maribelle,5*,wind,wand,6895,Candy_Couriers,Primal_Crisis,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,,<maintain shield & hp100 & hit10 & hit15>,,attack:4172,skill_1:6560,skill_2:3089,team_buff:438,dx:1045,ds:1233
-8719,_c_Maribelle,5*,wind,wand,6895,Candy_Couriers,Primal_Crisis,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,,!<maintain shield & hp100 & hit10 & hit15>,,attack:2501,skill_1:3150,skill_2:1452,team_buff:438,dx:612,ds:562
+18861,Maribelle,5*,wind,wand,6895,Candy_Couriers,Primal_Crisis,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,<maintain shield & hp100 & hit10 & hit15>,,attack:3923,skill_1:6051,skill_2:3162,skill_4:2702,team_buff:758,dx:1048,ds:1214
+9968,_c_Maribelle,5*,wind,wand,6895,Candy_Couriers,Primal_Crisis,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,!<maintain shield & hp100 & hit10 & hit15>,,attack:2346,skill_1:2876,skill_2:1488,skill_4:1330,team_buff:758,dx:614,ds:553
 -,120,affliction
-18291,Maribelle,5*,wind,wand,7603,Candy_Couriers,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,,<maintain shield & hp100 & hit10>,,attack:4619,skill_1:7313,skill_2:3404,team_buff:438,dx:1153,ds:1360
-10400,_c_Maribelle,5*,wind,wand,6912,Candy_Couriers,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,,!<maintain shield & hp100 & hit10>,,attack:3009,skill_1:3790,skill_2:1747,team_buff:438,dx:737,ds:676
+22786,Maribelle,5*,wind,wand,7603,Candy_Couriers,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,<maintain shield & hp100 & hit10>,,attack:4340,skill_1:6754,skill_2:3485,skill_4:4951,team_buff:758,dx:1156,ds:1339
+12798,_c_Maribelle,5*,wind,wand,6912,Candy_Couriers,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,!<maintain shield & hp100 & hit10>,,attack:2822,skill_1:3459,skill_2:1790,skill_4:2560,team_buff:758,dx:739,ds:666
 -,180,_
-16205,Maribelle,5*,wind,wand,6895,Candy_Couriers,Primal_Crisis,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,,<maintain shield & hp100 & hit10 & hit15>,,attack:4459,skill_1:6455,skill_2:3353,team_buff:438,dx:687,ds:810
-8470,_c_Maribelle,5*,wind,wand,6895,Candy_Couriers,Primal_Crisis,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,,!<maintain shield & hp100 & hit10 & hit15>,,attack:2651,skill_1:3050,skill_2:1558,team_buff:438,dx:402,ds:369
+18798,Maribelle,5*,wind,wand,6895,Candy_Couriers,Primal_Crisis,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,<maintain shield & hp100 & hit10 & hit15>,,attack:4192,skill_1:6576,skill_2:2966,skill_4:2752,team_buff:799,dx:692,ds:817
+9847,_c_Maribelle,5*,wind,wand,6895,Candy_Couriers,Primal_Crisis,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,!<maintain shield & hp100 & hit10 & hit15>,,attack:2488,skill_1:3076,skill_2:1383,skill_4:1320,team_buff:799,dx:406,ds:372
 -,180,affliction
-17891,Maribelle,5*,wind,wand,7603,Candy_Couriers,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,,<maintain shield & hp100 & hit10>,,attack:4930,skill_1:7172,skill_2:3696,team_buff:438,dx:757,ds:894
-10101,_c_Maribelle,5*,wind,wand,6912,Candy_Couriers,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,,!<maintain shield & hp100 & hit10>,,attack:3189,skill_1:3669,skill_2:1874,team_buff:438,dx:484,ds:444
+22654,Maribelle,5*,wind,wand,7603,Candy_Couriers,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,<maintain shield & hp100 & hit10>,,attack:4632,skill_1:7307,skill_2:3270,skill_4:4977,team_buff:799,dx:764,ds:901
+12636,_c_Maribelle,5*,wind,wand,6912,Candy_Couriers,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,!<maintain shield & hp100 & hit10>,,attack:2993,skill_1:3700,skill_2:1664,skill_4:2540,team_buff:799,dx:488,ds:448

@@ -1,18 +1,18 @@
 -,60,_
-10728,Jakob,3*,water,lance,6134,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Tiki,Xander,Dagger,Weapon,,<100 bog res & hit10 & hp70 & hit15>,,attack:2229,force_strike:245,skill_1:1772,dx:4826,ds:1653
-7827,_c_Jakob,3*,water,lance,6134,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Tiki,Xander,Dagger,Weapon,,!<100 bog res & hit10 & hp70 & hit15>,,attack:1663,force_strike:177,skill_1:1308,dx:3483,ds:1193
+12825,Jakob,3*,water,lance,6134,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,<100 bog res & hit10 & hp70 & hit15 & buff all team>,25% poison uptime,attack:2304,force_strike:203,skill_1:1811,skill_4:778,s4_poison:145,team_buff:1493,dx:4534,ds:1553
+8272,_c_Jakob,3*,water,lance,6134,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,!<100 bog res & hit10 & hp70 & hit15 & buff all team>,25% poison uptime,attack:1726,force_strike:148,skill_1:1367,skill_4:558,s4_poison:104,dx:3251,ds:1114
 -,60,affliction
-11510,Jakob,3*,water,lance,6097,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Dagger,Weapon,,<100 bog res & hit10 & hit15>,,attack:2574,force_strike:285,skill_1:1567,dx:5605,ds:1477
-8664,_c_Jakob,3*,water,lance,6097,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Dagger,Weapon,,!<100 bog res & hit10 & hit15>,,attack:1994,force_strike:211,skill_1:1201,dx:4159,ds:1096
+13383,Jakob,3*,water,lance,6097,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,<100 bog res & hit10 & hit15 & buff all team>,25% poison uptime,attack:2607,force_strike:235,skill_1:1597,skill_4:692,s4_poison:129,team_buff:1492,dx:5245,ds:1382
+8970,_c_Jakob,3*,water,lance,6097,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,!<100 bog res & hit10 & hit15 & buff all team>,25% poison uptime,attack:2033,force_strike:177,skill_1:1254,skill_4:511,s4_poison:95,dx:3875,ds:1021
 -,120,_
-9945,Jakob,3*,water,lance,6134,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Tiki,Xander,Dagger,Weapon,,<100 bog res & hit10 & hp70 & hit15>,,attack:2672,force_strike:340,skill_1:1990,dx:4107,ds:833
-7220,_c_Jakob,3*,water,lance,6134,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Tiki,Xander,Dagger,Weapon,,!<100 bog res & hit10 & hp70 & hit15>,,attack:1956,force_strike:245,skill_1:1451,dx:2964,ds:601
+12308,Jakob,3*,water,lance,6134,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,<100 bog res & hit10 & hp70 & hit15 & buff all team>,32% poison uptime,attack:2583,force_strike:290,skill_1:1801,skill_4:1167,s4_poison:174,team_buff:1492,dx:3917,ds:879
+7862,_c_Jakob,3*,water,lance,6134,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,!<100 bog res & hit10 & hp70 & hit15 & buff all team>,32% poison uptime,attack:1899,force_strike:210,skill_1:1330,skill_4:837,s4_poison:125,dx:2818,ds:640
 -,120,affliction
-10774,Jakob,3*,water,lance,6097,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Dagger,Weapon,,<100 bog res & hit10 & hit15>,,attack:3137,force_strike:359,skill_1:1768,dx:4764,ds:744
-8057,_c_Jakob,3*,water,lance,6097,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Dagger,Weapon,,!<100 bog res & hit10 & hit15>,,attack:2370,force_strike:266,skill_1:1331,dx:3536,ds:552
+12907,Jakob,3*,water,lance,6097,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,<100 bog res & hit10 & hit15 & buff all team>,33% poison uptime,attack:3003,force_strike:261,skill_1:1795,skill_4:1043,s4_poison:169,team_buff:1498,dx:4442,ds:693
+8543,_c_Jakob,3*,water,lance,6097,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,!<100 bog res & hit10 & hit15 & buff all team>,33% poison uptime,attack:2284,force_strike:195,skill_1:1371,skill_4:770,s4_poison:124,dx:3282,ds:512
 -,180,_
-9047,Jakob,3*,water,lance,6134,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Tiki,Xander,Dagger,Weapon,,<100 bog res & hit10 & hp70 & hit15>,,attack:3062,force_strike:392,skill_1:2300,dx:2736,ds:555
-6558,_c_Jakob,3*,water,lance,6134,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Tiki,Xander,Dagger,Weapon,,!<100 bog res & hit10 & hp70 & hit15>,,attack:2228,force_strike:283,skill_1:1670,dx:1974,ds:400
+11732,Jakob,3*,water,lance,6134,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,<100 bog res & hit10 & hp70 & hit15 & buff all team>,37% poison uptime,attack:2838,force_strike:334,skill_1:2175,skill_4:1439,s4_poison:239,team_buff:1497,dx:2619,ds:587
+7437,_c_Jakob,3*,water,lance,6134,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,!<100 bog res & hit10 & hp70 & hit15 & buff all team>,37% poison uptime,attack:2071,force_strike:242,skill_1:1591,skill_4:1044,s4_poison:174,dx:1884,ds:428
 -,180,affliction
-9716,Jakob,3*,water,lance,6097,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Dagger,Weapon,,<100 bog res & hit10 & hit15>,,attack:3543,force_strike:454,skill_1:2047,dx:3174,ds:495
-7252,_c_Jakob,3*,water,lance,6097,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Dagger,Weapon,,!<100 bog res & hit10 & hit15>,,attack:2658,force_strike:337,skill_1:1532,dx:2355,ds:367
+11960,Jakob,3*,water,lance,6097,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,<100 bog res & hit10 & hit15 & buff all team>,38% poison uptime,attack:3174,force_strike:358,skill_1:1931,skill_4:1219,s4_poison:201,team_buff:1496,dx:3054,ds:523
+7834,_c_Jakob,3*,water,lance,6097,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,!<100 bog res & hit10 & hit15 & buff all team>,38% poison uptime,attack:2391,force_strike:267,skill_1:1459,skill_4:906,s4_poison:150,dx:2266,ds:392

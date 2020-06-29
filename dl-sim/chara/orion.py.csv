@@ -1,18 +1,18 @@
 -,60,_
-13093,Orion,4*,shadow,dagger,5085,Twinfold_Bonds,Howling_to_the_Heavens,Shinobi,Agito1,Ieyasu,Wand,Axe2,Weapon,,<hit15>,,attack:2044,force_strike:236,skill_1:3716,skill_2:1776,team_energy:416,dx:3572,ds:1330
-9725,_c_Orion,4*,shadow,dagger,5085,Twinfold_Bonds,Howling_to_the_Heavens,Shinobi,Agito1,Ieyasu,Wand,Axe2,Weapon,,!<hit15>,,attack:1521,force_strike:170,skill_1:2791,skill_2:1283,team_energy:416,dx:2579,ds:961
+17565,Orion,4*,shadow,dagger,4238,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Axe2,Weapon,Curran,<always connect hits & hit15>,,attack:1680,force_strike:166,skill_1:4486,skill_2:2650,skill_4:2830,team_buff:347,dx:3720,ds:1682
+12712,_c_Orion,4*,shadow,dagger,4238,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Axe2,Weapon,Curran,!<always connect hits & hit15>,,attack:1227,force_strike:117,skill_1:3329,skill_2:1872,skill_4:1999,team_buff:347,dx:2628,ds:1188
 -,60,affliction
-14541,Orion,4*,shadow,dagger,5297,Twinfold_Bonds,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<hit15 & hp100>,,attack:2534,force_strike:241,skill_1:3854,skill_2:1812,team_energy:416,dx:4325,ds:1357
-11896,_c_Orion,4*,shadow,dagger,5085,Twinfold_Bonds,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<hit15 & hp100>,,attack:2076,force_strike:194,skill_1:3174,skill_2:1459,team_energy:416,dx:3482,ds:1093
+20948,Orion,4*,shadow,dagger,4450,Twinfold_Bonds,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,<always connect hits & hit15 & hp100>,,attack:2096,force_strike:170,skill_1:4695,skill_2:2720,skill_4:4647,team_buff:347,dx:4542,ds:1726
+16617,_c_Orion,4*,shadow,dagger,4238,Twinfold_Bonds,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,!<always connect hits & hit15 & hp100>,,attack:1674,force_strike:133,skill_1:3786,skill_2:2129,skill_4:3637,team_buff:347,dx:3555,ds:1351
 -,120,_
-13510,Orion,4*,shadow,dagger,5085,Twinfold_Bonds,Howling_to_the_Heavens,Shinobi,Agito1,Ieyasu,Wand,Axe2,Weapon,,<hit15>,,attack:2164,force_strike:305,skill_1:4032,skill_2:2059,team_energy:413,dx:3211,ds:1322
-9948,_c_Orion,4*,shadow,dagger,5085,Twinfold_Bonds,Howling_to_the_Heavens,Shinobi,Agito1,Ieyasu,Wand,Axe2,Weapon,,!<hit15>,,attack:1586,force_strike:220,skill_1:2965,skill_2:1487,team_energy:413,dx:2319,ds:955
+18270,Orion,4*,shadow,dagger,4238,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Axe2,Weapon,Curran,<always connect hits & hit15>,,attack:1779,force_strike:204,skill_1:5390,skill_2:2637,skill_4:2840,team_buff:349,dx:3334,ds:1732
+12707,_c_Orion,4*,shadow,dagger,4238,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Axe2,Weapon,Curran,!<always connect hits & hit15>,,attack:1277,force_strike:144,skill_1:3888,skill_2:1863,skill_4:2006,team_buff:349,dx:2356,ds:820
 -,120,affliction
-14893,Orion,4*,shadow,dagger,5297,Twinfold_Bonds,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<hit15 & hp100>,,attack:2665,force_strike:311,skill_1:4144,skill_2:2100,team_energy:413,dx:3907,ds:1348
-12125,_c_Orion,4*,shadow,dagger,5085,Twinfold_Bonds,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<hit15 & hp100>,,attack:2164,force_strike:250,skill_1:3372,skill_2:1691,team_energy:413,dx:3146,ds:1086
+21579,Orion,4*,shadow,dagger,4450,Twinfold_Bonds,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,<always connect hits & hit15 & hp100>,,attack:2205,force_strike:210,skill_1:5578,skill_2:2707,skill_4:4664,team_buff:349,dx:4086,ds:1778
+16581,_c_Orion,4*,shadow,dagger,4238,Twinfold_Bonds,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,!<always connect hits & hit15 & hp100>,,attack:1742,force_strike:164,skill_1:4421,skill_2:2119,skill_4:3650,team_buff:349,dx:3198,ds:933
 -,180,_
-12777,Orion,4*,shadow,dagger,5085,Twinfold_Bonds,Howling_to_the_Heavens,Shinobi,Agito1,Ieyasu,Wand,Axe2,Weapon,,<hit15>,,attack:2489,force_strike:283,skill_1:4273,skill_2:2411,team_energy:277,dx:2154,ds:887
-9356,_c_Orion,4*,shadow,dagger,5085,Twinfold_Bonds,Howling_to_the_Heavens,Shinobi,Agito1,Ieyasu,Wand,Axe2,Weapon,,!<hit15>,,attack:1813,force_strike:204,skill_1:3121,skill_2:1741,team_energy:277,dx:1556,ds:640
+18189,Orion,4*,shadow,dagger,4238,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Axe2,Weapon,Curran,<always connect hits & hit15>,,attack:1990,force_strike:232,skill_1:5743,skill_2:3218,skill_4:3315,team_buff:349,dx:2213,ds:1126
+10915,_c_Orion,4*,shadow,dagger,4238,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Axe2,Weapon,Curran,!<always connect hits & hit15>,,attack:1419,force_strike:164,skill_1:3135,skill_2:1870,skill_4:2127,team_buff:349,dx:1563,ds:284
 -,180,affliction
-13990,Orion,4*,shadow,dagger,5297,Twinfold_Bonds,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<hit15 & hp100>,,attack:3057,force_strike:289,skill_1:4379,skill_2:2459,team_energy:277,dx:2621,ds:904
-11354,_c_Orion,4*,shadow,dagger,5085,Twinfold_Bonds,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<hit15 & hp100>,,attack:2473,force_strike:232,skill_1:3549,skill_2:1980,team_energy:277,dx:2110,ds:728
+21588,Orion,4*,shadow,dagger,4450,Twinfold_Bonds,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,<always connect hits & hit15 & hp100>,,attack:2460,force_strike:238,skill_1:5925,skill_2:3302,skill_4:5443,team_buff:349,dx:2712,ds:1155
+14482,_c_Orion,4*,shadow,dagger,4238,Twinfold_Bonds,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,!<always connect hits & hit15 & hp100>,,attack:1937,force_strike:186,skill_1:3565,skill_2:2127,skill_4:3870,team_buff:349,dx:2123,ds:323

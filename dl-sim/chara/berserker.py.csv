@@ -1,18 +1,18 @@
 -,60,_
-12193,Berserker,4*,shadow,sword,8990,The_Shining_Overlord,The_Lurker_in_the_Woods,Fatalis,Agito1,Ieyasu,Wand,Tiki,Weapon,,<last offense & hp=40.0%>,,attack:4591,force_strike:2475,skill_1:5125
-10158,_c_Berserker,4*,shadow,sword,7886,The_Shining_Overlord,The_Lurker_in_the_Woods,Fatalis,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<last offense & hp≤40>,,attack:3785,force_strike:2066,skill_1:4306
+17733,Berserker,4*,shadow,sword,4994,The_Shining_Overlord,The_Lurker_in_the_Woods,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,<always connect hits & last offense & hp=40.0%>,,attack:1692,force_strike:821,skill_1:4949,skill_4:2154,team_buff:349,dx:4896,ds:2869
+15217,_c_Berserker,4*,shadow,sword,4381,The_Shining_Overlord,The_Lurker_in_the_Woods,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,!<always connect hits & last offense & hp≤40>,,attack:1354,force_strike:664,skill_1:4065,skill_4:1896,team_buff:349,dx:4339,ds:2546
 -,60,affliction
-17122,Berserker,4*,shadow,sword,7192,The_Shining_Overlord,The_Plaguebringer,Epimetheus,Agito1,Ieyasu,Wand,Tiki,Weapon,,<last offense & hp=40.0%>,,attack:3696,force_strike:1289,skill_1:4147,dx:5920,ds_poison:408,ds:1657
-14534,_c_Berserker,4*,shadow,sword,6309,The_Shining_Overlord,The_Plaguebringer,Epimetheus,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<last offense & hp≤40>,,attack:2971,force_strike:1053,skill_1:3431,dx:5245,ds_poison:361,ds:1471
+22435,Berserker,4*,shadow,sword,4795,The_Shining_Overlord,The_Plaguebringer,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,<always connect hits & last offense & hp=40.0%>,,attack:2030,force_strike:657,skill_1:5940,skill_4:4137,team_buff:349,dx:5876,ds:3443
+19292,_c_Berserker,4*,shadow,sword,4206,The_Shining_Overlord,The_Plaguebringer,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,!<always connect hits & last offense & hp≤40>,,attack:1625,force_strike:531,skill_1:4878,skill_4:3642,team_buff:349,dx:5207,ds:3056
 -,120,_
-12263,Berserker,4*,shadow,sword,8990,The_Shining_Overlord,The_Lurker_in_the_Woods,Fatalis,Agito1,Ieyasu,Wand,Tiki,Weapon,,<last offense & hp=40.0%>,,attack:4519,force_strike:2516,skill_1:5227
-10488,_c_Berserker,4*,shadow,sword,7886,The_Shining_Overlord,The_Lurker_in_the_Woods,Fatalis,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<last offense & hp≤40>,,attack:3842,force_strike:2154,skill_1:4490
+16731,Berserker,4*,shadow,sword,4994,The_Shining_Overlord,The_Lurker_in_the_Woods,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,<always connect hits & last offense & hp=40.0%>,,attack:1975,force_strike:983,skill_1:5955,skill_4:2754,team_buff:438,dx:3224,ds:1400
+14592,_c_Berserker,4*,shadow,sword,4381,The_Shining_Overlord,The_Lurker_in_the_Woods,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,!<always connect hits & last offense & hp≤40>,,attack:1674,force_strike:837,skill_1:5104,skill_4:2431,team_buff:438,dx:2861,ds:1243
 -,120,affliction
-16022,Berserker,4*,shadow,sword,7192,The_Shining_Overlord,The_Plaguebringer,Epimetheus,Agito1,Ieyasu,Wand,Tiki,Weapon,,<last offense & hp=40.0%>,,attack:4254,force_strike:1522,skill_1:4830,dx:4242,ds_poison:343,ds:829
-13870,_c_Berserker,4*,shadow,sword,6309,The_Shining_Overlord,The_Plaguebringer,Epimetheus,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<last offense & hp≤40>,,attack:3611,force_strike:1301,skill_1:4151,dx:3765,ds_poison:304,ds:735
+21582,Berserker,4*,shadow,sword,4795,The_Shining_Overlord,The_Plaguebringer,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,<always connect hits & last offense & hp=40.0%>,,attack:2370,force_strike:786,skill_1:7146,skill_4:5289,team_buff:438,dx:3869,ds:1681
+18840,_c_Berserker,4*,shadow,sword,4206,The_Shining_Overlord,The_Plaguebringer,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,!<always connect hits & last offense & hp≤40>,,attack:2010,force_strike:670,skill_1:6126,skill_4:4669,team_buff:438,dx:3434,ds:1491
 -,180,_
-12261,Berserker,4*,shadow,sword,8990,The_Shining_Overlord,The_Lurker_in_the_Woods,Fatalis,Agito1,Ieyasu,Wand,Tiki,Weapon,,<last offense & hp=40.0%>,,attack:4478,force_strike:2526,skill_1:5255
-10576,_c_Berserker,4*,shadow,sword,7886,The_Shining_Overlord,The_Lurker_in_the_Woods,Fatalis,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<last offense & hp≤40>,,attack:3847,force_strike:2181,skill_1:4546
+16793,Berserker,4*,shadow,sword,4994,The_Shining_Overlord,The_Lurker_in_the_Woods,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,<always connect hits & last offense & hp=40.0%>,,attack:2123,force_strike:1073,skill_1:6732,skill_4:3309,team_buff:465,dx:2158,ds:931
+13373,_c_Berserker,4*,shadow,sword,4381,The_Shining_Overlord,The_Lurker_in_the_Woods,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,!<always connect hits & last offense & hp≤40>,,attack:1830,force_strike:928,skill_1:5184,skill_4:2505,team_buff:465,dx:1915,ds:543
 -,180,affliction
-15374,Berserker,4*,shadow,sword,7192,The_Shining_Overlord,The_Plaguebringer,Epimetheus,Agito1,Ieyasu,Wand,Tiki,Weapon,,<last offense & hp=40.0%>,,attack:4630,force_strike:1696,skill_1:5407,dx:2830,ds_poison:255,ds:553
-13396,_c_Berserker,4*,shadow,sword,6309,The_Shining_Overlord,The_Plaguebringer,Epimetheus,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<last offense & hp≤40>,,attack:3994,force_strike:1470,skill_1:4701,dx:2511,ds_poison:226,ds:490
+22014,Berserker,4*,shadow,sword,4795,The_Shining_Overlord,The_Plaguebringer,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,<always connect hits & last offense & hp=40.0%>,,attack:2548,force_strike:858,skill_1:8079,skill_4:6353,team_buff:465,dx:2590,ds:1118
+17389,_c_Berserker,4*,shadow,sword,4206,The_Shining_Overlord,The_Plaguebringer,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,!<always connect hits & last offense & hp≤40>,,attack:2196,force_strike:742,skill_1:6222,skill_4:4810,team_buff:465,dx:2298,ds:652

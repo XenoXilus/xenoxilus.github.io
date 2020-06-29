@@ -1,18 +1,18 @@
 -,60,_
-19969,Gala_Mym,5*,flame,lance,8995,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,,<hit10 & hp50 & hp70>,,attack:2581,force_strike:361,skill_1:4971,skill_2:794,s2_boost:398,dx:7334,ds:3527
-15692,_c_Gala_Mym,5*,flame,lance,8048,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,,!<hit10 & hp50 & hp70>,,attack:2022,force_strike:279,skill_1:3874,skill_2:621,s2_boost:312,dx:5797,ds:2781
+21638,Gala_Mym,5*,flame,lance,8995,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,Ranzal,<hit10 & hp50 & hp70>,25% poison uptime,attack:2376,force_strike:363,skill_1:4997,skill_2:798,s2_boost:401,skill_4:1500,s4_poison:280,dx:7373,ds:3545
+16997,_c_Gala_Mym,5*,flame,lance,8048,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,Ranzal,!<hit10 & hp50 & hp70>,25% poison uptime,attack:1860,force_strike:281,skill_1:3895,skill_2:625,s2_boost:314,skill_4:1175,s4_poison:219,dx:5828,ds:2796
 -,60,affliction
-22287,Gala_Mym,5*,flame,lance,8993,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,,<hp50 & hp70>,,attack:3213,force_strike:530,skill_1:4435,skill_2:1607,s2_boost:448,dx:8228,ds:3822
-19095,_c_Gala_Mym,5*,flame,lance,8046,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,,!<hp50 & hp70>,,attack:2746,force_strike:453,skill_1:3795,skill_2:1373,s2_boost:384,dx:7060,ds:3279
+23624,Gala_Mym,5*,flame,lance,8993,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,Ranzal,<hp50 & hp70>,25% poison uptime,attack:3196,force_strike:527,skill_1:4411,skill_2:1598,s2_boost:446,skill_4:1669,s4_poison:312,dx:7661,ds:3801
+20242,_c_Gala_Mym,5*,flame,lance,8046,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,Ranzal,!<hp50 & hp70>,25% poison uptime,attack:2731,force_strike:450,skill_1:3774,skill_2:1366,s2_boost:382,skill_4:1432,s4_poison:267,dx:6574,ds:3261
 -,120,_
-22243,Gala_Mym,5*,flame,lance,8995,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,,<hit10 & hp50 & hp70>,,attack:3126,force_strike:449,skill_1:5582,skill_2:1788,s2_boost:745,dx:7338,ds:3210
-17593,_c_Gala_Mym,5*,flame,lance,8048,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,,!<hit10 & hp50 & hp70>,,attack:2457,force_strike:351,skill_1:4386,skill_2:1411,s2_boost:591,dx:5842,ds:2551
+24060,Gala_Mym,5*,flame,lance,8995,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,Ranzal,<hit10 & hp50 & hp70>,25% poison uptime,attack:2936,force_strike:450,skill_1:5595,skill_2:1792,s2_boost:747,skill_4:1655,s4_poison:309,dx:7355,ds:3217
+19022,_c_Gala_Mym,5*,flame,lance,8048,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,Ranzal,!<hit10 & hp50 & hp70>,25% poison uptime,attack:2305,force_strike:352,skill_1:4396,skill_2:1414,s2_boost:593,skill_4:1304,s4_poison:243,dx:5855,ds:2556
 -,120,affliction
-24196,Gala_Mym,5*,flame,lance,8993,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,,<hp50 & hp70>,,attack:3939,force_strike:601,skill_1:5871,skill_2:1830,s2_boost:739,dx:7842,ds:3370
-20739,_c_Gala_Mym,5*,flame,lance,8046,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,,!<hp50 & hp70>,,attack:3370,force_strike:515,skill_1:5027,skill_2:1568,s2_boost:634,dx:6729,ds:2892
+26956,Gala_Mym,5*,flame,lance,8993,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,Ranzal,<hp50 & hp70>,25% poison uptime,attack:3448,force_strike:526,skill_1:5934,skill_2:1816,s2_boost:734,skill_4:1791,s4_poison:334,dx:9025,ds:3344
+23107,_c_Gala_Mym,5*,flame,lance,8046,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,Ranzal,!<hp50 & hp70>,25% poison uptime,attack:2949,force_strike:450,skill_1:5080,skill_2:1556,s2_boost:630,skill_4:1537,s4_poison:287,dx:7744,ds:2870
 -,180,_
-23720,Gala_Mym,5*,flame,lance,8995,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,,<hit10 & hp50 & hp70>,,attack:3438,force_strike:548,skill_1:6089,skill_2:2186,s2_boost:996,dx:7351,ds:3109
-18822,_c_Gala_Mym,5*,flame,lance,8048,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,,!<hit10 & hp50 & hp70>,,attack:2715,force_strike:431,skill_1:4809,skill_2:1729,s2_boost:790,dx:5866,ds:2478
+25955,Gala_Mym,5*,flame,lance,8995,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,Ranzal,<hit10 & hp50 & hp70>,25% poison uptime,attack:3217,force_strike:510,skill_1:5739,skill_2:2594,s2_boost:1201,skill_4:1866,s4_poison:348,dx:7361,ds:3114
+20602,_c_Gala_Mym,5*,flame,lance,8048,Resounding_Rendition,The_Red_Impulse,Gala_Mars,Agito2,Blade,Marth,Yuya,Weapon,Ranzal,!<hit10 & hp50 & hp70>,25% poison uptime,attack:2540,force_strike:401,skill_1:4532,skill_2:2056,s2_boost:954,skill_4:1481,s4_poison:276,dx:5874,ds:2481
 -,180,affliction
-26297,Gala_Mym,5*,flame,lance,8993,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,,<hp50 & hp70>,,attack:4218,force_strike:645,skill_1:6319,skill_2:2570,s2_boost:1051,dx:8276,ds:3215
-22544,_c_Gala_Mym,5*,flame,lance,8046,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,,!<hp50 & hp70>,,attack:3611,force_strike:553,skill_1:5413,skill_2:2202,s2_boost:902,dx:7102,ds:2759
+27549,Gala_Mym,5*,flame,lance,8993,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,Ranzal,<hp50 & hp70>,25% poison uptime,attack:4211,force_strike:644,skill_1:6309,skill_2:2566,s2_boost:1049,skill_4:1964,s4_poison:367,dx:7223,ds:3210
+23618,_c_Gala_Mym,5*,flame,lance,8046,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Verica,Yuya,Weapon,Ranzal,!<hp50 & hp70>,25% poison uptime,attack:3606,force_strike:552,skill_1:5405,skill_2:2198,s2_boost:900,skill_4:1685,s4_poison:315,dx:6198,ds:2755

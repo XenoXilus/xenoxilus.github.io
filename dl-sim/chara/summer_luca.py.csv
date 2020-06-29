@@ -1,18 +1,18 @@
 -,60,_
-14146,Summer_Luca,4*,light,axe,7232,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hp70 & hit15>,,attack:3405,force_strike:287,skill_1:3055,skill_3:832,team_buff:662,dx:5025,ds:876
-10005,_c_Summer_Luca,4*,light,axe,6794,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hp70 & hit15>,,attack:2427,force_strike:207,skill_1:2169,skill_3:560,team_buff:662,dx:3385,ds:590
+15157,Summer_Luca,4*,light,axe,7232,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,<hp70 & hit15>,,attack:3265,force_strike:286,skill_1:3045,skill_3:829,skill_4:1143,s4_poison:42,team_buff:660,dx:5008,ds:873
+10684,_c_Summer_Luca,4*,light,axe,6794,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,!<hp70 & hit15>,,attack:2332,force_strike:207,skill_1:2162,skill_3:559,skill_4:770,s4_poison:28,team_buff:660,dx:3374,ds:588
 -,60,affliction
-16125,Summer_Luca,4*,light,axe,7890,Kung_Fu_Masters,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hp70 & hit15 & hp100>,,attack:4065,force_strike:345,skill_1:3361,skill_3:895,team_buff:662,dx:5852,ds:942
-12540,_c_Summer_Luca,4*,light,axe,6794,Kung_Fu_Masters,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hp70 & hit15 & hp100>,,attack:3173,force_strike:271,skill_1:2618,skill_3:676,team_buff:662,dx:4425,ds:712
+17197,Summer_Luca,4*,light,axe,7890,Kung_Fu_Masters,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,<hp70 & hit15 & hp100>,,attack:3902,force_strike:343,skill_1:3350,skill_3:892,skill_4:1228,s4_poison:45,team_buff:660,dx:5833,ds:939
+13349,_c_Summer_Luca,4*,light,axe,6794,Kung_Fu_Masters,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,!<hp70 & hit15 & hp100>,,attack:3049,force_strike:270,skill_1:2609,skill_3:674,skill_4:929,s4_poison:34,team_buff:660,dx:4410,ds:710
 -,120,_
-13205,Summer_Luca,4*,light,axe,7232,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hp70 & hit15>,,attack:3978,force_strike:352,skill_1:3668,skill_3:994,team_buff:331,dx:3073,ds:805
-9134,_c_Summer_Luca,4*,light,axe,6794,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hp70 & hit15>,,attack:2747,force_strike:244,skill_1:2526,skill_3:669,team_buff:331,dx:2070,ds:542
+14224,Summer_Luca,4*,light,axe,7232,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,<hp70 & hit15>,25% poison uptime,attack:3932,force_strike:253,skill_1:3250,skill_3:995,skill_4:1149,s4_poison:214,team_buff:332,dx:3288,ds:806
+9820,_c_Summer_Luca,4*,light,axe,6794,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,!<hp70 & hit15>,25% poison uptime,attack:2716,force_strike:177,skill_1:2245,skill_3:670,skill_4:774,s4_poison:144,team_buff:332,dx:2215,ds:543
 -,120,affliction
-14942,Summer_Luca,4*,light,axe,7890,Kung_Fu_Masters,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hp70 & hit15 & hp100>,,attack:4683,force_strike:416,skill_1:3981,skill_3:1083,team_buff:331,dx:3579,ds:866
-11472,_c_Summer_Luca,4*,light,axe,6794,Kung_Fu_Masters,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hp70 & hit15 & hp100>,,attack:3590,force_strike:320,skill_1:3048,skill_3:818,team_buff:331,dx:2706,ds:654
+16043,Summer_Luca,4*,light,axe,7890,Kung_Fu_Masters,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,<hp70 & hit15 & hp100>,25% poison uptime,attack:4629,force_strike:300,skill_1:3533,skill_3:1084,skill_4:1236,s4_poison:231,team_buff:332,dx:3829,ds:866
+12305,_c_Summer_Luca,4*,light,axe,6794,Kung_Fu_Masters,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,!<hp70 & hit15 & hp100>,25% poison uptime,attack:3550,force_strike:232,skill_1:2709,skill_3:819,skill_4:934,s4_poison:174,team_buff:332,dx:2895,ds:655
 -,180,_
-13450,Summer_Luca,4*,light,axe,7232,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hp70 & hit15>,,attack:3971,force_strike:306,skill_1:3558,skill_3:1330,team_buff:444,dx:3274,ds:563
-9293,_c_Summer_Luca,4*,light,axe,6794,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hp70 & hit15>,,attack:2720,force_strike:211,skill_1:2434,skill_3:896,team_buff:444,dx:2206,ds:379
+14695,Summer_Luca,4*,light,axe,7232,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,<hp70 & hit15>,25% poison uptime,attack:3841,force_strike:270,skill_1:3254,skill_3:1321,skill_4:1114,s4_poison:208,team_buff:441,dx:3659,ds:583
+10130,_c_Summer_Luca,4*,light,axe,6794,Resounding_Rendition,Breakfast_at_Valerios,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,!<hp70 & hit15>,25% poison uptime,attack:2632,force_strike:187,skill_1:2229,skill_3:890,skill_4:750,s4_poison:140,team_buff:441,dx:2465,ds:393
 -,180,affliction
-15184,Summer_Luca,4*,light,axe,7890,Kung_Fu_Masters,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,<hp70 & hit15 & hp100>,,attack:4658,force_strike:360,skill_1:3850,skill_3:1450,team_buff:444,dx:3813,ds:605
-11651,_c_Summer_Luca,4*,light,axe,6794,Kung_Fu_Masters,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,,!<hp70 & hit15 & hp100>,,attack:3555,force_strike:275,skill_1:2937,skill_3:1096,team_buff:444,dx:2883,ds:458
+16542,Summer_Luca,4*,light,axe,7890,Kung_Fu_Masters,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,<hp70 & hit15 & hp100>,25% poison uptime,attack:4507,force_strike:318,skill_1:3523,skill_3:1440,skill_4:1197,s4_poison:223,team_buff:441,dx:4262,ds:627
+12677,_c_Summer_Luca,4*,light,axe,6794,Kung_Fu_Masters,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Dagger,Peony,Weapon,Ranzal,!<hp70 & hit15 & hp100>,25% poison uptime,attack:3440,force_strike:244,skill_1:2689,skill_3:1088,skill_4:905,s4_poison:169,team_buff:441,dx:3222,ds:474

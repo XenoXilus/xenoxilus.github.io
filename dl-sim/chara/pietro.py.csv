@@ -1,18 +1,18 @@
 -,60,_
-12014,Pietro,3*,water,axe,5675,Resounding_Rendition,Breakfast_at_Valerios,Nimis,Agito1,Tiki,Xander,Dagger,Weapon,,<hit10 & hp70 & hit15>,,attack:2218,force_strike:242,skill_1:1187,dx:8365
-8281,_c_Pietro,3*,water,axe,5675,Resounding_Rendition,Breakfast_at_Valerios,Nimis,Agito1,Tiki,Xander,Dagger,Weapon,,!<hit10 & hp70 & hit15>,,attack:1607,force_strike:175,skill_1:853,dx:5645
+11517,Pietro,3*,water,axe,5675,Resounding_Rendition,Breakfast_at_Valerios,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,<hit10 & hp70 & hit15 & buff all team>,,attack:2157,force_strike:224,skill_1:1632,dx:7503
+7807,_c_Pietro,3*,water,axe,5675,Resounding_Rendition,Breakfast_at_Valerios,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,!<hit10 & hp70 & hit15 & buff all team>,,attack:1546,force_strike:160,skill_1:1127,dx:4972
 -,60,affliction
-13248,Pietro,3*,water,axe,5641,Primal_Crisis,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Dagger,Weapon,,<hit10 & hit15>,,attack:2441,force_strike:269,skill_1:996,dx:9539
-9644,_c_Pietro,3*,water,axe,5641,Primal_Crisis,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Dagger,Weapon,,!<hit10 & hit15>,,attack:1917,force_strike:208,skill_1:782,dx:6734
+12498,Pietro,3*,water,axe,5641,Primal_Crisis,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,<hit10 & hit15 & buff all team>,,attack:2362,force_strike:247,skill_1:1378,dx:8509
+9003,_c_Pietro,3*,water,axe,5641,Primal_Crisis,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,!<hit10 & hit15 & buff all team>,,attack:1845,force_strike:191,skill_1:1034,dx:5932
 -,120,_
-11706,Pietro,3*,water,axe,5675,Resounding_Rendition,Breakfast_at_Valerios,Nimis,Agito1,Tiki,Xander,Dagger,Weapon,,<hit10 & hp70 & hit15>,,attack:3204,force_strike:348,skill_1:2183,dx:5969
-7987,_c_Pietro,3*,water,axe,5675,Resounding_Rendition,Breakfast_at_Valerios,Nimis,Agito1,Tiki,Xander,Dagger,Weapon,,!<hit10 & hp70 & hit15>,,attack:2218,force_strike:240,skill_1:1499,dx:4028
+12226,Pietro,3*,water,axe,5675,Resounding_Rendition,Breakfast_at_Valerios,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,<hit10 & hp70 & hit15 & buff all team>,17% poison uptime,attack:2872,force_strike:286,skill_1:1965,skill_4:858,s4_poison:96,team_buff:747,dx:5397
+7725,_c_Pietro,3*,water,axe,5675,Resounding_Rendition,Breakfast_at_Valerios,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,!<hit10 & hp70 & hit15 & buff all team>,17% poison uptime,attack:1968,force_strike:197,skill_1:1325,skill_4:569,s4_poison:63,dx:3599
 -,120,affliction
-12395,Pietro,3*,water,axe,5641,Primal_Crisis,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Dagger,Weapon,,<hit10 & hit15>,,attack:3545,force_strike:396,skill_1:1907,dx:6546
-8898,_c_Pietro,3*,water,axe,5641,Primal_Crisis,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Dagger,Weapon,,!<hit10 & hit15>,,attack:2600,force_strike:289,skill_1:1386,dx:4621
+12917,Pietro,3*,water,axe,5641,Primal_Crisis,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,<hit10 & hit15 & buff all team>,19% poison uptime,attack:3213,force_strike:276,skill_1:1763,skill_4:751,s4_poison:98,team_buff:749,dx:6063
+8653,_c_Pietro,3*,water,axe,5641,Primal_Crisis,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,!<hit10 & hit15 & buff all team>,19% poison uptime,attack:2348,force_strike:203,skill_1:1272,skill_4:523,s4_poison:68,dx:4235
 -,180,_
-11752,Pietro,3*,water,axe,5675,Resounding_Rendition,Breakfast_at_Valerios,Nimis,Agito1,Tiki,Xander,Dagger,Weapon,,<hit10 & hp70 & hit15>,,attack:3408,force_strike:355,skill_1:2322,dx:5665
-7990,_c_Pietro,3*,water,axe,5675,Resounding_Rendition,Breakfast_at_Valerios,Nimis,Agito1,Tiki,Xander,Dagger,Weapon,,!<hit10 & hp70 & hit15>,,attack:2337,force_strike:243,skill_1:1584,dx:3823
+12709,Pietro,3*,water,axe,5675,Resounding_Rendition,Breakfast_at_Valerios,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,<hit10 & hp70 & hit15 & buff all team>,25% poison uptime,attack:2937,force_strike:307,skill_1:2175,skill_4:935,s4_poison:174,team_buff:997,dx:5178
+7857,_c_Pietro,3*,water,axe,5675,Resounding_Rendition,Breakfast_at_Valerios,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,!<hit10 & hp70 & hit15 & buff all team>,25% poison uptime,attack:1995,force_strike:209,skill_1:1466,skill_4:626,s4_poison:117,dx:3442
 -,180,affliction
-12680,Pietro,3*,water,axe,5641,Primal_Crisis,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Dagger,Weapon,,<hit10 & hit15>,,attack:3791,force_strike:403,skill_1:2022,dx:6463
-9051,_c_Pietro,3*,water,axe,5641,Primal_Crisis,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Dagger,Weapon,,!<hit10 & hit15>,,attack:2742,force_strike:291,skill_1:1454,dx:4562
+13352,Pietro,3*,water,axe,5641,Primal_Crisis,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,<hit10 & hit15 & buff all team>,25% poison uptime,attack:3348,force_strike:315,skill_1:1925,skill_4:815,s4_poison:152,team_buff:996,dx:5798
+8750,_c_Pietro,3*,water,axe,5641,Primal_Crisis,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,!<hit10 & hit15 & buff all team>,25% poison uptime,attack:2414,force_strike:227,skill_1:1378,skill_4:574,s4_poison:107,dx:4047

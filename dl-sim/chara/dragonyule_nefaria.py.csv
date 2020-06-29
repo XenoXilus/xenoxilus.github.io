@@ -1,18 +1,18 @@
 -,60,_
-9907,Dragonyule_Nefaria,4*,water,bow,6605,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Thaniel,Weapon,,<hit10 & hit15>,,attack:1491,force_strike:1293,skill_1:2290,dx:3781,ds:1048
-6758,_c_Dragonyule_Nefaria,4*,water,bow,6605,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Thaniel,Weapon,,!<hit10 & hit15>,,attack:1043,force_strike:877,skill_1:1554,dx:2569,ds:712
+10212,Dragonyule_Nefaria,4*,water,bow,6605,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Thaniel,Gala_Elisanne,Ranzal,<hit10 & hit15 & buff all team>,19% poison uptime,attack:1354,force_strike:1122,skill_1:2165,skill_4:975,s4_poison:109,dx:3510,ds:973
+6935,_c_Dragonyule_Nefaria,4*,water,bow,6605,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Thaniel,Gala_Elisanne,Ranzal,!<hit10 & hit15 & buff all team>,19% poison uptime,attack:946,force_strike:759,skill_1:1464,skill_4:659,s4_poison:73,dx:2373,ds:657
 -,60,affliction
-10657,Dragonyule_Nefaria,4*,water,bow,6598,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Thaniel,Weapon,,<hit10 & hit15>,,attack:1788,force_strike:1107,skill_1:2214,dx:4533,ds:1013
-7274,_c_Dragonyule_Nefaria,4*,water,bow,6598,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Thaniel,Weapon,,!<hit10 & hit15>,,attack:1251,force_strike:751,skill_1:1502,dx:3079,ds:688
+10877,Dragonyule_Nefaria,4*,water,bow,6598,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Thaniel,Gala_Elisanne,Ranzal,<hit10 & hit15 & buff all team>,19% poison uptime,attack:1623,force_strike:961,skill_1:2093,skill_4:943,s4_poison:105,dx:4208,ds:940
+7390,_c_Dragonyule_Nefaria,4*,water,bow,6598,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Thaniel,Gala_Elisanne,Ranzal,!<hit10 & hit15 & buff all team>,19% poison uptime,attack:1135,force_strike:649,skill_1:1415,skill_4:637,s4_poison:71,dx:2844,ds:635
 -,120,_
-10037,Dragonyule_Nefaria,4*,water,bow,6605,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Thaniel,Weapon,,<hit10 & hit15>,,attack:1559,force_strike:1352,skill_1:2355,dx:3702,ds:1068
-6833,_c_Dragonyule_Nefaria,4*,water,bow,6605,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Thaniel,Weapon,,!<hit10 & hit15>,,attack:1074,force_strike:918,skill_1:1599,dx:2515,ds:725
+11089,Dragonyule_Nefaria,4*,water,bow,6605,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Thaniel,Gala_Elisanne,Ranzal,<hit10 & hit15 & buff all team>,25% poison uptime,attack:1520,force_strike:1198,skill_1:2001,skill_4:995,s4_poison:186,team_buff:749,dx:3443,ds:993
+7033,_c_Dragonyule_Nefaria,4*,water,bow,6605,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Thaniel,Gala_Elisanne,Ranzal,!<hit10 & hit15 & buff all team>,25% poison uptime,attack:1053,force_strike:818,skill_1:1363,skill_4:673,s4_poison:125,dx:2327,ds:671
 -,120,affliction
-10775,Dragonyule_Nefaria,4*,water,bow,6598,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Thaniel,Weapon,,<hit10 & hit15>,,attack:1869,force_strike:1157,skill_1:2277,dx:4437,ds:1032
-7337,_c_Dragonyule_Nefaria,4*,water,bow,6598,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Thaniel,Weapon,,!<hit10 & hit15>,,attack:1288,force_strike:786,skill_1:1546,dx:3014,ds:701
+11764,Dragonyule_Nefaria,4*,water,bow,6598,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Thaniel,Gala_Elisanne,Ranzal,<hit10 & hit15 & buff all team>,25% poison uptime,attack:1822,force_strike:1026,skill_1:1934,skill_4:962,s4_poison:179,team_buff:749,dx:4127,ds:960
+7493,_c_Dragonyule_Nefaria,4*,water,bow,6598,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Thaniel,Gala_Elisanne,Ranzal,!<hit10 & hit15 & buff all team>,25% poison uptime,attack:1262,force_strike:700,skill_1:1318,skill_4:650,s4_poison:121,dx:2790,ds:649
 -,180,_
-9190,Dragonyule_Nefaria,4*,water,bow,6605,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Thaniel,Weapon,,<hit10 & hit15>,,attack:1744,force_strike:1515,skill_1:2754,dx:2464,ds:710
-6253,_c_Dragonyule_Nefaria,4*,water,bow,6605,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Thaniel,Weapon,,!<hit10 & hit15>,,attack:1195,force_strike:1029,skill_1:1870,dx:1674,ds:483
+10783,Dragonyule_Nefaria,4*,water,bow,6605,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Thaniel,Gala_Elisanne,Ranzal,<hit10 & hit15 & buff all team>,25% poison uptime,attack:1654,force_strike:1407,skill_1:2485,skill_4:1076,s4_poison:201,team_buff:999,dx:2295,ds:662
+6676,_c_Dragonyule_Nefaria,4*,water,bow,6605,Primal_Crisis,Mega_Friends,Leviathan,Agito1,Blade,Xander,Thaniel,Gala_Elisanne,Ranzal,!<hit10 & hit15 & buff all team>,25% poison uptime,attack:1141,force_strike:962,skill_1:1693,skill_4:740,s4_poison:138,dx:1552,ds:447
 -,180,affliction
-9693,Dragonyule_Nefaria,4*,water,bow,6598,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Thaniel,Weapon,,<hit10 & hit15>,,attack:2091,force_strike:1297,skill_1:2662,dx:2954,ds:687
-6597,_c_Dragonyule_Nefaria,4*,water,bow,6598,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Thaniel,Weapon,,!<hit10 & hit15>,,attack:1432,force_strike:881,skill_1:1808,dx:2006,ds:466
+11074,Dragonyule_Nefaria,4*,water,bow,6598,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Thaniel,Gala_Elisanne,Ranzal,<hit10 & hit15 & buff all team>,25% poison uptime,attack:2013,force_strike:1214,skill_1:2222,skill_4:1040,s4_poison:194,team_buff:999,dx:2750,ds:639
+6878,_c_Dragonyule_Nefaria,4*,water,bow,6598,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Blade,Xander,Thaniel,Gala_Elisanne,Ranzal,!<hit10 & hit15 & buff all team>,25% poison uptime,attack:1389,force_strike:831,skill_1:1516,skill_4:715,s4_poison:133,dx:1859,ds:432

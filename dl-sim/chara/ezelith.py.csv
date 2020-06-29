@@ -1,18 +1,18 @@
 -,60,_
-27835,Ezelith,5*,flame,dagger,9573,Twinfold_Bonds,Levins_Champion,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,,<hit10 & hp50 & hit15 & hp70>,,attack:4914,force_strike:624,skill_1:8588,team_buff:296,dx:7356,ds:6054
-20361,_c_Ezelith,5*,flame,dagger,8565,Twinfold_Bonds,Levins_Champion,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,,!<hit10 & hp50 & hit15 & hp70>,,attack:3638,force_strike:455,skill_1:6256,team_buff:296,dx:5242,ds:4471
+27917,Ezelith,5*,flame,dagger,9573,Twinfold_Bonds,Levins_Champion,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,Ranzal,<hit10 & hp50 & hit15 & hp70>,17% poison uptime,attack:4619,force_strike:528,skill_1:8510,skill_4:3636,s4_poison:407,team_buff:292,dx:6305,ds:3617
+20424,_c_Ezelith,5*,flame,dagger,8565,Twinfold_Bonds,Levins_Champion,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,Ranzal,!<hit10 & hp50 & hit15 & hp70>,17% poison uptime,attack:3393,force_strike:378,skill_1:6193,skill_4:2788,s4_poison:312,team_buff:292,dx:4442,ds:2620
 -,60,affliction
-32877,Ezelith,5*,flame,dagger,9573,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,,<hit10 & hp50 & hit15>,,attack:5827,force_strike:732,skill_1:10132,team_buff:296,dx:8634,ds:7254
-24984,_c_Ezelith,5*,flame,dagger,8565,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,,!<hit10 & hp50 & hit15>,,attack:4452,force_strike:557,skill_1:7641,team_buff:296,dx:6558,ds:5476
+32976,Ezelith,5*,flame,dagger,9573,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,Ranzal,<hit10 & hp50 & hit15>,17% poison uptime,attack:5461,force_strike:620,skill_1:10043,skill_4:4397,s4_poison:493,team_buff:292,dx:7361,ds:4305
+25086,_c_Ezelith,5*,flame,dagger,8565,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,Ranzal,!<hit10 & hp50 & hit15>,17% poison uptime,attack:4171,force_strike:471,skill_1:7567,skill_4:3372,s4_poison:378,team_buff:292,dx:5593,ds:3239
 -,120,_
-27297,Ezelith,5*,flame,dagger,9573,Twinfold_Bonds,Levins_Champion,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,,<hit10 & hp50 & hit15 & hp70>,,attack:6156,force_strike:798,skill_1:9208,team_buff:583,dx:6717,ds:3831
-20002,_c_Ezelith,5*,flame,dagger,8565,Twinfold_Bonds,Levins_Champion,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,,!<hit10 & hp50 & hit15 & hp70>,,attack:4559,force_strike:593,skill_1:6711,team_buff:583,dx:4760,ds:2793
+29646,Ezelith,5*,flame,dagger,9573,Twinfold_Bonds,Levins_Champion,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,Ranzal,<hit10 & hp50 & hit15 & hp70>,25% poison uptime,attack:5515,force_strike:549,skill_1:8880,skill_4:3529,s4_poison:659,team_buff:476,dx:6376,ds:3657
+21765,_c_Ezelith,5*,flame,dagger,8565,Twinfold_Bonds,Levins_Champion,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,Ranzal,!<hit10 & hp50 & hit15 & hp70>,25% poison uptime,attack:4069,force_strike:403,skill_1:6474,skill_4:2693,s4_poison:503,team_buff:476,dx:4492,ds:2650
 -,120,affliction
-32128,Ezelith,5*,flame,dagger,9573,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,,<hit10 & hp50 & hit15>,,attack:7321,force_strike:954,skill_1:10858,team_buff:583,dx:7844,ds:4564
-24478,_c_Ezelith,5*,flame,dagger,8565,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,,!<hit10 & hp50 & hit15>,,attack:5552,force_strike:721,skill_1:8191,team_buff:583,dx:5978,ds:3449
+35028,Ezelith,5*,flame,dagger,9573,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,Ranzal,<hit10 & hp50 & hit15>,25% poison uptime,attack:6550,force_strike:655,skill_1:10480,skill_4:4268,s4_poison:797,team_buff:476,dx:7444,ds:4353
+26647,_c_Ezelith,5*,flame,dagger,8565,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,Ranzal,!<hit10 & hp50 & hit15>,25% poison uptime,attack:4970,force_strike:495,skill_1:7906,skill_4:3256,s4_poison:608,team_buff:476,dx:5656,ds:3275
 -,180,_
-26292,Ezelith,5*,flame,dagger,9573,Twinfold_Bonds,Levins_Champion,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,,<hit10 & hp50 & hit15 & hp70>,,attack:7410,force_strike:992,skill_1:10426,team_buff:692,dx:4324,ds:2444
-19357,_c_Ezelith,5*,flame,dagger,8565,Twinfold_Bonds,Levins_Champion,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,,!<hit10 & hp50 & hit15 & hp70>,,attack:5496,force_strike:740,skill_1:7603,team_buff:692,dx:3052,ds:1771
+29855,Ezelith,5*,flame,dagger,9573,Twinfold_Bonds,Levins_Champion,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,Ranzal,<hit10 & hp50 & hit15 & hp70>,32% poison uptime,attack:6655,force_strike:792,skill_1:9477,skill_4:4740,s4_poison:840,team_buff:580,dx:4323,ds:2444
+22062,_c_Ezelith,5*,flame,dagger,8565,Twinfold_Bonds,Levins_Champion,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,Ranzal,!<hit10 & hp50 & hit15 & hp70>,32% poison uptime,attack:4908,force_strike:587,skill_1:6904,skill_4:3616,s4_poison:640,team_buff:580,dx:3051,ds:1770
 -,180,affliction
-30960,Ezelith,5*,flame,dagger,9573,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,,<hit10 & hp50 & hit15>,,attack:8827,force_strike:1188,skill_1:12291,team_buff:692,dx:5049,ds:2910
-23573,_c_Ezelith,5*,flame,dagger,8565,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,,!<hit10 & hp50 & hit15>,,attack:6682,force_strike:898,skill_1:9274,team_buff:692,dx:3836,ds:2189
+35338,Ezelith,5*,flame,dagger,9573,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,Ranzal,<hit10 & hp50 & hit15>,32% poison uptime,attack:7916,force_strike:950,skill_1:11183,skill_4:5732,s4_poison:1015,team_buff:580,dx:5048,ds:2909
+26892,_c_Ezelith,5*,flame,dagger,8565,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Halloween_Mym,Blade,Marth,Weapon,Ranzal,!<hit10 & hp50 & hit15>,32% poison uptime,attack:5990,force_strike:717,skill_1:8430,skill_4:4373,s4_poison:774,team_buff:580,dx:3835,ds:2189

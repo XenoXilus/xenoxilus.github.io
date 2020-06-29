@@ -1,18 +1,18 @@
 -,60,_
-17554,Yuya,4*,flame,dagger,9991,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Marth,Grace,Weapon,,<hit10 & hp50 & hit15 & hp60>,,attack:3326,force_strike:5473,dx:5976,ds:2777
-9880,_c_Yuya,4*,flame,dagger,7136,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Marth,Grace,Weapon,,!<hit10 & hp50 & hit15 & hp60>,,attack:1889,force_strike:3093,dx:3353,ds:1543
+20904,Yuya,4*,flame,dagger,9651,Twinfold_Bonds,Levins_Champion,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Gala_Mym,<hit10 & hp50 & hit15 & hp70 & hp60>,,attack:3739,force_strike:866,skill_1:3104,skill_4:1440,dx:7927,ds:3824
+11829,_c_Yuya,4*,flame,dagger,6893,Twinfold_Bonds,Levins_Champion,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Gala_Mym,!<hit10 & hp50 & hit15 & hp70 & hp60>,,attack:2124,force_strike:492,skill_1:1749,skill_4:817,dx:4497,ds:2146
 -,60,affliction
-23434,Yuya,4*,flame,dagger,9651,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<hit10 & hp50 & hit15 & hp60>,,attack:5719,force_strike:1461,skill_1:3510,dx:8223,ds:4518
-14282,_c_Yuya,4*,flame,dagger,6893,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<hit10 & hp50 & hit15 & hp60>,,attack:3493,force_strike:891,skill_1:2141,dx:5023,ds:2732
+24805,Yuya,4*,flame,dagger,9651,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Gala_Mym,<hit10 & hp50 & hit15 & hp60>,,attack:4437,force_strike:1028,skill_1:3679,skill_4:1707,dx:9411,ds:4540
+15113,_c_Yuya,4*,flame,dagger,6893,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Gala_Mym,!<hit10 & hp50 & hit15 & hp60>,,attack:2714,force_strike:629,skill_1:2230,skill_4:1041,dx:5751,ds:2745
 -,120,_
-17051,Yuya,4*,flame,dagger,9991,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Marth,Grace,Weapon,,<hit10 & hp50 & hit15 & hp60>,,attack:3686,force_strike:5979,dx:5472,ds:1912
-9574,_c_Yuya,4*,flame,dagger,7136,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Marth,Grace,Weapon,,!<hit10 & hp50 & hit15 & hp60>,,attack:2075,force_strike:3357,dx:3075,ds:1065
+20003,Yuya,4*,flame,dagger,9651,Twinfold_Bonds,Levins_Champion,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Gala_Mym,<hit10 & hp50 & hit15 & hp70 & hp60>,,attack:4399,force_strike:1017,skill_1:3429,skill_4:1737,dx:6817,ds:2600
+11308,_c_Yuya,4*,flame,dagger,6893,Twinfold_Bonds,Levins_Champion,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Gala_Mym,!<hit10 & hp50 & hit15 & hp70 & hp60>,,attack:2480,force_strike:574,skill_1:1931,skill_4:983,dx:3874,ds:1463
 -,120,affliction
-23106,Yuya,4*,flame,dagger,9651,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<hit10 & hp50 & hit15 & hp60>,,attack:6479,force_strike:1610,skill_1:4420,dx:7510,ds:3085
-14058,_c_Yuya,4*,flame,dagger,6893,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<hit10 & hp50 & hit15 & hp60>,,attack:3931,force_strike:977,skill_1:2684,dx:4593,ds:1869
+23729,Yuya,4*,flame,dagger,9651,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Gala_Mym,<hit10 & hp50 & hit15 & hp60>,,attack:5221,force_strike:1208,skill_1:4063,skill_4:2058,dx:8092,ds:3084
+14440,_c_Yuya,4*,flame,dagger,6893,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Gala_Mym,!<hit10 & hp50 & hit15 & hp60>,,attack:3170,force_strike:733,skill_1:2461,skill_4:1252,dx:4953,ds:1869
 -,180,_
-15899,Yuya,4*,flame,dagger,9991,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Marth,Grace,Weapon,,<hit10 & hp50 & hit15 & hp60>,,attack:4048,force_strike:6768,dx:3713,ds:1368
-8910,_c_Yuya,4*,flame,dagger,7136,Primal_Crisis,The_Lurker_in_the_Woods,Gala_Mars,Agito2,Blade,Marth,Grace,Weapon,,!<hit10 & hp50 & hit15 & hp60>,,attack:2268,force_strike:3787,dx:2088,ds:765
+20108,Yuya,4*,flame,dagger,9651,Twinfold_Bonds,Levins_Champion,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Gala_Mym,<hit10 & hp50 & hit15 & hp70 & hp60>,,attack:4359,force_strike:1010,skill_1:3352,skill_4:1854,dx:6894,ds:2635
+11361,_c_Yuya,4*,flame,dagger,6893,Twinfold_Bonds,Levins_Champion,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Gala_Mym,!<hit10 & hp50 & hit15 & hp70 & hp60>,,attack:2452,force_strike:568,skill_1:1888,skill_4:1048,dx:3918,ds:1484
 -,180,affliction
-21280,Yuya,4*,flame,dagger,9651,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<hit10 & hp50 & hit15 & hp60>,,attack:7278,force_strike:1762,skill_1:4946,dx:5230,ds:2061
-12915,_c_Yuya,4*,flame,dagger,6893,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<hit10 & hp50 & hit15 & hp60>,,attack:4403,force_strike:1066,skill_1:2995,dx:3200,ds:1249
+23852,Yuya,4*,flame,dagger,9651,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Gala_Mym,<hit10 & hp50 & hit15 & hp60>,,attack:5173,force_strike:1199,skill_1:3971,skill_4:2197,dx:8183,ds:3125
+14506,_c_Yuya,4*,flame,dagger,6893,Twinfold_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Gala_Mym,!<hit10 & hp50 & hit15 & hp60>,,attack:3133,force_strike:726,skill_1:2406,skill_4:1336,dx:5008,ds:1894

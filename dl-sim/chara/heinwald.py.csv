@@ -1,18 +1,18 @@
 -,60,_
-21536,Heinwald,5*,shadow,staff,8199,Resounding_Rendition,Beautiful_Nothingness,Fatalis,Agito1,Blade,Wand,Dagger,Weapon,,<hp70 & buff all teammates>,,attack:6271,skill_1:11869,team_buff:3394
-11854,_c_Heinwald,5*,shadow,staff,7767,Resounding_Rendition,Beautiful_Nothingness,Fatalis,Agito1,Blade,Wand,Dagger,Weapon,,!<hp70 & buff all teammates>,,attack:4981,skill_1:6872
+33092,Heinwald,5*,shadow,staff,4746,Resounding_Rendition,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,<always connect hits & hp70 & buff all teammates>,,attack:2570,skill_1:11976,skill_4:8386,team_buff:3746,dx:1513,ds:4898
+18518,_c_Heinwald,5*,shadow,staff,4315,Resounding_Rendition,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,!<always connect hits & hp70 & buff all teammates>,,attack:1991,skill_1:7079,skill_4:4858,team_buff:522,dx:1170,ds:2895
 -,60,affliction
-25143,Heinwald,5*,shadow,staff,8442,Resounding_Rendition,The_Fires_of_Hate,Fatalis,Agito1,Blade,Wand,Dagger,Weapon,,<hp70 & hp100 & buff all teammates>,,attack:7518,skill_1:14229,team_buff:3394
-13826,_c_Heinwald,5*,shadow,staff,7793,Resounding_Rendition,The_Fires_of_Hate,Fatalis,Agito1,Blade,Wand,Dagger,Weapon,,!<hp70 & hp100 & buff all teammates>,,attack:5809,skill_1:8016
+45729,Heinwald,5*,shadow,staff,4979,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,<always connect hits & hp70 & hp100 & buff all teammates>,,attack:3139,skill_1:14626,skill_4:16387,team_buff:3746,dx:1848,ds:5981
+24911,_c_Heinwald,5*,shadow,staff,4329,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,!<always connect hits & hp70 & hp100 & buff all teammates>,,attack:2323,skill_1:8257,skill_4:9066,team_buff:522,dx:1364,ds:3376
 -,120,_
-21153,Heinwald,5*,shadow,staff,8199,Resounding_Rendition,Beautiful_Nothingness,Fatalis,Agito1,Blade,Wand,Dagger,Weapon,,<hp70 & buff all teammates>,,attack:6346,skill_1:11265,team_buff:3541
-11539,_c_Heinwald,5*,shadow,staff,7767,Resounding_Rendition,Beautiful_Nothingness,Fatalis,Agito1,Blade,Wand,Dagger,Weapon,,!<hp70 & buff all teammates>,,attack:5038,skill_1:6501
+31492,Heinwald,5*,shadow,staff,4746,Resounding_Rendition,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,<always connect hits & hp70 & buff all teammates>,,attack:2919,skill_1:13527,skill_4:8167,team_buff:3729,dx:743,ds:2405
+17540,_c_Heinwald,5*,shadow,staff,4315,Resounding_Rendition,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,!<always connect hits & hp70 & buff all teammates>,,attack:2252,skill_1:7898,skill_4:4777,team_buff:613,dx:574,ds:1421
 -,120,affliction
-24655,Heinwald,5*,shadow,staff,8442,Resounding_Rendition,The_Fires_of_Hate,Fatalis,Agito1,Blade,Wand,Dagger,Weapon,,<hp70 & hp100 & buff all teammates>,,attack:7608,skill_1:13505,team_buff:3541
-13459,_c_Heinwald,5*,shadow,staff,7793,Resounding_Rendition,The_Fires_of_Hate,Fatalis,Agito1,Blade,Wand,Dagger,Weapon,,!<hp70 & hp100 & buff all teammates>,,attack:5876,skill_1:7582
+43618,Heinwald,5*,shadow,staff,4979,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,<always connect hits & hp70 & hp100 & buff all teammates>,,attack:3564,skill_1:16520,skill_4:15957,team_buff:3729,dx:907,ds:2937
+23698,_c_Heinwald,5*,shadow,staff,4329,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,!<always connect hits & hp70 & hp100 & buff all teammates>,,attack:2627,skill_1:9212,skill_4:8915,team_buff:613,dx:670,ds:1658
 -,180,_
-21641,Heinwald,5*,shadow,staff,8199,Resounding_Rendition,Beautiful_Nothingness,Fatalis,Agito1,Blade,Wand,Dagger,Weapon,,<hp70 & buff all teammates>,,attack:6410,skill_1:11598,team_buff:3631
-11770,_c_Heinwald,5*,shadow,staff,7767,Resounding_Rendition,Beautiful_Nothingness,Fatalis,Agito1,Blade,Wand,Dagger,Weapon,,!<hp70 & buff all teammates>,,attack:5085,skill_1:6684
+31391,Heinwald,5*,shadow,staff,4746,Resounding_Rendition,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,<always connect hits & hp70 & buff all teammates>,,attack:3063,skill_1:14118,skill_4:8449,team_buff:3966,dx:423,ds:1368
+15735,_c_Heinwald,5*,shadow,staff,4315,Resounding_Rendition,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,!<always connect hits & hp70 & buff all teammates>,,attack:2356,skill_1:7445,skill_4:4345,team_buff:643,dx:343,ds:600
 -,180,affliction
-25222,Heinwald,5*,shadow,staff,8442,Resounding_Rendition,The_Fires_of_Hate,Fatalis,Agito1,Blade,Wand,Dagger,Weapon,,<hp70 & hp100 & buff all teammates>,,attack:7685,skill_1:13905,team_buff:3631
-13727,_c_Heinwald,5*,shadow,staff,7793,Resounding_Rendition,The_Fires_of_Hate,Fatalis,Agito1,Blade,Wand,Dagger,Weapon,,!<hp70 & hp100 & buff all teammates>,,attack:5930,skill_1:7796
+43649,Heinwald,5*,shadow,staff,4979,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,<always connect hits & hp70 & hp100 & buff all teammates>,,attack:3741,skill_1:17241,skill_4:16510,team_buff:3966,dx:516,ds:1671
+21286,_c_Heinwald,5*,shadow,staff,4329,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,!<always connect hits & hp70 & hp100 & buff all teammates>,,attack:2748,skill_1:8683,skill_4:8109,team_buff:643,dx:401,ds:700

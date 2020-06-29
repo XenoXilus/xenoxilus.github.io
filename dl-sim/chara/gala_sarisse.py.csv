@@ -1,18 +1,18 @@
 -,60,_
-19475,Gala_Sarisse,5*,flame,bow,8619,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hit10 & hp50 & hit15 & always connect hits>,,attack:2289,force_strike:591,skill_1:8217,team_buff:860,dx:4701,ds:2815
-11435,_c_Gala_Sarisse,5*,flame,bow,7711,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hit10 & hp50 & hit15 & always connect hits>,,attack:1524,force_strike:385,skill_1:3658,team_buff:860,dx:3147,ds:1859
+21394,Gala_Sarisse,5*,flame,bow,8619,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,<always connect hits & hit10 & hp50 & hit15>,25% poison uptime,attack:2097,force_strike:593,skill_1:8476,skill_4:1774,s4_poison:331,team_buff:863,dx:4638,ds:2619
+12498,_c_Gala_Sarisse,5*,flame,bow,7711,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,!<always connect hits & hit10 & hp50 & hit15>,25% poison uptime,attack:1388,force_strike:386,skill_1:3670,skill_4:1138,s4_poison:212,team_buff:863,dx:3105,ds:1732
 -,60,affliction
-21440,Gala_Sarisse,5*,flame,bow,8637,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hit10 & hp50 & always connect hits>,,attack:2557,force_strike:653,skill_1:9071,team_buff:860,dx:5188,ds:3108
-14637,_c_Gala_Sarisse,5*,flame,bow,7728,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hit10 & hp50 & always connect hits>,,attack:1986,force_strike:501,skill_1:4765,team_buff:860,dx:4100,ds:2422
+23558,Gala_Sarisse,5*,flame,bow,8637,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,<always connect hits & hit10 & hp50>,25% poison uptime,attack:2346,force_strike:655,skill_1:9357,skill_4:1959,s4_poison:366,team_buff:863,dx:5119,ds:2890
+16022,_c_Gala_Sarisse,5*,flame,bow,7728,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,!<always connect hits & hit10 & hp50>,25% poison uptime,attack:1808,force_strike:503,skill_1:4781,skill_4:1483,s4_poison:277,team_buff:863,dx:4046,ds:2256
 -,120,_
-20680,Gala_Sarisse,5*,flame,bow,8619,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hit10 & hp50 & hit15 & always connect hits>,,attack:2695,force_strike:789,skill_1:10461,team_buff:862,dx:3836,ds:2033
-11249,_c_Gala_Sarisse,5*,flame,bow,7711,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hit10 & hp50 & hit15 & always connect hits>,,attack:1758,force_strike:514,skill_1:4236,team_buff:862,dx:2545,ds:1331
+22198,Gala_Sarisse,5*,flame,bow,8619,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,<always connect hits & hit10 & hp50 & hit15>,25% poison uptime,attack:2462,force_strike:712,skill_1:9088,skill_4:1934,s4_poison:361,team_buff:860,dx:4142,ds:2635
+12640,_c_Gala_Sarisse,5*,flame,bow,7711,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,!<always connect hits & hit10 & hp50 & hit15>,25% poison uptime,attack:1611,force_strike:465,skill_1:3676,skill_4:1296,s4_poison:242,team_buff:860,dx:2761,ds:1725
 -,120,affliction
-22797,Gala_Sarisse,5*,flame,bow,8637,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hit10 & hp50 & always connect hits>,,attack:2991,force_strike:871,skill_1:11590,team_buff:862,dx:4234,ds:2245
-14394,_c_Gala_Sarisse,5*,flame,bow,7728,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hit10 & hp50 & always connect hits>,,attack:2291,force_strike:670,skill_1:5519,team_buff:862,dx:3316,ds:1734
+24677,Gala_Sarisse,5*,flame,bow,8637,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,<always connect hits & hit10 & hp50>,25% poison uptime,attack:2734,force_strike:786,skill_1:10281,skill_4:2134,s4_poison:399,team_buff:860,dx:4571,ds:2909
+16208,_c_Gala_Sarisse,5*,flame,bow,7728,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,!<always connect hits & hit10 & hp50>,25% poison uptime,attack:2100,force_strike:605,skill_1:4789,skill_4:1689,s4_poison:315,team_buff:860,dx:3598,ds:2248
 -,180,_
-19923,Gala_Sarisse,5*,flame,bow,8619,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hit10 & hp50 & hit15 & always connect hits>,,attack:2821,force_strike:850,skill_1:10800,team_buff:576,dx:3105,ds:1768
-10511,_c_Gala_Sarisse,5*,flame,bow,7711,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hit10 & hp50 & hit15 & always connect hits>,,attack:1831,force_strike:554,skill_1:4315,team_buff:576,dx:2075,ds:1157
+22156,Gala_Sarisse,5*,flame,bow,8619,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,<always connect hits & hit10 & hp50 & hit15>,35% poison uptime,attack:2565,force_strike:728,skill_1:9676,skill_4:3241,s4_poison:500,team_buff:577,dx:3096,ds:1769
+12236,_c_Gala_Sarisse,5*,flame,bow,7711,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,!<always connect hits & hit10 & hp50 & hit15>,35% poison uptime,attack:1665,force_strike:473,skill_1:3967,skill_4:2013,s4_poison:303,team_buff:577,dx:2077,ds:1158
 -,180,affliction
-21947,Gala_Sarisse,5*,flame,bow,8637,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hit10 & hp50 & always connect hits>,,attack:3125,force_strike:938,skill_1:11926,team_buff:576,dx:3427,ds:1951
-13520,_c_Gala_Sarisse,5*,flame,bow,7728,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hit10 & hp50 & always connect hits>,,attack:2386,force_strike:721,skill_1:5622,team_buff:576,dx:2704,ds:1508
+24448,Gala_Sarisse,5*,flame,bow,8637,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,<always connect hits & hit10 & hp50>,35% poison uptime,attack:2842,force_strike:804,skill_1:10630,skill_4:3656,s4_poison:567,team_buff:577,dx:3416,ds:1953
+15766,_c_Gala_Sarisse,5*,flame,bow,7728,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,!<always connect hits & hit10 & hp50>,35% poison uptime,attack:2169,force_strike:617,skill_1:5168,skill_4:2622,s4_poison:394,team_buff:577,dx:2706,ds:1509

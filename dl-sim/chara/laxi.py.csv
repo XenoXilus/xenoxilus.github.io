@@ -1,18 +1,18 @@
 -,60,_
-16903,Laxi,4*,flame,blade,8164,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,,<hit10 & hp50 & hit15 & hp=51.0%>,a1 proc at 0s,attack:4206,force_strike:241,skill_1:3139,dx:6709,ds:2606
-11679,_c_Laxi,4*,flame,blade,8164,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,,!<hit10 & hp50 & hit15 & hp=51.0%>,a1 proc at 0s,attack:2976,force_strike:171,skill_1:2155,dx:4612,ds:1761
+18625,Laxi,4*,flame,blade,8164,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,Ranzal,<hit10 & hp50 & hit15 & hp=51.0%>,a1 proc at 0s; 17% poison uptime,attack:3844,force_strike:242,skill_1:3149,skill_4:1839,s4_poison:206,dx:6729,ds:2614
+12895,_c_Laxi,4*,flame,blade,8164,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,Ranzal,!<hit10 & hp50 & hit15 & hp=51.0%>,a1 proc at 0s; 17% poison uptime,attack:2719,force_strike:172,skill_1:2162,skill_4:1301,s4_poison:146,dx:4626,ds:1767
 -,60,affliction
-19816,Laxi,4*,flame,blade,8162,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,,<hit10 & hp50 & hit15 & hp=51.0%>,a1 proc at 0s,attack:5368,force_strike:307,skill_1:3089,dx:8526,ds:2523
-14004,_c_Laxi,4*,flame,blade,8162,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,,!<hit10 & hp50 & hit15 & hp=51.0%>,a1 proc at 0s,attack:3869,force_strike:223,skill_1:2155,dx:5995,ds:1761
+21433,Laxi,4*,flame,blade,8162,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,Ranzal,<hit10 & hp50 & hit15 & hp=51.0%>,a1 proc at 0s; 17% poison uptime,attack:4897,force_strike:308,skill_1:3098,skill_4:1838,s4_poison:206,dx:8551,ds:2531
+15147,_c_Laxi,4*,flame,blade,8162,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,Ranzal,!<hit10 & hp50 & hit15 & hp=51.0%>,a1 proc at 0s; 17% poison uptime,attack:3534,force_strike:224,skill_1:2161,skill_4:1301,s4_poison:145,dx:6012,ds:1766
 -,120,_
-16479,Laxi,4*,flame,blade,8164,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,,<hit10 & hit15 & hp=1>,a1 proc at 0s,attack:5067,force_strike:321,skill_1:3494,dx:5123,ds:2472
-12289,_c_Laxi,4*,flame,blade,8164,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,,!<hit10 & hit15 & hp=1>,a1 proc at 0s,attack:3702,force_strike:234,skill_1:2542,dx:3935,ds:1874
+17098,Laxi,4*,flame,blade,8164,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,Ranzal,<hit10 & hit15 & hp=1>,a1 proc at 0s; 37% poison uptime,attack:4964,force_strike:316,skill_1:3494,skill_4:2307,s4_poison:431,dx:3721,ds:1862
+12589,_c_Laxi,4*,flame,blade,8164,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,Ranzal,!<hit10 & hit15 & hp=1>,a1 proc at 0s; 37% poison uptime,attack:3662,force_strike:234,skill_1:2568,skill_4:1717,s4_poison:321,dx:2740,ds:1345
 -,120,affliction
-19499,Laxi,4*,flame,blade,8162,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,,<hit10 & hit15 & hp=1>,a1 proc at 0s,attack:6498,force_strike:411,skill_1:3457,dx:6659,ds:2471
-14648,_c_Laxi,4*,flame,blade,8162,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,,!<hit10 & hit15 & hp=1>,a1 proc at 0s,attack:4812,force_strike:305,skill_1:2541,dx:5114,ds:1873
+19648,Laxi,4*,flame,blade,8162,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,Ranzal,<hit10 & hit15 & hp=1>,a1 proc at 0s; 37% poison uptime,attack:6373,force_strike:407,skill_1:3457,skill_4:2283,s4_poison:426,dx:4837,ds:1861
+14577,_c_Laxi,4*,flame,blade,8162,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,Ranzal,!<hit10 & hit15 & hp=1>,a1 proc at 0s; 37% poison uptime,attack:4759,force_strike:304,skill_1:2567,skill_4:1717,s4_poison:320,dx:3561,ds:1345
 -,180,_
-15945,Laxi,4*,flame,blade,8164,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,,<hit10 & hit15 & hp=1>,a1 proc at 0s,attack:5627,force_strike:366,skill_1:3878,dx:4385,ds:1687
-12123,_c_Laxi,4*,flame,blade,8164,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,,!<hit10 & hit15 & hp=1>,a1 proc at 0s,attack:4188,force_strike:272,skill_1:2899,dx:3446,ds:1316
+18202,Laxi,4*,flame,blade,8164,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,Ranzal,<hit10 & hit15 & hp=1>,a1 proc at 0s; 35% poison uptime,attack:5068,force_strike:321,skill_1:3671,skill_4:2649,s4_poison:403,dx:4395,ds:1691
+13834,_c_Laxi,4*,flame,blade,8164,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,Ranzal,!<hit10 & hit15 & hp=1>,a1 proc at 0s; 35% poison uptime,attack:3760,force_strike:238,skill_1:2738,skill_4:2018,s4_poison:304,dx:3454,ds:1319
 -,180,affliction
-18969,Laxi,4*,flame,blade,8162,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,,<hit10 & hit15 & hp=1>,a1 proc at 0s,attack:7255,force_strike:471,skill_1:3854,dx:5700,ds:1687
-14492,_c_Laxi,4*,flame,blade,8162,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,,!<hit10 & hit15 & hp=1>,a1 proc at 0s,attack:5443,force_strike:354,skill_1:2898,dx:4479,ds:1316
+21035,Laxi,4*,flame,blade,8162,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,Ranzal,<hit10 & hit15 & hp=1>,a1 proc at 0s; 35% poison uptime,attack:6534,force_strike:414,skill_1:3646,skill_4:2633,s4_poison:400,dx:5713,ds:1691
+16067,_c_Laxi,4*,flame,blade,8162,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Marth,Tiki,Weapon,Ranzal,!<hit10 & hit15 & hp=1>,a1 proc at 0s; 35% poison uptime,attack:4887,force_strike:309,skill_1:2738,skill_4:2017,s4_poison:304,dx:4490,ds:1319

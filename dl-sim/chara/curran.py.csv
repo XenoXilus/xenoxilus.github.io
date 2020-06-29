@@ -1,18 +1,18 @@
 -,60,_
-21793,Curran,5*,shadow,axe,9702,Kung_Fu_Masters,Flower_in_the_Fray,Fatalis,Agito1,Blade,Wand,Bow,Weapon,,<last offense & hp=40.0%>,no fs,attack:7242,skill_1:9771,skill_2:3657,team_buff:1121
-17340,_c_Curran,5*,shadow,axe,8436,Kung_Fu_Masters,Flower_in_the_Fray,Fatalis,Agito1,Blade,Wand,Bow,Weapon,,!<last offense & hp≤40>,no fs,attack:5577,skill_1:7932,skill_2:2708,team_buff:1121
+30914,Curran,5*,shadow,axe,5390,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito1,Blade,Wand,Bow,Weapon,Veronica,<always connect hits & last offense & hp=40.0%>,no fs,attack:3373,skill_1:12669,skill_2:5567,skill_4:3967,team_buff:864,dx:1234,ds:3236
+24626,_c_Curran,5*,shadow,axe,4687,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito1,Blade,Wand,Bow,Weapon,Veronica,!<always connect hits & last offense & hp=80.0%>,no fs,attack:2516,skill_1:10189,skill_2:4137,skill_4:3014,team_buff:867,dx:1077,ds:2823
 -,60,affliction
-36579,Curran,5*,shadow,axe,6465,Kung_Fu_Masters,The_Plaguebringer,Shinobi,Agito1,Blade,Wand,Bow,Weapon,,<last offense & hp=40.0%>,no fs,attack:4978,skill_1:17021,skill_2:8684,team_buff:886,team_energy:832,dx:1238,ds:2937
-29253,_c_Curran,5*,shadow,axe,5621,Kung_Fu_Masters,The_Plaguebringer,Shinobi,Agito1,Blade,Wand,Bow,Weapon,,!<last offense & hp≤40>,no fs,attack:3746,skill_1:13723,skill_2:6433,team_buff:886,team_energy:832,dx:1077,ds:2554
+46648,Curran,5*,shadow,axe,5387,Kung_Fu_Masters,The_Plaguebringer,Gala_Cat_Sith,Agito1,Blade,Wand,Bow,Weapon,Veronica,<always connect hits & last offense & hp=40.0%>,no fs,attack:4074,skill_1:20671,skill_2:11297,skill_4:4896,team_buff:864,dx:1491,ds:3351
+36872,_c_Curran,5*,shadow,axe,4684,Kung_Fu_Masters,The_Plaguebringer,Gala_Cat_Sith,Agito1,Blade,Wand,Bow,Weapon,Veronica,!<always connect hits & last offense & hp=80.0%>,no fs,attack:3040,skill_1:16624,skill_2:8394,skill_4:3720,team_buff:867,dx:1301,ds:2923
 -,120,_
-21564,Curran,5*,shadow,axe,9702,Kung_Fu_Masters,Flower_in_the_Fray,Fatalis,Agito1,Blade,Wand,Bow,Weapon,,<last offense & hp=40.0%>,no fs,attack:6994,skill_1:9488,skill_2:3908,team_buff:1173
-18026,_c_Curran,5*,shadow,axe,8436,Kung_Fu_Masters,Flower_in_the_Fray,Fatalis,Agito1,Blade,Wand,Bow,Weapon,,!<last offense & hp≤40>,no fs,attack:5721,skill_1:7967,skill_2:3162,team_buff:1173
+29863,Curran,5*,shadow,axe,5390,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito1,Blade,Wand,Bow,Weapon,Veronica,<always connect hits & last offense & hp=40.0%>,no fs,attack:3492,skill_1:13674,skill_2:5288,skill_4:4069,team_buff:1097,dx:623,ds:1617
+25312,_c_Curran,5*,shadow,axe,4687,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito1,Blade,Wand,Bow,Weapon,Veronica,!<always connect hits & last offense & hp=50.0%>,no fs,attack:2773,skill_1:11445,skill_2:4228,skill_4:3789,team_buff:1082,dx:550,ds:1442
 -,120,affliction
-35363,Curran,5*,shadow,axe,6465,Kung_Fu_Masters,The_Plaguebringer,Shinobi,Agito1,Blade,Wand,Bow,Weapon,,<last offense & hp=40.0%>,no fs,attack:5243,skill_1:17281,skill_2:9271,team_buff:1070,team_energy:416,dx:612,ds:1468
-29556,_c_Curran,5*,shadow,axe,5621,Kung_Fu_Masters,The_Plaguebringer,Shinobi,Agito1,Blade,Wand,Bow,Weapon,,!<last offense & hp≤40>,no fs,attack:4268,skill_1:14488,skill_2:7502,team_buff:1070,team_energy:416,dx:532,ds:1276
+45808,Curran,5*,shadow,axe,5387,Kung_Fu_Masters,The_Plaguebringer,Gala_Cat_Sith,Agito1,Blade,Wand,Bow,Weapon,Veronica,<always connect hits & last offense & hp=40.0%>,no fs,attack:4219,skill_1:22311,skill_2:10729,skill_4:5022,team_buff:1097,dx:753,ds:1674
+38523,_c_Curran,5*,shadow,axe,4684,Kung_Fu_Masters,The_Plaguebringer,Gala_Cat_Sith,Agito1,Blade,Wand,Bow,Weapon,Veronica,!<always connect hits & last offense & hp=50.0%>,no fs,attack:3350,skill_1:18674,skill_2:8580,skill_4:4676,team_buff:1082,dx:665,ds:1493
 -,180,_
-21958,Curran,5*,shadow,axe,9702,Kung_Fu_Masters,Flower_in_the_Fray,Fatalis,Agito1,Blade,Wand,Bow,Weapon,,<last offense & hp=40.0%>,no fs,attack:6846,skill_1:9850,skill_2:3999,team_buff:1261
-18672,_c_Curran,5*,shadow,axe,8436,Kung_Fu_Masters,Flower_in_the_Fray,Fatalis,Agito1,Blade,Wand,Bow,Weapon,,!<last offense & hp≤40>,no fs,attack:5712,skill_1:8376,skill_2:3320,team_buff:1261
+29703,Curran,5*,shadow,axe,5390,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito1,Blade,Wand,Bow,Weapon,Veronica,<always connect hits & last offense & hp=40.0%>,no fs,attack:3458,skill_1:13808,skill_2:5724,skill_4:4053,team_buff:1104,dx:424,ds:1130
+21121,_c_Curran,5*,shadow,axe,4687,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito1,Blade,Wand,Bow,Weapon,Veronica,!<always connect hits & last offense & hp=40.0%>,no fs,attack:2833,skill_1:9277,skill_2:3824,skill_4:3379,team_buff:1083,dx:369,ds:352
 -,180,affliction
-35658,Curran,5*,shadow,axe,6465,Kung_Fu_Masters,The_Plaguebringer,Shinobi,Agito1,Blade,Wand,Bow,Weapon,,<last offense & hp=40.0%>,no fs,attack:5280,skill_1:17893,skill_2:9597,team_buff:1200,team_energy:275,dx:413,ds:997
-30280,_c_Curran,5*,shadow,axe,5621,Kung_Fu_Masters,The_Plaguebringer,Shinobi,Agito1,Blade,Wand,Bow,Weapon,,!<last offense & hp≤40>,no fs,attack:4398,skill_1:15202,skill_2:7975,team_buff:1200,team_energy:275,dx:359,ds:867
+46111,Curran,5*,shadow,axe,5387,Kung_Fu_Masters,The_Plaguebringer,Gala_Cat_Sith,Agito1,Blade,Wand,Bow,Weapon,Veronica,<always connect hits & last offense & hp=40.0%>,no fs,attack:4177,skill_1:22529,skill_2:11614,skill_4:5002,team_buff:1104,dx:512,ds:1170
+32388,_c_Curran,5*,shadow,axe,4684,Kung_Fu_Masters,The_Plaguebringer,Gala_Cat_Sith,Agito1,Blade,Wand,Bow,Weapon,Veronica,!<always connect hits & last offense & hp=40.0%>,no fs,attack:3422,skill_1:15137,skill_2:7761,skill_4:4171,team_buff:1083,dx:446,ds:364

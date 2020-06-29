@@ -1,18 +1,18 @@
 -,60,_
-15351,Kirsty,5*,wind,lance,5714,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,,<hp60 & hit10 & hp70 & maintain Dauntless Strength>,,attack:3192,skill_1:7582,team_buff:997,dx:1814,ds:1764
-10028,_c_Kirsty,5*,wind,lance,5274,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,,!<hp60 & hit10 & hp70 & maintain Dauntless Strength>,,attack:2046,skill_1:4706,team_buff:997,dx:1089,ds:1187
+17262,Kirsty,5*,wind,lance,5714,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,Curran,<hp60 & hit10 & hp70 & maintain Dauntless Strength>,,attack:2993,skill_1:6355,skill_4:2976,team_buff:1186,dx:1901,ds:1848
+11263,_c_Kirsty,5*,wind,lance,5274,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,Curran,!<hp60 & hit10 & hp70 & maintain Dauntless Strength>,,attack:1924,skill_1:3976,skill_4:1789,team_buff:1186,dx:1142,ds:1244
 -,60,affliction
-22801,Kirsty,5*,wind,lance,5953,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,,<hp60 & hit10 & hp70 & hp100 & maintain Dauntless Strength>,,attack:4849,skill_1:11517,team_buff:997,dx:2756,ds:2679
-14134,_c_Kirsty,5*,wind,lance,5291,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,,!<hp60 & hit10 & hp70 & hp100 & maintain Dauntless Strength>,,attack:2977,skill_1:6846,team_buff:997,dx:1585,ds:1727
+28319,Kirsty,5*,wind,lance,5953,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,Curran,<hp60 & hit10 & hp70 & hp100 & maintain Dauntless Strength>,,attack:4546,skill_1:9654,skill_4:7234,team_buff:1186,dx:2888,ds:2808
+17406,_c_Kirsty,5*,wind,lance,5291,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,Curran,!<hp60 & hit10 & hp70 & hp100 & maintain Dauntless Strength>,,attack:2799,skill_1:5784,skill_4:4163,team_buff:1186,dx:1661,ds:1809
 -,120,_
-17756,Kirsty,5*,wind,lance,5714,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,,<hp60 & hit10 & hp70 & maintain Dauntless Strength>,,attack:3944,skill_1:9035,team_buff:1493,dx:1007,ds:2275
-10847,_c_Kirsty,5*,wind,lance,5274,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,,!<hp60 & hit10 & hp70 & maintain Dauntless Strength>,,attack:2325,skill_1:5255,team_buff:1493,dx:544,ds:1229
+20550,Kirsty,5*,wind,lance,5714,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,Curran,<hp60 & hit10 & hp70 & maintain Dauntless Strength>,,attack:3749,skill_1:8396,skill_4:3158,team_buff:1869,dx:1035,ds:2340
+12661,_c_Kirsty,5*,wind,lance,5274,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,Curran,!<hp60 & hit10 & hp70 & maintain Dauntless Strength>,,attack:2208,skill_1:4897,skill_4:1862,team_buff:1869,dx:559,ds:1263
 -,120,affliction
-26198,Kirsty,5*,wind,lance,5953,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,,<hp60 & hit10 & hp70 & hp100 & maintain Dauntless Strength>,,attack:5991,skill_1:13725,team_buff:1493,dx:1529,ds:3457
-15100,_c_Kirsty,5*,wind,lance,5291,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,,!<hp60 & hit10 & hp70 & hp100 & maintain Dauntless Strength>,,attack:3382,skill_1:7644,team_buff:1493,dx:791,ds:1788
+33125,Kirsty,5*,wind,lance,5953,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,Curran,<hp60 & hit10 & hp70 & hp100 & maintain Dauntless Strength>,,attack:5695,skill_1:12754,skill_4:7677,team_buff:1869,dx:1572,ds:3554
+19194,_c_Kirsty,5*,wind,lance,5291,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,Curran,!<hp60 & hit10 & hp70 & hp100 & maintain Dauntless Strength>,,attack:3212,skill_1:7124,skill_4:4335,team_buff:1869,dx:813,ds:1838
 -,180,_
-17478,Kirsty,5*,wind,lance,5714,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,,<hp60 & hit10 & hp70 & maintain Dauntless Strength>,,attack:4329,skill_1:9295,team_buff:1661,dx:672,ds:1519
-10605,_c_Kirsty,5*,wind,lance,5274,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,,!<hp60 & hit10 & hp70 & maintain Dauntless Strength>,,attack:2476,skill_1:5282,team_buff:1661,dx:363,ds:820
+20623,Kirsty,5*,wind,lance,5714,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,Curran,<hp60 & hit10 & hp70 & maintain Dauntless Strength>,,attack:4007,skill_1:8482,skill_4:3780,team_buff:2048,dx:706,ds:1597
+12589,_c_Kirsty,5*,wind,lance,5274,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,Curran,!<hp60 & hit10 & hp70 & maintain Dauntless Strength>,,attack:2288,skill_1:4831,skill_4:2150,team_buff:2048,dx:389,ds:880
 -,180,affliction
-25688,Kirsty,5*,wind,lance,5953,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,,<hp60 & hit10 & hp70 & hp100 & maintain Dauntless Strength>,,attack:6575,skill_1:14120,team_buff:1661,dx:1021,ds:2308
-14671,_c_Kirsty,5*,wind,lance,5291,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,,!<hp60 & hit10 & hp70 & hp100 & maintain Dauntless Strength>,,attack:3602,skill_1:7683,team_buff:1661,dx:528,ds:1194
+33709,Kirsty,5*,wind,lance,5953,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,Curran,<hp60 & hit10 & hp70 & hp100 & maintain Dauntless Strength>,,attack:6087,skill_1:12885,skill_4:9187,team_buff:2048,dx:1073,ds:2426
+19258,_c_Kirsty,5*,wind,lance,5291,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Akasha,Weapon,Curran,!<hp60 & hit10 & hp70 & hp100 & maintain Dauntless Strength>,,attack:3329,skill_1:7027,skill_4:5004,team_buff:2048,dx:566,ds:1280

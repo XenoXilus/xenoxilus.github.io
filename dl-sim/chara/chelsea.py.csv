@@ -1,18 +1,18 @@
 -,60,_
-14085,Chelsea,5*,flame,bow,7050,Mega_Friends,Primal_Crisis,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,,<hit10 & hit15 & hp=76.0%>,,attack:1278,force_strike:8573,skill_1:4232
-10999,_c_Chelsea,5*,flame,bow,7050,Mega_Friends,Primal_Crisis,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,,!<hit10 & hit15 & hp=76.0%>,,attack:1003,force_strike:6687,skill_1:3307
+15691,Chelsea,5*,flame,bow,7050,Mega_Friends,Primal_Crisis,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,Ranzal,<hit10 & hit15>,25% poison uptime,attack:1213,force_strike:8606,skill_1:4248,skill_4:1366,s4_poison:255
+12257,_c_Chelsea,5*,flame,bow,7050,Mega_Friends,Primal_Crisis,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,Ranzal,!<hit10 & hit15>,25% poison uptime,attack:951,force_strike:6713,skill_1:3320,skill_4:1070,s4_poison:200
 -,60,affliction
-15514,Chelsea,5*,flame,bow,7065,Mega_Friends,Me_and_My_Bestie,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,,<hit10 & hp=76.0%>,,attack:1412,force_strike:9434,skill_1:4666
-14329,_c_Chelsea,5*,flame,bow,7065,Mega_Friends,Me_and_My_Bestie,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,,!<hit10 & hp=76.0%>,,attack:1306,force_strike:8712,skill_1:4309
+17289,Chelsea,5*,flame,bow,7065,Mega_Friends,Me_and_My_Bestie,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,Ranzal,<hit10>,25% poison uptime,attack:1339,force_strike:9471,skill_1:4684,skill_4:1510,s4_poison:282
+15969,_c_Chelsea,5*,flame,bow,7065,Mega_Friends,Me_and_My_Bestie,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,Ranzal,!<hit10>,25% poison uptime,attack:1240,force_strike:8746,skill_1:4326,skill_4:1395,s4_poison:260
 -,120,_
-18880,Chelsea,5*,flame,bow,7050,Mega_Friends,Primal_Crisis,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,,<hit10 & hit15 & hp=22.0%>,,attack:1629,force_strike:11389,skill_1:5859
-14820,_c_Chelsea,5*,flame,bow,7050,Mega_Friends,Primal_Crisis,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,,!<hit10 & hit15 & hp=22.0%>,,attack:1281,force_strike:8936,skill_1:4602
+19652,Chelsea,5*,flame,bow,7050,Mega_Friends,Primal_Crisis,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,Ranzal,<hit10 & hit15>,30% poison uptime,attack:1486,force_strike:10082,skill_1:5086,skill_4:2615,s4_poison:380
+15378,_c_Chelsea,5*,flame,bow,7050,Mega_Friends,Primal_Crisis,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,Ranzal,!<hit10 & hit15>,30% poison uptime,attack:1165,force_strike:7884,skill_1:3980,skill_4:2049,s4_poison:298
 -,120,affliction
-20906,Chelsea,5*,flame,bow,7065,Mega_Friends,Me_and_My_Bestie,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,,<hit10 & hp=22.0%>,,attack:1806,force_strike:12607,skill_1:6492
-19308,_c_Chelsea,5*,flame,bow,7065,Mega_Friends,Me_and_My_Bestie,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,,!<hit10 & hp=22.0%>,,attack:1669,force_strike:11642,skill_1:5995
+21694,Chelsea,5*,flame,bow,7065,Mega_Friends,Me_and_My_Bestie,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,Ranzal,<hit10>,30% poison uptime,attack:1642,force_strike:11123,skill_1:5615,skill_4:2891,s4_poison:420
+20035,_c_Chelsea,5*,flame,bow,7065,Mega_Friends,Me_and_My_Bestie,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,Ranzal,!<hit10>,30% poison uptime,attack:1518,force_strike:10272,skill_1:5185,skill_4:2669,s4_poison:388
 -,180,_
-20729,Chelsea,5*,flame,bow,7050,Mega_Friends,Primal_Crisis,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,,<hit10 & hit15 & hp=13.0%>,,attack:1808,force_strike:12490,skill_1:6428
-16307,_c_Chelsea,5*,flame,bow,7050,Mega_Friends,Primal_Crisis,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,,!<hit10 & hit15 & hp=13.0%>,,attack:1425,force_strike:9823,skill_1:5058
+20935,Chelsea,5*,flame,bow,7050,Mega_Friends,Primal_Crisis,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,Ranzal,<hit10 & hit15>,33% poison uptime,attack:1573,force_strike:10896,skill_1:5743,skill_4:2292,s4_poison:428
+16389,_c_Chelsea,5*,flame,bow,7050,Mega_Friends,Primal_Crisis,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,Ranzal,!<hit10 & hit15>,33% poison uptime,attack:1233,force_strike:8527,skill_1:4496,skill_4:1796,s4_poison:335
 -,180,affliction
-23004,Chelsea,5*,flame,bow,7065,Mega_Friends,Me_and_My_Bestie,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,,<hit10 & hp=13.0%>,,attack:2009,force_strike:13858,skill_1:7135
-21245,_c_Chelsea,5*,flame,bow,7065,Mega_Friends,Me_and_My_Bestie,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,,!<hit10 & hp=13.0%>,,attack:1856,force_strike:12797,skill_1:6589
+23120,Chelsea,5*,flame,bow,7065,Mega_Friends,Me_and_My_Bestie,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,Ranzal,<hit10>,33% poison uptime,attack:1739,force_strike:12029,skill_1:6343,skill_4:2533,s4_poison:473
+21353,_c_Chelsea,5*,flame,bow,7065,Mega_Friends,Me_and_My_Bestie,Dreadking_Rathalos,Agito2,Blade,Grace,Serena,Weapon,Ranzal,!<hit10>,33% poison uptime,attack:1606,force_strike:11109,skill_1:5858,skill_4:2340,s4_poison:437

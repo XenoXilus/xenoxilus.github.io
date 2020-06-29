@@ -1,18 +1,18 @@
 -,60,_
-20233,Patia,4*,shadow,lance,8740,Brothers_in_Arms,Resounding_Rendition,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,<hp60 & hp70>,,attack:6959,skill_2:3069,s2_bleed:4565,team_buff:5637
-19062,_c_Patia,4*,shadow,lance,8323,Brothers_in_Arms,Resounding_Rendition,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,!<hp60 & hp70>,,attack:6394,skill_2:2825,s2_bleed:4203,team_buff:5637
+24719,Patia,4*,shadow,lance,4855,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito1,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp70>,,attack:4062,skill_2:5142,s2_bleed:7420,team_buff:8094
+23418,_c_Patia,4*,shadow,lance,4624,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito1,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp70>,,attack:3740,skill_2:4742,s2_bleed:6840,team_buff:8094
 -,60,affliction
-21470,Patia,4*,shadow,lance,9470,Brothers_in_Arms,The_Fires_of_Hate,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,<hp60 & hp100>,,attack:8583,skill_2:2913,s2_bleed:4335,team_buff:5637
-19803,_c_Patia,4*,shadow,lance,8325,Brothers_in_Arms,The_Fires_of_Hate,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,!<hp60 & hp100>,,attack:7675,skill_2:2609,s2_bleed:3881,team_buff:5637
+28334,Patia,4*,shadow,lance,5383,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp100>,,attack:4952,skill_2:6252,s2_bleed:9034,team_buff:8094
+25169,_c_Patia,4*,shadow,lance,4458,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp100>,,attack:4176,skill_2:5278,s2_bleed:7620,team_buff:8094
 -,120,_
-24936,Patia,4*,shadow,lance,8740,Brothers_in_Arms,Resounding_Rendition,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,<hp60 & hp70>,,attack:7378,skill_2:3605,s2_bleed:7045,team_buff:6907
-23523,_c_Patia,4*,shadow,lance,8323,Brothers_in_Arms,Resounding_Rendition,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,!<hp60 & hp70>,,attack:6792,skill_2:3324,s2_bleed:6497,team_buff:6907
+30700,Patia,4*,shadow,lance,4855,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito1,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp70>,,attack:4335,skill_2:5929,s2_bleed:10749,team_buff:9685
+29087,_c_Patia,4*,shadow,lance,4624,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito1,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp70>,,attack:4001,skill_2:5476,s2_bleed:9922,team_buff:9685
 -,120,affliction
-26119,Patia,4*,shadow,lance,9470,Brothers_in_Arms,The_Fires_of_Hate,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,<hp60 & hp100>,,attack:9100,skill_2:3422,s2_bleed:6688,team_buff:6907
-24130,_c_Patia,4*,shadow,lance,8325,Brothers_in_Arms,The_Fires_of_Hate,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,!<hp60 & hp100>,,attack:8153,skill_2:3069,s2_bleed:5999,team_buff:6907
+35223,Patia,4*,shadow,lance,5383,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp100>,,attack:5269,skill_2:7202,s2_bleed:13065,team_buff:9685
+31271,_c_Patia,4*,shadow,lance,4458,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp100>,,attack:4453,skill_2:6089,s2_bleed:11042,team_buff:9685
 -,180,_
-26257,Patia,4*,shadow,lance,8740,Brothers_in_Arms,Resounding_Rendition,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,<hp60 & hp70>,,attack:7542,skill_2:3765,s2_bleed:7601,team_buff:7346
-24782,_c_Patia,4*,shadow,lance,8323,Brothers_in_Arms,Resounding_Rendition,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,!<hp60 & hp70>,,attack:6947,skill_2:3474,s2_bleed:7013,team_buff:7346
+32768,Patia,4*,shadow,lance,4855,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito1,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp70>,,attack:4469,skill_2:5780,s2_bleed:12117,team_buff:10400
+30638,_c_Patia,4*,shadow,lance,4624,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito1,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp70>,,attack:4127,skill_2:5090,s2_bleed:11020,team_buff:10400
 -,180,affliction
-27441,Patia,4*,shadow,lance,9470,Brothers_in_Arms,The_Fires_of_Hate,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,<hp60 & hp100>,,attack:9302,skill_2:3574,s2_bleed:7216,team_buff:7346
-25369,_c_Patia,4*,shadow,lance,8325,Brothers_in_Arms,The_Fires_of_Hate,Fatalis,Agito1,Blade,Bow,Tobias,Weapon,,!<hp60 & hp100>,,attack:8339,skill_2:3207,s2_bleed:6475,team_buff:7346
+37570,Patia,4*,shadow,lance,5383,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp100>,,attack:5428,skill_2:7020,s2_bleed:14720,team_buff:10400
+32913,_c_Patia,4*,shadow,lance,4458,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp100>,,attack:4590,skill_2:5661,s2_bleed:12260,team_buff:10400

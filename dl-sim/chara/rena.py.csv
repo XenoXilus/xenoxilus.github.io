@@ -1,18 +1,18 @@
 -,60,_
-22816,Rena,5*,flame,blade,9049,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,,Weapon,,<0 burn res & hit10 & hp50 & hp70>,74% burn uptime,attack:3834,skill_1:9298,s1_burn:2012,dx:4963,ds:2707
-11728,_c_Rena,5*,flame,blade,8097,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,,Weapon,,!<0 burn res & hit10 & hp50 & hp70>,,attack:2411,skill_1:4210,s1_burn:0,dx:3313,ds:1792
+25015,Rena,5*,flame,blade,9049,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,Marth,Weapon,Ranzal,<0 burn res & hit10 & hp50 & hp70>,74% burn uptime,attack:4201,skill_1:10196,s1_burn:2217,dx:5416,ds:2983
+11728,_c_Rena,5*,flame,blade,8097,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,Marth,Weapon,Ranzal,!<0 burn res & hit10 & hp50 & hp70>,,attack:2411,skill_1:4210,s1_burn:0,dx:3313,ds:1792
 -,60,affliction
-24164,Rena,5*,flame,blade,9049,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,,Weapon,,<0 burn res & hit10 & hp50 & hp70>,,attack:4047,skill_1:9337,s1_burn:2140,dx:5583,ds:3055
-16844,_c_Rena,5*,flame,blade,8097,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,,Weapon,,!<0 burn res & hit10 & hp50 & hp70>,,attack:3134,skill_1:7071,s1_burn:0,dx:4308,ds:2329
+26476,Rena,5*,flame,blade,9049,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,Marth,Weapon,Ranzal,<0 burn res & hit10 & hp50 & hp70>,,attack:4427,skill_1:10239,s1_burn:2358,dx:6088,ds:3363
+16844,_c_Rena,5*,flame,blade,8097,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,Marth,Weapon,Ranzal,!<0 burn res & hit10 & hp50 & hp70>,,attack:3134,skill_1:7071,s1_burn:0,dx:4308,ds:2329
 -,120,_
-22782,Rena,5*,flame,blade,9049,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,,Weapon,,<0 burn res & hit10 & hp50 & hp70>,80% burn uptime,attack:4959,skill_1:9611,s1_burn:2386,dx:3778,ds:2046
-11362,_c_Rena,5*,flame,blade,8097,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,,Weapon,,!<0 burn res & hit10 & hp50 & hp70>,,attack:2988,skill_1:4542,s1_burn:0,dx:2497,ds:1334
+26982,Rena,5*,flame,blade,9049,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,Marth,Weapon,Ranzal,<0 burn res & hit10 & hp50 & hp70>,25% poison uptime; 81% burn uptime,attack:5367,skill_1:10575,s1_burn:2585,skill_4:2343,s4_poison:438,dx:3415,ds:2257
+12326,_c_Rena,5*,flame,blade,8097,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,Marth,Weapon,Ranzal,!<0 burn res & hit10 & hp50 & hp70>,25% poison uptime,attack:2949,skill_1:4517,s1_burn:0,skill_4:1227,s4_poison:229,dx:2068,ds:1332
 -,120,affliction
-23983,Rena,5*,flame,blade,9049,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,,Weapon,,<0 burn res & hit10 & hp50 & hp70>,,attack:5137,skill_1:9771,s1_burn:2542,dx:4232,ds:2297
-16252,_c_Rena,5*,flame,blade,8097,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,,Weapon,,!<0 burn res & hit10 & hp50 & hp70>,,attack:3884,skill_1:7386,s1_burn:0,dx:3246,ds:1734
+28240,Rena,5*,flame,blade,9049,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,Marth,Weapon,Ranzal,<0 burn res & hit10 & hp50 & hp70>,25% poison uptime,attack:5564,skill_1:10750,s1_burn:2753,skill_4:2351,s4_poison:439,dx:3848,ds:2532
+17503,_c_Rena,5*,flame,blade,8097,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,Marth,Weapon,Ranzal,!<0 burn res & hit10 & hp50 & hp70>,25% poison uptime,attack:3834,skill_1:7353,s1_burn:0,skill_4:1596,s4_poison:298,dx:2688,ds:1732
 -,180,_
-23463,Rena,5*,flame,blade,9049,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Joe,Marth,Weapon,,<0 burn res & hit10 & hp50 & hp70>,84% burn uptime,attack:5128,skill_1:10628,s1_burn:2670,dx:3255,ds:1780
-11374,_c_Rena,5*,flame,blade,8097,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Joe,Marth,Weapon,,!<0 burn res & hit10 & hp50 & hp70>,,attack:3030,skill_1:4933,s1_burn:0,dx:2213,ds:1196
+26899,Rena,5*,flame,blade,9049,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,Marth,Weapon,Ranzal,<0 burn res & hit10 & hp50 & hp70>,26% poison uptime; 74% burn uptime,attack:5188,skill_1:10326,s1_burn:2204,skill_4:3045,s4_poison:429,dx:3702,ds:2001
+12819,_c_Rena,5*,flame,blade,8097,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,Marth,Weapon,Ranzal,!<0 burn res & hit10 & hp50 & hp70>,26% poison uptime,attack:2857,skill_1:4563,s1_burn:0,skill_4:1626,s4_poison:226,dx:2318,ds:1226
 -,180,affliction
-24578,Rena,5*,flame,blade,9049,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Joe,Marth,Weapon,,<0 burn res & hit10 & hp50 & hp70>,,attack:5232,skill_1:10793,s1_burn:2775,dx:3729,ds:2046
-16540,_c_Rena,5*,flame,blade,8097,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Joe,Marth,Weapon,,!<0 burn res & hit10 & hp50 & hp70>,,attack:3940,skill_1:8166,s1_burn:0,dx:2877,ds:1556
+28864,Rena,5*,flame,blade,9049,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,Marth,Weapon,Ranzal,<0 burn res & hit10 & hp50 & hp70>,26% poison uptime,attack:5444,skill_1:10777,s1_burn:2409,skill_4:3116,s4_poison:433,dx:4344,ds:2337
+18102,_c_Rena,5*,flame,blade,8097,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Wand,Serena,Marth,Weapon,Ranzal,!<0 burn res & hit10 & hp50 & hp70>,26% poison uptime,attack:3715,skill_1:7369,s1_burn:0,skill_4:2113,s4_poison:294,dx:3014,ds:1594

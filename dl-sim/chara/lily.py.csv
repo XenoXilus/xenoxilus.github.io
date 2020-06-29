@@ -1,18 +1,18 @@
 -,60,_
-11938,Lily,5*,water,wand,8645,Candy_Couriers,Seaside_Princess,Leviathan,Agito1,Blade,Dagger,Tiki,Weapon,,<hp100>,,attack:2455,skill_1:2709,skill_2:1363,dx:4322,ds:1086
-9619,_c_Lily,5*,water,wand,7280,Candy_Couriers,Seaside_Princess,Leviathan,Agito1,Blade,Dagger,Tiki,Weapon,,!<hp100>,,attack:1978,skill_1:2183,skill_2:1098,dx:3482,ds:875
+14646,Lily,5*,water,wand,8645,Candy_Couriers,Seaside_Princess,Leviathan,Agito1,Blade,Dagger,Tiki,Gala_Elisanne,Ranzal,<hp100 & buff all team>,28% poison uptime,attack:2523,skill_1:2049,skill_2:1437,skill_4:1997,s4_poison:186,team_buff:1494,dx:3962,ds:996
+10812,_c_Lily,5*,water,wand,7280,Candy_Couriers,Seaside_Princess,Leviathan,Agito1,Blade,Dagger,Tiki,Gala_Elisanne,Ranzal,!<hp100 & buff all team>,28% poison uptime,attack:2074,skill_1:1684,skill_2:1181,skill_4:1641,s4_poison:153,dx:3257,ds:818
 -,60,affliction
-12625,Lily,5*,water,wand,7934,Candy_Couriers,His_Clever_Brother,Leviathan,Agito1,Blade,Dagger,Tiki,Weapon,,<hp100>,,attack:2565,skill_1:2830,skill_2:1424,dx:4669,ds:1135
-11543,_c_Lily,5*,water,wand,7254,Candy_Couriers,His_Clever_Brother,Leviathan,Agito1,Blade,Dagger,Tiki,Weapon,,!<hp100>,,attack:2345,skill_1:2587,skill_2:1301,dx:4269,ds:1037
+15566,Lily,5*,water,wand,7934,Candy_Couriers,His_Clever_Brother,Leviathan,Agito1,Blade,Dagger,Tiki,Gala_Elisanne,Ranzal,<hp100 & buff all team>,30% poison uptime,attack:2669,skill_1:2192,skill_2:1537,skill_4:2136,s4_poison:239,team_buff:1486,dx:4238,ds:1065
+12873,_c_Lily,5*,water,wand,7254,Candy_Couriers,His_Clever_Brother,Leviathan,Agito1,Blade,Dagger,Tiki,Gala_Elisanne,Ranzal,!<hp100 & buff all team>,30% poison uptime,attack:2440,skill_1:2004,skill_2:1405,skill_4:1953,s4_poison:219,dx:3875,ds:974
 -,120,_
-11938,Lily,5*,water,wand,8645,Candy_Couriers,Seaside_Princess,Leviathan,Agito1,Blade,Dagger,Tiki,Weapon,,<hp100>,,attack:2689,skill_1:2737,skill_2:1377,dx:4036,ds:1097
-9618,_c_Lily,5*,water,wand,7280,Candy_Couriers,Seaside_Princess,Leviathan,Agito1,Blade,Dagger,Tiki,Weapon,,!<hp100>,,attack:2166,skill_1:2205,skill_2:1109,dx:3252,ds:884
+14371,Lily,5*,water,wand,8645,Candy_Couriers,Seaside_Princess,Leviathan,Agito1,Blade,Dagger,Tiki,Gala_Elisanne,Ranzal,<hp100 & buff all team>,37% poison uptime,attack:2634,skill_1:2052,skill_2:1439,skill_4:1500,s4_poison:280,team_buff:1496,dx:3968,ds:997
+10584,_c_Lily,5*,water,wand,7280,Candy_Couriers,Seaside_Princess,Leviathan,Agito1,Blade,Dagger,Tiki,Gala_Elisanne,Ranzal,!<hp100 & buff all team>,37% poison uptime,attack:2165,skill_1:1687,skill_2:1183,skill_4:1233,s4_poison:230,dx:3262,ds:820
 -,120,affliction
-12912,Lily,5*,water,wand,7934,Candy_Couriers,His_Clever_Brother,Leviathan,Agito1,Blade,Dagger,Tiki,Weapon,,<hp100>,,attack:2807,skill_1:2525,skill_2:1815,dx:4604,ds:1157
-11805,_c_Lily,5*,water,wand,7254,Candy_Couriers,His_Clever_Brother,Leviathan,Agito1,Blade,Dagger,Tiki,Weapon,,!<hp100>,,attack:2567,skill_1:2309,skill_2:1659,dx:4210,ds:1058
+15349,Lily,5*,water,wand,7934,Candy_Couriers,His_Clever_Brother,Leviathan,Agito1,Blade,Dagger,Tiki,Gala_Elisanne,Ranzal,<hp100 & buff all team>,37% poison uptime,attack:2823,skill_1:2210,skill_2:1550,skill_4:1615,s4_poison:302,team_buff:1498,dx:4273,ds:1074
+12663,_c_Lily,5*,water,wand,7254,Candy_Couriers,His_Clever_Brother,Leviathan,Agito1,Blade,Dagger,Tiki,Gala_Elisanne,Ranzal,!<hp100 & buff all team>,37% poison uptime,attack:2581,skill_1:2020,skill_2:1417,skill_4:1477,s4_poison:276,dx:3907,ds:982
 -,180,_
-10959,Lily,5*,water,wand,8645,Candy_Couriers,Seaside_Princess,Leviathan,Agito1,Blade,Dagger,Tiki,Weapon,,<hp100>,,attack:2987,skill_1:2732,skill_2:1603,dx:2905,ds:730
-8830,_c_Lily,5*,water,wand,7280,Candy_Couriers,Seaside_Princess,Leviathan,Agito1,Blade,Dagger,Tiki,Weapon,,!<hp100>,,attack:2407,skill_1:2201,skill_2:1291,dx:2340,ds:588
+13387,Lily,5*,water,wand,8645,Candy_Couriers,Seaside_Princess,Leviathan,Agito1,Blade,Dagger,Tiki,Gala_Elisanne,Ranzal,<hp100 & buff all team>,33% poison uptime,attack:2799,skill_1:2458,skill_2:1642,skill_4:1428,s4_poison:267,team_buff:1491,dx:2636,ds:662
+9779,_c_Lily,5*,water,wand,7280,Candy_Couriers,Seaside_Princess,Leviathan,Agito1,Blade,Dagger,Tiki,Gala_Elisanne,Ranzal,!<hp100 & buff all team>,33% poison uptime,attack:2301,skill_1:2021,skill_2:1350,skill_4:1174,s4_poison:219,dx:2167,ds:544
 -,180,affliction
-11717,Lily,5*,water,wand,7934,Candy_Couriers,His_Clever_Brother,Leviathan,Agito1,Blade,Dagger,Tiki,Weapon,,<hp100>,,attack:3066,skill_1:3122,skill_2:1691,dx:3065,ds:770
-10713,_c_Lily,5*,water,wand,7254,Candy_Couriers,His_Clever_Brother,Leviathan,Agito1,Blade,Dagger,Tiki,Weapon,,!<hp100>,,attack:2803,skill_1:2854,skill_2:1546,dx:2802,ds:704
+14162,Lily,5*,water,wand,7934,Candy_Couriers,His_Clever_Brother,Leviathan,Agito1,Blade,Dagger,Tiki,Gala_Elisanne,Ranzal,<hp100 & buff all team>,33% poison uptime,attack:3139,skill_1:2430,skill_2:1705,skill_4:1541,s4_poison:288,team_buff:1496,dx:2845,ds:715
+11580,_c_Lily,5*,water,wand,7254,Candy_Couriers,His_Clever_Brother,Leviathan,Agito1,Blade,Dagger,Tiki,Gala_Elisanne,Ranzal,!<hp100 & buff all team>,33% poison uptime,attack:2869,skill_1:2221,skill_2:1558,skill_4:1409,s4_poison:263,dx:2601,ds:654

@@ -1,18 +1,18 @@
 -,60,_
-15290,Amane,4*,light,wand,7016,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15>,,attack:3204,skill_1:3994,skill_3:1811,team_buff:660,dx:4623,ds:994
-10282,_c_Amane,4*,light,wand,7016,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15>,,attack:2137,skill_1:2716,skill_3:1162,team_buff:660,dx:2966,ds:638
+17025,Amane,4*,light,wand,7016,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,Ranzal,<hit10 & hit15>,25% poison uptime,attack:3078,skill_1:4026,skill_3:1826,skill_4:1485,s4_poison:277,team_buff:666,dx:4661,ds:1002
+11416,_c_Amane,4*,light,wand,7016,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,Ranzal,!<hit10 & hit15>,25% poison uptime,attack:2056,skill_1:2738,skill_3:1171,skill_4:967,s4_poison:180,team_buff:666,dx:2990,ds:643
 -,60,affliction
-16897,Amane,4*,light,wand,7715,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15 & hp100>,,attack:3567,skill_1:4515,skill_3:1988,team_buff:660,dx:5073,ds:1091
-12237,_c_Amane,4*,light,wand,7034,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15 & hp100>,,attack:2572,skill_1:3268,skill_3:1398,team_buff:660,dx:3568,ds:767
+18802,Amane,4*,light,wand,7715,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,Ranzal,<hit10 & hit15 & hp100>,25% poison uptime,attack:3430,skill_1:4552,skill_3:2004,skill_4:1630,s4_poison:304,team_buff:666,dx:5114,ds:1100
+13599,_c_Amane,4*,light,wand,7034,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,Ranzal,!<hit10 & hit15 & hp100>,25% poison uptime,attack:2474,skill_1:3295,skill_3:1409,skill_4:1164,s4_poison:217,team_buff:666,dx:3597,ds:773
 -,120,_
-14277,Amane,4*,light,wand,7016,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15>,,attack:3573,skill_1:4126,skill_3:1820,team_buff:331,dx:3359,ds:1065
-9420,_c_Amane,4*,light,wand,7016,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15>,,attack:2338,skill_1:2729,skill_3:1167,team_buff:331,dx:2163,ds:688
+15539,Amane,4*,light,wand,7016,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,Ranzal,<hit10 & hit15>,25% poison uptime,attack:3523,skill_1:4135,skill_3:1823,skill_4:1396,s4_poison:261,team_buff:332,dx:2998,ds:1067
+10242,_c_Amane,4*,light,wand,7016,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,Ranzal,!<hit10 & hit15>,25% poison uptime,attack:2305,skill_1:2735,skill_3:1170,skill_4:903,s4_poison:168,team_buff:332,dx:1936,ds:690
 -,120,affliction
-15726,Amane,4*,light,wand,7715,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15 & hp100>,,attack:3946,skill_1:4594,skill_3:1997,team_buff:331,dx:3686,ds:1168
-11266,_c_Amane,4*,light,wand,7034,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15 & hp100>,,attack:2813,skill_1:3283,skill_3:1404,team_buff:331,dx:2603,ds:828
+17111,Amane,4*,light,wand,7715,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,Ranzal,<hit10 & hit15 & hp100>,25% poison uptime,attack:3892,skill_1:4604,skill_3:2001,skill_4:1532,s4_poison:286,team_buff:332,dx:3289,ds:1171
+12255,_c_Amane,4*,light,wand,7034,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,Ranzal,!<hit10 & hit15 & hp100>,25% poison uptime,attack:2773,skill_1:3290,skill_3:1407,skill_4:1086,s4_poison:203,team_buff:332,dx:2329,ds:830
 -,180,_
-13950,Amane,4*,light,wand,7016,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15>,,attack:3726,skill_1:4469,skill_3:1554,team_buff:441,dx:3092,ds:665
-9207,_c_Amane,4*,light,wand,7016,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15>,,attack:2425,skill_1:2928,skill_3:1000,team_buff:441,dx:1983,ds:426
+15677,Amane,4*,light,wand,7016,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,Ranzal,<hit10 & hit15>,33% poison uptime,attack:3573,skill_1:4201,skill_3:1557,skill_4:1800,s4_poison:336,team_buff:442,dx:3097,ds:666
+10320,_c_Amane,4*,light,wand,7016,Candy_Couriers,Primal_Crisis,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,Ranzal,!<hit10 & hit15>,33% poison uptime,attack:2326,skill_1:2756,skill_3:1002,skill_4:1160,s4_poison:216,team_buff:442,dx:1987,ds:427
 -,180,affliction
-15326,Amane,4*,light,wand,7715,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,<hit10 & hit15 & hp100>,,attack:4106,skill_1:4949,skill_3:1706,team_buff:441,dx:3393,ds:729
-10987,_c_Amane,4*,light,wand,7034,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,,!<hit10 & hit15 & hp100>,,attack:2917,skill_1:3523,skill_3:1204,team_buff:441,dx:2386,ds:513
+17220,Amane,4*,light,wand,7715,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,Ranzal,<hit10 & hit15 & hp100>,33% poison uptime,attack:3938,skill_1:4655,skill_3:1708,skill_4:1976,s4_poison:369,team_buff:442,dx:3398,ds:730
+12326,_c_Amane,4*,light,wand,7034,Candy_Couriers,Spirit_of_the_Season,Daikokuten,HDT2,Blade,Halloween_Elisanne,Peony,Weapon,Ranzal,!<hit10 & hit15 & hp100>,33% poison uptime,attack:2799,skill_1:3316,skill_3:1206,skill_4:1395,s4_poison:260,team_buff:442,dx:2390,ds:514

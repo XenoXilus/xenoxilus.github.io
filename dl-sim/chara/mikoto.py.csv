@@ -1,18 +1,18 @@
 -,60,_
-24897,Mikoto,5*,flame,blade,9229,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,,<hp70 & hit10 & hp50 & hit15>,,attack:8076,skill_1:4669,dx:9161,ds:2989
-15769,_c_Mikoto,5*,flame,blade,8257,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,,!<hp70 & hit10 & hp50 & hit15>,,attack:5184,skill_1:2915,dx:5790,ds:1878
+26647,Mikoto,5*,flame,blade,9229,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,Ranzal,<hp70 & hit10 & hp50 & hit15>,,attack:7838,skill_1:4678,skill_4:1886,s4_poison:70,dx:9178,ds:2994
+16871,_c_Mikoto,5*,flame,blade,8257,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,Ranzal,!<hp70 & hit10 & hp50 & hit15>,,attack:5034,skill_1:2921,skill_4:1188,s4_poison:44,dx:5800,ds:1881
 -,60,affliction
-28557,Mikoto,5*,flame,blade,9227,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,,<hp70 & hit10 & hp50 & hit15>,,attack:9979,skill_1:4432,dx:11306,ds:2838
-19057,_c_Mikoto,5*,flame,blade,8256,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,,!<hp70 & hit10 & hp50 & hit15>,,attack:6738,skill_1:2915,dx:7525,ds:1877
+30155,Mikoto,5*,flame,blade,9227,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,Ranzal,<hp70 & hit10 & hp50 & hit15>,,attack:9685,skill_1:4441,skill_4:1790,s4_poison:66,dx:11327,ds:2843
+20117,_c_Mikoto,5*,flame,blade,8256,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,Ranzal,!<hp70 & hit10 & hp50 & hit15>,,attack:6543,skill_1:2920,skill_4:1188,s4_poison:44,dx:7539,ds:1881
 -,120,_
-23569,Mikoto,5*,flame,blade,9229,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,,<hp70 & hit10 & hp50 & hit15>,,attack:8557,skill_1:4550,dx:7567,ds:2893
-14825,_c_Mikoto,5*,flame,blade,8257,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,,!<hp70 & hit10 & hp50 & hit15>,,attack:5399,skill_1:2834,dx:4779,ds:1812
+25065,Mikoto,5*,flame,blade,9229,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,Ranzal,<hp70 & hit10 & hp50 & hit15>,25% poison uptime,attack:8477,skill_1:4564,skill_4:1800,s4_poison:336,dx:6984,ds:2901
+15759,_c_Mikoto,5*,flame,blade,8257,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,Ranzal,!<hp70 & hit10 & hp50 & hit15>,25% poison uptime,attack:5348,skill_1:2843,skill_4:1129,s4_poison:211,dx:4408,ds:1817
 -,120,affliction
-26973,Mikoto,5*,flame,blade,9227,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,,<hp70 & hit10 & hp50 & hit15>,,attack:10566,skill_1:4320,dx:9339,ds:2746
-17875,_c_Mikoto,5*,flame,blade,8256,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,,!<hp70 & hit10 & hp50 & hit15>,,attack:7017,skill_1:2834,dx:6211,ds:1812
+28205,Mikoto,5*,flame,blade,9227,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,Ranzal,<hp70 & hit10 & hp50 & hit15>,25% poison uptime,attack:10468,skill_1:4332,skill_4:1709,s4_poison:319,dx:8619,ds:2754
+18682,_c_Mikoto,5*,flame,blade,8256,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,Ranzal,!<hp70 & hit10 & hp50 & hit15>,25% poison uptime,attack:6952,skill_1:2842,skill_4:1129,s4_poison:211,dx:5729,ds:1817
 -,180,_
-22177,Mikoto,5*,flame,blade,9229,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,,<hp70 & hit10 & hp50 & hit15>,,attack:9388,skill_1:4932,dx:5981,ds:1873
-13907,_c_Mikoto,5*,flame,blade,8257,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,,!<hp70 & hit10 & hp50 & hit15>,,attack:5892,skill_1:3071,dx:3772,ds:1169
+24345,Mikoto,5*,flame,blade,9229,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,Ranzal,<hp70 & hit10 & hp50 & hit15>,33% poison uptime,attack:8946,skill_1:5034,skill_4:2324,s4_poison:434,dx:5796,ds:1808
+15260,_c_Mikoto,5*,flame,blade,8257,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,Ranzal,!<hp70 & hit10 & hp50 & hit15>,33% poison uptime,attack:5620,skill_1:3141,skill_4:1453,s4_poison:271,dx:3646,ds:1125
 -,180,affliction
-25435,Mikoto,5*,flame,blade,9227,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,,<hp70 & hit10 & hp50 & hit15>,,attack:11591,skill_1:4682,dx:7382,ds:1778
-16803,_c_Mikoto,5*,flame,blade,8256,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,,!<hp70 & hit10 & hp50 & hit15>,,attack:7658,skill_1:3071,dx:4903,ds:1169
+27314,Mikoto,5*,flame,blade,9227,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,Ranzal,<hp70 & hit10 & hp50 & hit15>,33% poison uptime,attack:11045,skill_1:4779,skill_4:2206,s4_poison:412,dx:7153,ds:1717
+18036,_c_Mikoto,5*,flame,blade,8256,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger,Tiki,Marth,Weapon,Ranzal,!<hp70 & hit10 & hp50 & hit15>,33% poison uptime,attack:7305,skill_1:3140,skill_4:1453,s4_poison:271,dx:4738,ds:1125

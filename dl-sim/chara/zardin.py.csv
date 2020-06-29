@@ -1,18 +1,18 @@
 -,60,_
-12677,Zardin,3*,water,sword,5048,Primal_Crisis,The_Shining_Overlord,Siren,Agito1,Xander,Dagger,Yurius,Weapon,,<hp100 & hp60 & hit10 & hit15>,,attack:2037,force_strike:891,skill_1:5097,skill_2:1633,dx:1361,ds:1657
-8918,_c_Zardin,3*,water,sword,4524,Primal_Crisis,The_Shining_Overlord,Siren,Agito1,Xander,Dagger,Yurius,Weapon,,!<hp100 & hp60 & hit10 & hit15>,,attack:1462,force_strike:633,skill_1:3686,skill_2:1146,dx:897,ds:1092
+14940,Zardin,3*,water,sword,5048,Primal_Crisis,The_Shining_Overlord,Siren,Agito1,Xander,Dagger,Yurius,Gala_Elisanne,Ranzal,<hp100 & hp60 & hit10 & hit15 & buff all team>,25% poison uptime,attack:1841,force_strike:815,skill_1:4287,skill_2:1753,skill_4:1359,s4_poison:254,team_buff:1492,dx:1413,ds:1721
+9401,_c_Zardin,3*,water,sword,4524,Primal_Crisis,The_Shining_Overlord,Siren,Agito1,Xander,Dagger,Yurius,Gala_Elisanne,Ranzal,!<hp100 & hp60 & hit10 & hit15 & buff all team>,25% poison uptime,attack:1339,force_strike:591,skill_1:3167,skill_2:1159,skill_4:887,s4_poison:165,dx:942,ds:1147
 -,60,affliction
-12451,Zardin,3*,water,sword,5029,Primal_Crisis,His_Clever_Brother,Siren,Agito1,Xander,Dagger,Wand,Weapon,,<hp100 & hp60 & hit10 & hit15>,,attack:3056,force_strike:1352,skill_1:5874,skill_2:2167
-8238,_c_Zardin,3*,water,sword,4507,Primal_Crisis,His_Clever_Brother,Siren,Agito1,Xander,Dagger,Wand,Weapon,,!<hp100 & hp60 & hit10 & hit15>,,attack:2037,force_strike:900,skill_1:3888,skill_2:1410
+16001,Zardin,3*,water,sword,5029,Primal_Crisis,His_Clever_Brother,Siren,Agito1,Xander,Dagger,Wand,Gala_Elisanne,Ranzal,<hp100 & hp60 & hit10 & hit15 & buff all team>,38% poison uptime,attack:2840,force_strike:1256,skill_1:5371,skill_2:2147,skill_4:2556,s4_poison:334,team_buff:1495
+9620,_c_Zardin,3*,water,sword,4507,Primal_Crisis,His_Clever_Brother,Siren,Agito1,Xander,Dagger,Wand,Gala_Elisanne,Ranzal,!<hp100 & hp60 & hit10 & hit15 & buff all team>,38% poison uptime,attack:1907,force_strike:842,skill_1:3591,skill_2:1404,skill_4:1656,s4_poison:216
 -,120,_
-12709,Zardin,3*,water,sword,5048,Primal_Crisis,The_Shining_Overlord,Siren,Agito1,Xander,Dagger,Yurius,Weapon,,<hp100 & hp60 & hit10 & hit15>,,attack:2374,force_strike:1062,skill_1:5779,skill_2:1982,dx:680,ds:828
-8639,_c_Zardin,3*,water,sword,4524,Primal_Crisis,The_Shining_Overlord,Siren,Agito1,Xander,Dagger,Yurius,Weapon,,!<hp100 & hp60 & hit10 & hit15>,,attack:1621,force_strike:721,skill_1:3964,skill_2:1335,dx:448,ds:546
+16331,Zardin,3*,water,sword,5048,Primal_Crisis,The_Shining_Overlord,Siren,Agito1,Xander,Dagger,Yurius,Gala_Elisanne,Ranzal,<hp100 & hp60 & hit10 & hit15 & buff all team>,37% poison uptime,attack:2174,force_strike:943,skill_1:4930,skill_2:1963,skill_4:2592,s4_poison:484,team_buff:1499,dx:785,ds:956
+9990,_c_Zardin,3*,water,sword,4524,Primal_Crisis,The_Shining_Overlord,Siren,Agito1,Xander,Dagger,Yurius,Gala_Elisanne,Ranzal,!<hp100 & hp60 & hit10 & hit15 & buff all team>,37% poison uptime,attack:1498,force_strike:650,skill_1:3334,skill_2:1290,skill_4:1719,s4_poison:321,dx:529,ds:645
 -,120,affliction
-13088,Zardin,3*,water,sword,5029,Primal_Crisis,His_Clever_Brother,Siren,Agito1,Xander,Dagger,Wand,Weapon,,<hp100 & hp60 & hit10 & hit15>,,attack:3068,force_strike:1391,skill_1:5927,skill_2:2700
-8584,_c_Zardin,3*,water,sword,4507,Primal_Crisis,His_Clever_Brother,Siren,Agito1,Xander,Dagger,Wand,Weapon,,!<hp100 & hp60 & hit10 & hit15>,,attack:2020,force_strike:915,skill_1:3889,skill_2:1757
+16598,Zardin,3*,water,sword,5029,Primal_Crisis,His_Clever_Brother,Siren,Agito1,Xander,Dagger,Wand,Gala_Elisanne,Ranzal,<hp100 & hp60 & hit10 & hit15 & buff all team>,49% poison uptime,attack:2901,force_strike:1269,skill_1:5503,skill_2:2215,skill_4:2726,s4_poison:485,team_buff:1497
+9978,_c_Zardin,3*,water,sword,4507,Primal_Crisis,His_Clever_Brother,Siren,Agito1,Xander,Dagger,Wand,Gala_Elisanne,Ranzal,!<hp100 & hp60 & hit10 & hit15 & buff all team>,49% poison uptime,attack:1927,force_strike:842,skill_1:3651,skill_2:1455,skill_4:1783,s4_poison:317
 -,180,_
-12843,Zardin,3*,water,sword,5048,Primal_Crisis,The_Shining_Overlord,Siren,Agito1,Xander,Dagger,Yurius,Weapon,,<hp100 & hp60 & hit10 & hit15>,,attack:2541,force_strike:1145,skill_1:6025,skill_2:2122,dx:453,ds:552
-8589,_c_Zardin,3*,water,sword,4524,Primal_Crisis,The_Shining_Overlord,Siren,Agito1,Xander,Dagger,Yurius,Weapon,,!<hp100 & hp60 & hit10 & hit15>,,attack:1710,force_strike:770,skill_1:4050,skill_2:1392,dx:299,ds:364
+16317,Zardin,3*,water,sword,5048,Primal_Crisis,The_Shining_Overlord,Siren,Agito1,Xander,Dagger,Yurius,Gala_Elisanne,Ranzal,<hp100 & hp60 & hit10 & hit15 & buff all team>,42% poison uptime,attack:2374,force_strike:1053,skill_1:5364,skill_2:2155,skill_4:2376,s4_poison:444,team_buff:1499,dx:473,ds:576
+9935,_c_Zardin,3*,water,sword,4524,Primal_Crisis,The_Shining_Overlord,Siren,Agito1,Xander,Dagger,Yurius,Gala_Elisanne,Ranzal,!<hp100 & hp60 & hit10 & hit15 & buff all team>,42% poison uptime,attack:1611,force_strike:714,skill_1:3631,skill_2:1425,skill_4:1561,s4_poison:291,dx:315,ds:384
 -,180,affliction
-13176,Zardin,3*,water,sword,5029,Primal_Crisis,His_Clever_Brother,Siren,Agito1,Xander,Dagger,Wand,Weapon,,<hp100 & hp60 & hit10 & hit15>,,attack:3086,force_strike:1397,skill_1:5978,skill_2:2713
-8618,_c_Zardin,3*,water,sword,4507,Primal_Crisis,His_Clever_Brother,Siren,Agito1,Xander,Dagger,Wand,Weapon,,!<hp100 & hp60 & hit10 & hit15>,,attack:2024,force_strike:915,skill_1:3912,skill_2:1765
+17111,Zardin,3*,water,sword,5029,Primal_Crisis,His_Clever_Brother,Siren,Agito1,Xander,Dagger,Wand,Gala_Elisanne,Ranzal,<hp100 & hp60 & hit10 & hit15 & buff all team>,50% poison uptime,attack:2930,force_strike:1304,skill_1:5506,skill_2:2197,skill_4:2675,s4_poison:496,team_buff:1999
+9951,_c_Zardin,3*,water,sword,4507,Primal_Crisis,His_Clever_Brother,Siren,Agito1,Xander,Dagger,Wand,Gala_Elisanne,Ranzal,!<hp100 & hp60 & hit10 & hit15 & buff all team>,50% poison uptime,attack:1938,force_strike:862,skill_1:3640,skill_2:1441,skill_4:1744,s4_poison:323

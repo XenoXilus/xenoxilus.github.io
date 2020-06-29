@@ -1,18 +1,18 @@
 -,60,_
-21945,Serena,4*,flame,sword,8602,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,<hit10 & hp50 & hit15 & always connect hits>,,attack:2658,force_strike:1956,skill_1:4503,skill_2:2360,dx:6226,ds:4239
-13381,_c_Serena,4*,flame,sword,7696,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,!<hit10 & hp50 & hit15 & always connect hits>,,attack:1663,force_strike:1224,skill_1:2766,skill_2:1414,dx:3786,ds:2525
+23627,Serena,4*,flame,sword,8602,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,Ranzal,<hit10 & hp50 & hit15 & always connect hits>,25% poison uptime,attack:2624,force_strike:1934,skill_1:4510,skill_2:1507,skill_4:2051,s4_poison:383,dx:6277,ds:4337
+14400,_c_Serena,4*,flame,sword,7696,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,Ranzal,!<hit10 & hp50 & hit15 & always connect hits>,25% poison uptime,attack:1640,force_strike:1208,skill_1:2770,skill_2:914,skill_4:1235,s4_poison:230,dx:3816,ds:2582
 -,60,affliction
-24455,Serena,4*,flame,sword,8621,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,<hit10 & hp50 & always connect hits>,,attack:2992,force_strike:2202,skill_1:5085,skill_2:2617,dx:6874,ds:4683
-17433,_c_Serena,4*,flame,sword,7713,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,!<hit10 & hp50 & always connect hits>,,attack:2167,force_strike:1594,skill_1:3604,skill_2:1843,dx:4933,ds:3290
+26314,Serena,4*,flame,sword,8621,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,Ranzal,<hit10 & hp50 & always connect hits>,25% poison uptime,attack:2955,force_strike:2177,skill_1:5093,skill_2:1672,skill_4:2261,s4_poison:422,dx:6933,ds:4798
+18761,_c_Serena,4*,flame,sword,7713,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,Ranzal,!<hit10 & hp50 & always connect hits>,25% poison uptime,attack:2137,force_strike:1574,skill_1:3610,skill_2:1191,skill_4:1609,s4_poison:300,dx:4972,ds:3365
 -,120,_
-22085,Serena,4*,flame,sword,8602,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,<hit10 & hp50 & hit15 & always connect hits>,,attack:3105,force_strike:2267,skill_1:5123,skill_2:2467,dx:6088,ds:3032
-13095,_c_Serena,4*,flame,sword,7696,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,!<hit10 & hp50 & hit15 & always connect hits>,,attack:1868,force_strike:1363,skill_1:3063,skill_2:1457,dx:3576,ds:1767
+25081,Serena,4*,flame,sword,8602,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,Ranzal,<hit10 & hp50 & hit15 & always connect hits>,42% poison uptime,attack:2861,force_strike:2113,skill_1:4733,skill_2:1873,skill_4:3832,s4_poison:549,dx:6086,ds:3031
+14847,_c_Serena,4*,flame,sword,7696,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,Ranzal,!<hit10 & hp50 & hit15 & always connect hits>,42% poison uptime,attack:1725,force_strike:1273,skill_1:2833,skill_2:1102,skill_4:2249,s4_poison:321,dx:3574,ds:1766
 -,120,affliction
-24520,Serena,4*,flame,sword,8621,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,<hit10 & hp50 & always connect hits>,,attack:3461,force_strike:2526,skill_1:5725,skill_2:2735,dx:6720,ds:3349
-17061,_c_Serena,4*,flame,sword,7713,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,!<hit10 & hp50 & always connect hits>,,attack:2433,force_strike:1776,skill_1:3990,skill_2:1898,dx:4659,ds:2302
+27822,Serena,4*,flame,sword,8621,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,Ranzal,<hit10 & hp50 & always connect hits>,42% poison uptime,attack:3191,force_strike:2356,skill_1:5293,skill_2:2075,skill_4:4231,s4_poison:606,dx:6717,ds:3348
+19344,_c_Serena,4*,flame,sword,7713,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,Ranzal,!<hit10 & hp50 & always connect hits>,42% poison uptime,attack:2247,force_strike:1658,skill_1:3691,skill_2:1436,skill_4:2931,s4_poison:418,dx:4657,ds:2301
 -,180,_
-20932,Serena,4*,flame,sword,8602,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,<hit10 & hp50 & hit15 & always connect hits>,,attack:3507,force_strike:2588,skill_1:5842,skill_2:2912,dx:4059,ds:2021
-12322,_c_Serena,4*,flame,sword,7696,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,!<hit10 & hp50 & hit15 & always connect hits>,,attack:2077,force_strike:1532,skill_1:3446,skill_2:1702,dx:2384,ds:1178
+23393,Serena,4*,flame,sword,8602,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,Ranzal,<hit10 & hp50 & hit15 & always connect hits>,42% poison uptime,attack:3295,force_strike:2417,skill_1:5334,skill_2:2556,skill_4:3118,s4_poison:582,dx:4062,ds:2024
+13761,_c_Serena,4*,flame,sword,7696,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,Ranzal,!<hit10 & hp50 & hit15 & always connect hits>,42% poison uptime,attack:1953,force_strike:1432,skill_1:3151,skill_2:1493,skill_4:1823,s4_poison:340,dx:2386,ds:1179
 -,180,affliction
-23220,Serena,4*,flame,sword,8621,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,<hit10 & hp50 & always connect hits>,,attack:3897,force_strike:2875,skill_1:6506,skill_2:3227,dx:4480,ds:2233
-16053,_c_Serena,4*,flame,sword,7713,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,,!<hit10 & hp50 & always connect hits>,,attack:2706,force_strike:1996,skill_1:4490,skill_2:2218,dx:3106,ds:1534
+25934,Serena,4*,flame,sword,8621,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,Ranzal,<hit10 & hp50 & always connect hits>,42% poison uptime,attack:3662,force_strike:2686,skill_1:5943,skill_2:2831,skill_4:3445,s4_poison:644,dx:4484,ds:2236
+17929,_c_Serena,4*,flame,sword,7713,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Yuya,Marth,Weapon,Ranzal,!<hit10 & hp50 & always connect hits>,42% poison uptime,attack:2544,force_strike:1866,skill_1:4105,skill_2:1945,skill_4:2376,s4_poison:444,dx:3108,ds:1537

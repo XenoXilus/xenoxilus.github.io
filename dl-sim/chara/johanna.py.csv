@@ -1,18 +1,18 @@
 -,60,_
-11791,Johanna,3*,wind,axe,5781,Kung_Fu_Masters,Crystalian_Envoy,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,<hit10 & hp70>,,attack:2506,force_strike:272,skill_1:4191,skill_2:1709,dx:1670,ds:1440
-9714,_c_Johanna,3*,wind,axe,5216,Kung_Fu_Masters,Crystalian_Envoy,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<hit10 & hp70>,,attack:2084,force_strike:227,skill_1:3438,skill_2:1401,dx:1377,ds:1185
+13085,Johanna,3*,wind,axe,5781,Kung_Fu_Masters,Crystalian_Envoy,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hit10 & hp70>,,attack:2572,force_strike:197,skill_1:3853,skill_2:1710,skill_4:1467,team_buff:172,dx:1671,ds:1441
+10809,_c_Johanna,3*,wind,axe,5216,Kung_Fu_Masters,Crystalian_Envoy,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hit10 & hp70>,,attack:2138,force_strike:165,skill_1:3159,skill_2:1402,skill_4:1206,team_buff:172,dx:1378,ds:1185
 -,60,affliction
-14391,Johanna,3*,wind,axe,5880,Kung_Fu_Masters,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,<hit10 & hp100>,,attack:3059,force_strike:332,skill_1:5116,skill_2:2086,dx:2038,ds:1758
-11680,_c_Johanna,3*,wind,axe,5227,Kung_Fu_Masters,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<hit10 & hp100>,,attack:2506,force_strike:273,skill_1:4134,skill_2:1685,dx:1656,ds:1424
+17007,Johanna,3*,wind,axe,5880,Kung_Fu_Masters,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hit10 & hp100>,,attack:3139,force_strike:240,skill_1:4703,skill_2:2087,skill_4:2865,team_buff:172,dx:2039,ds:1759
+13833,_c_Johanna,3*,wind,axe,5227,Kung_Fu_Masters,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hit10 & hp100>,,attack:2571,force_strike:199,skill_1:3799,skill_2:1686,skill_4:2321,team_buff:172,dx:1656,ds:1425
 -,120,_
-13328,Johanna,3*,wind,axe,5781,Kung_Fu_Masters,Crystalian_Envoy,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,<hit10 & hp70>,,attack:2990,force_strike:325,skill_1:5305,skill_2:2185,dx:1005,ds:1514
-10968,_c_Johanna,3*,wind,axe,5216,Kung_Fu_Masters,Crystalian_Envoy,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<hit10 & hp70>,,attack:2468,force_strike:268,skill_1:4357,skill_2:1793,dx:829,ds:1249
+14071,Johanna,3*,wind,axe,5781,Kung_Fu_Masters,Crystalian_Envoy,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hit10 & hp70>,,attack:2897,force_strike:212,skill_1:4855,skill_2:1760,skill_4:1563,team_buff:262,dx:1005,ds:1513
+11624,_c_Johanna,3*,wind,axe,5216,Kung_Fu_Masters,Crystalian_Envoy,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hit10 & hp70>,,attack:2392,force_strike:176,skill_1:3987,skill_2:1443,skill_4:1283,team_buff:262,dx:829,ds:1249
 -,120,affliction
-16267,Johanna,3*,wind,axe,5880,Kung_Fu_Masters,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,<hit10 & hp100>,,attack:3650,force_strike:396,skill_1:6475,skill_2:2667,dx:1227,ds:1848
-13189,_c_Johanna,3*,wind,axe,5227,Kung_Fu_Masters,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<hit10 & hp100>,,attack:2968,force_strike:323,skill_1:5239,skill_2:2156,dx:997,ds:1502
+18261,Johanna,3*,wind,axe,5880,Kung_Fu_Masters,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hit10 & hp100>,,attack:3536,force_strike:259,skill_1:5925,skill_2:2148,skill_4:3053,team_buff:262,dx:1226,ds:1847
+14850,_c_Johanna,3*,wind,axe,5227,Kung_Fu_Masters,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hit10 & hp100>,,attack:2876,force_strike:212,skill_1:4794,skill_2:1735,skill_4:2469,team_buff:262,dx:997,ds:1501
 -,180,_
-12677,Johanna,3*,wind,axe,5781,Kung_Fu_Masters,Crystalian_Envoy,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,<hit10 & hp70>,,attack:3168,force_strike:342,skill_1:5007,skill_2:2476,dx:671,ds:1010
-10425,_c_Johanna,3*,wind,axe,5216,Kung_Fu_Masters,Crystalian_Envoy,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<hit10 & hp70>,,attack:2610,force_strike:283,skill_1:4109,skill_2:2034,dx:553,ds:833
+14031,Johanna,3*,wind,axe,5781,Kung_Fu_Masters,Crystalian_Envoy,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hit10 & hp70>,,attack:3033,force_strike:296,skill_1:4754,skill_2:2200,skill_4:1732,team_buff:292,dx:683,ds:1037
+11589,_c_Johanna,3*,wind,axe,5216,Kung_Fu_Masters,Crystalian_Envoy,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hit10 & hp70>,,attack:2499,force_strike:244,skill_1:3902,skill_2:1807,skill_4:1421,team_buff:292,dx:564,ds:856
 -,180,affliction
-15472,Johanna,3*,wind,axe,5880,Kung_Fu_Masters,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,<hit10 & hp100>,,attack:3867,force_strike:418,skill_1:6111,skill_2:3022,dx:819,ds:1233
-12535,_c_Johanna,3*,wind,axe,5227,Kung_Fu_Masters,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,,!<hit10 & hp100>,,attack:3138,force_strike:340,skill_1:4941,skill_2:2446,dx:665,ds:1002
+18330,Johanna,3*,wind,axe,5880,Kung_Fu_Masters,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hit10 & hp100>,,attack:3702,force_strike:361,skill_1:5803,skill_2:2685,skill_4:3383,team_buff:292,dx:834,ds:1266
+14901,_c_Johanna,3*,wind,axe,5227,Kung_Fu_Masters,The_Fires_of_Hate,Vayu,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hit10 & hp100>,,attack:3005,force_strike:294,skill_1:4692,skill_2:2173,skill_4:2734,team_buff:292,dx:678,ds:1029

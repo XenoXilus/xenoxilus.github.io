@@ -1,18 +1,18 @@
 -,60,_
-15203,Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,,<hp=20.0%>,10% stun uptime,attack:0,force_strike:6232,skill_1:8970
-11559,_c_Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,,!<hp=20.0%>,10% stun uptime,attack:0,force_strike:6232,skill_1:5326
+17229,Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,Veronica,<hp=20.0%>,10% stun uptime,attack:0,force_strike:6208,skill_1:8936,skill_4:2084
+13093,_c_Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,Veronica,!<hp=20.0%>,10% stun uptime,attack:0,force_strike:6208,skill_1:5306,skill_4:1579
 -,60,affliction
-22640,Zhu_Bajie,5*,light,axe,7270,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,,<hp=20.0%>,10% stun uptime,attack:0,force_strike:11649,skill_1:10990
-17989,_c_Zhu_Bajie,5*,light,axe,6609,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,,!<hp=20.0%>,10% stun uptime,attack:0,force_strike:11477,skill_1:6511
+25091,Zhu_Bajie,5*,light,axe,7270,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,Veronica,<hp=20.0%>,10% stun uptime,attack:0,force_strike:11604,skill_1:10948,skill_4:2538
+19843,_c_Zhu_Bajie,5*,light,axe,6609,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,Veronica,!<hp=20.0%>,10% stun uptime,attack:0,force_strike:11433,skill_1:6486,skill_4:1922
 -,120,_
-15954,Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,,<hp=20.0%>,,attack:0,force_strike:6583,skill_1:9370
-12061,_c_Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,,!<hp=20.0%>,,attack:0,force_strike:6583,skill_1:5477
+18260,Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,Veronica,<hp=20.0%>,,attack:0,force_strike:6278,skill_1:9356,skill_4:2625
+13737,_c_Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,Veronica,!<hp=20.0%>,,attack:0,force_strike:6278,skill_1:5469,skill_4:1989
 -,120,affliction
-23589,Zhu_Bajie,5*,light,axe,7270,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,,<hp=20.0%>,,attack:0,force_strike:12144,skill_1:11444
-18741,_c_Zhu_Bajie,5*,light,axe,6609,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,,!<hp=20.0%>,,attack:0,force_strike:12058,skill_1:6683
+26211,Zhu_Bajie,5*,light,axe,7270,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,Veronica,<hp=20.0%>,,attack:0,force_strike:11586,skill_1:11426,skill_4:3197
+20596,_c_Zhu_Bajie,5*,light,axe,6609,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,Veronica,!<hp=20.0%>,,attack:0,force_strike:11500,skill_1:6673,skill_4:2422
 -,180,_
-16357,Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,,<hp=20.0%>,,attack:0,force_strike:6584,skill_1:9773
-12267,_c_Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,,!<hp=20.0%>,,attack:0,force_strike:6584,skill_1:5682
+18644,Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,Veronica,<hp=20.0%>,,attack:0,force_strike:6321,skill_1:9511,skill_4:2811
+13984,_c_Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,Veronica,!<hp=20.0%>,,attack:0,force_strike:6321,skill_1:5532,skill_4:2130
 -,180,affliction
-24020,Zhu_Bajie,5*,light,axe,7270,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,,<hp=20.0%>,,attack:0,force_strike:12096,skill_1:11923
-18968,_c_Zhu_Bajie,5*,light,axe,6609,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,,!<hp=20.0%>,,attack:0,force_strike:12039,skill_1:6928
+26646,Zhu_Bajie,5*,light,axe,7270,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,Veronica,<hp=20.0%>,,attack:0,force_strike:11618,skill_1:11604,skill_4:3423
+20900,_c_Zhu_Bajie,5*,light,axe,6609,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,Veronica,!<hp=20.0%>,,attack:0,force_strike:11560,skill_1:6745,skill_4:2593

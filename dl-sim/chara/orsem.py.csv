@@ -1,18 +1,18 @@
 -,60,_
-13047,Orsem,4*,water,dagger,5579,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Tiki,Xander,Yurius,Weapon,,<hit15 & hp70 & hit10>,,attack:1894,force_strike:461,skill_1:1755,skill_2:517,dx:8418
-8098,_c_Orsem,4*,water,dagger,5579,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Tiki,Xander,Yurius,Weapon,,!<hit15 & hp70 & hit10>,,attack:1224,force_strike:295,skill_1:1070,skill_2:318,dx:5188
+12344,Orsem,4*,water,dagger,5579,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Tiki,Xander,Yurius,Gala_Elisanne,Ranzal,<hit15 & hp70 & hit10 & buff all team>,,attack:1658,force_strike:489,skill_1:1632,skill_2:465,dx:8098
+7437,_c_Orsem,4*,water,dagger,5579,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Tiki,Xander,Yurius,Gala_Elisanne,Ranzal,!<hit15 & hp70 & hit10 & buff all team>,,attack:1055,force_strike:305,skill_1:972,skill_2:277,dx:4825
 -,60,affliction
-13634,Orsem,4*,water,dagger,5562,Twinfold_Bonds,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Yurius,Weapon,,<hit15 & hp70 & hit10>,,attack:1787,force_strike:470,skill_1:2376,skill_2:520,dx:8479
-9530,_c_Orsem,4*,water,dagger,5562,Twinfold_Bonds,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Yurius,Weapon,,!<hit15 & hp70 & hit10>,,attack:1291,force_strike:337,skill_1:1645,skill_2:362,dx:5893
+12519,Orsem,4*,water,dagger,5562,Twinfold_Bonds,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Yurius,Gala_Elisanne,Ranzal,<hit15 & hp70 & hit10 & buff all team>,,attack:1634,force_strike:503,skill_1:2212,skill_2:472,dx:7695
+8621,_c_Orsem,4*,water,dagger,5562,Twinfold_Bonds,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Yurius,Gala_Elisanne,Ranzal,!<hit15 & hp70 & hit10 & buff all team>,,attack:1173,force_strike:355,skill_1:1511,skill_2:323,dx:5257
 -,120,_
-12718,Orsem,4*,water,dagger,5579,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Tiki,Xander,Yurius,Weapon,,<hit15 & hp70 & hit10>,,attack:2241,force_strike:589,skill_1:2707,skill_2:1040,dx:6138
-7867,_c_Orsem,4*,water,dagger,5579,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Tiki,Xander,Yurius,Weapon,,!<hit15 & hp70 & hit10>,,attack:1409,force_strike:369,skill_1:1663,skill_2:641,dx:3783
+13219,Orsem,4*,water,dagger,5579,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Tiki,Xander,Yurius,Gala_Elisanne,Ranzal,<hit15 & hp70 & hit10 & buff all team>,12% poison uptime,attack:2075,force_strike:540,skill_1:2171,skill_2:989,skill_4:567,s4_poison:106,team_buff:742,dx:6026
+7505,_c_Orsem,4*,water,dagger,5579,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Tiki,Xander,Yurius,Gala_Elisanne,Ranzal,!<hit15 & hp70 & hit10 & buff all team>,12% poison uptime,attack:1272,force_strike:329,skill_1:1294,skill_2:594,skill_4:338,s4_poison:63,dx:3613
 -,120,affliction
-13009,Orsem,4*,water,dagger,5562,Twinfold_Bonds,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Yurius,Weapon,,<hit15 & hp70 & hit10>,,attack:2300,force_strike:605,skill_1:2766,skill_2:1062,dx:6273
-9069,_c_Orsem,4*,water,dagger,5562,Twinfold_Bonds,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Yurius,Weapon,,!<hit15 & hp70 & hit10>,,attack:1624,force_strike:426,skill_1:1919,skill_2:738,dx:4360
+13927,Orsem,4*,water,dagger,5562,Twinfold_Bonds,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Yurius,Gala_Elisanne,Ranzal,<hit15 & hp70 & hit10 & buff all team>,16% poison uptime,attack:2047,force_strike:560,skill_1:2596,skill_2:718,skill_4:1172,s4_poison:131,team_buff:749,dx:5950
+9074,_c_Orsem,4*,water,dagger,5562,Twinfold_Bonds,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Yurius,Gala_Elisanne,Ranzal,!<hit15 & hp70 & hit10 & buff all team>,16% poison uptime,attack:1430,force_strike:389,skill_1:1780,skill_2:490,skill_4:801,s4_poison:89,dx:4091
 -,180,_
-12874,Orsem,4*,water,dagger,5579,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Tiki,Xander,Yurius,Weapon,,<hit15 & hp70 & hit10>,,attack:2337,force_strike:631,skill_1:2817,skill_2:1039,dx:6048
-7954,_c_Orsem,4*,water,dagger,5579,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Tiki,Xander,Yurius,Weapon,,!<hit15 & hp70 & hit10>,,attack:1459,force_strike:393,skill_1:1732,skill_2:640,dx:3728
+14077,Orsem,4*,water,dagger,5579,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Tiki,Xander,Yurius,Gala_Elisanne,Ranzal,<hit15 & hp70 & hit10 & buff all team>,17% poison uptime,attack:2162,force_strike:535,skill_1:2424,skill_2:822,skill_4:1147,s4_poison:142,team_buff:999,dx:5840
+7861,_c_Orsem,4*,water,dagger,5579,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Tiki,Xander,Yurius,Gala_Elisanne,Ranzal,!<hit15 & hp70 & hit10 & buff all team>,17% poison uptime,attack:1314,force_strike:324,skill_1:1448,skill_2:493,skill_4:683,s4_poison:85,dx:3510
 -,180,affliction
-13213,Orsem,4*,water,dagger,5562,Twinfold_Bonds,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Yurius,Weapon,,<hit15 & hp70 & hit10>,,attack:2356,force_strike:619,skill_1:2861,skill_2:1231,dx:6144
-9202,_c_Orsem,4*,water,dagger,5562,Twinfold_Bonds,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Yurius,Weapon,,!<hit15 & hp70 & hit10>,,attack:1654,force_strike:434,skill_1:1986,skill_2:856,dx:4270
+14501,Orsem,4*,water,dagger,5562,Twinfold_Bonds,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Yurius,Gala_Elisanne,Ranzal,<hit15 & hp70 & hit10 & buff all team>,25% poison uptime,attack:2163,force_strike:507,skill_1:2692,skill_2:791,skill_4:1265,s4_poison:236,team_buff:991,dx:5851
+9307,_c_Orsem,4*,water,dagger,5562,Twinfold_Bonds,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Yurius,Gala_Elisanne,Ranzal,!<hit15 & hp70 & hit10 & buff all team>,25% poison uptime,attack:1502,force_strike:351,skill_1:1847,skill_2:541,skill_4:874,s4_poison:163,dx:4026

@@ -1,18 +1,18 @@
 -,60,_
-20239,Cassandra,5*,shadow,wand,8631,Candy_Couriers,The_Plaguebringer,Fatalis,Agito1,Curran,Berserker,Blade,Weapon,,<0 poison res & hp=40.0%>,85% poison uptime,attack:6516,skill_1:6617,s1_poison:1528,skill_2:5576
-11306,_c_Cassandra,5*,shadow,wand,8631,Candy_Couriers,The_Plaguebringer,Fatalis,Agito1,Curran,Berserker,Blade,Weapon,,!<0 poison res & hp=40.0%>,,attack:4312,skill_1:4373,s1_poison:0,skill_2:2619
+29171,Cassandra,5*,shadow,wand,4795,Candy_Couriers,The_Plaguebringer,Gala_Cat_Sith,Agito1,Curran,Berserker,Blade,Weapon,Veronica,<0 poison res & always connect hits & hp=40.0%>,85% poison uptime,attack:3217,skill_1:8482,s1_poison:1996,skill_2:6477,skill_4:3084,dx:1613,ds:4300
+15996,_c_Cassandra,5*,shadow,wand,4795,Candy_Couriers,The_Plaguebringer,Gala_Cat_Sith,Agito1,Curran,Berserker,Blade,Weapon,Veronica,!<0 poison res & always connect hits & hp=40.0%>,,attack:2138,skill_1:5645,s1_poison:0,skill_2:3042,skill_4:1391,dx:1030,ds:2747
 -,60,affliction
-20762,Cassandra,5*,shadow,wand,8631,Candy_Couriers,The_Plaguebringer,Fatalis,Agito1,Curran,Berserker,Blade,Weapon,,<0 poison res & hp=40.0%>,,attack:6750,skill_1:6846,s1_poison:1589,skill_2:5576
-14133,_c_Cassandra,5*,shadow,wand,8631,Candy_Couriers,The_Plaguebringer,Fatalis,Agito1,Curran,Berserker,Blade,Weapon,,!<0 poison res & hp=40.0%>,,attack:5391,skill_1:5467,s1_poison:0,skill_2:3274
+29749,Cassandra,5*,shadow,wand,4795,Candy_Couriers,The_Plaguebringer,Gala_Cat_Sith,Agito1,Curran,Berserker,Blade,Weapon,Veronica,<0 poison res & always connect hits & hp=40.0%>,,attack:3346,skill_1:8835,s1_poison:2091,skill_2:6477,skill_4:3084,dx:1613,ds:4300
+20343,_c_Cassandra,5*,shadow,wand,4795,Candy_Couriers,The_Plaguebringer,Gala_Cat_Sith,Agito1,Curran,Berserker,Blade,Weapon,Veronica,!<0 poison res & always connect hits & hp=40.0%>,,attack:2672,skill_1:7056,s1_poison:0,skill_2:3803,skill_4:2087,dx:1288,ds:3434
 -,120,_
-20962,Cassandra,5*,shadow,wand,8631,Candy_Couriers,The_Plaguebringer,Fatalis,Agito1,Curran,Berserker,Blade,Weapon,,<0 poison res & hp=40.0%>,88% poison uptime,attack:6679,skill_1:7152,s1_poison:1609,skill_2:5521
-11736,_c_Cassandra,5*,shadow,wand,8631,Candy_Couriers,The_Plaguebringer,Fatalis,Agito1,Curran,Berserker,Blade,Weapon,,!<0 poison res & hp=40.0%>,,attack:4384,skill_1:4734,s1_poison:0,skill_2:2617
+30700,Cassandra,5*,shadow,wand,4795,Candy_Couriers,The_Plaguebringer,Gala_Cat_Sith,Agito1,Curran,Berserker,Blade,Weapon,Veronica,<0 poison res & always connect hits & hp=40.0%>,87% poison uptime,attack:3393,skill_1:10102,s1_poison:2211,skill_2:7483,skill_4:4608,dx:791,ds:2108
+16526,_c_Cassandra,5*,shadow,wand,4795,Candy_Couriers,The_Plaguebringer,Gala_Cat_Sith,Agito1,Curran,Berserker,Blade,Weapon,Veronica,!<0 poison res & always connect hits & hp=40.0%>,,attack:2238,skill_1:6768,s1_poison:0,skill_2:3546,skill_4:2085,dx:515,ds:1372
 -,120,affliction
-21509,Cassandra,5*,shadow,wand,8631,Candy_Couriers,The_Plaguebringer,Fatalis,Agito1,Curran,Berserker,Blade,Weapon,,<0 poison res & hp=40.0%>,,attack:6862,skill_1:7410,s1_poison:1664,skill_2:5571
-14670,_c_Cassandra,5*,shadow,wand,8631,Candy_Couriers,The_Plaguebringer,Fatalis,Agito1,Curran,Berserker,Blade,Weapon,,!<0 poison res & hp=40.0%>,,attack:5480,skill_1:5918,s1_poison:0,skill_2:3271
+31536,Cassandra,5*,shadow,wand,4795,Candy_Couriers,The_Plaguebringer,Gala_Cat_Sith,Agito1,Curran,Berserker,Blade,Weapon,Veronica,<0 poison res & always connect hits & hp=40.0%>,,attack:3503,skill_1:10593,s1_poison:2312,skill_2:7550,skill_4:4621,dx:806,ds:2148
+21179,_c_Cassandra,5*,shadow,wand,4795,Candy_Couriers,The_Plaguebringer,Gala_Cat_Sith,Agito1,Curran,Berserker,Blade,Weapon,Veronica,!<0 poison res & always connect hits & hp=40.0%>,,attack:2797,skill_1:8460,s1_poison:0,skill_2:4433,skill_4:3128,dx:643,ds:1715
 -,180,_
-21156,Cassandra,5*,shadow,wand,7847,Candy_Couriers,The_Plaguebringer,Fatalis,Agito1,Curran,Berserker,Delphi,Weapon,,<0 poison res & hp=40.0%>,94% poison uptime,attack:6624,skill_1:7298,s1_poison:1819,skill_2:5412
-11574,_c_Cassandra,5*,shadow,wand,7847,Candy_Couriers,The_Plaguebringer,Fatalis,Agito1,Curran,Berserker,Delphi,Weapon,,!<0 poison res & hp=40.0%>,,attack:4289,skill_1:4733,s1_poison:0,skill_2:2551
+31956,Cassandra,5*,shadow,wand,4359,Candy_Couriers,The_Plaguebringer,Gala_Cat_Sith,Agito1,Curran,Berserker,Delphi,Weapon,Veronica,<0 poison res & always connect hits & hp=40.0%>,95% poison uptime,attack:3429,skill_1:10223,s1_poison:2627,skill_2:7729,skill_4:6019,dx:525,ds:1400
+14945,_c_Cassandra,5*,shadow,wand,4359,Candy_Couriers,The_Plaguebringer,Gala_Cat_Sith,Agito1,Curran,Berserker,Delphi,Weapon,Veronica,!<0 poison res & always connect hits & hp=40.0%>,,attack:2220,skill_1:6143,s1_poison:0,skill_2:3207,skill_4:2718,dx:335,ds:319
 -,180,affliction
-21398,Cassandra,5*,shadow,wand,7847,Candy_Couriers,The_Plaguebringer,Fatalis,Agito1,Curran,Berserker,Delphi,Weapon,,<0 poison res & hp=40.0%>,,attack:6714,skill_1:7408,s1_poison:1844,skill_2:5430
-14468,_c_Cassandra,5*,shadow,wand,7847,Candy_Couriers,The_Plaguebringer,Fatalis,Agito1,Curran,Berserker,Delphi,Weapon,,!<0 poison res & hp=40.0%>,,attack:5362,skill_1:5916,s1_poison:0,skill_2:3188
+32173,Cassandra,5*,shadow,wand,4359,Candy_Couriers,The_Plaguebringer,Gala_Cat_Sith,Agito1,Curran,Berserker,Delphi,Weapon,Veronica,<0 poison res & always connect hits & hp=40.0%>,,attack:3474,skill_1:10355,s1_poison:2660,skill_2:7731,skill_4:6024,dx:525,ds:1400
+19360,_c_Cassandra,5*,shadow,wand,4359,Candy_Couriers,The_Plaguebringer,Gala_Cat_Sith,Agito1,Curran,Berserker,Delphi,Weapon,Veronica,!<0 poison res & always connect hits & hp=40.0%>,,attack:2775,skill_1:7679,s1_poison:0,skill_2:4009,skill_4:4077,dx:419,ds:399

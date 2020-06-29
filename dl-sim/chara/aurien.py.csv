@@ -1,18 +1,18 @@
 -,60,_
-16215,Aurien,3*,flame,staff,8696,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1; 39% burn uptime,attack:5747,skill_2:1044,s2_burn:435,dx:6317,ds:2670
-8989,_c_Aurien,3*,flame,staff,7781,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1,attack:3637,skill_2:516,s2_burn:0,dx:3745,ds:1088
+16993,Aurien,3*,flame,staff,8696,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1; 50% poison uptime; 16% burn uptime,attack:5286,skill_2:522,s2_burn:149,skill_4:2892,s4_poison:540,dx:5389,ds:2213
+10251,_c_Aurien,3*,flame,staff,7781,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1; 50% poison uptime,attack:3461,skill_2:258,s2_burn:0,skill_4:1431,s4_poison:267,dx:3744,ds:1088
 -,60,affliction
-19044,Aurien,3*,flame,staff,8696,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1,attack:6812,skill_2:1357,s2_burn:565,dx:7262,ds:3046
-11686,_c_Aurien,3*,flame,staff,7781,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1,attack:4729,skill_2:671,s2_burn:0,dx:4868,ds:1415
+21637,Aurien,3*,flame,staff,8696,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1; 50% poison uptime,attack:6417,skill_2:678,s2_burn:193,skill_4:3759,s4_poison:702,dx:7005,ds:2878
+13327,_c_Aurien,3*,flame,staff,7781,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1; 50% poison uptime,attack:4499,skill_2:335,s2_burn:0,skill_4:1860,s4_poison:347,dx:4867,ds:1415
 -,120,_
-14918,Aurien,3*,flame,staff,8696,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1; 37% burn uptime,attack:6233,skill_2:975,s2_burn:387,dx:4923,ds:2397
-8638,_c_Aurien,3*,flame,staff,7781,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1,attack:3729,skill_2:479,s2_burn:0,dx:3339,ds:1088
+17355,Aurien,3*,flame,staff,8696,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1; 50% poison uptime; 29% burn uptime,attack:5678,skill_2:715,s2_burn:291,skill_4:2705,s4_poison:505,dx:5068,ds:2389
+9898,_c_Aurien,3*,flame,staff,7781,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1; 50% poison uptime,attack:3536,skill_2:350,s2_burn:0,skill_4:1330,s4_poison:248,dx:3341,ds:1089
 -,120,affliction
-18165,Aurien,3*,flame,staff,8696,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1,attack:7176,skill_2:1268,s2_burn:503,dx:6300,ds:2915
-11230,_c_Aurien,3*,flame,staff,7781,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1,attack:4848,skill_2:623,s2_burn:0,dx:4341,ds:1415
+21497,Aurien,3*,flame,staff,8696,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1; 50% poison uptime,attack:6746,skill_2:930,s2_burn:379,skill_4:3517,s4_poison:657,dx:6351,ds:2915
+12867,_c_Aurien,3*,flame,staff,7781,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1; 50% poison uptime,attack:4597,skill_2:456,s2_burn:0,skill_4:1729,s4_poison:323,dx:4344,ds:1416
 -,180,_
-13661,Aurien,3*,flame,staff,8696,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1; 39% burn uptime,attack:7011,skill_2:1150,s2_burn:401,dx:3603,ds:1494
-7942,_c_Aurien,3*,flame,staff,7781,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1,attack:4152,skill_2:566,s2_burn:0,dx:2497,ds:726
+16799,Aurien,3*,flame,staff,8696,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1; 54% poison uptime; 31% burn uptime,attack:6206,skill_2:951,s2_burn:301,skill_4:3179,s4_poison:525,dx:3938,ds:1696
+9354,_c_Aurien,3*,flame,staff,7781,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1; 54% poison uptime,attack:3848,skill_2:466,s2_burn:0,skill_4:1564,s4_poison:258,dx:2491,ds:724
 -,180,affliction
-16687,Aurien,3*,flame,staff,8696,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1,attack:8042,skill_2:1495,s2_burn:522,dx:4683,ds:1942
-10324,_c_Aurien,3*,flame,staff,7781,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,,!<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1,attack:5398,skill_2:736,s2_burn:0,dx:3246,ds:943
+20540,Aurien,3*,flame,staff,8696,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1; 54% poison uptime,attack:7387,skill_2:1236,s2_burn:392,skill_4:4132,s4_poison:682,dx:4748,ds:1960
+12160,_c_Aurien,3*,flame,staff,7781,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<0 burn res & hp70 & hit10 & hp50 & hit15>,no s1; 54% poison uptime,attack:5003,skill_2:606,s2_burn:0,skill_4:2034,s4_poison:335,dx:3238,ds:941

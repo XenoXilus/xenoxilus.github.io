@@ -1,18 +1,18 @@
 -,60,_
-11617,Norwin,4*,shadow,bow,5067,Resounding_Rendition,Breakfast_at_Valerios,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<80 blind res & hp70 & hit15>,10% blind uptime,attack:1912,skill_1:2735,skill_2:1803,team_buff:231,team_energy:416,dx:3424,ds:1092
-8660,_c_Norwin,4*,shadow,bow,5067,Resounding_Rendition,Breakfast_at_Valerios,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<80 blind res & hp70 & hit15>,,attack:1457,skill_1:2087,skill_2:1284,team_energy:416,dx:2600,ds:812
+14561,Norwin,4*,shadow,bow,4222,Resounding_Rendition,Breakfast_at_Valerios,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,<80 blind res & always connect hits & hp70 & hit15>,10% blind uptime,attack:1525,skill_1:3858,skill_2:2477,skill_4:1150,team_buff:418,dx:3764,ds:1365
+10490,_c_Norwin,4*,shadow,bow,4222,Resounding_Rendition,Breakfast_at_Valerios,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,!<80 blind res & always connect hits & hp70 & hit15>,,attack:1125,skill_1:2867,skill_2:1640,skill_4:823,team_buff:174,dx:2826,ds:1030
 -,60,affliction
-12773,Norwin,4*,shadow,bow,5700,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<80 blind res & hp70 & hp100>,10% blind uptime,attack:2130,skill_1:3023,skill_2:1985,team_buff:231,team_energy:416,dx:3781,ds:1203
-10308,_c_Norwin,4*,shadow,bow,5067,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<80 blind res & hp70 & hp100>,,attack:1749,skill_1:2505,skill_2:1541,team_energy:416,dx:3120,ds:975
+16708,Norwin,4*,shadow,bow,4856,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,<80 blind res & always connect hits & hp70 & hp100>,10% blind uptime,attack:1692,skill_1:4239,skill_2:2705,skill_4:2012,team_buff:418,dx:4137,ds:1501
+13146,_c_Norwin,4*,shadow,bow,4222,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,!<80 blind res & always connect hits & hp70 & hp100>,,attack:1350,skill_1:3441,skill_2:1968,skill_4:1581,team_buff:174,dx:3391,ds:1237
 -,120,_
-11963,Norwin,4*,shadow,bow,5067,Resounding_Rendition,Breakfast_at_Valerios,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<80 blind res & hp70 & hit15>,,attack:2051,skill_1:3314,skill_2:1726,team_buff:223,team_energy:412,dx:3169,ds:1065
-8969,_c_Norwin,4*,shadow,bow,5067,Resounding_Rendition,Breakfast_at_Valerios,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<80 blind res & hp70 & hit15>,,attack:1555,skill_1:2528,skill_2:1227,team_energy:412,dx:2438,ds:805
+15275,Norwin,4*,shadow,bow,4222,Resounding_Rendition,Breakfast_at_Valerios,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,<80 blind res & always connect hits & hp70 & hit15>,,attack:1667,skill_1:4313,skill_2:2442,skill_4:1706,team_buff:479,dx:3331,ds:1333
+11112,_c_Norwin,4*,shadow,bow,4222,Resounding_Rendition,Breakfast_at_Valerios,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,!<80 blind res & always connect hits & hp70 & hit15>,,attack:1228,skill_1:3205,skill_2:1657,skill_4:1237,team_buff:262,dx:2512,ds:1006
 -,120,affliction
-13152,Norwin,4*,shadow,bow,5700,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<80 blind res & hp70 & hp100>,,attack:2273,skill_1:3661,skill_2:1901,team_buff:223,team_energy:412,dx:3504,ds:1175
-10680,_c_Norwin,4*,shadow,bow,5067,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<80 blind res & hp70 & hp100>,,attack:1867,skill_1:3034,skill_2:1473,team_energy:412,dx:2926,ds:966
+17846,Norwin,4*,shadow,bow,4856,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,<80 blind res & always connect hits & hp70 & hp100>,,attack:1838,skill_1:4737,skill_2:2670,skill_4:2988,team_buff:479,dx:3664,ds:1466
+14173,_c_Norwin,4*,shadow,bow,4222,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,!<80 blind res & always connect hits & hp70 & hp100>,,attack:1473,skill_1:3846,skill_2:1989,skill_4:2376,team_buff:262,dx:3015,ds:1208
 -,180,_
-11090,Norwin,4*,shadow,bow,5067,Resounding_Rendition,Breakfast_at_Valerios,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<80 blind res & hp70 & hit15>,,attack:2227,skill_1:3534,skill_2:2028,team_buff:188,team_energy:277,dx:2122,ds:710
-8321,_c_Norwin,4*,shadow,bow,5067,Resounding_Rendition,Breakfast_at_Valerios,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<80 blind res & hp70 & hit15>,,attack:1694,skill_1:2707,skill_2:1459,team_energy:277,dx:1641,ds:541
+15060,Norwin,4*,shadow,bow,4222,Resounding_Rendition,Breakfast_at_Valerios,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,<80 blind res & always connect hits & hp70 & hit15>,,attack:1811,skill_1:4705,skill_2:2677,skill_4:2248,team_buff:496,dx:2225,ds:894
+9610,_c_Norwin,4*,shadow,bow,4222,Resounding_Rendition,Breakfast_at_Valerios,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,!<80 blind res & always connect hits & hp70 & hit15>,,attack:1339,skill_1:3123,skill_2:1623,skill_4:1297,team_buff:309,dx:1675,ds:239
 -,180,affliction
-12206,Norwin,4*,shadow,bow,5700,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,<80 blind res & hp70 & hp100>,,attack:2465,skill_1:3906,skill_2:2235,team_buff:188,team_energy:277,dx:2347,ds:784
-9930,_c_Norwin,4*,shadow,bow,5067,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Ieyasu,Wand,Tiki,Weapon,,!<80 blind res & hp70 & hp100>,,attack:2033,skill_1:3248,skill_2:1750,team_energy:277,dx:1969,ds:650
+17964,Norwin,4*,shadow,bow,4856,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,<80 blind res & always connect hits & hp70 & hp100>,,attack:1994,skill_1:5168,skill_2:2930,skill_4:3944,team_buff:496,dx:2446,ds:983
+12403,_c_Norwin,4*,shadow,bow,4222,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Tiki,Weapon,Curran,!<80 blind res & always connect hits & hp70 & hp100>,,attack:1607,skill_1:3747,skill_2:1948,skill_4:2490,team_buff:309,dx:2010,ds:287

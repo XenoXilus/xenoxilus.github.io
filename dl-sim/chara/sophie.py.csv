@@ -1,18 +1,18 @@
 -,60,_
-10698,Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,,<0 poison res & maintain shield & hit10 & hit15>,no s1; 30% poison uptime,attack:4637,skill_2:735,s2_poison:154,dx:4541,ds:629
-6247,_c_Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,,!<0 poison res & maintain shield & hit10 & hit15>,no s1,attack:3122,skill_2:467,s2_poison:0,dx:2342,ds:315
+12259,Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,Curran,<0 poison res & maintain shield & hit10 & hit15>,no s1; 27% poison uptime,attack:4416,skill_2:776,s2_poison:163,skill_4:1178,team_buff:350,dx:4742,ds:631
+7307,_c_Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,Curran,!<0 poison res & maintain shield & hit10 & hit15>,no s1,attack:3023,skill_2:493,s2_poison:0,skill_4:748,team_buff:350,dx:2373,ds:316
 -,60,affliction
-11831,Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,,<0 poison res & maintain shield & hit10 & hit15>,no s1,attack:5489,skill_2:882,s2_poison:185,dx:4644,ds:629
-7496,_c_Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,,!<0 poison res & maintain shield & hit10 & hit15>,no s1,attack:3746,skill_2:560,s2_poison:0,dx:2810,ds:378
+14401,Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,Curran,<0 poison res & maintain shield & hit10 & hit15>,no s1,attack:5285,skill_2:931,s2_poison:195,skill_4:2262,team_buff:350,dx:4742,ds:631
+9237,_c_Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,Curran,!<0 poison res & maintain shield & hit10 & hit15>,no s1,attack:3628,skill_2:592,s2_poison:0,skill_4:1437,team_buff:350,dx:2848,ds:379
 -,120,_
-10504,Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,,<0 poison res & maintain shield & hit10 & hit15>,no s1; 50% poison uptime,attack:5938,skill_2:734,s2_poison:308,dx:2960,ds:561
-5971,_c_Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,,!<0 poison res & maintain shield & hit10 & hit15>,no s1,attack:3437,skill_2:466,s2_poison:0,dx:1751,ds:314
+11906,Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,Curran,<0 poison res & maintain shield & hit10 & hit15>,no s1; 50% poison uptime,attack:5693,skill_2:775,s2_poison:325,skill_4:1177,team_buff:350,dx:3018,ds:564
+6888,_c_Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,Curran,!<0 poison res & maintain shield & hit10 & hit15>,no s1,attack:3323,skill_2:493,s2_poison:0,skill_4:748,team_buff:350,dx:1656,ds:315
 -,120,affliction
-11684,Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,,<0 poison res & maintain shield & hit10 & hit15>,no s1,attack:6461,skill_2:880,s2_poison:369,dx:3360,ds:611
-7165,_c_Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,,!<0 poison res & maintain shield & hit10 & hit15>,no s1,attack:4125,skill_2:559,s2_poison:0,dx:2102,ds:377
+14011,Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,Curran,<0 poison res & maintain shield & hit10 & hit15>,no s1,attack:6227,skill_2:931,s2_poison:390,skill_4:2261,team_buff:350,dx:3234,ds:614
+8735,_c_Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,Curran,!<0 poison res & maintain shield & hit10 & hit15>,no s1,attack:3988,skill_2:591,s2_poison:0,skill_4:1436,team_buff:350,dx:1988,ds:379
 -,180,_
-10598,Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,,<0 poison res & maintain shield & hit10 & hit15>,no s1; 57% poison uptime,attack:6357,skill_2:858,s2_poison:352,dx:2657,ds:371
-5895,_c_Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,,!<0 poison res & maintain shield & hit10 & hit15>,no s1,attack:3575,skill_2:545,s2_poison:0,dx:1563,ds:210
+12428,Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,Curran,<0 poison res & maintain shield & hit10 & hit15>,no s1; 50% poison uptime,attack:5930,skill_2:776,s2_poison:323,skill_4:1971,team_buff:409,dx:2633,ds:384
+6967,_c_Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,Curran,!<0 poison res & maintain shield & hit10 & hit15>,no s1,attack:3388,skill_2:493,s2_poison:0,skill_4:873,team_buff:409,dx:1586,ds:216
 -,180,affliction
-11694,Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,,<0 poison res & maintain shield & hit10 & hit15>,no s1,attack:6829,skill_2:1030,s2_poison:423,dx:3003,ds:407
-7074,_c_Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,,!<0 poison res & maintain shield & hit10 & hit15>,no s1,attack:4290,skill_2:654,s2_poison:0,dx:1875,ds:252
+14323,Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,Curran,<0 poison res & maintain shield & hit10 & hit15>,no s1,attack:6441,skill_2:931,s2_poison:387,skill_4:2703,team_buff:409,dx:3031,ds:419
+8907,_c_Sophie,3*,wind,staff,6403,Primal_Crisis,The_Fires_of_Hate,AC011_Garland,Agito1,Blade,Tiki,Lin_You,Weapon,Curran,!<0 poison res & maintain shield & hit10 & hit15>,no s1,attack:4065,skill_2:591,s2_poison:0,skill_4:1676,team_buff:409,dx:1903,ds:259

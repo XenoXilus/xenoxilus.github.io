@@ -1,18 +1,18 @@
 -,60,_
-19632,Botan,4*,shadow,lance,5882,Resounding_Rendition,United_by_One_Vision,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,<buff all team & hp70>,,attack:3233,skill_1:5789,s1_bleed:7263,team_buff:3344
-16251,_c_Botan,4*,shadow,lance,5307,Resounding_Rendition,United_by_One_Vision,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,!<buff all team & hp70>,,attack:2782,skill_1:4982,s1_bleed:6250,team_buff:2236
+29313,Botan,4*,shadow,lance,4998,Resounding_Rendition,United_by_One_Vision,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Ranzal,<buff all team & always connect hits & hp70>,71% poison uptime,attack:2211,skill_1:6358,s1_bleed:7072,skill_4:5315,s4_poison:923,team_buff:3358,dx:1172,ds:2900
+24142,_c_Botan,4*,shadow,lance,4423,Resounding_Rendition,United_by_One_Vision,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Ranzal,!<buff all team & always connect hits & hp70>,71% poison uptime,attack:1865,skill_1:5366,s1_bleed:5969,skill_4:4482,s4_poison:778,team_buff:2246,dx:988,ds:2444
 -,60,affliction
-21745,Botan,4*,shadow,lance,5987,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Blade,Wand,Bow,Weapon,,<buff all team & hp70 & hp100>,,attack:3485,skill_1:7410,s1_bleed:7501,team_buff:3347
-17788,_c_Botan,4*,shadow,lance,5322,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Blade,Wand,Bow,Weapon,,!<buff all team & hp70 & hp100>,,attack:2944,skill_1:6263,s1_bleed:6340,team_buff:2238
+35794,Botan,4*,shadow,lance,5100,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Wand,Bow,Weapon,Ranzal,<buff all team & always connect hits & hp70 & hp100>,,attack:2275,skill_1:8186,s1_bleed:9708,skill_4:6122,s4_poison:981,team_buff:3356,dx:1485,ds:3676
+29052,_c_Botan,4*,shadow,lance,4435,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Wand,Bow,Weapon,Ranzal,!<buff all team & always connect hits & hp70 & hp100>,,attack:1879,skill_1:6766,s1_bleed:8024,skill_4:5057,s4_poison:810,team_buff:2245,dx:1228,ds:3040
 -,120,_
-21117,Botan,4*,shadow,lance,5882,Resounding_Rendition,United_by_One_Vision,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,<buff all team & hp70>,,attack:3247,skill_1:6142,s1_bleed:7804,team_buff:3922
-17418,_c_Botan,4*,shadow,lance,5307,Resounding_Rendition,United_by_One_Vision,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,!<buff all team & hp70>,,attack:2794,skill_1:5285,s1_bleed:6715,team_buff:2622
+30231,Botan,4*,shadow,lance,4998,Resounding_Rendition,United_by_One_Vision,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Ranzal,<buff all team & always connect hits & hp70>,64% poison uptime,attack:2376,skill_1:7096,s1_bleed:9228,skill_4:5481,s4_poison:848,team_buff:3356,dx:536,ds:1305
+24915,_c_Botan,4*,shadow,lance,4423,Resounding_Rendition,United_by_One_Vision,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Ranzal,!<buff all team & always connect hits & hp70>,64% poison uptime,attack:2005,skill_1:5987,s1_bleed:7786,skill_4:4624,s4_poison:715,team_buff:2244,dx:451,ds:1098
 -,120,affliction
-23396,Botan,4*,shadow,lance,5987,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Blade,Wand,Bow,Weapon,,<buff all team & hp70 & hp100>,,attack:3538,skill_1:7421,s1_bleed:8524,team_buff:3911
-19084,_c_Botan,4*,shadow,lance,5322,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Blade,Wand,Bow,Weapon,,!<buff all team & hp70 & hp100>,,attack:2990,skill_1:6273,s1_bleed:7204,team_buff:2616
+35223,Botan,4*,shadow,lance,5100,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Wand,Bow,Weapon,Ranzal,<buff all team & always connect hits & hp70 & hp100>,,attack:2561,skill_1:9399,s1_bleed:10469,skill_4:6104,s4_poison:977,team_buff:3346,dx:698,ds:1664
+28586,_c_Botan,4*,shadow,lance,4435,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Wand,Bow,Weapon,Ranzal,!<buff all team & always connect hits & hp70 & hp100>,,attack:2116,skill_1:7771,s1_bleed:8657,skill_4:5042,s4_poison:806,team_buff:2238,dx:577,ds:1374
 -,180,_
-21527,Botan,4*,shadow,lance,5882,Resounding_Rendition,United_by_One_Vision,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,<buff all team & hp70>,,attack:3273,skill_1:6038,s1_bleed:8102,team_buff:4111
-17735,_c_Botan,4*,shadow,lance,5307,Resounding_Rendition,United_by_One_Vision,Shinobi,Agito1,Blade,Wand,Dagger,Weapon,,!<buff all team & hp70>,,attack:2816,skill_1:5196,s1_bleed:6972,team_buff:2749
+30181,Botan,4*,shadow,lance,4998,Resounding_Rendition,United_by_One_Vision,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Ranzal,<buff all team & always connect hits & hp70>,64% poison uptime,attack:2416,skill_1:7664,s1_bleed:9189,skill_4:4921,s4_poison:885,team_buff:3737,dx:397,ds:968
+22098,_c_Botan,4*,shadow,lance,4423,Resounding_Rendition,United_by_One_Vision,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Ranzal,!<buff all team & always connect hits & hp70>,64% poison uptime,attack:2039,skill_1:5673,s1_bleed:6758,skill_4:3810,s4_poison:689,team_buff:2499,dx:334,ds:291
 -,180,affliction
-24146,Botan,4*,shadow,lance,5987,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Blade,Wand,Bow,Weapon,,<buff all team & hp70 & hp100>,,attack:3549,skill_1:7657,s1_bleed:8847,team_buff:4091
-19686,_c_Botan,4*,shadow,lance,5322,Resounding_Rendition,The_Fires_of_Hate,Shinobi,Agito1,Blade,Wand,Bow,Weapon,,!<buff all team & hp70 & hp100>,,attack:2999,skill_1:6472,s1_bleed:7478,team_buff:2736
+35220,Botan,4*,shadow,lance,5100,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Wand,Bow,Weapon,Ranzal,<buff all team & always connect hits & hp70 & hp100>,,attack:2665,skill_1:9376,s1_bleed:11340,skill_4:5539,s4_poison:996,team_buff:3736,dx:450,ds:1114
+24256,_c_Botan,4*,shadow,lance,4435,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Wand,Bow,Weapon,Ranzal,!<buff all team & always connect hits & hp70 & hp100>,,attack:2203,skill_1:6485,s1_bleed:7418,skill_4:4191,s4_poison:757,team_buff:2498,dx:371,ds:328

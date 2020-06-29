@@ -1,18 +1,18 @@
 -,60,_
-21090,Ramona,5*,flame,axe,9716,Summer_Paladyns,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hp60 & hit10 & hp50 & hit15>,,attack:2807,skill_1:10357,dx:5017,ds:2907
-14561,_c_Ramona,5*,flame,axe,8201,Summer_Paladyns,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hp60 & hit10 & hp50 & hit15>,,attack:1993,skill_1:7271,dx:3363,ds:1932
+23567,Ramona,5*,flame,axe,9716,Summer_Paladyns,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,<hp60 & hit10 & hp50 & hit15>,18% poison uptime,attack:2257,skill_1:10721,skill_4:2344,s4_poison:262,dx:5052,ds:2928
+16292,_c_Ramona,5*,flame,axe,8201,Summer_Paladyns,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,!<hp60 & hit10 & hp50 & hit15>,18% poison uptime,attack:1625,skill_1:7543,skill_4:1610,s4_poison:180,dx:3387,ds:1945
 -,60,affliction
-24156,Ramona,5*,flame,axe,9736,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hp60 & hit10 & hp50 & hp70>,,attack:3435,skill_1:11740,dx:5838,ds:3141
-18112,_c_Ramona,5*,flame,axe,8218,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hp60 & hit10 & hp50 & hp70>,,attack:2596,skill_1:8795,dx:4381,ds:2337
+26795,Ramona,5*,flame,axe,9736,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,<hp60 & hit10 & hp50 & hp70>,18% poison uptime,attack:2797,skill_1:12137,skill_4:2533,s4_poison:284,dx:5878,ds:3163
+20174,_c_Ramona,5*,flame,axe,8218,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,!<hp60 & hit10 & hp50 & hp70>,18% poison uptime,attack:2117,skill_1:9124,skill_4:1947,s4_poison:218,dx:4412,ds:2353
 -,120,_
-20766,Ramona,5*,flame,axe,9716,Summer_Paladyns,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hp60 & hit10 & hp50 & hit15>,,attack:3446,skill_1:11868,dx:3392,ds:2058
-14036,_c_Ramona,5*,flame,axe,8201,Summer_Paladyns,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hp60 & hit10 & hp50 & hit15>,,attack:2347,skill_1:8065,dx:2266,ds:1356
+21994,Ramona,5*,flame,axe,9716,Summer_Paladyns,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,<hp60 & hit10 & hp50 & hit15>,25% poison uptime,attack:3479,skill_1:12042,skill_4:2104,s4_poison:393,dx:2516,ds:1458
+14907,_c_Ramona,5*,flame,axe,8201,Summer_Paladyns,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,!<hp60 & hit10 & hp50 & hit15>,25% poison uptime,attack:2363,skill_1:8192,skill_4:1428,s4_poison:267,dx:1687,ds:968
 -,120,affliction
-23364,Ramona,5*,flame,axe,9736,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hp60 & hit10 & hp50 & hp70>,,attack:4095,skill_1:13097,dx:3947,ds:2224
-17408,_c_Ramona,5*,flame,axe,8218,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hp60 & hit10 & hp50 & hp70>,,attack:3057,skill_1:9756,dx:2953,ds:1641
+24623,Ramona,5*,flame,axe,9736,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,<hp60 & hit10 & hp50 & hp70>,25% poison uptime,attack:4133,skill_1:13287,skill_4:2273,s4_poison:425,dx:2928,ds:1575
+18409,_c_Ramona,5*,flame,axe,8218,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,!<hp60 & hit10 & hp50 & hp70>,25% poison uptime,attack:3078,skill_1:9909,skill_4:1727,s4_poison:322,dx:2197,ds:1172
 -,180,_
-21586,Ramona,5*,flame,axe,9716,Summer_Paladyns,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hp60 & hit10 & hp50 & hit15>,,attack:3470,skill_1:12769,dx:3364,ds:1981
-14541,_c_Ramona,5*,flame,axe,8201,Summer_Paladyns,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hp60 & hit10 & hp50 & hit15>,,attack:2336,skill_1:8627,dx:2256,ds:1320
+22863,Ramona,5*,flame,axe,9716,Summer_Paladyns,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,<hp60 & hit10 & hp50 & hit15>,22% poison uptime,attack:3215,skill_1:11795,skill_4:2184,s4_poison:350,dx:3391,ds:1924
+15441,_c_Ramona,5*,flame,axe,8201,Summer_Paladyns,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,!<hp60 & hit10 & hp50 & hit15>,22% poison uptime,attack:2165,skill_1:7993,skill_4:1488,s4_poison:238,dx:2276,ds:1276
 -,180,affliction
-24131,Ramona,5*,flame,axe,9736,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,<hp60 & hit10 & hp50 & hp70>,,attack:4095,skill_1:13980,dx:3914,ds:2141
-18016,_c_Ramona,5*,flame,axe,8218,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,,!<hp60 & hit10 & hp50 & hp70>,,attack:3043,skill_1:10435,dx:2939,ds:1597
+25493,Ramona,5*,flame,axe,9736,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,<hp60 & hit10 & hp50 & hp70>,22% poison uptime,attack:3798,skill_1:12928,skill_4:2360,s4_poison:378,dx:3946,ds:2079
+19091,_c_Ramona,5*,flame,axe,8218,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,!<hp60 & hit10 & hp50 & hp70>,22% poison uptime,attack:2821,skill_1:9669,skill_4:1800,s4_poison:288,dx:2966,ds:1544

@@ -1,18 +1,18 @@
 -,60,_
-17556,Pipple,4*,water,wand,6485,Primal_Crisis,Brothers_in_Arms,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,,<hit10 & hit15>,,attack:6575,team_energy:331,dx:8572,ds:2076
-13200,_c_Pipple,4*,water,wand,6485,Primal_Crisis,Brothers_in_Arms,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,,!<hit10 & hit15>,,attack:4962,team_energy:331,dx:6349,ds:1555
+17556,Pipple,4*,water,wand,6485,Primal_Crisis,Brothers_in_Arms,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,Gala_Elisanne,<hit10 & hit15 & buff all team>,,attack:6575,team_energy:331,dx:8572,ds:2076
+13200,_c_Pipple,4*,water,wand,6485,Primal_Crisis,Brothers_in_Arms,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,Gala_Elisanne,!<hit10 & hit15 & buff all team>,,attack:4962,team_energy:331,dx:6349,ds:1555
 -,60,affliction
-19520,Pipple,4*,water,wand,6228,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,,<hit10 & hit15>,,attack:7974,team_energy:330,dx:9170,ds:2043
-14560,_c_Pipple,4*,water,wand,6228,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,,!<hit10 & hit15>,,attack:5988,team_energy:330,dx:6736,ds:1503
+19520,Pipple,4*,water,wand,6228,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,Gala_Elisanne,<hit10 & hit15 & buff all team>,,attack:7974,team_energy:330,dx:9170,ds:2043
+14560,_c_Pipple,4*,water,wand,6228,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,Gala_Elisanne,!<hit10 & hit15 & buff all team>,,attack:5988,team_energy:330,dx:6736,ds:1503
 -,120,_
-18753,Pipple,4*,water,wand,6485,Primal_Crisis,Brothers_in_Arms,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,,<hit10 & hit15>,,attack:11005,team_energy:416,dx:6170,ds:1160
-14244,_c_Pipple,4*,water,wand,6485,Primal_Crisis,Brothers_in_Arms,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,,!<hit10 & hit15>,,attack:8305,team_energy:416,dx:4643,ds:878
+20256,Pipple,4*,water,wand,6485,Primal_Crisis,Brothers_in_Arms,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,Gala_Elisanne,<hit10 & hit15 & buff all team>,,attack:11528,team_buff:970,team_energy:416,dx:6177,ds:1161
+14699,_c_Pipple,4*,water,wand,6485,Primal_Crisis,Brothers_in_Arms,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,Gala_Elisanne,!<hit10 & hit15 & buff all team>,,attack:8754,team_energy:416,dx:4648,ds:879
 -,120,affliction
-20789,Pipple,4*,water,wand,6228,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,,<hit10 & hit15>,,attack:12339,team_energy:581,dx:6670,ds:1197
-15685,_c_Pipple,4*,water,wand,6228,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,,!<hit10 & hit15>,,attack:9229,team_energy:581,dx:4980,ds:894
+22681,Pipple,4*,water,wand,6228,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,Gala_Elisanne,<hit10 & hit15 & buff all team>,,attack:12473,team_buff:749,team_energy:582,dx:7516,ds:1359
+16677,_c_Pipple,4*,water,wand,6228,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,Gala_Elisanne,!<hit10 & hit15 & buff all team>,,attack:9370,team_energy:582,dx:5692,ds:1030
 -,180,_
-18321,Pipple,4*,water,wand,6485,Primal_Crisis,Brothers_in_Arms,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,,<hit10 & hit15>,,attack:13021,team_energy:442,dx:4085,ds:771
-13946,_c_Pipple,4*,water,wand,6485,Primal_Crisis,Brothers_in_Arms,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,,!<hit10 & hit15>,,attack:9852,team_energy:442,dx:3067,ds:583
+20297,Pipple,4*,water,wand,6485,Primal_Crisis,Brothers_in_Arms,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,Gala_Elisanne,<hit10 & hit15 & buff all team>,,attack:13535,team_buff:1218,team_energy:441,dx:4241,ds:860
+14606,_c_Pipple,4*,water,wand,6485,Primal_Crisis,Brothers_in_Arms,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,Gala_Elisanne,!<hit10 & hit15 & buff all team>,,attack:10306,team_energy:441,dx:3198,ds:659
 -,180,affliction
-20060,Pipple,4*,water,wand,6228,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,,<hit10 & hit15>,,attack:14098,team_energy:662,dx:4504,ds:795
-15156,_c_Pipple,4*,water,wand,6228,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,,!<hit10 & hit15>,,attack:10537,team_energy:662,dx:3362,ds:593
+22510,Pipple,4*,water,wand,6228,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,Gala_Elisanne,<hit10 & hit15 & buff all team>,,attack:15061,team_buff:1489,team_energy:661,dx:4502,ds:795
+15980,_c_Pipple,4*,water,wand,6228,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Axe2,Weapon,Gala_Elisanne,!<hit10 & hit15 & buff all team>,,attack:11362,team_energy:661,dx:3361,ds:593
