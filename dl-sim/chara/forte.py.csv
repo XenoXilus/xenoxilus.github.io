@@ -5,14 +5,14 @@
 47285,Forte,5*,shadow,lance,5066,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits & hp70 & hp100>,,attack:2604,force_strike:170,skill_1:17127,skill_2:13141,skill_4:6374,team_buff:349,dx:2780,ds:4736
 39027,_c_Forte,5*,shadow,lance,4405,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits & hp70 & hp100>,,attack:2146,force_strike:140,skill_1:14114,skill_2:10829,skill_4:5252,team_buff:349,dx:2291,ds:3903
 -,120,_
-32607,Forte,5*,shadow,lance,4405,Resounding_Rendition,The_Red_Impulse,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits & hp70>,,attack:1862,force_strike:247,skill_1:10719,skill_2:11411,skill_4:2715,team_buff:347,dx:1465,ds:3838
-30919,_c_Forte,5*,shadow,lance,4405,Resounding_Rendition,The_Red_Impulse,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits & hp70>,,attack:1764,force_strike:234,skill_1:10158,skill_2:10814,skill_4:2573,team_buff:347,dx:1388,ds:3637
+32452,Forte,5*,shadow,lance,4405,Resounding_Rendition,The_Red_Impulse,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits & hp70>,,attack:1862,force_strike:247,skill_1:10666,skill_2:11351,skill_4:2702,team_buff:347,dx:1465,ds:3808
+30772,_c_Forte,5*,shadow,lance,4405,Resounding_Rendition,The_Red_Impulse,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits & hp70>,,attack:1764,force_strike:234,skill_1:10108,skill_2:10757,skill_4:2561,team_buff:347,dx:1388,ds:3609
 -,120,affliction
 55527,Forte,5*,shadow,lance,5066,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits & hp70 & hp100>,,attack:2934,force_strike:382,skill_1:20761,skill_2:16933,skill_4:6497,team_buff:347,dx:2222,ds:5447
 45819,_c_Forte,5*,shadow,lance,4405,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits & hp70 & hp100>,,attack:2417,force_strike:315,skill_1:17108,skill_2:13954,skill_4:5353,team_buff:347,dx:1831,ds:4488
 -,180,_
-34884,Forte,5*,shadow,lance,4405,Resounding_Rendition,The_Red_Impulse,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits & hp70>,,attack:2148,force_strike:248,skill_1:12452,skill_2:11504,skill_4:3587,team_buff:348,dx:1261,ds:3331
-33076,_c_Forte,5*,shadow,lance,4405,Resounding_Rendition,The_Red_Impulse,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits & hp70>,,attack:2036,force_strike:235,skill_1:11801,skill_2:10902,skill_4:3400,team_buff:348,dx:1195,ds:3157
+34661,Forte,5*,shadow,lance,4405,Resounding_Rendition,The_Red_Impulse,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits & hp70>,,attack:2148,force_strike:248,skill_1:12364,skill_2:11426,skill_4:3562,team_buff:348,dx:1261,ds:3301
+32865,_c_Forte,5*,shadow,lance,4405,Resounding_Rendition,The_Red_Impulse,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits & hp70>,,attack:2036,force_strike:235,skill_1:11716,skill_2:10828,skill_4:3376,team_buff:348,dx:1195,ds:3128
 -,180,affliction
 59135,Forte,5*,shadow,lance,5066,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits & hp70 & hp100>,,attack:3311,force_strike:381,skill_1:23498,skill_2:16766,skill_4:8259,team_buff:348,dx:1896,ds:4672
 48792,_c_Forte,5*,shadow,lance,4405,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits & hp70 & hp100>,,attack:2728,force_strike:314,skill_1:19364,skill_2:13816,skill_4:6806,team_buff:348,dx:1562,ds:3850
