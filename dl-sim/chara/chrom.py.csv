@@ -1,18 +1,18 @@
 -,60,_
-28836,Chrom,5*,flame,sword,9547,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,<hp100 & hit10 & hp50 & hit15>,,attack:2951,force_strike:1238,skill_1:1806,skill_2:11800,skill_4:2617,team_buff:348,dx:5122,ds:2949
-18832,_c_Chrom,5*,flame,sword,7917,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,!<hp100 & hit10 & hp50 & hit15>,,attack:1953,force_strike:817,skill_1:1182,skill_2:7599,skill_4:1695,team_buff:348,dx:3332,ds:1902
+28932,Chrom,5*,flame,sword,9547,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,<hp100 & hit10 & hp50 & hit15>,,attack:2961,force_strike:1243,skill_1:1812,skill_2:11839,skill_4:2625,team_buff:349,dx:5139,ds:2958
+18895,_c_Chrom,5*,flame,sword,7917,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,!<hp100 & hit10 & hp50 & hit15>,,attack:1960,force_strike:820,skill_1:1186,skill_2:7624,skill_4:1701,team_buff:349,dx:3343,ds:1908
 -,60,affliction
-34739,Chrom,5*,flame,sword,9567,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,<hp100 & hit10 & hp50>,,attack:3350,force_strike:1403,skill_1:2045,skill_2:15722,skill_4:2905,team_buff:348,dx:5688,ds:3274
-26409,_c_Chrom,5*,flame,sword,7934,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,!<hp100 & hit10 & hp50>,,attack:2545,force_strike:1065,skill_1:1540,skill_2:11880,skill_4:2208,team_buff:348,dx:4341,ds:2477
+34855,Chrom,5*,flame,sword,9567,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,<hp100 & hit10 & hp50>,,attack:3361,force_strike:1408,skill_1:2052,skill_2:15775,skill_4:2915,team_buff:349,dx:5707,ds:3285
+26496,_c_Chrom,5*,flame,sword,7934,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,!<hp100 & hit10 & hp50>,,attack:2554,force_strike:1068,skill_1:1545,skill_2:11919,skill_4:2216,team_buff:349,dx:4355,ds:2486
 -,120,_
-28016,Chrom,5*,flame,sword,9547,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,<hp100 & hit10 & hp50 & hit15>,,attack:3250,force_strike:1369,skill_1:1936,skill_2:11396,skill_4:2451,team_buff:349,dx:4258,ds:3003
-18206,_c_Chrom,5*,flame,sword,7917,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,!<hp100 & hit10 & hp50 & hit15>,,attack:2111,force_strike:888,skill_1:1252,skill_2:7313,skill_4:1578,team_buff:349,dx:2770,ds:1942
+28109,Chrom,5*,flame,sword,9547,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,<hp100 & hit10 & hp50 & hit15>,,attack:3261,force_strike:1374,skill_1:1943,skill_2:11434,skill_4:2459,team_buff:350,dx:4272,ds:3013
+18267,_c_Chrom,5*,flame,sword,7917,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,!<hp100 & hit10 & hp50 & hit15>,,attack:2118,force_strike:891,skill_1:1256,skill_2:7337,skill_4:1583,team_buff:350,dx:2779,ds:1948
 -,120,affliction
-33669,Chrom,5*,flame,sword,9567,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,<hp100 & hit10 & hp50>,,attack:3646,force_strike:1534,skill_1:2170,skill_2:15184,skill_4:2721,team_buff:349,dx:4728,ds:3334
-25518,_c_Chrom,5*,flame,sword,7934,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,!<hp100 & hit10 & hp50>,,attack:2751,force_strike:1157,skill_1:1631,skill_2:11432,skill_4:2056,team_buff:349,dx:3609,ds:2530
+33781,Chrom,5*,flame,sword,9567,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,<hp100 & hit10 & hp50>,,attack:3658,force_strike:1539,skill_1:2177,skill_2:15235,skill_4:2730,team_buff:350,dx:4743,ds:3345
+25603,_c_Chrom,5*,flame,sword,7934,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,!<hp100 & hit10 & hp50>,,attack:2760,force_strike:1161,skill_1:1636,skill_2:11470,skill_4:2063,team_buff:350,dx:3621,ds:2539
 -,180,_
-29375,Chrom,5*,flame,sword,9547,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,<hp100 & hit10 & hp50 & hit15>,,attack:3559,force_strike:1491,skill_1:2129,skill_2:13498,skill_4:2857,team_buff:348,dx:3493,ds:1997
-19091,_c_Chrom,5*,flame,sword,7917,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,!<hp100 & hit10 & hp50 & hit15>,,attack:2301,force_strike:963,skill_1:1374,skill_2:8693,skill_4:1840,team_buff:348,dx:2277,ds:1292
+29489,Chrom,5*,flame,sword,9547,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,<hp100 & hit10 & hp50 & hit15>,,attack:3573,force_strike:1496,skill_1:2137,skill_2:13550,skill_4:2868,team_buff:349,dx:3506,ds:2005
+19165,_c_Chrom,5*,flame,sword,7917,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,!<hp100 & hit10 & hp50 & hit15>,,attack:2310,force_strike:967,skill_1:1379,skill_2:8727,skill_4:1847,team_buff:349,dx:2286,ds:1297
 -,180,affliction
-35622,Chrom,5*,flame,sword,9567,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,<hp100 & hit10 & hp50>,,attack:3976,force_strike:1664,skill_1:2377,skill_2:17985,skill_4:3172,team_buff:348,dx:3878,ds:2218
-27031,_c_Chrom,5*,flame,sword,7934,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,!<hp100 & hit10 & hp50>,,attack:2998,force_strike:1255,skill_1:1790,skill_2:13590,skill_4:2397,team_buff:348,dx:2967,ds:1683
+35760,Chrom,5*,flame,sword,9567,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,<hp100 & hit10 & hp50>,,attack:3991,force_strike:1671,skill_1:2386,skill_2:18054,skill_4:3184,team_buff:349,dx:3893,ds:2226
+27135,_c_Chrom,5*,flame,sword,7934,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Curran,!<hp100 & hit10 & hp50>,,attack:3010,force_strike:1259,skill_1:1797,skill_2:13643,skill_4:2406,team_buff:349,dx:2978,ds:1690

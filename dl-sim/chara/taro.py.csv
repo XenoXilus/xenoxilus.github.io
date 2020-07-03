@@ -1,18 +1,18 @@
 -,60,_
-14651,Taro,3*,shadow,blade,4906,Resounding_Rendition,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,<always connect hits & hp70>,,attack:2163,skill_1:5326,skill_2:1623,skill_4:1108,team_buff:174,dx:2935,ds:1318
-12708,_c_Taro,3*,shadow,blade,4460,Resounding_Rendition,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,!<always connect hits & hp70>,,attack:1872,skill_1:4611,skill_2:1405,skill_4:959,team_buff:174,dx:2541,ds:1141
+14670,Taro,3*,shadow,blade,4906,Resounding_Rendition,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,<always connect hits & hp70>,,attack:2165,skill_1:5333,skill_2:1625,skill_4:1110,team_buff:174,dx:2939,ds:1319
+12724,_c_Taro,3*,shadow,blade,4460,Resounding_Rendition,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,!<always connect hits & hp70>,,attack:1875,skill_1:4617,skill_2:1407,skill_4:961,team_buff:174,dx:2544,ds:1142
 -,60,affliction
-18664,Taro,3*,shadow,blade,5146,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,<always connect hits & hp70 & hp100>,,attack:2641,skill_1:6504,skill_2:1982,skill_4:2166,team_buff:174,dx:3584,ds:1609
-15462,_c_Taro,3*,shadow,blade,4474,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,!<always connect hits & hp70 & hp100>,,attack:2184,skill_1:5378,skill_2:1639,skill_4:1790,team_buff:174,dx:2964,ds:1330
+18687,Taro,3*,shadow,blade,5146,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,<always connect hits & hp70 & hp100>,,attack:2644,skill_1:6512,skill_2:1985,skill_4:2168,team_buff:174,dx:3589,ds:1611
+15482,_c_Taro,3*,shadow,blade,4474,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,!<always connect hits & hp70 & hp100>,,attack:2186,skill_1:5385,skill_2:1641,skill_4:1793,team_buff:174,dx:2967,ds:1332
 -,120,_
-15879,Taro,3*,shadow,blade,4906,Resounding_Rendition,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,<always connect hits & hp70>,,attack:2318,skill_1:5830,skill_2:2421,skill_4:1667,team_buff:262,dx:2056,ds:1321
-13415,_c_Taro,3*,shadow,blade,4460,Resounding_Rendition,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,!<always connect hits & hp70>,,attack:2007,skill_1:5047,skill_2:2096,skill_4:1443,team_buff:262,dx:1780,ds:776
+15953,Taro,3*,shadow,blade,4906,Resounding_Rendition,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,<always connect hits & hp70>,,attack:2319,skill_1:5830,skill_2:2421,skill_4:1667,team_buff:262,dx:2129,ds:1321
+13479,_c_Taro,3*,shadow,blade,4460,Resounding_Rendition,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,!<always connect hits & hp70>,,attack:2007,skill_1:5047,skill_2:2096,skill_4:1443,team_buff:262,dx:1843,ds:776
 -,120,affliction
-20553,Taro,3*,shadow,blade,5146,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,<always connect hits & hp70 & hp100>,,attack:2831,skill_1:7118,skill_2:2956,skill_4:3258,team_buff:262,dx:2510,ds:1614
-16611,_c_Taro,3*,shadow,blade,4474,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,!<always connect hits & hp70 & hp100>,,attack:2340,skill_1:5886,skill_2:2444,skill_4:2694,team_buff:262,dx:2075,ds:905
+20644,Taro,3*,shadow,blade,5146,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,<always connect hits & hp70 & hp100>,,attack:2831,skill_1:7118,skill_2:2956,skill_4:3258,team_buff:262,dx:2600,ds:1614
+16686,_c_Taro,3*,shadow,blade,4474,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,!<always connect hits & hp70 & hp100>,,attack:2341,skill_1:5886,skill_2:2444,skill_4:2694,team_buff:262,dx:2150,ds:905
 -,180,_
-16178,Taro,3*,shadow,blade,4906,Resounding_Rendition,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,<always connect hits & hp70>,,attack:2361,skill_1:5928,skill_2:2394,skill_4:2211,team_buff:348,dx:2011,ds:922
-11655,_c_Taro,3*,shadow,blade,4460,Resounding_Rendition,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,!<always connect hits & hp70>,,attack:2044,skill_1:4309,skill_2:1626,skill_4:1299,team_buff:348,dx:1741,ds:285
+16224,Taro,3*,shadow,blade,4906,Resounding_Rendition,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,<always connect hits & hp70>,,attack:2367,skill_1:5943,skill_2:2400,skill_4:2217,team_buff:349,dx:2021,ds:924
+11689,_c_Taro,3*,shadow,blade,4460,Resounding_Rendition,Beautiful_Nothingness,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,!<always connect hits & hp70>,,attack:2049,skill_1:4320,skill_2:1630,skill_4:1302,team_buff:349,dx:1750,ds:285
 -,180,affliction
-21298,Taro,3*,shadow,blade,5146,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,<always connect hits & hp70 & hp100>,,attack:2883,skill_1:7239,skill_2:2923,skill_4:4320,team_buff:348,dx:2456,ds:1126
-14443,_c_Taro,3*,shadow,blade,4474,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,!<always connect hits & hp70 & hp100>,,attack:2384,skill_1:5026,skill_2:1896,skill_4:2424,team_buff:348,dx:2031,ds:332
+21358,Taro,3*,shadow,blade,5146,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,<always connect hits & hp70 & hp100>,,attack:2890,skill_1:7257,skill_2:2931,skill_4:4331,team_buff:349,dx:2468,ds:1129
+14485,_c_Taro,3*,shadow,blade,4474,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Dagger,Tiki,Weapon,Curran,!<always connect hits & hp70 & hp100>,,attack:2390,skill_1:5039,skill_2:1901,skill_4:2430,team_buff:349,dx:2041,ds:333
