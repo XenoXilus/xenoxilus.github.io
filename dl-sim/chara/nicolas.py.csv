@@ -1,18 +1,18 @@
 -,60,_
-15760,Nicolas,3*,wind,wand,5450,Candy_Couriers,Primal_Crisis,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Ranzal,<hit10 & hit15>,25% poison uptime,attack:2664,skill_1:4395,skill_2:1797,skill_4:1737,s4_poison:324,dx:1439,ds:3400
-10713,_c_Nicolas,3*,wind,wand,5450,Candy_Couriers,Primal_Crisis,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Ranzal,!<hit10 & hit15>,25% poison uptime,attack:1845,skill_1:2976,skill_2:1217,skill_4:1176,s4_poison:219,dx:974,ds:2302
+16815,Nicolas,3*,wind,wand,5450,Candy_Couriers,Primal_Crisis,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Curran,<hit10 & hit15>,,attack:2748,skill_1:5477,skill_2:1807,skill_4:1740,team_buff:175,dx:1447,ds:3419
+11485,_c_Nicolas,3*,wind,wand,5450,Candy_Couriers,Primal_Crisis,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Curran,!<hit10 & hit15>,,attack:1902,skill_1:3709,skill_2:1223,skill_4:1178,team_buff:175,dx:980,ds:2315
 -,60,affliction
-17153,Nicolas,3*,wind,wand,6147,Candy_Couriers,The_Fires_of_Hate,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Ranzal,<hit10 & hp100>,,attack:2942,skill_1:4770,skill_2:1950,skill_4:1885,s4_poison:352,dx:1561,ds:3690
-12888,_c_Nicolas,3*,wind,wand,5464,Candy_Couriers,The_Fires_of_Hate,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Ranzal,!<hit10 & hp100>,,attack:2219,skill_1:3581,skill_2:1464,skill_4:1415,s4_poison:264,dx:1172,ds:2770
+19417,Nicolas,3*,wind,wand,6147,Candy_Couriers,The_Fires_of_Hate,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Curran,<hit10 & hp100>,,attack:3034,skill_1:5944,skill_2:1961,skill_4:3021,team_buff:175,dx:1570,ds:3710
+14631,_c_Nicolas,3*,wind,wand,5464,Candy_Couriers,The_Fires_of_Hate,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Curran,!<hit10 & hp100>,,attack:2288,skill_1:4462,skill_2:1472,skill_4:2268,team_buff:175,dx:1178,ds:2785
 -,120,_
-16122,Nicolas,3*,wind,wand,5450,Candy_Couriers,Primal_Crisis,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Ranzal,<hit10 & hit15>,28% poison uptime,attack:3073,skill_1:5019,skill_2:2618,skill_4:2619,s4_poison:359,dx:723,ds:1708
-10938,_c_Nicolas,3*,wind,wand,5450,Candy_Couriers,Primal_Crisis,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Ranzal,!<hit10 & hit15>,28% poison uptime,attack:2102,skill_1:3399,skill_2:1773,skill_4:1773,s4_poison:243,dx:489,ds:1157
+16017,Nicolas,3*,wind,wand,5450,Candy_Couriers,Primal_Crisis,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Curran,<hit10 & hit15>,,attack:3060,skill_1:5262,skill_2:2276,skill_4:2727,team_buff:262,dx:721,ds:1705
+10952,_c_Nicolas,3*,wind,wand,5450,Candy_Couriers,Primal_Crisis,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Curran,!<hit10 & hit15>,,attack:2093,skill_1:3564,skill_2:1541,skill_4:1846,team_buff:262,dx:488,ds:1154
 -,120,affliction
-17521,Nicolas,3*,wind,wand,6147,Candy_Couriers,The_Fires_of_Hate,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Ranzal,<hit10 & hp100>,,attack:3361,skill_1:5446,skill_2:2841,skill_4:2842,s4_poison:389,dx:784,ds:1854
-13159,_c_Nicolas,3*,wind,wand,5464,Candy_Couriers,The_Fires_of_Hate,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Ranzal,!<hit10 & hp100>,,attack:2529,skill_1:4089,skill_2:2133,skill_4:2133,s4_poison:292,dx:589,ds:1391
+19160,Nicolas,3*,wind,wand,6147,Candy_Couriers,The_Fires_of_Hate,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Curran,<hit10 & hp100>,,attack:3347,skill_1:5711,skill_2:2470,skill_4:4735,team_buff:262,dx:783,ds:1850
+14455,_c_Nicolas,3*,wind,wand,5464,Candy_Couriers,The_Fires_of_Hate,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Curran,!<hit10 & hp100>,,attack:2518,skill_1:4287,skill_2:1854,skill_4:3554,team_buff:262,dx:587,ds:1389
 -,180,_
-15650,Nicolas,3*,wind,wand,5450,Candy_Couriers,Primal_Crisis,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Ranzal,<hit10 & hit15>,33% poison uptime,attack:3206,skill_1:5635,skill_2:2413,skill_4:2333,s4_poison:436,dx:483,ds:1141
-10612,_c_Nicolas,3*,wind,wand,5450,Candy_Couriers,Primal_Crisis,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Ranzal,!<hit10 & hit15>,33% poison uptime,attack:2185,skill_1:3816,skill_2:1634,skill_4:1580,s4_poison:295,dx:327,ds:773
+15743,Nicolas,3*,wind,wand,5450,Candy_Couriers,Primal_Crisis,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Curran,<hit10 & hit15>,,attack:3180,skill_1:5569,skill_2:2436,skill_4:2646,team_buff:291,dx:481,ds:1137
+10769,_c_Nicolas,3*,wind,wand,5450,Candy_Couriers,Primal_Crisis,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Curran,!<hit10 & hit15>,,attack:2167,skill_1:3771,skill_2:1649,skill_4:1792,team_buff:291,dx:326,ds:770
 -,180,affliction
-17000,Nicolas,3*,wind,wand,6147,Candy_Couriers,The_Fires_of_Hate,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Ranzal,<hit10 & hp100>,,attack:3496,skill_1:6114,skill_2:2619,skill_4:2532,s4_poison:473,dx:524,ds:1238
-12766,_c_Nicolas,3*,wind,wand,5464,Candy_Couriers,The_Fires_of_Hate,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Ranzal,!<hit10 & hp100>,,attack:2628,skill_1:4590,skill_2:1966,skill_4:1901,s4_poison:355,dx:393,ds:930
+18798,Nicolas,3*,wind,wand,6147,Candy_Couriers,The_Fires_of_Hate,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Curran,<hit10 & hp100>,,attack:3468,skill_1:6043,skill_2:2643,skill_4:4594,team_buff:291,dx:522,ds:1234
+14189,_c_Nicolas,3*,wind,wand,5464,Candy_Couriers,The_Fires_of_Hate,Vayu,Agito1,Blade,Ku_Hai,Lin_You,Weapon,Curran,!<hit10 & hp100>,,attack:2607,skill_1:4537,skill_2:1984,skill_4:3449,team_buff:291,dx:392,ds:926
