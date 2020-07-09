@@ -1,18 +1,18 @@
 -,60,_
-31619,Aldred,4*,shadow,blade,6923,The_Chocolatiers,Tough_Love,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,<always connect hits & hp≤40 & last offense & hp=1>,maintain dragondrive,attack:2998,skill_1:19082,skill_4:9456,dx:81
-22268,_c_Aldred,4*,shadow,blade,5367,The_Chocolatiers,Tough_Love,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & last offense & hp=1>,maintain dragondrive,attack:2439,skill_1:13886,skill_4:5874,dx:67
+31844,Aldred,4*,shadow,blade,6972,The_Chocolatiers,Tough_Love,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,<always connect hits & hp≤40 & last offense & hp=1>,maintain dragondrive,attack:3020,skill_1:19218,skill_4:9523,dx:81
+22427,_c_Aldred,4*,shadow,blade,5405,The_Chocolatiers,Tough_Love,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & last offense & hp=1>,maintain dragondrive,attack:2456,skill_1:13985,skill_4:5916,dx:68
 -,60,affliction
-33484,Aldred,4*,shadow,blade,6898,The_Chocolatiers,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3481,skill_1:19052,skill_4:10877,dx:72
-22033,_c_Aldred,4*,shadow,blade,5347,The_Chocolatiers,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:2766,skill_1:12791,skill_4:6419,dx:56
+33723,Aldred,4*,shadow,blade,6947,The_Chocolatiers,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3506,skill_1:19188,skill_4:10955,dx:73
+22191,_c_Aldred,4*,shadow,blade,5385,The_Chocolatiers,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:2786,skill_1:12882,skill_4:6465,dx:56
 -,120,_
-32576,Aldred,4*,shadow,blade,6926,Heralds_of_Hinomoto,Dear_Diary,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3610,skill_1:19451,skill_4:9482,dx:31
-18883,_c_Aldred,4*,shadow,blade,5369,Heralds_of_Hinomoto,Dear_Diary,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:2969,skill_1:11110,skill_4:4777,dx:24
+32808,Aldred,4*,shadow,blade,6976,Heralds_of_Hinomoto,Dear_Diary,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3636,skill_1:19590,skill_4:9549,dx:31
+19018,_c_Aldred,4*,shadow,blade,5408,Heralds_of_Hinomoto,Dear_Diary,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:2991,skill_1:11189,skill_4:4811,dx:25
 -,120,affliction
-36612,Aldred,4*,shadow,blade,6901,Heralds_of_Hinomoto,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3916,skill_1:20670,skill_4:11988,dx:36
-20492,_c_Aldred,4*,shadow,blade,5349,Heralds_of_Hinomoto,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3118,skill_1:11493,skill_4:5851,dx:28
+36874,Aldred,4*,shadow,blade,6950,Heralds_of_Hinomoto,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3944,skill_1:20818,skill_4:12074,dx:36
+20639,_c_Aldred,4*,shadow,blade,5388,Heralds_of_Hinomoto,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3141,skill_1:11575,skill_4:5893,dx:28
 -,180,_
-33221,Aldred,4*,shadow,blade,6926,Heralds_of_Hinomoto,Dear_Diary,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3656,skill_1:21336,skill_4:8207,dx:20
-16605,_c_Aldred,4*,shadow,blade,5369,Heralds_of_Hinomoto,Dear_Diary,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3026,skill_1:9822,skill_4:3738,dx:16
+33458,Aldred,4*,shadow,blade,6976,Heralds_of_Hinomoto,Dear_Diary,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3682,skill_1:21488,skill_4:8266,dx:21
+16723,_c_Aldred,4*,shadow,blade,5408,Heralds_of_Hinomoto,Dear_Diary,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3048,skill_1:9892,skill_4:3765,dx:16
 -,180,affliction
-36725,Aldred,4*,shadow,blade,6901,Heralds_of_Hinomoto,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3905,skill_1:22456,skill_4:10338,dx:24
-17773,_c_Aldred,4*,shadow,blade,5349,Heralds_of_Hinomoto,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3122,skill_1:10069,skill_4:4563,dx:18
+36987,Aldred,4*,shadow,blade,6950,Heralds_of_Hinomoto,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3933,skill_1:22616,skill_4:10412,dx:24
+17900,_c_Aldred,4*,shadow,blade,5388,Heralds_of_Hinomoto,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Berserker,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3144,skill_1:10141,skill_4:4595,dx:18

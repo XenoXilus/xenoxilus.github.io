@@ -1,18 +1,18 @@
 -,60,_
-19864,Marty,3*,flame,sword,8566,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hit10 & hp50 & hit15>,45% poison uptime,attack:2999,force_strike:1771,skill_1:3934,skill_4:2902,s4_poison:480,dx:5505,ds:2270
-13870,_c_Marty,3*,flame,sword,7665,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hit10 & hp50 & hit15>,45% poison uptime,attack:2114,force_strike:1249,skill_1:2752,skill_4:2014,s4_poison:332,dx:3837,ds:1569
+19990,Marty,3*,flame,sword,8621,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hit10 & hp50 & hit15>,45% poison uptime,attack:3018,force_strike:1783,skill_1:3959,skill_4:2920,s4_poison:483,dx:5540,ds:2284
+13958,_c_Marty,3*,flame,sword,7713,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hit10 & hp50 & hit15>,45% poison uptime,attack:2127,force_strike:1257,skill_1:2769,skill_4:2027,s4_poison:334,dx:3862,ds:1579
 -,60,affliction
-22072,Marty,3*,flame,sword,8585,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hit10 & hp50>,45% poison uptime,attack:3363,force_strike:1988,skill_1:4416,skill_4:3199,s4_poison:529,dx:6070,ds:2503
-18071,_c_Marty,3*,flame,sword,7681,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hit10 & hp50>,45% poison uptime,attack:2754,force_strike:1627,skill_1:3585,skill_4:2624,s4_poison:433,dx:4999,ds:2044
+22211,Marty,3*,flame,sword,8640,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hit10 & hp50>,45% poison uptime,attack:3384,force_strike:2000,skill_1:4444,skill_4:3220,s4_poison:532,dx:6109,ds:2518
+18185,_c_Marty,3*,flame,sword,7730,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hit10 & hp50>,45% poison uptime,attack:2772,force_strike:1638,skill_1:3608,skill_4:2641,s4_poison:436,dx:5031,ds:2057
 -,120,_
-19389,Marty,3*,flame,sword,8566,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hit10 & hp50 & hit15>,50% poison uptime,attack:3165,force_strike:1952,skill_1:4169,skill_4:2706,s4_poison:505,dx:4558,ds:2330
-13447,_c_Marty,3*,flame,sword,7665,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hit10 & hp50 & hit15>,50% poison uptime,attack:2197,force_strike:1355,skill_1:2884,skill_4:1867,s4_poison:349,dx:3178,ds:1615
+19512,Marty,3*,flame,sword,8621,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hit10 & hp50 & hit15>,50% poison uptime,attack:3185,force_strike:1964,skill_1:4196,skill_4:2723,s4_poison:509,dx:4587,ds:2345
+13532,_c_Marty,3*,flame,sword,7713,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hit10 & hp50 & hit15>,50% poison uptime,attack:2211,force_strike:1363,skill_1:2902,skill_4:1879,s4_poison:351,dx:3198,ds:1625
 -,120,affliction
-21463,Marty,3*,flame,sword,8585,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hit10 & hp50>,50% poison uptime,attack:3517,force_strike:2169,skill_1:4636,skill_4:2984,s4_poison:557,dx:5026,ds:2569
-17520,_c_Marty,3*,flame,sword,7681,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hit10 & hp50>,50% poison uptime,attack:2863,force_strike:1765,skill_1:3757,skill_4:2432,s4_poison:454,dx:4140,ds:2104
+21599,Marty,3*,flame,sword,8640,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hit10 & hp50>,50% poison uptime,attack:3539,force_strike:2183,skill_1:4665,skill_4:3003,s4_poison:561,dx:5058,ds:2586
+17631,_c_Marty,3*,flame,sword,7730,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hit10 & hp50>,50% poison uptime,attack:2881,force_strike:1776,skill_1:3781,skill_4:2448,s4_poison:457,dx:4167,ds:2117
 -,180,_
-19271,Marty,3*,flame,sword,8566,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hit10 & hp50 & hit15>,55% poison uptime,attack:3443,force_strike:2124,skill_1:4569,skill_4:3242,s4_poison:551,dx:3777,ds:1561
-13354,_c_Marty,3*,flame,sword,7665,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hit10 & hp50 & hit15>,55% poison uptime,attack:2383,force_strike:1469,skill_1:3156,skill_4:2241,s4_poison:380,dx:2639,ds:1082
+19394,Marty,3*,flame,sword,8621,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hit10 & hp50 & hit15>,55% poison uptime,attack:3465,force_strike:2138,skill_1:4598,skill_4:3262,s4_poison:555,dx:3801,ds:1571
+13438,_c_Marty,3*,flame,sword,7713,The_Shining_Overlord,Primal_Crisis,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hit10 & hp50 & hit15>,55% poison uptime,attack:2398,force_strike:1479,skill_1:3176,skill_4:2255,s4_poison:383,dx:2655,ds:1089
 -,180,affliction
-21306,Marty,3*,flame,sword,8585,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hit10 & hp50>,55% poison uptime,attack:3816,force_strike:2354,skill_1:5064,skill_4:3575,s4_poison:608,dx:4165,ds:1721
-17398,_c_Marty,3*,flame,sword,7681,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hit10 & hp50>,55% poison uptime,attack:3105,force_strike:1915,skill_1:4112,skill_4:2919,s4_poison:496,dx:3438,ds:1410
+21441,Marty,3*,flame,sword,8640,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hit10 & hp50>,55% poison uptime,attack:3840,force_strike:2369,skill_1:5096,skill_4:3597,s4_poison:612,dx:4191,ds:1732
+17508,_c_Marty,3*,flame,sword,7730,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hit10 & hp50>,55% poison uptime,attack:3124,force_strike:1927,skill_1:4138,skill_4:2938,s4_poison:499,dx:3460,ds:1419
