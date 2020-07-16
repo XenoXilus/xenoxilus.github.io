@@ -1,18 +1,18 @@
 -,60,_
-28496,Ieyasu,5*,shadow,blade,5375,Resounding_Rendition,United_by_One_Vision,Gala_Cat_Sith,Agito1,Wand,Dagger,Axe2,Weapon,Curran,<always connect hits & hp70>,,attack:2979,skill_1:10784,s1_bleed:7529,skill_4:1722,team_buff:172,dx:1527,ds:3780
-20815,_c_Ieyasu,5*,shadow,blade,4757,Resounding_Rendition,United_by_One_Vision,Gala_Cat_Sith,Agito1,Wand,Dagger,Axe2,Weapon,Curran,!<always connect hits & hp70>,,attack:2155,skill_1:7873,s1_bleed:5461,skill_4:1277,team_buff:172,dx:1115,ds:2759
+30283,Ieyasu,5*,shadow,blade,5375,Resounding_Rendition,United_by_One_Vision,Gala_Cat_Sith,Agito1,Wand,Dagger,Axe2,Weapon,Curran,<always connect hits & hp70>,,attack:3223,force_strike:129,skill_1:12987,s1_bleed:10275,skill_4:3491,team_buff:174
+22189,_c_Ieyasu,5*,shadow,blade,4757,Resounding_Rendition,United_by_One_Vision,Gala_Cat_Sith,Agito1,Wand,Dagger,Axe2,Weapon,Curran,!<always connect hits & hp70>,,attack:2346,force_strike:94,skill_1:9506,s1_bleed:7476,skill_4:2590,team_buff:174
 -,60,affliction
-37211,Ieyasu,5*,shadow,blade,5485,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Bow,Axe2,Weapon,Curran,<always connect hits & hp70 & hp100>,,attack:3330,skill_1:14524,s1_bleed:10111,skill_4:3114,team_buff:172,dx:1714,ds:4242
-26190,_c_Ieyasu,5*,shadow,blade,4769,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Bow,Axe2,Weapon,Curran,!<always connect hits & hp70 & hp100>,,attack:2317,skill_1:10218,s1_bleed:7057,skill_4:2234,team_buff:172,dx:1206,ds:2984
+43753,Ieyasu,5*,shadow,blade,5485,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Dagger,Axe2,Weapon,Curran,<always connect hits & hp70 & hp100>,,attack:4015,force_strike:156,skill_1:18786,s1_bleed:13889,skill_4:6733,team_buff:171
+31495,_c_Ieyasu,5*,shadow,blade,4769,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Dagger,Axe2,Weapon,Curran,!<always connect hits & hp70 & hp100>,,attack:2869,force_strike:111,skill_1:13511,s1_bleed:9920,skill_4:4908,team_buff:171
 -,120,_
-33207,Ieyasu,5*,shadow,blade,5375,Resounding_Rendition,United_by_One_Vision,Gala_Cat_Sith,Agito1,Wand,Dagger,Axe2,Weapon,Curran,<always connect hits & hp70>,,attack:3279,skill_1:12195,s1_bleed:11270,skill_4:3501,team_buff:262,dx:776,ds:1921
-24408,_c_Ieyasu,5*,shadow,blade,4757,Resounding_Rendition,United_by_One_Vision,Gala_Cat_Sith,Agito1,Wand,Dagger,Axe2,Weapon,Curran,!<always connect hits & hp70>,,attack:2387,skill_1:8939,s1_bleed:8250,skill_4:2597,team_buff:262,dx:566,ds:1402
+33361,Ieyasu,5*,shadow,blade,5375,Resounding_Rendition,United_by_One_Vision,Gala_Cat_Sith,Agito1,Wand,Dagger,Axe2,Weapon,Curran,<always connect hits & hp70>,,attack:3285,force_strike:145,skill_1:13924,s1_bleed:12176,skill_4:3481,team_buff:348
+22324,_c_Ieyasu,5*,shadow,blade,4757,Resounding_Rendition,United_by_One_Vision,Gala_Cat_Sith,Agito1,Wand,Dagger,Axe2,Weapon,Curran,!<always connect hits & hp70>,,attack:2394,force_strike:105,skill_1:8868,s1_bleed:8439,skill_4:2167,team_buff:348
 -,120,affliction
-44947,Ieyasu,5*,shadow,blade,5485,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Bow,Axe2,Weapon,Curran,<always connect hits & hp70 & hp100>,,attack:3676,skill_1:16453,s1_bleed:15196,skill_4:6331,team_buff:262,dx:871,ds:2156
-31871,_c_Ieyasu,5*,shadow,blade,4769,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Bow,Axe2,Weapon,Curran,!<always connect hits & hp70 & hp100>,,attack:2576,skill_1:11632,s1_bleed:10727,skill_4:4541,team_buff:262,dx:612,ds:1516
+48216,Ieyasu,5*,shadow,blade,5485,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Dagger,Axe2,Weapon,Curran,<always connect hits & hp70 & hp100>,,attack:4097,force_strike:179,skill_1:19160,s1_bleed:17559,skill_4:6867,team_buff:350
+32172,_c_Ieyasu,5*,shadow,blade,4769,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Dagger,Axe2,Weapon,Curran,!<always connect hits & hp70 & hp100>,,attack:2931,force_strike:128,skill_1:12517,s1_bleed:12041,skill_4:4202,team_buff:350
 -,180,_
-33427,Ieyasu,5*,shadow,blade,5375,Resounding_Rendition,United_by_One_Vision,Gala_Cat_Sith,Agito1,Wand,Dagger,Axe2,Weapon,Curran,<always connect hits & hp70>,,attack:3327,skill_1:13062,s1_bleed:11411,skill_4:3484,team_buff:348,dx:517,ds:1274
-24599,_c_Ieyasu,5*,shadow,blade,4757,Resounding_Rendition,United_by_One_Vision,Gala_Cat_Sith,Agito1,Wand,Dagger,Axe2,Weapon,Curran,!<always connect hits & hp70>,,attack:2422,skill_1:9576,s1_bleed:8356,skill_4:2585,team_buff:348,dx:377,ds:930
+34943,Ieyasu,5*,shadow,blade,5375,Resounding_Rendition,United_by_One_Vision,Gala_Cat_Sith,Agito1,Wand,Dagger,Axe2,Weapon,Curran,<always connect hits & hp70>,,attack:3276,force_strike:152,skill_1:13790,s1_bleed:13294,skill_4:4078,team_buff:349
+18879,_c_Ieyasu,5*,shadow,blade,4757,Resounding_Rendition,United_by_One_Vision,Gala_Cat_Sith,Agito1,Wand,Dagger,Axe2,Weapon,Curran,!<always connect hits & hp70>,,attack:2392,force_strike:111,skill_1:7110,s1_bleed:7000,skill_4:1914,team_buff:349
 -,180,affliction
-45404,Ieyasu,5*,shadow,blade,5485,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Bow,Axe2,Weapon,Curran,<always connect hits & hp70 & hp100>,,attack:3730,skill_1:17624,s1_bleed:15389,skill_4:6300,team_buff:348,dx:580,ds:1430
-32228,_c_Ieyasu,5*,shadow,blade,4769,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Bow,Axe2,Weapon,Curran,!<always connect hits & hp70 & hp100>,,attack:2615,skill_1:12462,s1_bleed:10867,skill_4:4519,team_buff:348,dx:408,ds:1006
+50857,Ieyasu,5*,shadow,blade,5485,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Dagger,Axe2,Weapon,Curran,<always connect hits & hp70 & hp100>,,attack:4128,force_strike:187,skill_1:19297,s1_bleed:18884,skill_4:8008,team_buff:350
+27038,_c_Ieyasu,5*,shadow,blade,4769,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Wand,Dagger,Axe2,Weapon,Curran,!<always connect hits & hp70 & hp100>,,attack:2957,force_strike:134,skill_1:10026,s1_bleed:9875,skill_4:3693,team_buff:350
