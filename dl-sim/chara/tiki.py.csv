@@ -1,18 +1,18 @@
 -,60,_
-18572,Tiki,5*,water,dagger,6333,Twinfold_Bonds,The_Chocolatiers,Nimis,Agito1,Blade,Xander,Dagger,Weapon,Gala_Luca,<hit10 & hit15>,dragon damage does not work on divine dragon; 87% frostbite uptime,attack:8836,skill_1:4229,s1_frostbite:1171,skill_2:4266,dx:68
-14999,_c_Tiki,5*,water,dagger,6333,Twinfold_Bonds,The_Chocolatiers,Nimis,Agito1,Blade,Xander,Dagger,Weapon,Gala_Luca,!<hit10 & hit15>,dragon damage does not work on divine dragon; 87% frostbite uptime,attack:7158,skill_1:3268,s1_frostbite:903,skill_2:3600,dx:68
+17768,Tiki,5*,water,dagger,6333,Twinfold_Bonds,The_Chocolatiers,Nimis,Agito1,Blade,Xander,Dagger,Weapon,,<hit10 & hit15>,dragon damage does not work on divine dragon; 87% frostbite uptime,attack:8836,skill_1:3603,s1_frostbite:993,skill_2:4266,dx:68
+14647,_c_Tiki,5*,water,dagger,6333,Twinfold_Bonds,The_Chocolatiers,Nimis,Agito1,Blade,Xander,Dagger,Weapon,,!<hit10 & hit15>,dragon damage does not work on divine dragon; 87% frostbite uptime,attack:7158,skill_1:2996,s1_frostbite:823,skill_2:3600,dx:68
 -,60,affliction
-18821,Tiki,5*,water,dagger,6333,Twinfold_Bonds,The_Chocolatiers,Nimis,Agito1,Blade,Xander,Dagger,Weapon,Gala_Luca,<hit10 & hit15>,dragon damage does not work on divine dragon,attack:8847,skill_1:4401,s1_frostbite:1216,skill_2:4266,dx:88
-15248,_c_Tiki,5*,water,dagger,6333,Twinfold_Bonds,The_Chocolatiers,Nimis,Agito1,Blade,Xander,Dagger,Weapon,Gala_Luca,!<hit10 & hit15>,dragon damage does not work on divine dragon,attack:7169,skill_1:3441,s1_frostbite:948,skill_2:3600,dx:88
+18003,Tiki,5*,water,dagger,6333,Twinfold_Bonds,The_Chocolatiers,Nimis,Agito1,Blade,Xander,Dagger,Weapon,,<hit10 & hit15>,dragon damage does not work on divine dragon,attack:8847,skill_1:3764,s1_frostbite:1034,skill_2:4266,dx:88
+14881,_c_Tiki,5*,water,dagger,6333,Twinfold_Bonds,The_Chocolatiers,Nimis,Agito1,Blade,Xander,Dagger,Weapon,,!<hit10 & hit15>,dragon damage does not work on divine dragon,attack:7169,skill_1:3157,s1_frostbite:865,skill_2:3600,dx:88
 -,120,_
-21253,Tiki,5*,water,dagger,6335,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Blade,Xander,Dagger,Weapon,Gala_Luca,<hit10 & hit15>,dragon damage does not work on divine dragon; 81% frostbite uptime,attack:10173,skill_1:5021,s1_frostbite:1407,skill_2:4600,dx:50
-14802,_c_Tiki,5*,water,dagger,6335,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Blade,Xander,Dagger,Weapon,Gala_Luca,!<hit10 & hit15>,dragon damage does not work on divine dragon; 81% frostbite uptime,attack:7236,skill_1:3331,s1_frostbite:930,skill_2:3267,dx:35
+20229,Tiki,5*,water,dagger,6335,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Blade,Xander,Dagger,Weapon,,<hit10 & hit15>,dragon damage does not work on divine dragon; 81% frostbite uptime,attack:10173,skill_1:4223,s1_frostbite:1182,skill_2:4600,dx:50
+14396,_c_Tiki,5*,water,dagger,6335,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Blade,Xander,Dagger,Weapon,,!<hit10 & hit15>,dragon damage does not work on divine dragon; 81% frostbite uptime,attack:7236,skill_1:3015,s1_frostbite:840,skill_2:3267,dx:35
 -,120,affliction
-21624,Tiki,5*,water,dagger,6335,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Blade,Xander,Dagger,Weapon,Gala_Luca,<hit10 & hit15>,dragon damage does not work on divine dragon,attack:10248,skill_1:5254,s1_frostbite:1445,skill_2:4610,dx:65
-15059,_c_Tiki,5*,water,dagger,6335,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Blade,Xander,Dagger,Weapon,Gala_Luca,!<hit10 & hit15>,dragon damage does not work on divine dragon,attack:7293,skill_1:3489,s1_frostbite:955,skill_2:3274,dx:46
+20558,Tiki,5*,water,dagger,6335,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Blade,Xander,Dagger,Weapon,,<hit10 & hit15>,dragon damage does not work on divine dragon,attack:10248,skill_1:4420,s1_frostbite:1213,skill_2:4610,dx:65
+14638,_c_Tiki,5*,water,dagger,6335,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Blade,Xander,Dagger,Weapon,,!<hit10 & hit15>,dragon damage does not work on divine dragon,attack:7293,skill_1:3160,s1_frostbite:862,skill_2:3274,dx:46
 -,180,_
-22272,Tiki,5*,water,dagger,6335,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Blade,Xander,Dagger,Weapon,Gala_Luca,<hit10 & hit15>,dragon damage does not work on divine dragon; 84% frostbite uptime,attack:10862,skill_1:5279,s1_frostbite:1356,skill_2:4741,dx:33
-15508,_c_Tiki,5*,water,dagger,6335,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Blade,Xander,Dagger,Weapon,Gala_Luca,!<hit10 & hit15>,dragon damage does not work on divine dragon; 84% frostbite uptime,attack:7722,skill_1:3497,s1_frostbite:896,skill_2:3367,dx:23
+21214,Tiki,5*,water,dagger,6335,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Blade,Xander,Dagger,Weapon,,<hit10 & hit15>,dragon damage does not work on divine dragon; 84% frostbite uptime,attack:10862,skill_1:4437,s1_frostbite:1139,skill_2:4741,dx:33
+15086,_c_Tiki,5*,water,dagger,6335,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Blade,Xander,Dagger,Weapon,,!<hit10 & hit15>,dragon damage does not work on divine dragon; 84% frostbite uptime,attack:7722,skill_1:3162,s1_frostbite:809,skill_2:3367,dx:23
 -,180,affliction
-22779,Tiki,5*,water,dagger,6335,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Blade,Xander,Dagger,Weapon,Gala_Luca,<hit10 & hit15>,dragon damage does not work on divine dragon,attack:11031,skill_1:5492,s1_frostbite:1390,skill_2:4821,dx:43
-15860,_c_Tiki,5*,water,dagger,6335,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Blade,Xander,Dagger,Weapon,Gala_Luca,!<hit10 & hit15>,dragon damage does not work on divine dragon,attack:7845,skill_1:3640,s1_frostbite:918,skill_2:3424,dx:30
+21682,Tiki,5*,water,dagger,6335,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Blade,Xander,Dagger,Weapon,,<hit10 & hit15>,dragon damage does not work on divine dragon,attack:11031,skill_1:4617,s1_frostbite:1167,skill_2:4821,dx:43
+15424,_c_Tiki,5*,water,dagger,6335,Twinfold_Bonds,The_Prince_of_Dragonyule,Nimis,Agito1,Blade,Xander,Dagger,Weapon,,!<hit10 & hit15>,dragon damage does not work on divine dragon,attack:7845,skill_1:3294,s1_frostbite:829,skill_2:3424,dx:30
