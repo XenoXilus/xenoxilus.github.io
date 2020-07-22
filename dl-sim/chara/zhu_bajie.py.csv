@@ -1,18 +1,18 @@
 -,60,_
-20259,Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,Veronica,<hp=20.0%>,s2 att buff bugged to be 30s; 10% stun uptime,attack:0,force_strike:7238,skill_1:10539,skill_4:2481
-15349,_c_Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,Veronica,!<hp=20.0%>,s2 att buff bugged to be 30s; 10% stun uptime,attack:0,force_strike:7238,skill_1:6230,skill_4:1879
+17696,Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,Veronica,<hp=20.0%>,10% stun uptime,attack:0,force_strike:6338,skill_1:9195,skill_4:2161
+13432,_c_Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,Veronica,!<hp=20.0%>,10% stun uptime,attack:0,force_strike:6338,skill_1:5455,skill_4:1637
 -,60,affliction
-29747,Zhu_Bajie,5*,light,axe,7270,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,Veronica,<hp=20.0%>,s2 att buff bugged to be 30s; 10% stun uptime,attack:0,force_strike:13634,skill_1:13053,skill_4:3059
-23480,_c_Zhu_Bajie,5*,light,axe,6609,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,Veronica,!<hp=20.0%>,s2 att buff bugged to be 30s; 10% stun uptime,attack:0,force_strike:13462,skill_1:7699,skill_4:2317
+25791,Zhu_Bajie,5*,light,axe,7270,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,Veronica,<hp=20.0%>,10% stun uptime,attack:0,force_strike:11861,skill_1:11289,skill_4:2639
+20373,_c_Zhu_Bajie,5*,light,axe,6609,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,Veronica,!<hp=20.0%>,10% stun uptime,attack:0,force_strike:11690,skill_1:6683,skill_4:1999
 -,120,_
-22935,Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,Veronica,<hp=20.0%>,s2 att buff bugged to be 30s,attack:0,force_strike:7831,skill_1:11758,skill_4:3345
-17219,_c_Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,Veronica,!<hp=20.0%>,s2 att buff bugged to be 30s,attack:0,force_strike:7831,skill_1:6853,skill_4:2534
+18821,Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,Veronica,<hp=20.0%>,,attack:0,force_strike:6431,skill_1:9666,skill_4:2722
+14142,_c_Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,Veronica,!<hp=20.0%>,,attack:0,force_strike:6431,skill_1:5648,skill_4:2062
 -,120,affliction
-33381,Zhu_Bajie,5*,light,axe,7270,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,Veronica,<hp=20.0%>,s2 att buff bugged to be 30s,attack:0,force_strike:14650,skill_1:14586,skill_4:4143
-26196,_c_Zhu_Bajie,5*,light,axe,6609,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,Veronica,!<hp=20.0%>,s2 att buff bugged to be 30s,attack:0,force_strike:14564,skill_1:8492,skill_4:3139
+27049,Zhu_Bajie,5*,light,axe,7270,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,Veronica,<hp=20.0%>,,attack:0,force_strike:11888,skill_1:11835,skill_4:3325
+21230,_c_Zhu_Bajie,5*,light,axe,6609,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,Veronica,!<hp=20.0%>,,attack:0,force_strike:11802,skill_1:6908,skill_4:2519
 -,180,_
-23914,Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,Veronica,<hp=20.0%>,s2 att buff bugged to be 30s,attack:0,force_strike:8067,skill_1:12201,skill_4:3644
-17911,_c_Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,Veronica,!<hp=20.0%>,s2 att buff bugged to be 30s,attack:0,force_strike:8067,skill_1:7082,skill_4:2761
+19241,Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,Veronica,<hp=20.0%>,,attack:0,force_strike:6486,skill_1:9839,skill_4:2915
+14416,_c_Zhu_Bajie,5*,light,axe,7036,Mega_Friends,Dear_Diary,Cupid,HDT2,Blade,Grace,Peony,Weapon,Veronica,!<hp=20.0%>,,attack:0,force_strike:6486,skill_1:5721,skill_4:2209
 -,180,affliction
-34725,Zhu_Bajie,5*,light,axe,7270,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,Veronica,<hp=20.0%>,s2 att buff bugged to be 30s,attack:0,force_strike:15062,skill_1:15143,skill_4:4519
-27212,_c_Zhu_Bajie,5*,light,axe,6609,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,Veronica,!<hp=20.0%>,s2 att buff bugged to be 30s,attack:0,force_strike:15004,skill_1:8783,skill_4:3423
+27540,Zhu_Bajie,5*,light,axe,7270,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,Veronica,<hp=20.0%>,,attack:0,force_strike:11943,skill_1:12035,skill_4:3560
+21577,_c_Zhu_Bajie,5*,light,axe,6609,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Grace,Peony,Weapon,Veronica,!<hp=20.0%>,,attack:0,force_strike:11885,skill_1:6993,skill_4:2697
