@@ -1,18 +1,18 @@
 -,60,_
-30582,Durant,4*,shadow,blade,9417,Proper_Maintenance,Howling_to_the_Heavens,Fatalis,Agito1,Tiki,Tobias,Axe2,Weapon,Curran,<hp100 & hit15>,,attack:24074,skill_4:6159,team_buff:348
-23250,_c_Durant,4*,shadow,blade,8149,Proper_Maintenance,Howling_to_the_Heavens,Fatalis,Agito1,Tiki,Tobias,Axe2,Weapon,Curran,!<hp100 & hit15>,,attack:18237,skill_4:4663,team_buff:348
+33146,Durant,4*,shadow,blade,9973,Proper_Maintenance,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,<hp100 & hit15>,,attack:26137,skill_4:6660,team_buff:348
+25408,_c_Durant,4*,shadow,blade,8630,Proper_Maintenance,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,!<hp100 & hit15>,,attack:19955,skill_4:5104,team_buff:348
 -,60,affliction
-35971,Durant,4*,shadow,blade,8029,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito1,Tiki,Tobias,Axe2,Weapon,Curran,<hp100>,,attack:12325,skill_4:4760,team_buff:348,dx:15673,ds_poison:904,ds:1957
-28804,_c_Durant,4*,shadow,blade,6766,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito1,Tiki,Tobias,Axe2,Weapon,Curran,!<hp100>,,attack:9984,skill_4:3805,team_buff:348,dx:12401,ds_poison:715,ds:1549
+39446,Durant,4*,shadow,blade,8505,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,<hp100>,,attack:13563,skill_4:5233,team_buff:348,dx:17165,ds_poison:990,ds:2144
+31473,_c_Durant,4*,shadow,blade,7167,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,!<hp100>,,attack:10941,skill_4:4167,team_buff:348,dx:13541,ds_poison:781,ds:1691
 -,120,_
-36689,Durant,4*,shadow,blade,9417,Proper_Maintenance,Howling_to_the_Heavens,Fatalis,Agito1,Tiki,Tobias,Axe2,Weapon,Curran,<hp100 & hit15>,,attack:29272,skill_4:6891,team_buff:524
-27915,_c_Durant,4*,shadow,blade,8149,Proper_Maintenance,Howling_to_the_Heavens,Fatalis,Agito1,Tiki,Tobias,Axe2,Weapon,Curran,!<hp100 & hit15>,,attack:22152,skill_4:5238,team_buff:524
+39654,Durant,4*,shadow,blade,9973,Proper_Maintenance,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,<hp100 & hit15>,,attack:31721,skill_4:7408,team_buff:524
+30474,_c_Durant,4*,shadow,blade,8630,Proper_Maintenance,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,!<hp100 & hit15>,,attack:24225,skill_4:5724,team_buff:524
 -,120,affliction
-44635,Durant,4*,shadow,blade,8029,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito1,Tiki,Tobias,Axe2,Weapon,Curran,<hp100>,,attack:22234,skill_4:7702,team_buff:438,dx:11339,ds_poison:591,ds:2328
-35506,_c_Durant,4*,shadow,blade,6766,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito1,Tiki,Tobias,Axe2,Weapon,Curran,!<hp100>,,attack:17640,skill_4:6104,team_buff:438,dx:9011,ds_poison:468,ds:1842
+48865,Durant,4*,shadow,blade,8505,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,<hp100>,,attack:24348,skill_4:8440,team_buff:438,dx:12438,ds_poison:647,ds:2550
+38744,_c_Durant,4*,shadow,blade,7167,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,!<hp100>,,attack:19259,skill_4:6669,team_buff:438,dx:9853,ds_poison:511,ds:2012
 -,180,_
-39025,Durant,4*,shadow,blade,9417,Proper_Maintenance,Howling_to_the_Heavens,Fatalis,Agito1,Tiki,Tobias,Axe2,Weapon,Curran,<hp100 & hit15>,,attack:30591,skill_4:7908,team_buff:525
-29686,_c_Durant,4*,shadow,blade,8149,Proper_Maintenance,Howling_to_the_Heavens,Fatalis,Agito1,Tiki,Tobias,Axe2,Weapon,Curran,!<hp100 & hit15>,,attack:23150,skill_4:6009,team_buff:525
+42150,Durant,4*,shadow,blade,9973,Proper_Maintenance,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,<hp100 & hit15>,,attack:33121,skill_4:8503,team_buff:525
+32403,_c_Durant,4*,shadow,blade,8630,Proper_Maintenance,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,!<hp100 & hit15>,,attack:25312,skill_4:6565,team_buff:525
 -,180,affliction
-47317,Durant,4*,shadow,blade,8029,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito1,Tiki,Tobias,Axe2,Weapon,Curran,<hp100>,,attack:25115,skill_4:9935,team_buff:467,dx:9741,ds_poison:502,ds:1553
-37586,_c_Durant,4*,shadow,blade,6766,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito1,Tiki,Tobias,Axe2,Weapon,Curran,!<hp100>,,attack:19851,skill_4:7815,team_buff:467,dx:7824,ds_poison:397,ds:1229
+51783,Durant,4*,shadow,blade,8505,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,<hp100>,,attack:27478,skill_4:10858,team_buff:467,dx:10727,ds_poison:550,ds:1701
+41004,_c_Durant,4*,shadow,blade,7167,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,!<hp100>,,attack:21657,skill_4:8519,team_buff:467,dx:8582,ds_poison:434,ds:1342

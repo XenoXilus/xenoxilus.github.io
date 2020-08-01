@@ -1,18 +1,18 @@
 -,60,_
-21816,Erik,3*,shadow,axe,4623,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,<always connect hits>,,attack:2466,force_strike:353,skill_1:10117,skill_2:3717,skill_4:1168,team_buff:172,dx:1042,ds:2778
-21816,_c_Erik,3*,shadow,axe,4623,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,!<always connect hits>,,attack:2466,force_strike:353,skill_1:10117,skill_2:3717,skill_4:1168,team_buff:172,dx:1042,ds:2778
+23821,Erik,3*,shadow,axe,4887,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito2,Blade,Wand,Dagger,Weapon,Curran,<always connect hits>,,attack:2682,force_strike:384,skill_1:11062,skill_2:4064,skill_4:1277,team_buff:172,dx:1140,ds:3038
+23821,_c_Erik,3*,shadow,axe,4887,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito2,Blade,Wand,Dagger,Weapon,Curran,!<always connect hits>,,attack:2682,force_strike:384,skill_1:11062,skill_2:4064,skill_4:1277,team_buff:172,dx:1140,ds:3038
 -,60,affliction
-34453,Erik,3*,shadow,axe,5333,Kung_Fu_Masters,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,<always connect hits & hp100>,,attack:3297,force_strike:472,skill_1:17395,skill_2:6391,skill_4:2143,team_buff:172,dx:1394,ds:3184
-29981,_c_Erik,3*,shadow,axe,4637,Kung_Fu_Masters,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,!<always connect hits & hp100>,,attack:2867,force_strike:411,skill_1:15126,skill_2:5557,skill_4:1863,team_buff:172,dx:1212,ds:2769
+37445,Erik,3*,shadow,axe,5636,Kung_Fu_Masters,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Dagger,Weapon,Curran,<always connect hits & hp100>,,attack:3571,force_strike:512,skill_1:18924,skill_2:6952,skill_4:2331,team_buff:172,dx:1516,ds:3464
+32584,_c_Erik,3*,shadow,axe,4901,Kung_Fu_Masters,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Dagger,Weapon,Curran,!<always connect hits & hp100>,,attack:3105,force_strike:445,skill_1:16455,skill_2:6045,skill_4:2027,team_buff:172,dx:1318,ds:3012
 -,120,_
-23932,Erik,3*,shadow,axe,4623,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,<always connect hits>,,attack:2683,force_strike:389,skill_1:11191,skill_2:5625,skill_4:1783,team_buff:262,dx:544,ds:1450
-23932,_c_Erik,3*,shadow,axe,4623,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,!<always connect hits>,,attack:2683,force_strike:389,skill_1:11191,skill_2:5625,skill_4:1783,team_buff:262,dx:544,ds:1450
+26134,Erik,3*,shadow,axe,4887,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito2,Blade,Wand,Dagger,Weapon,Curran,<always connect hits>,,attack:2927,force_strike:424,skill_1:12236,skill_2:6150,skill_4:1950,team_buff:262,dx:595,ds:1586
+26134,_c_Erik,3*,shadow,axe,4887,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito2,Blade,Wand,Dagger,Weapon,Curran,!<always connect hits>,,attack:2927,force_strike:424,skill_1:12236,skill_2:6150,skill_4:1950,team_buff:262,dx:595,ds:1586
 -,120,affliction
-38950,Erik,3*,shadow,axe,5333,Kung_Fu_Masters,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,<always connect hits & hp100>,,attack:3589,force_strike:521,skill_1:19241,skill_2:9672,skill_4:3271,team_buff:262,dx:728,ds:1663
-33904,_c_Erik,3*,shadow,axe,4637,Kung_Fu_Masters,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,!<always connect hits & hp100>,,attack:3121,force_strike:453,skill_1:16732,skill_2:8410,skill_4:2844,team_buff:262,dx:633,ds:1446
+42339,Erik,3*,shadow,axe,5636,Kung_Fu_Masters,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Dagger,Weapon,Curran,<always connect hits & hp100>,,attack:3896,force_strike:565,skill_1:20932,skill_2:10522,skill_4:3558,team_buff:262,dx:792,ds:1809
+36851,_c_Erik,3*,shadow,axe,4901,Kung_Fu_Masters,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Dagger,Weapon,Curran,!<always connect hits & hp100>,,attack:3388,force_strike:491,skill_1:18202,skill_2:9149,skill_4:3094,team_buff:262,dx:688,ds:1573
 -,180,_
-23829,Erik,3*,shadow,axe,4623,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,<always connect hits>,,attack:2758,force_strike:400,skill_1:11495,skill_2:5660,skill_4:1982,team_buff:233,dx:353,ds:943
-21347,_c_Erik,3*,shadow,axe,4623,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,!<always connect hits>,,attack:2758,force_strike:400,skill_1:10382,skill_2:4849,skill_4:1727,team_buff:233,dx:353,ds:639
+26027,Erik,3*,shadow,axe,4887,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito2,Blade,Wand,Dagger,Weapon,Curran,<always connect hits>,,attack:3010,force_strike:437,skill_1:12569,skill_2:6189,skill_4:2168,team_buff:233,dx:386,ds:1031
+23313,_c_Erik,3*,shadow,axe,4887,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito2,Blade,Wand,Dagger,Weapon,Curran,!<always connect hits>,,attack:3010,force_strike:437,skill_1:11351,skill_2:5302,skill_4:1889,team_buff:233,dx:386,ds:699
 -,180,affliction
-39148,Erik,3*,shadow,axe,5333,Kung_Fu_Masters,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,<always connect hits & hp100>,,attack:3688,force_strike:535,skill_1:19765,skill_2:9733,skill_4:3636,team_buff:233,dx:473,ds:1080
-30486,_c_Erik,3*,shadow,axe,4637,Kung_Fu_Masters,The_Fires_of_Hate,Gala_Cat_Sith,Agito1,Blade,Wand,Dagger,Weapon,Curran,!<always connect hits & hp100>,,attack:3207,force_strike:466,skill_1:15522,skill_2:7250,skill_4:2755,team_buff:233,dx:411,ds:637
+42560,Erik,3*,shadow,axe,5636,Kung_Fu_Masters,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Dagger,Weapon,Curran,<always connect hits & hp100>,,attack:4007,force_strike:582,skill_1:21502,skill_2:10588,skill_4:3956,team_buff:233,dx:514,ds:1175
+33139,_c_Erik,3*,shadow,axe,4901,Kung_Fu_Masters,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Dagger,Weapon,Curran,!<always connect hits & hp100>,,attack:3484,force_strike:506,skill_1:16886,skill_2:7888,skill_4:2997,team_buff:233,dx:447,ds:693

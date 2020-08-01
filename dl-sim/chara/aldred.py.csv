@@ -1,18 +1,18 @@
 -,60,_
-32052,Aldred,4*,shadow,blade,7027,The_Chocolatiers,Tough_Love,Gala_Cat_Sith,Agito1,Wand,Summer_Patia,Curran,Weapon,Veronica,<always connect hits & hp≤40 & last offense & hp=1>,maintain dragondrive,attack:3040,skill_1:19346,skill_4:9583,dx:82
-22427,_c_Aldred,4*,shadow,blade,5405,The_Chocolatiers,Tough_Love,Gala_Cat_Sith,Agito1,Wand,Summer_Patia,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & last offense & hp=1>,maintain dragondrive,attack:2456,skill_1:13985,skill_4:5916,dx:68
+35126,Aldred,4*,shadow,blade,7444,The_Chocolatiers,Tough_Love,Gala_Cat_Sith,Agito2,Wand,Summer_Patia,Curran,Weapon,Veronica,<always connect hits & hp≤40 & last offense & hp=1>,maintain dragondrive,attack:3331,skill_1:21201,skill_4:10503,dx:89
+24578,_c_Aldred,4*,shadow,blade,5726,The_Chocolatiers,Tough_Love,Gala_Cat_Sith,Agito2,Wand,Summer_Patia,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & last offense & hp=1>,maintain dragondrive,attack:2692,skill_1:15326,skill_4:6483,dx:74
 -,60,affliction
-33961,Aldred,4*,shadow,blade,7001,The_Chocolatiers,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Summer_Patia,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3530,skill_1:19324,skill_4:11031,dx:73
-22191,_c_Aldred,4*,shadow,blade,5385,The_Chocolatiers,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Summer_Patia,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:2786,skill_1:12882,skill_4:6465,dx:56
+37226,Aldred,4*,shadow,blade,7418,The_Chocolatiers,The_Plaguebringer,Gala_Cat_Sith,Agito2,Wand,Summer_Patia,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3870,skill_1:21182,skill_4:12092,dx:80
+24324,_c_Aldred,4*,shadow,blade,5706,The_Chocolatiers,The_Plaguebringer,Gala_Cat_Sith,Agito2,Wand,Summer_Patia,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3053,skill_1:14121,skill_4:7086,dx:62
 -,120,_
-33001,Aldred,4*,shadow,blade,7030,Heralds_of_Hinomoto,Dear_Diary,Gala_Cat_Sith,Agito1,Wand,Summer_Patia,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3658,skill_1:19705,skill_4:9605,dx:31
-19018,_c_Aldred,4*,shadow,blade,5408,Heralds_of_Hinomoto,Dear_Diary,Gala_Cat_Sith,Agito1,Wand,Summer_Patia,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:2991,skill_1:11189,skill_4:4811,dx:25
+36158,Aldred,4*,shadow,blade,7447,Heralds_of_Hinomoto,Dear_Diary,Gala_Cat_Sith,Agito2,Wand,Summer_Patia,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:4002,skill_1:21594,skill_4:10526,dx:35
+20835,_c_Aldred,4*,shadow,blade,5728,Heralds_of_Hinomoto,Dear_Diary,Gala_Cat_Sith,Agito2,Wand,Summer_Patia,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3272,skill_1:12262,skill_4:5273,dx:27
 -,120,affliction
-37129,Aldred,4*,shadow,blade,7004,Heralds_of_Hinomoto,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Summer_Patia,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3972,skill_1:20962,skill_4:12157,dx:36
-20639,_c_Aldred,4*,shadow,blade,5388,Heralds_of_Hinomoto,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Summer_Patia,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3141,skill_1:11575,skill_4:5893,dx:28
+40688,Aldred,4*,shadow,blade,7421,Heralds_of_Hinomoto,The_Plaguebringer,Gala_Cat_Sith,Agito2,Wand,Summer_Patia,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:4345,skill_1:22976,skill_4:13325,dx:40
+22616,_c_Aldred,4*,shadow,blade,5709,Heralds_of_Hinomoto,The_Plaguebringer,Gala_Cat_Sith,Agito2,Wand,Summer_Patia,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3436,skill_1:12688,skill_4:6460,dx:31
 -,180,_
-33652,Aldred,4*,shadow,blade,7030,Heralds_of_Hinomoto,Dear_Diary,Gala_Cat_Sith,Agito1,Wand,Summer_Patia,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3704,skill_1:21612,skill_4:8313,dx:21
-16723,_c_Aldred,4*,shadow,blade,5408,Heralds_of_Hinomoto,Dear_Diary,Gala_Cat_Sith,Agito1,Wand,Summer_Patia,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3048,skill_1:9892,skill_4:3765,dx:16
+36874,Aldred,4*,shadow,blade,7447,Heralds_of_Hinomoto,Dear_Diary,Gala_Cat_Sith,Agito2,Wand,Summer_Patia,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:4054,skill_1:23684,skill_4:9110,dx:23
+18323,_c_Aldred,4*,shadow,blade,5728,Heralds_of_Hinomoto,Dear_Diary,Gala_Cat_Sith,Agito2,Wand,Summer_Patia,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3337,skill_1:10841,skill_4:4126,dx:18
 -,180,affliction
-37240,Aldred,4*,shadow,blade,7004,Heralds_of_Hinomoto,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Summer_Patia,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3960,skill_1:22771,skill_4:10483,dx:24
-17900,_c_Aldred,4*,shadow,blade,5388,Heralds_of_Hinomoto,The_Plaguebringer,Gala_Cat_Sith,Agito1,Wand,Summer_Patia,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3144,skill_1:10141,skill_4:4595,dx:18
+40814,Aldred,4*,shadow,blade,7421,Heralds_of_Hinomoto,The_Plaguebringer,Gala_Cat_Sith,Agito2,Wand,Summer_Patia,Curran,Weapon,Veronica,<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:4335,skill_1:24959,skill_4:11491,dx:26
+19616,_c_Aldred,4*,shadow,blade,5709,Heralds_of_Hinomoto,The_Plaguebringer,Gala_Cat_Sith,Agito2,Wand,Summer_Patia,Curran,Weapon,Veronica,!<always connect hits & hp≤40 & hp=1>,maintain dragondrive,attack:3442,skill_1:11115,skill_4:5037,dx:20

@@ -1,9 +1,9 @@
 -,60,_
-17609,Yue,4*,flame,axe,8930,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hit10 & hp50 & hp70 & hit15>,,attack:4724,force_strike:318,skill_1:3580,dx:6504,ds:2481
-12053,_c_Yue,4*,flame,axe,7990,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hit10 & hp50 & hp70 & hit15>,,attack:3268,force_strike:223,skill_1:2453,dx:4432,ds:1675
+17609,Yue,4*,flame,axe,8930,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Dagger2,Weapon,Ranzal,<hit10 & hp50 & hp70 & hit15>,,attack:4724,force_strike:318,skill_1:3580,dx:6504,ds:2481
+12053,_c_Yue,4*,flame,axe,7990,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Dagger2,Weapon,Ranzal,!<hit10 & hp50 & hp70 & hit15>,,attack:3268,force_strike:223,skill_1:2453,dx:4432,ds:1675
 -,60,affliction
-20253,Yue,4*,flame,axe,8928,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,<hit10 & hp50>,,attack:5638,force_strike:382,skill_1:3947,dx:7606,ds:2678
-16600,_c_Yue,4*,flame,axe,7988,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Tiki,Weapon,Ranzal,!<hit10 & hp50>,,attack:4646,force_strike:317,skill_1:3212,dx:6244,ds:2178
+20253,Yue,4*,flame,axe,8928,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Dagger2,Weapon,Ranzal,<hit10 & hp50>,,attack:5638,force_strike:382,skill_1:3947,dx:7606,ds:2678
+16600,_c_Yue,4*,flame,axe,7988,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Dagger2,Weapon,Ranzal,!<hit10 & hp50>,,attack:4646,force_strike:317,skill_1:3212,dx:6244,ds:2178
 -,120,_
 16826,Yue,4*,flame,axe,8930,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Ranzal,<hit10 & hp50 & hp70 & hit15>,25% poison uptime,attack:5250,force_strike:437,skill_1:4846,skill_4:1651,s4_poison:308,dx:2976,ds:1352
 11048,_c_Yue,4*,flame,axe,7990,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Ranzal,!<hit10 & hp50 & hp70 & hit15>,25% poison uptime,attack:3440,force_strike:287,skill_1:3172,skill_4:1084,s4_poison:202,dx:1972,ds:888
