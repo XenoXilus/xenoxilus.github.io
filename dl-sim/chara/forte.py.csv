@@ -1,18 +1,18 @@
 -,60,_
-28237,Forte,5*,shadow,lance,4687,Dragon_and_Tamer,The_Red_Impulse,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits>,,attack:1726,force_strike:59,skill_1:9214,skill_2:8978,skill_4:2640,team_buff:173,dx:1891,ds:3551
-28237,_c_Forte,5*,shadow,lance,4687,Dragon_and_Tamer,The_Red_Impulse,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits>,,attack:1726,force_strike:59,skill_1:9214,skill_2:8978,skill_4:2640,team_buff:173,dx:1891,ds:3551
+28504,Forte,5*,shadow,lance,4687,Dragon_and_Tamer,The_Red_Impulse,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits>,,attack:1744,force_strike:60,skill_1:9301,skill_2:9062,skill_4:2665,team_buff:175,dx:1909,ds:3585
+28504,_c_Forte,5*,shadow,lance,4687,Dragon_and_Tamer,The_Red_Impulse,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits>,,attack:1744,force_strike:60,skill_1:9301,skill_2:9062,skill_4:2665,team_buff:175,dx:1909,ds:3585
 -,60,affliction
-51345,Forte,5*,shadow,lance,5390,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits & hp100>,,attack:2840,force_strike:103,skill_1:19077,skill_2:14161,skill_4:6625,team_buff:173,dx:2935,ds:5426
-44670,_c_Forte,5*,shadow,lance,4687,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits & hp100>,,attack:2470,force_strike:89,skill_1:16589,skill_2:12314,skill_4:5761,team_buff:173,dx:2552,ds:4718
+51830,Forte,5*,shadow,lance,5390,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits & hp100>,,attack:2869,force_strike:104,skill_1:19256,skill_2:14294,skill_4:6688,team_buff:175,dx:2963,ds:5477
+45093,_c_Forte,5*,shadow,lance,4687,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits & hp100>,,attack:2495,force_strike:90,skill_1:16745,skill_2:12430,skill_4:5815,team_buff:175,dx:2576,ds:4762
 -,120,_
-35774,Forte,5*,shadow,lance,4687,Dragon_and_Tamer,The_Red_Impulse,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits>,,attack:2017,force_strike:205,skill_1:11760,skill_2:12545,skill_4:3035,team_buff:347,dx:1532,ds:4329
-35774,_c_Forte,5*,shadow,lance,4687,Dragon_and_Tamer,The_Red_Impulse,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits>,,attack:2017,force_strike:205,skill_1:11760,skill_2:12545,skill_4:3035,team_buff:347,dx:1532,ds:4329
+36027,Forte,5*,shadow,lance,4687,Dragon_and_Tamer,The_Red_Impulse,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits>,,attack:2032,force_strike:207,skill_1:11843,skill_2:12633,skill_4:3057,team_buff:350,dx:1543,ds:4359
+36027,_c_Forte,5*,shadow,lance,4687,Dragon_and_Tamer,The_Red_Impulse,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits>,,attack:2032,force_strike:207,skill_1:11843,skill_2:12633,skill_4:3057,team_buff:350,dx:1543,ds:4359
 -,120,affliction
-61430,Forte,5*,shadow,lance,5390,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits & hp100>,,attack:3187,force_strike:320,skill_1:23035,skill_2:18721,skill_4:7297,team_buff:347,dx:2324,ds:6193
-53462,_c_Forte,5*,shadow,lance,4687,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits & hp100>,,attack:2772,force_strike:278,skill_1:20030,skill_2:16279,skill_4:6346,team_buff:347,dx:2021,ds:5385
+61864,Forte,5*,shadow,lance,5390,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits & hp100>,,attack:3211,force_strike:322,skill_1:23197,skill_2:18853,skill_4:7349,team_buff:350,dx:2340,ds:6237
+53840,_c_Forte,5*,shadow,lance,4687,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits & hp100>,,attack:2792,force_strike:280,skill_1:20172,skill_2:16394,skill_4:6390,team_buff:350,dx:2035,ds:5423
 -,180,_
-39851,Forte,5*,shadow,lance,4687,Dragon_and_Tamer,The_Red_Impulse,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits>,,attack:2307,force_strike:175,skill_1:13220,skill_2:14534,skill_4:4029,team_buff:409,dx:1349,ds:3824
-39851,_c_Forte,5*,shadow,lance,4687,Dragon_and_Tamer,The_Red_Impulse,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits>,,attack:2307,force_strike:175,skill_1:13220,skill_2:14534,skill_4:4029,team_buff:409,dx:1349,ds:3824
+40639,Forte,5*,shadow,lance,4687,Dragon_and_Tamer,The_Red_Impulse,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits>,,attack:2321,force_strike:175,skill_1:13995,skill_2:14533,skill_4:4029,team_buff:409,dx:1349,ds:3823
+40639,_c_Forte,5*,shadow,lance,4687,Dragon_and_Tamer,The_Red_Impulse,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits>,,attack:2321,force_strike:175,skill_1:13995,skill_2:14533,skill_4:4029,team_buff:409,dx:1349,ds:3823
 -,180,affliction
-67393,Forte,5*,shadow,lance,5390,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits & hp100>,,attack:3566,force_strike:271,skill_1:25224,skill_2:21143,skill_4:9341,team_buff:409,dx:2029,ds:5407
-58656,_c_Forte,5*,shadow,lance,4687,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits & hp100>,,attack:3101,force_strike:235,skill_1:21934,skill_2:18385,skill_4:8123,team_buff:409,dx:1764,ds:4702
+68786,Forte,5*,shadow,lance,5390,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,<always connect hits & hp100>,,attack:3586,force_strike:271,skill_1:26599,skill_2:21142,skill_4:9341,team_buff:409,dx:2029,ds:5407
+59867,_c_Forte,5*,shadow,lance,4687,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Cleo,Weapon,Curran,!<always connect hits & hp100>,,attack:3118,force_strike:235,skill_1:23129,skill_2:18384,skill_4:8122,team_buff:409,dx:1764,ds:4702
