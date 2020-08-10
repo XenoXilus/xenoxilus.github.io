@@ -1,18 +1,18 @@
 -,60,_
-19919,Zace,3*,shadow,lance,4625,Dragon_and_Tamer,Primal_Crisis,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<always connect hits & hit15>,,attack:1678,force_strike:266,skill_1:7168,skill_2:2841,skill_4:2950,team_buff:350,dx:1156,ds:3507
-15824,_c_Zace,3*,shadow,lance,4625,Dragon_and_Tamer,Primal_Crisis,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<always connect hits & hit15>,,attack:1341,force_strike:214,skill_1:5749,skill_2:2220,skill_4:2304,team_buff:350,dx:903,ds:2740
+20189,Zace,3*,shadow,lance,4689,Dragon_and_Tamer,Primal_Crisis,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<always connect hits & hit15>,,attack:1701,force_strike:269,skill_1:7266,skill_2:2881,skill_4:2990,team_buff:350,dx:1172,ds:3555
+16037,_c_Zace,3*,shadow,lance,4689,Dragon_and_Tamer,Primal_Crisis,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<always connect hits & hit15>,,attack:1359,force_strike:217,skill_1:5828,skill_2:2250,skill_4:2336,team_buff:350,dx:915,ds:2777
 -,60,affliction
-23667,Zace,3*,shadow,lance,5331,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<always connect hits & hp100>,,attack:1855,force_strike:296,skill_1:7952,skill_2:3070,skill_4:5100,team_buff:350,dx:1249,ds:3790
-20626,_c_Zace,3*,shadow,lance,4636,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<always connect hits & hp100>,,attack:1613,force_strike:257,skill_1:6915,skill_2:2670,skill_4:4435,team_buff:350,dx:1086,ds:3295
+23988,Zace,3*,shadow,lance,5405,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<always connect hits & hp100>,,attack:1880,force_strike:300,skill_1:8062,skill_2:3113,skill_4:5170,team_buff:350,dx:1266,ds:3842
+20905,_c_Zace,3*,shadow,lance,4700,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<always connect hits & hp100>,,attack:1635,force_strike:261,skill_1:7010,skill_2:2707,skill_4:4496,team_buff:350,dx:1101,ds:3341
 -,120,_
-20485,Zace,3*,shadow,lance,4625,Dragon_and_Tamer,Primal_Crisis,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<always connect hits & hit15>,,attack:1907,force_strike:210,skill_1:8127,skill_2:3707,skill_4:3662,team_buff:435,dx:601,ds:1833
-14080,_c_Zace,3*,shadow,lance,4625,Dragon_and_Tamer,Primal_Crisis,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<always connect hits & hit15>,,attack:1504,force_strike:167,skill_1:6197,skill_2:2667,skill_4:2125,team_buff:435,dx:470,ds:511
+20761,Zace,3*,shadow,lance,4689,Dragon_and_Tamer,Primal_Crisis,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<always connect hits & hit15>,,attack:1933,force_strike:213,skill_1:8240,skill_2:3758,skill_4:3712,team_buff:435,dx:610,ds:1858
+14268,_c_Zace,3*,shadow,lance,4689,Dragon_and_Tamer,Primal_Crisis,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<always connect hits & hit15>,,attack:1525,force_strike:169,skill_1:6283,skill_2:2704,skill_4:2154,team_buff:435,dx:476,ds:518
 -,120,affliction
-24603,Zace,3*,shadow,lance,5331,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<always connect hits & hp100>,,attack:2081,force_strike:231,skill_1:8886,skill_2:4005,skill_4:6331,team_buff:435,dx:650,ds:1981
-18382,_c_Zace,3*,shadow,lance,4636,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<always connect hits & hp100>,,attack:1810,force_strike:201,skill_1:7455,skill_2:3208,skill_4:4089,team_buff:435,dx:565,ds:615
+24936,Zace,3*,shadow,lance,5405,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<always connect hits & hp100>,,attack:2110,force_strike:234,skill_1:9008,skill_2:4061,skill_4:6418,team_buff:435,dx:659,ds:2008
+18629,_c_Zace,3*,shadow,lance,4700,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<always connect hits & hp100>,,attack:1835,force_strike:204,skill_1:7557,skill_2:3253,skill_4:4146,team_buff:435,dx:573,ds:623
 -,180,_
-20516,Zace,3*,shadow,lance,4625,Dragon_and_Tamer,Primal_Crisis,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<always connect hits & hit15>,,attack:1971,force_strike:193,skill_1:8203,skill_2:4069,skill_4:4415,team_buff:466,dx:393,ds:802
-12643,_c_Zace,3*,shadow,lance,4625,Dragon_and_Tamer,Primal_Crisis,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<always connect hits & hit15>,,attack:1550,force_strike:152,skill_1:5224,skill_2:2390,skill_4:2217,team_buff:466,dx:307,ds:334
+20792,Zace,3*,shadow,lance,4689,Dragon_and_Tamer,Primal_Crisis,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<always connect hits & hit15>,,attack:1999,force_strike:195,skill_1:8316,skill_2:4125,skill_4:4476,team_buff:466,dx:398,ds:813
+12811,_c_Zace,3*,shadow,lance,4689,Dragon_and_Tamer,Primal_Crisis,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<always connect hits & hit15>,,attack:1571,force_strike:155,skill_1:5296,skill_2:2423,skill_4:2248,team_buff:466,dx:311,ds:338
 -,180,affliction
-25081,Zace,3*,shadow,lance,5331,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<always connect hits & hp100>,,attack:2144,force_strike:211,skill_1:8933,skill_2:4397,skill_4:7634,team_buff:466,dx:424,ds:867
-16714,_c_Zace,3*,shadow,lance,4636,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<always connect hits & hp100>,,attack:1865,force_strike:183,skill_1:6283,skill_2:2875,skill_4:4267,team_buff:466,dx:369,ds:401
+25419,Zace,3*,shadow,lance,5405,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<always connect hits & hp100>,,attack:2174,force_strike:214,skill_1:9056,skill_2:4457,skill_4:7739,team_buff:466,dx:430,ds:879
+16937,_c_Zace,3*,shadow,lance,4700,Dragon_and_Tamer,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<always connect hits & hp100>,,attack:1890,force_strike:186,skill_1:6370,skill_2:2914,skill_4:4326,team_buff:466,dx:374,ds:407
