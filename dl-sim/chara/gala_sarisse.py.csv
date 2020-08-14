@@ -1,18 +1,18 @@
 -,60,_
-21575,Gala_Sarisse,5*,flame,bow,8619,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,<always connect hits & hit10 & hp50 & hit15>,25% poison uptime,attack:2096,force_strike:590,skill_1:8660,skill_4:1774,s4_poison:331,team_buff:863,dx:4638,ds:2619
-12498,_c_Gala_Sarisse,5*,flame,bow,7711,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,!<always connect hits & hit10 & hp50 & hit15>,25% poison uptime,attack:1388,force_strike:386,skill_1:3670,skill_4:1138,s4_poison:212,team_buff:863,dx:3105,ds:1732
+20944,Gala_Sarisse,5*,flame,bow,8619,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Karl,<always connect hits & hit10 & hp50 & hit15>,,attack:2681,force_strike:841,skill_1:9265,team_buff:1858,dx:3713,ds:2582
+12710,_c_Gala_Sarisse,5*,flame,bow,7711,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Karl,!<always connect hits & hit10 & hp50 & hit15>,,attack:1813,force_strike:560,skill_1:4306,team_buff:1858,dx:2445,ds:1724
 -,60,affliction
-23758,Gala_Sarisse,5*,flame,bow,8637,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,<always connect hits & hit10 & hp50>,25% poison uptime,attack:2345,force_strike:651,skill_1:9562,skill_4:1959,s4_poison:366,team_buff:863,dx:5118,ds:2890
-16022,_c_Gala_Sarisse,5*,flame,bow,7728,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,!<always connect hits & hit10 & hp50>,25% poison uptime,attack:1808,force_strike:503,skill_1:4781,skill_4:1483,s4_poison:277,team_buff:863,dx:4046,ds:2256
+22956,Gala_Sarisse,5*,flame,bow,8637,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Karl,<always connect hits & hit10 & hp50>,,attack:2990,force_strike:929,skill_1:10229,team_buff:1858,dx:4099,ds:2848
+15996,_c_Gala_Sarisse,5*,flame,bow,7728,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Karl,!<always connect hits & hit10 & hp50>,,attack:2362,force_strike:730,skill_1:5610,team_buff:1858,dx:3186,ds:2246
 -,120,_
-22257,Gala_Sarisse,5*,flame,bow,8619,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,<always connect hits & hit10 & hp50 & hit15>,25% poison uptime,attack:2462,force_strike:712,skill_1:9194,skill_4:1934,s4_poison:361,team_buff:860,dx:4134,ds:2596
-12640,_c_Gala_Sarisse,5*,flame,bow,7711,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,!<always connect hits & hit10 & hp50 & hit15>,25% poison uptime,attack:1611,force_strike:465,skill_1:3676,skill_4:1296,s4_poison:242,team_buff:860,dx:2761,ds:1725
+21620,Gala_Sarisse,5*,flame,bow,8619,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Karl,<always connect hits & hit10 & hp50 & hit15>,,attack:2998,force_strike:834,skill_1:11124,team_buff:2163,dx:2573,ds:1925
+12295,_c_Gala_Sarisse,5*,flame,bow,7711,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Karl,!<always connect hits & hit10 & hp50 & hit15>,,attack:1973,force_strike:548,skill_1:4649,team_buff:2163,dx:1689,ds:1269
 -,120,affliction
-24738,Gala_Sarisse,5*,flame,bow,8637,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,<always connect hits & hit10 & hp50>,25% poison uptime,attack:2734,force_strike:786,skill_1:10394,skill_4:2134,s4_poison:399,team_buff:860,dx:4563,ds:2865
-16388,_c_Gala_Sarisse,5*,flame,bow,7728,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,!<always connect hits & hit10 & hp50>,25% poison uptime,attack:2100,force_strike:605,skill_1:4970,skill_4:1689,s4_poison:315,team_buff:860,dx:3598,ds:2248
+23661,Gala_Sarisse,5*,flame,bow,8637,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Karl,<always connect hits & hit10 & hp50>,,attack:3326,force_strike:920,skill_1:12284,team_buff:2163,dx:2840,ds:2124
+15557,_c_Gala_Sarisse,5*,flame,bow,7728,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Karl,!<always connect hits & hit10 & hp50>,,attack:2570,force_strike:714,skill_1:6252,team_buff:2163,dx:2201,ds:1653
 -,180,_
-22348,Gala_Sarisse,5*,flame,bow,8619,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,<always connect hits & hit10 & hp50 & hit15>,35% poison uptime,attack:2566,force_strike:730,skill_1:9889,skill_4:3218,s4_poison:498,team_buff:577,dx:3097,ds:1769
-12236,_c_Gala_Sarisse,5*,flame,bow,7711,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,!<always connect hits & hit10 & hp50 & hit15>,35% poison uptime,attack:1665,force_strike:473,skill_1:3967,skill_4:2013,s4_poison:303,team_buff:577,dx:2077,ds:1158
+21698,Gala_Sarisse,5*,flame,bow,8619,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Karl,<always connect hits & hit10 & hp50 & hit15>,,attack:3083,force_strike:851,skill_1:11593,team_buff:1923,dx:2485,ds:1760
+12294,_c_Gala_Sarisse,5*,flame,bow,7711,Forest_Bonds,Primal_Crisis,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Karl,!<always connect hits & hit10 & hp50 & hit15>,,attack:2026,force_strike:559,skill_1:4984,team_buff:1923,dx:1642,ds:1158
 -,180,affliction
-24665,Gala_Sarisse,5*,flame,bow,8637,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,<always connect hits & hit10 & hp50>,35% poison uptime,attack:2843,force_strike:806,skill_1:10869,skill_4:3630,s4_poison:564,team_buff:577,dx:3418,ds:1953
-16052,_c_Gala_Sarisse,5*,flame,bow,7728,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Ranzal,!<always connect hits & hit10 & hp50>,35% poison uptime,attack:2169,force_strike:617,skill_1:5454,skill_4:2622,s4_poison:394,team_buff:577,dx:2706,ds:1509
+24146,Gala_Sarisse,5*,flame,bow,8637,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Karl,<always connect hits & hit10 & hp50>,,attack:3415,force_strike:939,skill_1:13182,team_buff:1923,dx:2743,ds:1942
+15790,_c_Gala_Sarisse,5*,flame,bow,7728,Forest_Bonds,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Karl,!<always connect hits & hit10 & hp50>,,attack:2639,force_strike:729,skill_1:6848,team_buff:1923,dx:2139,ds:1509

@@ -1,18 +1,18 @@
 -,60,_
-19770,Yue,4*,flame,axe,8930,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Dagger2,Weapon,Ranzal,<hit10 & hp50 & hp70 & hit15>,25% poison uptime,attack:4831,skill_1:3665,skill_4:2025,s4_poison:302,dx:6475,ds:2470
-13577,_c_Yue,4*,flame,axe,7990,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Dagger2,Weapon,Ranzal,!<hit10 & hp50 & hp70 & hit15>,25% poison uptime,attack:3366,skill_1:2516,skill_4:1403,s4_poison:209,dx:4413,ds:1667
+20572,Yue,4*,flame,axe,8118,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Yuya,Marth,Halloween_Mym,Weapon,Kleimann,<hit10 & hp50 & hp70 & hit15>,48% poison uptime,attack:3673,skill_1:2881,skill_4:2590,s4_poison:532,dx:6856,ds:4037
+13769,_c_Yue,4*,flame,axe,7264,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Yuya,Marth,Halloween_Mym,Weapon,Kleimann,!<hit10 & hp50 & hp70 & hit15>,48% poison uptime,attack:2499,skill_1:1947,skill_4:1715,s4_poison:351,dx:4577,ds:2678
 -,60,affliction
-22571,Yue,4*,flame,axe,8928,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Dagger2,Weapon,Ranzal,<hit10 & hp50>,25% poison uptime,attack:5777,skill_1:4039,skill_4:2187,s4_poison:327,dx:7573,ds:2666
-18526,_c_Yue,4*,flame,axe,7988,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Dagger2,Weapon,Ranzal,!<hit10 & hp50>,25% poison uptime,attack:4772,skill_1:3286,skill_4:1809,s4_poison:270,dx:6216,ds:2168
+23318,Yue,4*,flame,axe,8116,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Yuya,Marth,Halloween_Mym,Weapon,Kleimann,<hit10 & hp50>,48% poison uptime,attack:4399,skill_1:3191,skill_4:2791,s4_poison:573,dx:8008,ds:4353
+19123,_c_Yue,4*,flame,axe,7262,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Yuya,Marth,Halloween_Mym,Weapon,Kleimann,!<hit10 & hp50>,48% poison uptime,attack:3642,skill_1:2604,skill_4:2287,s4_poison:469,dx:6571,ds:3549
 -,120,_
-17474,Yue,4*,flame,axe,8930,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Dagger2,Halloween_Mym,Weapon,Ranzal,<hp50 & hp70 & hit15>,32% poison uptime,attack:6182,skill_1:3993,skill_4:2440,s4_poison:378,dx:3250,ds:1228
-12646,_c_Yue,4*,flame,axe,7990,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Dagger2,Halloween_Mym,Weapon,Ranzal,!<hp50 & hp70 & hit15>,32% poison uptime,attack:4467,skill_1:2893,skill_4:1774,s4_poison:275,dx:2347,ds:887
+19208,Yue,4*,flame,axe,8930,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,<hit10 & hp50 & hp70 & hit15>,49% poison uptime,attack:5093,skill_1:3521,skill_4:2529,s4_poison:590,dx:4794,ds:2678
+12643,_c_Yue,4*,flame,axe,7990,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,!<hit10 & hp50 & hp70 & hit15>,49% poison uptime,attack:3348,skill_1:2325,skill_4:1654,s4_poison:386,dx:3170,ds:1758
 -,120,affliction
-19780,Yue,4*,flame,axe,8928,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Dagger2,Halloween_Mym,Weapon,Ranzal,<hp50>,32% poison uptime,attack:7280,skill_1:4341,skill_4:2631,s4_poison:408,dx:3794,ds:1323
-17698,_c_Yue,4*,flame,axe,7988,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Dagger2,Halloween_Mym,Weapon,Ranzal,!<hp50>,32% poison uptime,attack:6514,skill_1:3884,skill_4:2354,s4_poison:365,dx:3395,ds:1184
+21682,Yue,4*,flame,axe,8928,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,<hit10 & hp50>,49% poison uptime,attack:5998,skill_1:3837,skill_4:2725,s4_poison:636,dx:5597,ds:2886
+17681,_c_Yue,4*,flame,axe,7988,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,!<hit10 & hp50>,49% poison uptime,attack:4892,skill_1:3118,skill_4:2217,s4_poison:517,dx:4585,ds:2347
 -,180,_
-18907,Yue,4*,flame,axe,8930,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Dagger2,Halloween_Mym,Weapon,Ranzal,<hp50 & hp70 & hit15>,35% poison uptime,attack:5764,skill_1:3936,skill_4:2799,s4_poison:417,dx:4345,ds:1642
-13666,_c_Yue,4*,flame,axe,7990,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Dagger2,Halloween_Mym,Weapon,Ranzal,!<hp50 & hp70 & hit15>,35% poison uptime,attack:4155,skill_1:2845,skill_4:2037,s4_poison:303,dx:3138,ds:1186
+19449,Yue,4*,flame,axe,8930,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,<hit10 & hp50 & hp70 & hit15>,51% poison uptime,attack:5563,skill_1:4465,skill_4:3044,s4_poison:626,dx:3953,ds:1796
+12786,_c_Yue,4*,flame,axe,7990,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,!<hit10 & hp50 & hp70 & hit15>,51% poison uptime,attack:3643,skill_1:2937,skill_4:1996,s4_poison:411,dx:2618,ds:1179
 -,180,affliction
-21350,Yue,4*,flame,axe,8928,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Dagger2,Halloween_Mym,Weapon,Ranzal,<hp50>,35% poison uptime,attack:6770,skill_1:4267,skill_4:3018,s4_poison:450,dx:5072,ds:1769
-19103,_c_Yue,4*,flame,axe,7988,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Dagger2,Halloween_Mym,Weapon,Ranzal,!<hp50>,35% poison uptime,attack:6057,skill_1:3818,skill_4:2700,s4_poison:403,dx:4538,ds:1583
+21877,Yue,4*,flame,axe,8928,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,<hit10 & hp50>,51% poison uptime,attack:6530,skill_1:4840,skill_4:3280,s4_poison:675,dx:4614,ds:1935
+17834,_c_Yue,4*,flame,axe,7988,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,!<hit10 & hp50>,51% poison uptime,attack:5314,skill_1:3935,skill_4:2671,s4_poison:550,dx:3788,ds:1574
