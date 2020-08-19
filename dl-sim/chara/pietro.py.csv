@@ -1,18 +1,18 @@
 -,60,_
-11773,Pietro,3*,water,axe,5801,Resounding_Rendition,Breakfast_at_Valerios,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,<hit10 & hp70 & hit15 & buff all team>,,attack:2205,force_strike:229,skill_1:1668,dx:7670
-7981,_c_Pietro,3*,water,axe,5801,Resounding_Rendition,Breakfast_at_Valerios,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,!<hit10 & hp70 & hit15 & buff all team>,,attack:1581,force_strike:164,skill_1:1152,dx:5083
+13792,Pietro,3*,water,axe,5786,Summer_Paladyns,Primal_Crisis,Gaibhne_and_Creidhne,Agito1,Tiki,Summer_Celliera,Yurius,Gala_Elisanne,Ranzal,<hit15 & buff all team>,43% poison uptime,attack:2249,skill_1:4065,skill_4:1982,s4_poison:284,team_buff:2095,dx:3114
+9702,_c_Pietro,3*,water,axe,5786,Summer_Paladyns,Primal_Crisis,Gaibhne_and_Creidhne,Agito1,Tiki,Summer_Celliera,Yurius,Gala_Elisanne,Ranzal,!<hit15 & buff all team>,43% poison uptime,attack:1940,skill_1:3383,skill_4:1612,s4_poison:231,dx:2533
 -,60,affliction
-12778,Pietro,3*,water,axe,5768,Primal_Crisis,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,<hit10 & hit15 & buff all team>,,attack:2414,force_strike:252,skill_1:1409,dx:8700
-9204,_c_Pietro,3*,water,axe,5768,Primal_Crisis,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,!<hit10 & hit15 & buff all team>,,attack:1886,force_strike:195,skill_1:1057,dx:6064
+14049,Pietro,3*,water,axe,5781,Resounding_Rendition,His_Clever_Brother,Gaibhne_and_Creidhne,Agito1,Tiki,Summer_Celliera,Yurius,Gala_Elisanne,Ranzal,<hp70 & buff all team>,45% poison uptime,attack:2397,force_strike:85,skill_1:3978,skill_4:1918,s4_poison:317,team_buff:2104,dx:3247
+11223,_c_Pietro,3*,water,axe,5781,Resounding_Rendition,His_Clever_Brother,Gaibhne_and_Creidhne,Agito1,Tiki,Summer_Celliera,Yurius,Gala_Elisanne,Ranzal,!<hp70 & buff all team>,45% poison uptime,attack:2253,force_strike:80,skill_1:3737,skill_4:1802,s4_poison:298,dx:3051
 -,120,_
-12481,Pietro,3*,water,axe,5801,Resounding_Rendition,Breakfast_at_Valerios,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,<hit10 & hp70 & hit15 & buff all team>,17% poison uptime,attack:2936,force_strike:293,skill_1:2009,skill_4:878,s4_poison:98,team_buff:747,dx:5517
-7896,_c_Pietro,3*,water,axe,5801,Resounding_Rendition,Breakfast_at_Valerios,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,!<hit10 & hp70 & hit15 & buff all team>,17% poison uptime,attack:2012,force_strike:201,skill_1:1355,skill_4:581,s4_poison:65,dx:3680
+15423,Pietro,3*,water,axe,5786,Summer_Paladyns,Primal_Crisis,Gaibhne_and_Creidhne,Agito1,Tiki,Summer_Celliera,Yurius,Gala_Elisanne,Ranzal,<hit15 & buff all team>,40% poison uptime,attack:2581,skill_1:3949,skill_4:2743,s4_poison:441,team_buff:2999,dx:2706
+10200,_c_Pietro,3*,water,axe,5786,Summer_Paladyns,Primal_Crisis,Gaibhne_and_Creidhne,Agito1,Tiki,Summer_Celliera,Yurius,Gala_Elisanne,Ranzal,!<hit15 & buff all team>,40% poison uptime,attack:2155,skill_1:3251,skill_4:2232,s4_poison:359,dx:2201
 -,120,affliction
-13189,Pietro,3*,water,axe,5768,Primal_Crisis,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,<hit10 & hit15 & buff all team>,19% poison uptime,attack:3285,force_strike:282,skill_1:1803,skill_4:768,s4_poison:100,team_buff:749,dx:6199
-8846,_c_Pietro,3*,water,axe,5768,Primal_Crisis,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,!<hit10 & hit15 & buff all team>,19% poison uptime,attack:2401,force_strike:208,skill_1:1300,skill_4:535,s4_poison:70,dx:4330
+15540,Pietro,3*,water,axe,5781,Resounding_Rendition,His_Clever_Brother,Gaibhne_and_Creidhne,Agito1,Tiki,Summer_Celliera,Yurius,Gala_Elisanne,Ranzal,<hp70 & buff all team>,40% poison uptime,attack:2757,skill_1:4093,skill_4:2530,s4_poison:398,team_buff:2996,dx:2763
+11786,_c_Pietro,3*,water,axe,5781,Resounding_Rendition,His_Clever_Brother,Gaibhne_and_Creidhne,Agito1,Tiki,Summer_Celliera,Yurius,Gala_Elisanne,Ranzal,!<hp70 & buff all team>,40% poison uptime,attack:2591,skill_1:3846,skill_4:2377,s4_poison:374,dx:2596
 -,180,_
-12969,Pietro,3*,water,axe,5801,Resounding_Rendition,Breakfast_at_Valerios,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,<hit10 & hp70 & hit15 & buff all team>,25% poison uptime,attack:3003,force_strike:314,skill_1:2224,skill_4:956,s4_poison:178,team_buff:997,dx:5294
-8031,_c_Pietro,3*,water,axe,5801,Resounding_Rendition,Breakfast_at_Valerios,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,!<hit10 & hp70 & hit15 & buff all team>,25% poison uptime,attack:2039,force_strike:213,skill_1:1498,skill_4:640,s4_poison:119,dx:3518
+14732,Pietro,3*,water,axe,5786,Summer_Paladyns,Primal_Crisis,Gaibhne_and_Creidhne,Agito1,Tiki,Summer_Celliera,Yurius,Gala_Elisanne,Ranzal,<hit15 & buff all team>,56% poison uptime,attack:2970,force_strike:43,skill_1:4464,skill_4:2465,s4_poison:450,team_buff:2792,dx:1547
+9776,_c_Pietro,3*,water,axe,5786,Summer_Paladyns,Primal_Crisis,Gaibhne_and_Creidhne,Agito1,Tiki,Summer_Celliera,Yurius,Gala_Elisanne,Ranzal,!<hit15 & buff all team>,56% poison uptime,attack:2453,force_strike:35,skill_1:3657,skill_4:2005,s4_poison:366,dx:1258
 -,180,affliction
-13628,Pietro,3*,water,axe,5768,Primal_Crisis,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,<hit10 & hit15 & buff all team>,25% poison uptime,attack:3423,force_strike:322,skill_1:1968,skill_4:833,s4_poison:155,team_buff:996,dx:5928
-8946,_c_Pietro,3*,water,axe,5768,Primal_Crisis,His_Clever_Brother,Nimis,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Ranzal,!<hit10 & hit15 & buff all team>,25% poison uptime,attack:2468,force_strike:232,skill_1:1409,skill_4:587,s4_poison:109,dx:4138
+16387,Pietro,3*,water,axe,5781,Resounding_Rendition,His_Clever_Brother,Gaibhne_and_Creidhne,Agito1,Tiki,Summer_Celliera,Yurius,Gala_Elisanne,Ranzal,<hp70 & buff all team>,54% poison uptime,attack:3084,force_strike:118,skill_1:4545,skill_4:2929,s4_poison:477,team_buff:3493,dx:1737
+12114,_c_Pietro,3*,water,axe,5781,Resounding_Rendition,His_Clever_Brother,Gaibhne_and_Creidhne,Agito1,Tiki,Summer_Celliera,Yurius,Gala_Elisanne,Ranzal,!<hp70 & buff all team>,54% poison uptime,attack:2897,force_strike:111,skill_1:4271,skill_4:2752,s4_poison:448,dx:1632

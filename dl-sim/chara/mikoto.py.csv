@@ -1,18 +1,18 @@
 -,60,_
-27806,Mikoto,5*,flame,blade,9294,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Yuya,Dagger2,Marth,Weapon,Kleimann,<hp70 & hit10 & hp50 & hit15>,33% poison uptime,attack:7740,skill_1:4678,skill_4:2834,s4_poison:379,dx:9178,ds:2995
-17590,_c_Mikoto,5*,flame,blade,8315,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Yuya,Dagger2,Marth,Weapon,Kleimann,!<hp70 & hit10 & hp50 & hit15>,33% poison uptime,attack:4973,skill_1:2921,skill_4:1775,s4_poison:236,dx:5801,ds:1881
+24495,Mikoto,5*,flame,blade,10048,Resounding_Rendition,The_Fires_of_Hate,Gala_Mars,Agito2,Dagger2,Marth,,Weapon,Kleimann,<hp70 & hit10 & hp50 & hp100>,52% poison uptime,attack:6628,skill_1:3317,skill_4:3741,s4_poison:548,dx:7679,ds:2579
+16621,_c_Mikoto,5*,flame,blade,8332,Resounding_Rendition,The_Fires_of_Hate,Gala_Mars,Agito2,Dagger2,Marth,,Weapon,Kleimann,!<hp70 & hit10 & hp50 & hp100>,52% poison uptime,attack:4500,skill_1:2235,skill_4:2542,s4_poison:370,dx:5233,ds:1738
 -,60,affliction
-31228,Mikoto,5*,flame,blade,9292,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Yuya,Dagger2,Marth,Weapon,Kleimann,<hp70 & hit10 & hp50 & hit15>,33% poison uptime,attack:9564,skill_1:4441,skill_4:2690,s4_poison:360,dx:11327,ds:2843
-20818,_c_Mikoto,5*,flame,blade,8314,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Yuya,Dagger2,Marth,Weapon,Kleimann,!<hp70 & hit10 & hp50 & hit15>,33% poison uptime,attack:6463,skill_1:2920,skill_4:1775,s4_poison:236,dx:7539,ds:1881
+27766,Mikoto,5*,flame,blade,9310,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger2,Marth,,Weapon,Kleimann,<hp70 & hit10 & hp50>,52% poison uptime,attack:7132,skill_1:3514,skill_4:4506,s4_poison:660,dx:9109,ds:2842
+20337,_c_Mikoto,5*,flame,blade,8330,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger2,Marth,,Weapon,Kleimann,!<hp70 & hit10 & hp50>,52% poison uptime,attack:5228,skill_1:2554,skill_4:3304,s4_poison:481,dx:6699,ds:2068
 -,120,_
-26885,Mikoto,5*,flame,blade,9294,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Yuya,Dagger2,Marth,Weapon,Kleimann,<hp70 & hit10 & hp50 & hit15>,37% poison uptime,attack:7942,skill_1:4707,skill_4:2027,s4_poison:473,dx:8934,ds:2798
-16908,_c_Mikoto,5*,flame,blade,8315,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Yuya,Dagger2,Marth,Weapon,Kleimann,!<hp70 & hit10 & hp50 & hit15>,37% poison uptime,attack:5022,skill_1:2942,skill_4:1264,s4_poison:295,dx:5635,ds:1747
+24319,Mikoto,5*,flame,blade,10048,Resounding_Rendition,The_Fires_of_Hate,Gala_Mars,Agito2,Dagger2,Marth,,Weapon,Kleimann,<hp70 & hit10 & hp50 & hp100>,73% poison uptime,attack:8430,skill_1:4691,skill_4:3556,s4_poison:800,dx:4747,ds:2092
+16483,_c_Mikoto,5*,flame,blade,8332,Resounding_Rendition,The_Fires_of_Hate,Gala_Mars,Agito2,Dagger2,Marth,,Weapon,Kleimann,!<hp70 & hit10 & hp50 & hp100>,73% poison uptime,attack:5705,skill_1:3167,skill_4:2404,s4_poison:541,dx:3247,ds:1416
 -,120,affliction
-30335,Mikoto,5*,flame,blade,9292,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Yuya,Dagger2,Marth,Weapon,Kleimann,<hp70 & hit10 & hp50 & hit15>,37% poison uptime,attack:9808,skill_1:4469,skill_4:1925,s4_poison:449,dx:11026,ds:2656
-20101,_c_Mikoto,5*,flame,blade,8314,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Yuya,Dagger2,Marth,Weapon,Kleimann,!<hp70 & hit10 & hp50 & hit15>,37% poison uptime,attack:6528,skill_1:2941,skill_4:1264,s4_poison:295,dx:7324,ds:1747
+26392,Mikoto,5*,flame,blade,9310,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger2,Marth,,Weapon,Kleimann,<hp70 & hit10 & hp50>,73% poison uptime,attack:8851,skill_1:4806,skill_4:4284,s4_poison:964,dx:5245,ds:2241
+19305,_c_Mikoto,5*,flame,blade,8330,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger2,Marth,,Weapon,Kleimann,!<hp70 & hit10 & hp50>,73% poison uptime,attack:6464,skill_1:3500,skill_4:3124,s4_poison:703,dx:3873,ds:1638
 -,180,_
-25385,Mikoto,5*,flame,blade,9294,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Yuya,Dagger2,Marth,Weapon,Kleimann,<hp70 & hit10 & hp50 & hit15>,46% poison uptime,attack:9122,skill_1:5046,skill_4:2742,s4_poison:567,dx:5991,ds:1913
-15925,_c_Mikoto,5*,flame,blade,8315,Primal_Crisis,The_Wyrmclan_Duo,Gala_Mars,Agito2,Yuya,Dagger2,Marth,Weapon,Kleimann,!<hp70 & hit10 & hp50 & hit15>,46% poison uptime,attack:5735,skill_1:3148,skill_4:1711,s4_poison:353,dx:3778,ds:1196
+24955,Mikoto,5*,flame,blade,10048,Resounding_Rendition,The_Fires_of_Hate,Gala_Mars,Agito2,Dagger2,Marth,,Weapon,Kleimann,<hp70 & hit10 & hp50 & hp100>,69% poison uptime,attack:8428,skill_1:4747,skill_4:3599,s4_poison:758,dx:5580,ds:1839
+16931,_c_Mikoto,5*,flame,blade,8332,Resounding_Rendition,The_Fires_of_Hate,Gala_Mars,Agito2,Dagger2,Marth,,Weapon,Kleimann,!<hp70 & hit10 & hp50 & hp100>,69% poison uptime,attack:5702,skill_1:3208,skill_4:2435,s4_poison:512,dx:3823,ds:1247
 -,180,affliction
-28407,Mikoto,5*,flame,blade,9292,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Yuya,Dagger2,Marth,Weapon,Kleimann,<hp70 & hit10 & hp50 & hit15>,46% poison uptime,attack:11262,skill_1:4791,skill_4:2603,s4_poison:538,dx:7394,ds:1816
-18774,_c_Mikoto,5*,flame,blade,8314,Primal_Crisis,Me_and_My_Bestie,Gala_Mars,Agito2,Yuya,Dagger2,Marth,Weapon,Kleimann,!<hp70 & hit10 & hp50 & hit15>,46% poison uptime,attack:7454,skill_1:3147,skill_4:1711,s4_poison:353,dx:4910,ds:1196
+27471,Mikoto,5*,flame,blade,9310,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger2,Marth,,Weapon,Kleimann,<hp70 & hit10 & hp50>,69% poison uptime,attack:8830,skill_1:4865,skill_4:4336,s4_poison:913,dx:6486,ds:2038
+20116,_c_Mikoto,5*,flame,blade,8330,Resounding_Rendition,Me_and_My_Bestie,Gala_Mars,Agito2,Dagger2,Marth,,Weapon,Kleimann,!<hp70 & hit10 & hp50>,69% poison uptime,attack:6446,skill_1:3547,skill_4:3166,s4_poison:666,dx:4795,ds:1493

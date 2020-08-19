@@ -1,18 +1,18 @@
 -,60,_
-11309,Dragonyule_Xander,4*,water,wand,7473,Candy_Couriers,Primal_Crisis,Leviathan,Agito1,Tiki,Blade,Thaniel,Gala_Elisanne,Eugene,<hit10 & hit15 & buff all team>,,attack:3158,skill_1:2922,team_energy:82,dx:4111,ds:1033
-8548,_c_Dragonyule_Xander,4*,water,wand,7473,Candy_Couriers,Primal_Crisis,Leviathan,Agito1,Tiki,Blade,Thaniel,Gala_Elisanne,Eugene,!<hit10 & hit15 & buff all team>,,attack:2449,skill_1:2209,dx:3108,ds:781
+14799,Dragonyule_Xander,4*,water,wand,6773,Candy_Couriers,Primal_Crisis,Gaibhne_and_Creidhne,Agito1,Renee,Blade,Bow,Gala_Elisanne,Eugene,<hit15 & buff all team>,,attack:2487,skill_1:4911,skill_4:2679,team_buff:3226,dx:1494
+9593,_c_Dragonyule_Xander,4*,water,wand,6773,Candy_Couriers,Primal_Crisis,Gaibhne_and_Creidhne,Agito1,Renee,Blade,Bow,Gala_Elisanne,Eugene,!<hit15 & buff all team>,,attack:2093,skill_1:4054,skill_4:2211,dx:1233
 -,60,affliction
-11309,Dragonyule_Xander,4*,water,wand,7473,Candy_Couriers,Primal_Crisis,Leviathan,Agito1,Tiki,Blade,Thaniel,Gala_Elisanne,Eugene,<hit10 & hit15 & buff all team>,,attack:3158,skill_1:2922,team_energy:82,dx:4111,ds:1033
-8548,_c_Dragonyule_Xander,4*,water,wand,7473,Candy_Couriers,Primal_Crisis,Leviathan,Agito1,Tiki,Blade,Thaniel,Gala_Elisanne,Eugene,!<hit10 & hit15 & buff all team>,,attack:2449,skill_1:2209,dx:3108,ds:781
+14728,Dragonyule_Xander,4*,water,wand,6766,Candy_Couriers,His_Clever_Brother,Gaibhne_and_Creidhne,Agito1,Renee,Blade,Bow,Gala_Elisanne,Eugene,<buff all team>,,attack:2510,skill_1:4860,skill_4:2651,team_buff:3226,dx:1479
+11501,_c_Dragonyule_Xander,4*,water,wand,6766,Candy_Couriers,His_Clever_Brother,Gaibhne_and_Creidhne,Agito1,Renee,Blade,Bow,Gala_Elisanne,Eugene,!<buff all team>,,attack:2510,skill_1:4860,skill_4:2651,dx:1479
 -,120,_
-13480,Dragonyule_Xander,4*,water,wand,7473,Candy_Couriers,Primal_Crisis,Leviathan,Agito1,Tiki,Blade,Thaniel,Gala_Elisanne,Eugene,<hit10 & hit15 & buff all team>,,attack:3167,skill_1:3315,skill_4:746,team_buff:747,team_energy:83,dx:4238,ds:1182
-9642,_c_Dragonyule_Xander,4*,water,wand,7473,Candy_Couriers,Primal_Crisis,Leviathan,Agito1,Tiki,Blade,Thaniel,Gala_Elisanne,Eugene,!<hit10 & hit15 & buff all team>,,attack:2427,skill_1:2512,skill_4:576,dx:3220,ds:904
+14849,Dragonyule_Xander,4*,water,wand,6773,Candy_Couriers,Primal_Crisis,Gaibhne_and_Creidhne,Agito1,Renee,Blade,Bow,Gala_Elisanne,Eugene,<hit15 & buff all team>,,attack:2502,skill_1:5499,skill_4:2714,team_buff:3203,dx:930
+9634,_c_Dragonyule_Xander,4*,water,wand,6773,Candy_Couriers,Primal_Crisis,Gaibhne_and_Creidhne,Agito1,Renee,Blade,Bow,Gala_Elisanne,Eugene,!<hit15 & buff all team>,,attack:2086,skill_1:4539,skill_4:2240,dx:767
 -,120,affliction
-13480,Dragonyule_Xander,4*,water,wand,7473,Candy_Couriers,Primal_Crisis,Leviathan,Agito1,Tiki,Blade,Thaniel,Gala_Elisanne,Eugene,<hit10 & hit15 & buff all team>,,attack:3167,skill_1:3315,skill_4:746,team_buff:747,team_energy:83,dx:4238,ds:1182
-9642,_c_Dragonyule_Xander,4*,water,wand,7473,Candy_Couriers,Primal_Crisis,Leviathan,Agito1,Tiki,Blade,Thaniel,Gala_Elisanne,Eugene,!<hit10 & hit15 & buff all team>,,attack:2427,skill_1:2512,skill_4:576,dx:3220,ds:904
+15623,Dragonyule_Xander,4*,water,wand,6766,Candy_Couriers,His_Clever_Brother,Gaibhne_and_Creidhne,Agito1,Renee,Blade,Bow,Gala_Elisanne,Eugene,<buff all team>,,attack:2542,skill_1:5440,skill_4:3356,team_buff:3363,dx:920
+12259,_c_Dragonyule_Xander,4*,water,wand,6766,Candy_Couriers,His_Clever_Brother,Gaibhne_and_Creidhne,Agito1,Renee,Blade,Bow,Gala_Elisanne,Eugene,!<buff all team>,,attack:2542,skill_1:5440,skill_4:3356,dx:920
 -,180,_
-13135,Dragonyule_Xander,4*,water,wand,7473,Candy_Couriers,Primal_Crisis,Leviathan,Agito1,Tiki,Blade,Thaniel,Gala_Elisanne,Eugene,<hit10 & hit15 & buff all team>,,attack:3566,skill_1:3502,skill_4:1495,team_buff:998,team_energy:110,dx:2765,ds:695
-9161,_c_Dragonyule_Xander,4*,water,wand,7473,Candy_Couriers,Primal_Crisis,Leviathan,Agito1,Tiki,Blade,Thaniel,Gala_Elisanne,Eugene,!<hit10 & hit15 & buff all team>,,attack:2730,skill_1:2659,skill_4:1154,dx:2090,ds:525
+15278,Dragonyule_Xander,4*,water,wand,6773,Candy_Couriers,Primal_Crisis,Gaibhne_and_Creidhne,Agito1,Renee,Blade,Bow,Gala_Elisanne,Eugene,<hit15 & buff all team>,,attack:2683,skill_1:5724,skill_4:3374,team_buff:2947,dx:548
+10192,_c_Dragonyule_Xander,4*,water,wand,6773,Candy_Couriers,Primal_Crisis,Gaibhne_and_Creidhne,Agito1,Renee,Blade,Bow,Gala_Elisanne,Eugene,!<hit15 & buff all team>,,attack:2229,skill_1:4725,skill_4:2785,dx:452
 -,180,affliction
-13135,Dragonyule_Xander,4*,water,wand,7473,Candy_Couriers,Primal_Crisis,Leviathan,Agito1,Tiki,Blade,Thaniel,Gala_Elisanne,Eugene,<hit10 & hit15 & buff all team>,,attack:3566,skill_1:3502,skill_4:1495,team_buff:998,team_energy:110,dx:2765,ds:695
-9161,_c_Dragonyule_Xander,4*,water,wand,7473,Candy_Couriers,Primal_Crisis,Leviathan,Agito1,Tiki,Blade,Thaniel,Gala_Elisanne,Eugene,!<hit10 & hit15 & buff all team>,,attack:2730,skill_1:2659,skill_4:1154,dx:2090,ds:525
+15964,Dragonyule_Xander,4*,water,wand,6766,Candy_Couriers,His_Clever_Brother,Gaibhne_and_Creidhne,Agito1,Renee,Blade,Bow,Gala_Elisanne,Eugene,<buff all team>,,attack:2720,skill_1:5872,skill_4:3226,team_buff:3603,dx:541
+12360,_c_Dragonyule_Xander,4*,water,wand,6766,Candy_Couriers,His_Clever_Brother,Gaibhne_and_Creidhne,Agito1,Renee,Blade,Bow,Gala_Elisanne,Eugene,!<buff all team>,,attack:2720,skill_1:5872,skill_4:3226,dx:541

@@ -1,18 +1,18 @@
 -,60,_
-13814,Jurota,3*,water,blade,7515,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Eugene,<hit10 & hp70 & hit15 & buff all team>,,attack:3663,skill_1:2366,dx:5690,ds:2092
-10084,_c_Jurota,3*,water,blade,7515,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Eugene,!<hit10 & hp70 & hit15 & buff all team>,,attack:2745,skill_1:1719,dx:4099,ds:1520
+16989,Jurota,3*,water,blade,6811,Resounding_Rendition,Breakfast_at_Valerios,Gaibhne_and_Creidhne,Agito1,Renee,Xander,Summer_Estelle,Gala_Elisanne,Ranzal,<hit10 & hp70 & hit15 & buff all team>,36% poison uptime,attack:2996,skill_1:5312,skill_4:2824,s4_poison:354,team_buff:2913,dx:2588
+10273,_c_Jurota,3*,water,blade,6811,Resounding_Rendition,Breakfast_at_Valerios,Gaibhne_and_Creidhne,Agito1,Renee,Xander,Summer_Estelle,Gala_Elisanne,Ranzal,!<hit10 & hp70 & hit15 & buff all team>,36% poison uptime,attack:2244,skill_1:3836,skill_4:2076,s4_poison:259,dx:1855
 -,60,affliction
-14585,Jurota,3*,water,blade,7474,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Eugene,<hit10 & hit15 & buff all team>,,attack:3942,skill_1:2525,dx:6423,ds:1692
-11006,_c_Jurota,3*,water,blade,7474,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Eugene,!<hit10 & hit15 & buff all team>,,attack:3063,skill_1:1944,dx:4746,ds:1250
+15043,Jurota,3*,water,blade,6788,Resounding_Rendition,His_Clever_Brother,Gaibhne_and_Creidhne,Agito1,Renee,Xander,Summer_Estelle,Gala_Elisanne,Ranzal,<hit10 & hp70 & buff all team>,38% poison uptime,attack:2929,skill_1:4716,skill_4:3840,s4_poison:284,team_buff:1333,dx:1937
+11733,_c_Jurota,3*,water,blade,6788,Resounding_Rendition,His_Clever_Brother,Gaibhne_and_Creidhne,Agito1,Renee,Xander,Summer_Estelle,Gala_Elisanne,Ranzal,!<hit10 & hp70 & buff all team>,38% poison uptime,attack:2510,skill_1:3985,skill_4:3320,s4_poison:241,dx:1674
 -,120,_
-15615,Jurota,3*,water,blade,7515,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Eugene,<hit10 & hp70 & hit15 & buff all team>,,attack:4316,skill_1:2996,skill_4:1213,team_buff:746,dx:5266,ds:1076
-10850,_c_Jurota,3*,water,blade,7515,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Eugene,!<hit10 & hp70 & hit15 & buff all team>,,attack:3173,skill_1:2177,skill_4:883,dx:3831,ds:783
+16563,Jurota,3*,water,blade,6811,Resounding_Rendition,Breakfast_at_Valerios,Gaibhne_and_Creidhne,Agito1,Renee,Xander,Summer_Estelle,Gala_Elisanne,Ranzal,<hit10 & hp70 & hit15 & buff all team>,49% poison uptime,attack:3163,skill_1:5152,skill_4:3055,s4_poison:499,team_buff:2963,dx:1728
+9848,_c_Jurota,3*,water,blade,6811,Resounding_Rendition,Breakfast_at_Valerios,Gaibhne_and_Creidhne,Agito1,Renee,Xander,Summer_Estelle,Gala_Elisanne,Ranzal,!<hit10 & hp70 & hit15 & buff all team>,49% poison uptime,attack:2316,skill_1:3708,skill_4:2215,s4_poison:362,dx:1244
 -,120,affliction
-15319,Jurota,3*,water,blade,7474,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Eugene,<hit10 & hit15 & buff all team>,,attack:4657,skill_1:3001,skill_4:607,team_buff:749,dx:5451,ds:851
-10944,_c_Jurota,3*,water,blade,7474,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Eugene,!<hit10 & hit15 & buff all team>,,attack:3540,skill_1:2285,skill_4:460,dx:4028,ds:629
+16247,Jurota,3*,water,blade,6788,Resounding_Rendition,His_Clever_Brother,Gaibhne_and_Creidhne,Agito1,Renee,Xander,Summer_Estelle,Gala_Elisanne,Ranzal,<hit10 & hp70 & buff all team>,43% poison uptime,attack:3352,skill_1:5687,skill_4:2570,s4_poison:480,team_buff:2649,dx:1505
+11653,_c_Jurota,3*,water,blade,6788,Resounding_Rendition,His_Clever_Brother,Gaibhne_and_Creidhne,Agito1,Renee,Xander,Summer_Estelle,Gala_Elisanne,Ranzal,!<hit10 & hp70 & buff all team>,43% poison uptime,attack:2869,skill_1:4844,skill_4:2222,s4_poison:415,dx:1301
 -,180,_
-15039,Jurota,3*,water,blade,7515,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Eugene,<hit10 & hp70 & hit15 & buff all team>,,attack:4966,skill_1:3443,skill_4:1361,team_buff:1498,dx:3134,ds:636
-9875,_c_Jurota,3*,water,blade,7515,Resounding_Rendition,Breakfast_at_Valerios,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Eugene,!<hit10 & hp70 & hit15 & buff all team>,,attack:3646,skill_1:2521,skill_4:1002,dx:2247,ds:456
+17903,Jurota,3*,water,blade,6811,Resounding_Rendition,Breakfast_at_Valerios,Gaibhne_and_Creidhne,Agito1,Renee,Xander,Summer_Estelle,Gala_Elisanne,Ranzal,<hit10 & hp70 & hit15 & buff all team>,60% poison uptime,attack:3444,skill_1:5919,skill_4:3311,s4_poison:544,team_buff:3532,dx:1151
+10410,_c_Jurota,3*,water,blade,6811,Resounding_Rendition,Breakfast_at_Valerios,Gaibhne_and_Creidhne,Agito1,Renee,Xander,Summer_Estelle,Gala_Elisanne,Ranzal,!<hit10 & hp70 & hit15 & buff all team>,60% poison uptime,attack:2510,skill_1:4270,skill_4:2405,s4_poison:394,dx:828
 -,180,affliction
-15068,Jurota,3*,water,blade,7474,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Eugene,<hit10 & hit15 & buff all team>,,attack:5205,skill_1:3318,skill_4:1212,team_buff:998,dx:3703,ds:629
-10588,_c_Jurota,3*,water,blade,7474,Primal_Crisis,His_Clever_Brother,Leviathan,Agito1,Tiki,Xander,Dagger,Gala_Elisanne,Eugene,!<hit10 & hit15 & buff all team>,,attack:3936,skill_1:2515,skill_4:920,dx:2743,ds:471
+18272,Jurota,3*,water,blade,6788,Resounding_Rendition,His_Clever_Brother,Gaibhne_and_Creidhne,Agito1,Renee,Xander,Summer_Estelle,Gala_Elisanne,Ranzal,<hit10 & hp70 & buff all team>,55% poison uptime,attack:3473,skill_1:5874,skill_4:3432,s4_poison:600,team_buff:3592,dx:1298
+12608,_c_Jurota,3*,water,blade,6788,Resounding_Rendition,His_Clever_Brother,Gaibhne_and_Creidhne,Agito1,Renee,Xander,Summer_Estelle,Gala_Elisanne,Ranzal,!<hit10 & hp70 & buff all team>,55% poison uptime,attack:2978,skill_1:5020,skill_4:2967,s4_poison:518,dx:1122
