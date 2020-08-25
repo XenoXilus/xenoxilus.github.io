@@ -1,18 +1,18 @@
 -,60,_
-20572,Yue,4*,flame,axe,8118,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Yuya,Marth,Halloween_Mym,Weapon,Kleimann,<hit10 & hp50 & hp70 & hit15>,48% poison uptime,attack:3673,skill_1:2881,skill_4:2590,s4_poison:532,dx:6856,ds:4037
-13769,_c_Yue,4*,flame,axe,7264,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Yuya,Marth,Halloween_Mym,Weapon,Kleimann,!<hit10 & hp50 & hp70 & hit15>,48% poison uptime,attack:2499,skill_1:1947,skill_4:1715,s4_poison:351,dx:4577,ds:2678
+20394,Yue,4*,flame,axe,8118,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Yuya,Marth,Halloween_Mym,Weapon,Kleimann,<last offense & hit10 & hp50 & hp70 & hit15 & hp100>,48% poison uptime,attack:3496,skill_1:2881,skill_4:2590,s4_poison:532,dx:6856,ds:4037
+13769,_c_Yue,4*,flame,axe,7264,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Yuya,Marth,Halloween_Mym,Weapon,Kleimann,!<last offense & hit10 & hp50 & hp70 & hit15>,48% poison uptime,attack:2499,skill_1:1947,skill_4:1715,s4_poison:351,dx:4577,ds:2678
 -,60,affliction
-23318,Yue,4*,flame,axe,8116,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Yuya,Marth,Halloween_Mym,Weapon,Kleimann,<hit10 & hp50>,48% poison uptime,attack:4399,skill_1:3191,skill_4:2791,s4_poison:573,dx:8008,ds:4353
-19123,_c_Yue,4*,flame,axe,7262,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Yuya,Marth,Halloween_Mym,Weapon,Kleimann,!<hit10 & hp50>,48% poison uptime,attack:3642,skill_1:2604,skill_4:2287,s4_poison:469,dx:6571,ds:3549
+23203,Yue,4*,flame,axe,8116,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Yuya,Marth,Halloween_Mym,Weapon,Kleimann,<last offense & hit10 & hp50 & hp100>,48% poison uptime,attack:4284,skill_1:3191,skill_4:2791,s4_poison:573,dx:8008,ds:4353
+19123,_c_Yue,4*,flame,axe,7262,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Yuya,Marth,Halloween_Mym,Weapon,Kleimann,!<last offense & hit10 & hp50>,48% poison uptime,attack:3642,skill_1:2604,skill_4:2287,s4_poison:469,dx:6571,ds:3549
 -,120,_
-19208,Yue,4*,flame,axe,8930,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,<hit10 & hp50 & hp70 & hit15>,49% poison uptime,attack:5093,skill_1:3521,skill_4:2529,s4_poison:590,dx:4794,ds:2678
-12643,_c_Yue,4*,flame,axe,7990,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,!<hit10 & hp50 & hp70 & hit15>,49% poison uptime,attack:3348,skill_1:2325,skill_4:1654,s4_poison:386,dx:3170,ds:1758
+19115,Yue,4*,flame,axe,8930,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,<last offense & hit10 & hp50 & hp70 & hit15 & hp100>,49% poison uptime,attack:5000,skill_1:3521,skill_4:2529,s4_poison:590,dx:4794,ds:2678
+12643,_c_Yue,4*,flame,axe,7990,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,!<last offense & hit10 & hp50 & hp70 & hit15>,49% poison uptime,attack:3348,skill_1:2325,skill_4:1654,s4_poison:386,dx:3170,ds:1758
 -,120,affliction
-21682,Yue,4*,flame,axe,8928,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,<hit10 & hp50>,49% poison uptime,attack:5998,skill_1:3837,skill_4:2725,s4_poison:636,dx:5597,ds:2886
-17681,_c_Yue,4*,flame,axe,7988,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,!<hit10 & hp50>,49% poison uptime,attack:4892,skill_1:3118,skill_4:2217,s4_poison:517,dx:4585,ds:2347
+21624,Yue,4*,flame,axe,8928,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,<last offense & hit10 & hp50 & hp100>,49% poison uptime,attack:5940,skill_1:3837,skill_4:2725,s4_poison:636,dx:5597,ds:2886
+17681,_c_Yue,4*,flame,axe,7988,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,!<last offense & hit10 & hp50>,49% poison uptime,attack:4892,skill_1:3118,skill_4:2217,s4_poison:517,dx:4585,ds:2347
 -,180,_
-19449,Yue,4*,flame,axe,8930,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,<hit10 & hp50 & hp70 & hit15>,51% poison uptime,attack:5563,skill_1:4465,skill_4:3044,s4_poison:626,dx:3953,ds:1796
-12786,_c_Yue,4*,flame,axe,7990,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,!<hit10 & hp50 & hp70 & hit15>,51% poison uptime,attack:3643,skill_1:2937,skill_4:1996,s4_poison:411,dx:2618,ds:1179
+19387,Yue,4*,flame,axe,8930,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,<last offense & hit10 & hp50 & hp70 & hit15 & hp100>,51% poison uptime,attack:5501,skill_1:4465,skill_4:3044,s4_poison:626,dx:3953,ds:1796
+12786,_c_Yue,4*,flame,axe,7990,Resounding_Rendition,Breakfast_at_Valerios,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,!<last offense & hit10 & hp50 & hp70 & hit15>,51% poison uptime,attack:3643,skill_1:2937,skill_4:1996,s4_poison:411,dx:2618,ds:1179
 -,180,affliction
-21877,Yue,4*,flame,axe,8928,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,<hit10 & hp50>,51% poison uptime,attack:6530,skill_1:4840,skill_4:3280,s4_poison:675,dx:4614,ds:1935
-17834,_c_Yue,4*,flame,axe,7988,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,!<hit10 & hp50>,51% poison uptime,attack:5314,skill_1:3935,skill_4:2671,s4_poison:550,dx:3788,ds:1574
+21838,Yue,4*,flame,axe,8928,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,<last offense & hit10 & hp50 & hp100>,51% poison uptime,attack:6491,skill_1:4840,skill_4:3280,s4_poison:675,dx:4614,ds:1935
+17834,_c_Yue,4*,flame,axe,7988,Kung_Fu_Masters,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Marth,Halloween_Mym,Weapon,Kleimann,!<last offense & hit10 & hp50>,51% poison uptime,attack:5314,skill_1:3935,skill_4:2671,s4_poison:550,dx:3788,ds:1574

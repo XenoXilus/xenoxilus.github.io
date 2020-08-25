@@ -1,18 +1,18 @@
 -,60,_
-26629,Patia,4*,shadow,lance,5248,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp70>,,attack:4523,skill_2:5735,s2_bleed:8275,team_buff:8094
-25206,_c_Patia,4*,shadow,lance,4998,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp70>,,attack:4171,skill_2:5299,s2_bleed:7641,team_buff:8094
+26629,Patia,4*,shadow,lance,5248,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp70>,10.00s team doublebuff interval,attack:4523,skill_2:5735,s2_bleed:8275,team_buff:8094
+25206,_c_Patia,4*,shadow,lance,4998,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp70>,10.00s team doublebuff interval,attack:4171,skill_2:5299,s2_bleed:7641,team_buff:8094
 -,60,affliction
-30694,Patia,4*,shadow,lance,5819,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp100>,,attack:5522,skill_2:6985,s2_bleed:10091,team_buff:8094
-27161,_c_Patia,4*,shadow,lance,4819,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp100>,,attack:4657,skill_2:5897,s2_bleed:8511,team_buff:8094
+30694,Patia,4*,shadow,lance,5819,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp100>,10.00s team doublebuff interval,attack:5522,skill_2:6985,s2_bleed:10091,team_buff:8094
+27161,_c_Patia,4*,shadow,lance,4819,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp100>,10.00s team doublebuff interval,attack:4657,skill_2:5897,s2_bleed:8511,team_buff:8094
 -,120,_
-33124,Patia,4*,shadow,lance,5248,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp70>,,attack:4832,skill_2:6613,s2_bleed:11991,team_buff:9685
-31360,_c_Patia,4*,shadow,lance,4998,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp70>,,attack:4467,skill_2:6118,s2_bleed:11088,team_buff:9685
+33124,Patia,4*,shadow,lance,5248,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp70>,9.23s team doublebuff interval,attack:4832,skill_2:6613,s2_bleed:11991,team_buff:9685
+31360,_c_Patia,4*,shadow,lance,4998,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp70>,9.23s team doublebuff interval,attack:4467,skill_2:6118,s2_bleed:11088,team_buff:9685
 -,120,affliction
-38215,Patia,4*,shadow,lance,5819,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp100>,,attack:5882,skill_2:8046,s2_bleed:14599,team_buff:9685
-33800,_c_Patia,4*,shadow,lance,4819,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp100>,,attack:4971,skill_2:6803,s2_bleed:12339,team_buff:9685
+38215,Patia,4*,shadow,lance,5819,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp100>,9.23s team doublebuff interval,attack:5882,skill_2:8046,s2_bleed:14599,team_buff:9685
+33800,_c_Patia,4*,shadow,lance,4819,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp100>,9.23s team doublebuff interval,attack:4971,skill_2:6803,s2_bleed:12339,team_buff:9685
 -,180,_
-35351,Patia,4*,shadow,lance,5248,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp70>,,attack:4983,skill_2:6448,s2_bleed:13518,team_buff:10400
-33889,_c_Patia,4*,shadow,lance,4998,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp70>,,attack:4421,skill_2:5926,s2_bleed:12222,team_buff:10276,dx:330,ds:711
+35351,Patia,4*,shadow,lance,5248,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp70>,9.00s team doublebuff interval,attack:4983,skill_2:6448,s2_bleed:13518,team_buff:10400
+33889,_c_Patia,4*,shadow,lance,4998,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp70>,9.47s team doublebuff interval,attack:4421,skill_2:5926,s2_bleed:12222,team_buff:10276,dx:330,ds:711
 -,180,affliction
-40758,Patia,4*,shadow,lance,5819,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp100>,,attack:6062,skill_2:7844,s2_bleed:16450,team_buff:10400
-36533,_c_Patia,4*,shadow,lance,4819,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp100>,,attack:4921,skill_2:6588,s2_bleed:13594,team_buff:10276,dx:365,ds:786
+40758,Patia,4*,shadow,lance,5819,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp100>,9.00s team doublebuff interval,attack:6062,skill_2:7844,s2_bleed:16450,team_buff:10400
+36533,_c_Patia,4*,shadow,lance,4819,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp100>,9.47s team doublebuff interval,attack:4921,skill_2:6588,s2_bleed:13594,team_buff:10276,dx:365,ds:786
