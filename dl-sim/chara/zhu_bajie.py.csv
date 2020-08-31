@@ -1,18 +1,18 @@
 -,60,_
-20622,Zhu_Bajie,5*,light,axe,7696,Mega_Friends,The_Fires_of_Hate,Cupid,HDT2,Blade,Wand,Peony,Ranzal,Veronica,<hp=20.0%>,46% poison uptime; 10% stun uptime,attack:0,force_strike:5146,skill_1:9804,skill_3:2028,s3_poison:341,skill_4:3302
-15755,_c_Zhu_Bajie,5*,light,axe,7036,Mega_Friends,The_Fires_of_Hate,Cupid,HDT2,Blade,Wand,Peony,Ranzal,Veronica,!<hp=20.0%>,46% poison uptime; 10% stun uptime,attack:0,force_strike:5078,skill_1:5805,skill_3:2028,s3_poison:341,skill_4:2501
+24843,Zhu_Bajie,5*,light,axe,6621,Mega_Friends,The_Plaguebringer,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Patia,<hp=20.0%>,19% poison uptime,attack:0,force_strike:5125,skill_1:10010,skill_4:1340,s4_poison:144,team_energy:410,dx:4458,ds:3353
+20770,_c_Zhu_Bajie,5*,light,axe,6621,Mega_Friends,The_Plaguebringer,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Patia,!<hp=20.0%>,19% poison uptime,attack:0,force_strike:5125,skill_1:5937,skill_4:1340,s4_poison:144,team_energy:410,dx:4458,ds:3353
 -,60,affliction
-27725,Zhu_Bajie,5*,light,axe,7270,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Wand,Peony,Ranzal,Veronica,<hp=20.0%>,46% poison uptime; 10% stun uptime,attack:0,force_strike:9359,skill_1:11631,skill_3:2667,s3_poison:448,skill_4:3618
-21980,_c_Zhu_Bajie,5*,light,axe,6609,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Wand,Peony,Ranzal,Veronica,!<hp=20.0%>,46% poison uptime; 10% stun uptime,attack:0,force_strike:9217,skill_1:6905,skill_3:2667,s3_poison:448,skill_4:2741
+31785,Zhu_Bajie,5*,light,axe,7310,Mega_Friends,Spirit_of_the_Season,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Patia,<hp=20.0%>,19% poison uptime,attack:0,force_strike:8840,skill_1:11336,skill_4:1614,s4_poison:174,team_energy:410,dx:5370,ds:4038
+27028,_c_Zhu_Bajie,5*,light,axe,6646,Mega_Friends,Spirit_of_the_Season,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Patia,!<hp=20.0%>,19% poison uptime,attack:0,force_strike:8711,skill_1:6708,skill_4:1614,s4_poison:174,team_energy:410,dx:5370,ds:4038
 -,120,_
-22018,Zhu_Bajie,5*,light,axe,7696,Mega_Friends,The_Fires_of_Hate,Cupid,HDT2,Blade,Wand,Peony,Ranzal,Veronica,<hp=20.0%>,52% poison uptime,attack:0,force_strike:5143,skill_1:10547,skill_3:2572,s3_poison:403,skill_4:3350
-16780,_c_Zhu_Bajie,5*,light,axe,7036,Mega_Friends,The_Fires_of_Hate,Cupid,HDT2,Blade,Wand,Peony,Ranzal,Veronica,!<hp=20.0%>,52% poison uptime,attack:0,force_strike:5109,skill_1:6155,skill_3:2572,s3_poison:403,skill_4:2538
+28160,Zhu_Bajie,5*,light,axe,6621,Mega_Friends,The_Plaguebringer,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Patia,<hp=20.0%>,50% poison uptime,attack:0,force_strike:6019,skill_1:12121,skill_4:3621,s4_poison:651,team_energy:208,dx:3412,ds:2125
+23108,_c_Zhu_Bajie,5*,light,axe,6621,Mega_Friends,The_Plaguebringer,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Patia,!<hp=20.0%>,50% poison uptime,attack:0,force_strike:6019,skill_1:7069,skill_4:3621,s4_poison:651,team_energy:208,dx:3412,ds:2125
 -,120,affliction
-29162,Zhu_Bajie,5*,light,axe,7270,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Wand,Peony,Ranzal,Veronica,<hp=20.0%>,52% poison uptime,attack:0,force_strike:9245,skill_1:12329,skill_3:3383,s3_poison:531,skill_4:3672
-23077,_c_Zhu_Bajie,5*,light,axe,6609,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Wand,Peony,Ranzal,Veronica,!<hp=20.0%>,52% poison uptime,attack:0,force_strike:9173,skill_1:7206,skill_3:3383,s3_poison:531,skill_4:2782
+33713,Zhu_Bajie,5*,light,axe,7310,Mega_Friends,Spirit_of_the_Season,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Patia,<hp=20.0%>,50% poison uptime,attack:0,force_strike:9905,skill_1:13004,skill_4:4362,s4_poison:785,team_energy:208,dx:3400,ds:2048
+28225,_c_Zhu_Bajie,5*,light,axe,6646,Mega_Friends,Spirit_of_the_Season,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Patia,!<hp=20.0%>,50% poison uptime,attack:0,force_strike:9839,skill_1:7581,skill_4:4362,s4_poison:785,team_energy:208,dx:3400,ds:2048
 -,180,_
-23231,Zhu_Bajie,5*,light,axe,7696,Mega_Friends,The_Fires_of_Hate,Cupid,HDT2,Blade,Wand,Peony,Ranzal,Veronica,<hp=20.0%>,57% poison uptime,attack:0,force_strike:5265,skill_1:11215,skill_3:2409,s3_poison:440,skill_4:3898
-17561,_c_Zhu_Bajie,5*,light,axe,7036,Mega_Friends,The_Fires_of_Hate,Cupid,HDT2,Blade,Wand,Peony,Ranzal,Veronica,!<hp=20.0%>,57% poison uptime,attack:0,force_strike:5243,skill_1:6514,skill_3:2409,s3_poison:440,skill_4:2953
+29248,Zhu_Bajie,5*,light,axe,6621,Mega_Friends,The_Plaguebringer,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Patia,<hp=20.0%>,49% poison uptime,attack:0,force_strike:6118,skill_1:13856,skill_4:2970,s4_poison:531,team_energy:275,dx:3244,ds:2252
+23431,_c_Zhu_Bajie,5*,light,axe,6621,Mega_Friends,The_Plaguebringer,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Patia,!<hp=20.0%>,49% poison uptime,attack:0,force_strike:6118,skill_1:8039,skill_4:2970,s4_poison:531,team_energy:275,dx:3244,ds:2252
 -,180,affliction
-30368,Zhu_Bajie,5*,light,axe,7270,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Wand,Peony,Ranzal,Veronica,<hp=20.0%>,57% poison uptime,attack:0,force_strike:9351,skill_1:12982,skill_3:3169,s3_poison:579,skill_4:4285
-23847,_c_Zhu_Bajie,5*,light,axe,6609,Mega_Friends,Spirit_of_the_Season,Corsaint_Phoenix,HDT2,Blade,Wand,Peony,Ranzal,Veronica,!<hp=20.0%>,57% poison uptime,attack:0,force_strike:9303,skill_1:7548,skill_3:3169,s3_poison:579,skill_4:3246
+35291,Zhu_Bajie,5*,light,axe,7310,Mega_Friends,Spirit_of_the_Season,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Patia,<hp=20.0%>,49% poison uptime,attack:0,force_strike:9884,skill_1:14557,skill_4:3577,s4_poison:639,team_energy:275,dx:3642,ds:2712
+29136,_c_Zhu_Bajie,5*,light,axe,6646,Mega_Friends,Spirit_of_the_Season,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Patia,!<hp=20.0%>,49% poison uptime,attack:0,force_strike:9841,skill_1:8445,skill_4:3577,s4_poison:639,team_energy:275,dx:3642,ds:2712

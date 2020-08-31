@@ -1,18 +1,18 @@
 -,60,_
-22678,Gala_Luca,5*,light,blade,6605,The_Wyrmclan_Duo,Primal_Crisis,Daikokuten,HDT2,Axe2,Dagger,Peony,Ranzal,Kleimann,<hit15 & hp70>,23% poison uptime,attack:4451,skill_1:5989,skill_3:1724,skill_4:1057,s4_poison:197,team_buff:665,dx:6763,ds:1828
-14092,_c_Gala_Luca,5*,light,blade,6605,The_Wyrmclan_Duo,Primal_Crisis,Daikokuten,HDT2,Axe2,Dagger,Peony,Ranzal,Kleimann,!<hit15 & hp70>,23% poison uptime,attack:2837,skill_1:3614,skill_3:1001,skill_4:651,s4_poison:121,team_buff:665,dx:4031,ds:1167
+35353,Gala_Luca,5*,light,blade,6740,The_Wyrmclan_Duo,Primal_Crisis,Gala_Thor,Agito1,Axe2,Lucretia,Peony,Weapon,Summer_Patia,<hit15 & hp70>,,attack:5836,skill_1:10688,skill_4:2675,team_energy:413,dx:8348,ds:7389
+27212,_c_Gala_Luca,5*,light,blade,6740,The_Wyrmclan_Duo,Primal_Crisis,Gala_Thor,Agito1,Axe2,Lucretia,Peony,Weapon,Summer_Patia,!<hit15 & hp70>,,attack:4369,skill_1:8700,skill_4:1831,team_energy:413,dx:5923,ds:5972
 -,60,affliction
-24565,Gala_Luca,5*,light,blade,7263,The_Wyrmclan_Duo,Spirit_of_the_Season,Daikokuten,HDT2,Axe2,Dagger,Peony,Ranzal,Kleimann,<hit15 & hp70 & hp100>,23% poison uptime,attack:4887,skill_1:6490,skill_3:1828,skill_4:1148,s4_poison:214,team_buff:665,dx:7256,ds:2072
-16818,_c_Gala_Luca,5*,light,blade,6622,The_Wyrmclan_Duo,Spirit_of_the_Season,Daikokuten,HDT2,Axe2,Dagger,Peony,Ranzal,Kleimann,!<hit15 & hp70 & hp100>,23% poison uptime,attack:3413,skill_1:4348,skill_3:1204,skill_4:784,s4_poison:146,team_buff:665,dx:4849,ds:1405
+39928,Gala_Luca,5*,light,blade,7432,The_Wyrmclan_Duo,Spirit_of_the_Season,Gala_Thor,Agito1,Axe2,Lucretia,Peony,Weapon,Summer_Patia,<hit15 & hp70 & hp100>,,attack:6531,skill_1:12417,skill_4:2852,team_energy:413,dx:9053,ds:8658
+32650,_c_Gala_Luca,5*,light,blade,6756,The_Wyrmclan_Duo,Spirit_of_the_Season,Gala_Thor,Agito1,Axe2,Lucretia,Peony,Weapon,Summer_Patia,!<hit15 & hp70 & hp100>,,attack:5256,skill_1:10466,skill_4:2203,team_energy:413,dx:7125,ds:7184
 -,120,_
-23401,Gala_Luca,5*,light,blade,6605,The_Wyrmclan_Duo,Primal_Crisis,Daikokuten,HDT2,Axe2,Dagger,Peony,Ranzal,Kleimann,<hit15 & hp70>,52% poison uptime,attack:5238,skill_1:7283,skill_3:1721,s3_poison:257,skill_4:1898,s4_poison:443,team_buff:332,dx:4671,ds:1554
-14225,_c_Gala_Luca,5*,light,blade,6605,The_Wyrmclan_Duo,Primal_Crisis,Daikokuten,HDT2,Axe2,Dagger,Peony,Ranzal,Kleimann,!<hit15 & hp70>,52% poison uptime,attack:3189,skill_1:4392,skill_3:1000,s3_poison:149,skill_4:1118,s4_poison:261,team_buff:332,dx:2797,ds:983
+33622,Gala_Luca,5*,light,blade,6740,The_Wyrmclan_Duo,Primal_Crisis,Gala_Thor,Agito1,Axe2,Lucretia,Peony,Weapon,Summer_Patia,<hit15 & hp70>,25% poison uptime,attack:7103,skill_1:12628,skill_4:3317,s4_poison:597,team_energy:207,dx:6061,ds:3706
+25785,_c_Gala_Luca,5*,light,blade,6740,The_Wyrmclan_Duo,Primal_Crisis,Gala_Thor,Agito1,Axe2,Lucretia,Peony,Weapon,Summer_Patia,!<hit15 & hp70>,25% poison uptime,attack:5023,skill_1:10617,skill_4:2266,s4_poison:408,team_energy:207,dx:4259,ds:3001
 -,120,affliction
-25241,Gala_Luca,5*,light,blade,7263,The_Wyrmclan_Duo,Spirit_of_the_Season,Daikokuten,HDT2,Axe2,Dagger,Peony,Ranzal,Kleimann,<hit15 & hp70 & hp100>,52% poison uptime,attack:5653,skill_1:7897,skill_3:1825,s3_poison:273,skill_4:2025,s4_poison:473,team_buff:332,dx:5018,ds:1742
-17047,_c_Gala_Luca,5*,light,blade,6622,The_Wyrmclan_Duo,Spirit_of_the_Season,Daikokuten,HDT2,Axe2,Dagger,Peony,Ranzal,Kleimann,!<hit15 & hp70 & hp100>,52% poison uptime,attack:3837,skill_1:5284,skill_3:1203,s3_poison:180,skill_4:1346,s4_poison:314,team_buff:332,dx:3365,ds:1183
+37878,Gala_Luca,5*,light,blade,7432,The_Wyrmclan_Duo,Spirit_of_the_Season,Gala_Thor,Agito1,Axe2,Lucretia,Peony,Weapon,Summer_Patia,<hit15 & hp70 & hp100>,25% poison uptime,attack:7699,skill_1:14917,skill_4:3531,s4_poison:635,team_energy:207,dx:6540,ds:4345
+30976,_c_Gala_Luca,5*,light,blade,6756,The_Wyrmclan_Duo,Spirit_of_the_Season,Gala_Thor,Agito1,Axe2,Lucretia,Peony,Weapon,Summer_Patia,!<hit15 & hp70 & hp100>,25% poison uptime,attack:6042,skill_1:12772,skill_4:2726,s4_poison:491,team_energy:207,dx:5124,ds:3610
 -,180,_
-23742,Gala_Luca,5*,light,blade,6605,The_Wyrmclan_Duo,Primal_Crisis,Daikokuten,HDT2,Axe2,Dagger,Peony,Ranzal,Kleimann,<hit15 & hp70>,58% poison uptime,attack:5468,skill_1:7769,skill_3:1723,s3_poison:306,skill_4:2190,s4_poison:496,team_buff:444,dx:4308,ds:1035
-14439,_c_Gala_Luca,5*,light,blade,6605,The_Wyrmclan_Duo,Primal_Crisis,Daikokuten,HDT2,Axe2,Dagger,Peony,Ranzal,Kleimann,!<hit15 & hp70>,58% poison uptime,attack:3289,skill_1:4695,skill_3:999,s3_poison:178,skill_4:1284,s4_poison:291,team_buff:444,dx:2601,ds:653
+35316,Gala_Luca,5*,light,blade,6740,The_Wyrmclan_Duo,Primal_Crisis,Gala_Thor,Agito1,Axe2,Lucretia,Peony,Weapon,Summer_Patia,<hit15 & hp70>,25% poison uptime,attack:7359,skill_1:14074,skill_4:2568,s4_poison:462,team_energy:276,dx:5629,ds:4945
+27654,_c_Gala_Luca,5*,light,blade,6740,The_Wyrmclan_Duo,Primal_Crisis,Gala_Thor,Agito1,Axe2,Lucretia,Peony,Weapon,Summer_Patia,!<hit15 & hp70>,25% poison uptime,attack:5201,skill_1:11766,skill_4:1962,s4_poison:353,team_energy:276,dx:3959,ds:4133
 -,180,affliction
-25562,Gala_Luca,5*,light,blade,7263,The_Wyrmclan_Duo,Spirit_of_the_Season,Daikokuten,HDT2,Axe2,Dagger,Peony,Ranzal,Kleimann,<hit15 & hp70 & hp100>,58% poison uptime,attack:5875,skill_1:8431,skill_3:1826,s3_poison:325,skill_4:2332,s4_poison:528,team_buff:444,dx:4642,ds:1155
-17281,_c_Gala_Luca,5*,light,blade,6622,The_Wyrmclan_Duo,Spirit_of_the_Season,Daikokuten,HDT2,Axe2,Dagger,Peony,Ranzal,Kleimann,!<hit15 & hp70 & hp100>,58% poison uptime,attack:3958,skill_1:5649,skill_3:1202,s3_poison:214,skill_4:1545,s4_poison:350,team_buff:444,dx:3130,ds:786
+40037,Gala_Luca,5*,light,blade,7432,The_Wyrmclan_Duo,Spirit_of_the_Season,Gala_Thor,Agito1,Axe2,Lucretia,Peony,Weapon,Summer_Patia,<hit15 & hp70 & hp100>,25% poison uptime,attack:7973,skill_1:16461,skill_4:2908,s4_poison:523,team_energy:276,dx:6083,ds:5810
+33209,_c_Gala_Luca,5*,light,blade,6756,The_Wyrmclan_Duo,Spirit_of_the_Season,Gala_Thor,Agito1,Axe2,Lucretia,Peony,Weapon,Summer_Patia,!<hit15 & hp70 & hp100>,25% poison uptime,attack:6257,skill_1:14153,skill_4:2360,s4_poison:425,team_energy:276,dx:4763,ds:4972
