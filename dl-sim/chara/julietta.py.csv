@@ -1,18 +1,18 @@
 -,60,_
-22835,Julietta,5*,light,axe,6781,Valiant_Crown,Primal_Crisis,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,<hit15 & buff all team>,,attack:4107,force_strike:977,skill_1:10440,team_energy:415,dx:4359,ds:2535
-19948,_c_Julietta,5*,light,axe,6781,Valiant_Crown,Primal_Crisis,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,!<hit15 & buff all team>,,attack:3743,force_strike:829,skill_1:9115,team_energy:415,dx:3707,ds:2136
+23024,Julietta,5*,light,axe,6781,Valiant_Crown,Primal_Crisis,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,<hit15 & buff all team>,23% paralysis uptime,attack:4107,force_strike:977,skill_1:10440,team_energy:415,dx:4359,ds_paralysis:188,ds:2535
+20107,_c_Julietta,5*,light,axe,6781,Valiant_Crown,Primal_Crisis,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,!<hit15 & buff all team>,23% paralysis uptime,attack:3743,force_strike:829,skill_1:9115,team_energy:415,dx:3707,ds_paralysis:159,ds:2136
 -,60,affliction
-25817,Julietta,5*,light,axe,7477,Valiant_Crown,Spirit_of_the_Season,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,<hp100 & buff all team>,,attack:4870,force_strike:1075,skill_1:11826,team_energy:415,dx:4846,ds:2783
-23911,_c_Julietta,5*,light,axe,6798,Valiant_Crown,Spirit_of_the_Season,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,!<hp100 & buff all team>,,attack:4502,force_strike:998,skill_1:10965,team_energy:415,dx:4460,ds:2569
+26025,Julietta,5*,light,axe,7477,Valiant_Crown,Spirit_of_the_Season,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,<hp100 & buff all team>,,attack:4870,force_strike:1075,skill_1:11826,team_energy:415,dx:4846,ds_paralysis:207,ds:2783
+24103,_c_Julietta,5*,light,axe,6798,Valiant_Crown,Spirit_of_the_Season,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,!<hp100 & buff all team>,,attack:4502,force_strike:998,skill_1:10965,team_energy:415,dx:4460,ds_paralysis:191,ds:2569
 -,120,_
-23388,Julietta,5*,light,axe,6781,Valiant_Crown,Primal_Crisis,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,<hit15 & buff all team>,,attack:4446,force_strike:1321,skill_1:11431,team_buff:205,team_energy:207,dx:3730,ds:2044
-19755,_c_Julietta,5*,light,axe,6781,Valiant_Crown,Primal_Crisis,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,!<hit15 & buff all team>,,attack:3934,force_strike:1560,skill_1:9209,team_energy:207,dx:3110,ds:1732
+23692,Julietta,5*,light,axe,6781,Valiant_Crown,Primal_Crisis,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,<hit15 & buff all team>,22% paralysis uptime,attack:4446,force_strike:1321,skill_1:11431,team_buff:205,team_energy:207,dx:3730,ds_paralysis:304,ds:2044
+20013,_c_Julietta,5*,light,axe,6781,Valiant_Crown,Primal_Crisis,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,!<hit15 & buff all team>,22% paralysis uptime,attack:3934,force_strike:1560,skill_1:9209,team_energy:207,dx:3110,ds_paralysis:258,ds:1732
 -,120,affliction
-26461,Julietta,5*,light,axe,7477,Valiant_Crown,Spirit_of_the_Season,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,<hp100 & buff all team>,,attack:5037,force_strike:1524,skill_1:13118,team_buff:205,team_energy:207,dx:4118,ds:2248
-23721,_c_Julietta,5*,light,axe,6798,Valiant_Crown,Spirit_of_the_Season,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,!<hp100 & buff all team>,,attack:4732,force_strike:1877,skill_1:11078,team_energy:207,dx:3741,ds:2083
+26796,Julietta,5*,light,axe,7477,Valiant_Crown,Spirit_of_the_Season,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,<hp100 & buff all team>,,attack:5037,force_strike:1524,skill_1:13118,team_buff:205,team_energy:207,dx:4118,ds_paralysis:335,ds:2248
+24032,_c_Julietta,5*,light,axe,6798,Valiant_Crown,Spirit_of_the_Season,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,!<hp100 & buff all team>,,attack:4732,force_strike:1877,skill_1:11078,team_energy:207,dx:3741,ds_paralysis:310,ds:2083
 -,180,_
-25338,Julietta,5*,light,axe,6781,Valiant_Crown,Primal_Crisis,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,<hit15 & buff all team>,,attack:4689,force_strike:1925,skill_1:12158,team_buff:275,team_energy:277,dx:3186,ds:2823
-19831,_c_Julietta,5*,light,axe,6781,Valiant_Crown,Primal_Crisis,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,!<hit15 & buff all team>,,attack:4120,force_strike:1603,skill_1:9654,team_energy:277,dx:2685,ds:1489
+25650,Julietta,5*,light,axe,6781,Valiant_Crown,Primal_Crisis,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,<hit15 & buff all team>,17% paralysis uptime,attack:4689,force_strike:1925,skill_1:12158,team_buff:275,team_energy:277,dx:3186,ds_paralysis:312,ds:2823
+19959,_c_Julietta,5*,light,axe,6781,Valiant_Crown,Primal_Crisis,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,!<hit15 & buff all team>,17% paralysis uptime,attack:4120,force_strike:1603,skill_1:9654,team_energy:277,dx:2685,ds_paralysis:128,ds:1489
 -,180,affliction
-28245,Julietta,5*,light,axe,7477,Valiant_Crown,Spirit_of_the_Season,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,<hp100 & buff all team>,,attack:5270,force_strike:2162,skill_1:13465,team_buff:275,team_energy:277,dx:3542,ds:3251
-23798,_c_Julietta,5*,light,axe,6798,Valiant_Crown,Spirit_of_the_Season,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,!<hp100 & buff all team>,,attack:4956,force_strike:1929,skill_1:11613,team_energy:277,dx:3230,ds:1791
+28611,Julietta,5*,light,axe,7477,Valiant_Crown,Spirit_of_the_Season,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,<hp100 & buff all team>,,attack:5270,force_strike:2162,skill_1:13465,team_buff:275,team_energy:277,dx:3542,ds_paralysis:365,ds:3251
+23953,_c_Julietta,5*,light,axe,6798,Valiant_Crown,Spirit_of_the_Season,Gala_Thor,Agito1,Blade,Lucretia,Peony,Weapon,Summer_Cleo,!<hp100 & buff all team>,,attack:4956,force_strike:1929,skill_1:11613,team_energy:277,dx:3230,ds_paralysis:154,ds:1791
