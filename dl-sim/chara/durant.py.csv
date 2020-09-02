@@ -1,18 +1,18 @@
 -,60,_
-34328,Durant,4*,shadow,blade,10110,Proper_Maintenance,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,<hp100 & hit15>,,attack:27209,skill_4:6769,team_buff:349
-26323,_c_Durant,4*,shadow,blade,8749,Proper_Maintenance,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,!<hp100 & hit15>,,attack:20785,skill_4:5188,team_buff:349
+35735,Durant,4*,shadow,blade,10112,The_Fires_of_Hate,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Kleimann,<hp100 & hit15>,72% poison uptime,attack:25545,skill_4:8389,s4_poison:1800
+26846,_c_Durant,4*,shadow,blade,8751,The_Fires_of_Hate,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Kleimann,!<hp100 & hit15>,72% poison uptime,attack:19210,skill_4:6286,s4_poison:1348
 -,60,affliction
 39630,Durant,4*,shadow,blade,8623,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,<hp100>,,attack:14110,skill_4:4733,team_buff:174,dx:17428,ds_poison:1005,ds:2177
 31625,_c_Durant,4*,shadow,blade,7266,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,!<hp100>,,attack:11376,skill_4:3813,team_buff:174,dx:13749,ds_poison:793,ds:1717
 -,120,_
-41047,Durant,4*,shadow,blade,10110,Proper_Maintenance,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,<hp100 & hit15>,,attack:32999,skill_4:7522,team_buff:525
-31533,_c_Durant,4*,shadow,blade,8749,Proper_Maintenance,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,!<hp100 & hit15>,,attack:25195,skill_4:5812,team_buff:525
+44195,Durant,4*,shadow,blade,10112,The_Fires_of_Hate,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Kleimann,<hp100 & hit15>,84% poison uptime,attack:29012,skill_4:12672,s4_poison:2509
+33149,_c_Durant,4*,shadow,blade,8751,The_Fires_of_Hate,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Kleimann,!<hp100 & hit15>,84% poison uptime,attack:21767,skill_4:9499,s4_poison:1881
 -,120,affliction
 49351,Durant,4*,shadow,blade,8623,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,<hp100>,,attack:26802,skill_4:11033,team_buff:434,dx:9204,ds_poison:592,ds:1283
 39073,_c_Durant,4*,shadow,blade,7266,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,!<hp100>,,attack:21176,skill_4:8686,team_buff:434,dx:7296,ds_poison:467,ds:1012
 -,180,_
-43760,Durant,4*,shadow,blade,10110,Proper_Maintenance,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,<hp100 & hit15>,,attack:34610,skill_4:8623,team_buff:526
-33626,_c_Durant,4*,shadow,blade,8749,Proper_Maintenance,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,!<hp100 & hit15>,,attack:26441,skill_4:6657,team_buff:526
+45208,Durant,4*,shadow,blade,10112,The_Fires_of_Hate,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Kleimann,<hp100 & hit15>,83% poison uptime,attack:29864,skill_4:12846,s4_poison:2496
+33895,_c_Durant,4*,shadow,blade,8751,The_Fires_of_Hate,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Kleimann,!<hp100 & hit15>,83% poison uptime,attack:22393,skill_4:9630,s4_poison:1871
 -,180,affliction
 54658,Durant,4*,shadow,blade,8623,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,<hp100>,,attack:29100,skill_4:11000,team_buff:467,dx:11847,ds_poison:517,ds:1723
 43218,_c_Durant,4*,shadow,blade,7266,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,!<hp100>,,attack:22925,skill_4:8631,team_buff:467,dx:9425,ds_poison:408,ds:1360

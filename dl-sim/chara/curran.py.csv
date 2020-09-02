@@ -1,18 +1,18 @@
 -,60,_
-32722,Curran,5*,shadow,axe,5784,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Veronica,<always connect hits & last offense & hp=40.0%>,,attack:3739,skill_1:12276,skill_2:6343,skill_4:4520,team_buff:887,dx:1361,ds:3592
-25735,_c_Curran,5*,shadow,axe,5030,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Veronica,!<always connect hits & last offense & hp=40%>,,attack:2813,skill_1:9695,skill_2:4699,skill_4:3331,team_buff:887,dx:1184,ds:3124
+40437,Curran,5*,shadow,axe,5782,Summer_Paladyns,The_Plaguebringer,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Kleimann,<always connect hits & last offense & hp=40.0%>,49% poison uptime,attack:3795,skill_1:16621,skill_2:10103,skill_4:3151,s4_poison:735,team_buff:907,dx:1397,ds:3724
+33313,_c_Curran,5*,shadow,axe,5028,Summer_Paladyns,The_Plaguebringer,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Kleimann,!<always connect hits & last offense & hp≤40>,49% poison uptime,attack:2914,skill_1:13591,skill_2:8066,skill_4:2740,s4_poison:639,team_buff:907,dx:1215,ds:3238
 -,60,affliction
 51329,Curran,5*,shadow,axe,5782,Summer_Paladyns,The_Plaguebringer,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Veronica,<always connect hits & last offense & hp=40.0%>,,attack:4114,skill_1:21277,skill_2:13673,skill_4:5926,team_buff:887,dx:1497,ds:3951
 40022,_c_Curran,5*,shadow,axe,5028,Summer_Paladyns,The_Plaguebringer,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Veronica,!<always connect hits & last offense & hp=40%>,,attack:3095,skill_1:16804,skill_2:10128,skill_4:4367,team_buff:887,dx:1302,ds:3436
 -,120,_
-34056,Curran,5*,shadow,axe,5784,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Veronica,<always connect hits & last offense & hp=40.0%>,,attack:3990,skill_1:15176,skill_2:6768,skill_4:4516,team_buff:1069,dx:691,ds:1842
-27510,_c_Curran,5*,shadow,axe,5030,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Veronica,!<always connect hits & last offense & hp=40%>,,attack:3251,skill_1:12707,skill_2:5477,skill_4:3328,team_buff:1069,dx:601,ds:1073
+42990,Curran,5*,shadow,axe,5782,Summer_Paladyns,The_Plaguebringer,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Kleimann,<always connect hits & last offense & hp=40.0%>,68% poison uptime,attack:4039,skill_1:19003,skill_2:10856,skill_4:4742,s4_poison:993,team_buff:1056,dx:626,ds:1670
+36066,_c_Curran,5*,shadow,axe,5028,Summer_Paladyns,The_Plaguebringer,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Kleimann,!<always connect hits & last offense & hp≤40>,68% poison uptime,attack:3319,skill_1:16092,skill_2:9079,skill_4:4123,s4_poison:863,team_buff:1056,dx:545,ds:985
 -,120,affliction
 55062,Curran,5*,shadow,axe,5782,Summer_Paladyns,The_Plaguebringer,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Veronica,<always connect hits & last offense & hp=40.0%>,,attack:4390,skill_1:26303,skill_2:14589,skill_4:5921,team_buff:1069,dx:760,ds:2026
 44684,_c_Curran,5*,shadow,axe,5028,Summer_Paladyns,The_Plaguebringer,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Veronica,!<always connect hits & last offense & hp=40%>,,attack:3576,skill_1:22024,skill_2:11806,skill_4:4363,team_buff:1069,dx:661,ds:1181
 -,180,_
-35547,Curran,5*,shadow,axe,5784,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Veronica,<always connect hits & last offense & hp=40.0%>,,attack:4018,skill_1:16212,skill_2:7090,skill_4:5278,team_buff:1206,dx:478,ds:1261
-24520,_c_Curran,5*,shadow,axe,5030,Kung_Fu_Masters,Flower_in_the_Fray,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Veronica,!<always connect hits & last offense & hp=40%>,,attack:3348,skill_1:10798,skill_2:5184,skill_4:3175,team_buff:1206,dx:416,ds:391
+45150,Curran,5*,shadow,axe,5782,Summer_Paladyns,The_Plaguebringer,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Kleimann,<always connect hits & last offense & hp=40.0%>,71% poison uptime,attack:4001,skill_1:20692,skill_2:12055,skill_4:4814,s4_poison:1043,team_buff:1099,dx:511,ds:930
+31734,_c_Curran,5*,shadow,axe,5028,Summer_Paladyns,The_Plaguebringer,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Kleimann,!<always connect hits & last offense & hp≤40>,71% poison uptime,attack:3350,skill_1:13536,skill_2:8901,skill_4:3267,s4_poison:710,team_buff:1099,dx:444,ds:423
 -,180,affliction
 57846,Curran,5*,shadow,axe,5782,Summer_Paladyns,The_Plaguebringer,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Veronica,<always connect hits & last offense & hp=40.0%>,,attack:4421,skill_1:28100,skill_2:15283,skill_4:6920,team_buff:1206,dx:526,ds:1387
 39831,_c_Curran,5*,shadow,axe,5028,Summer_Paladyns,The_Plaguebringer,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Veronica,!<always connect hits & last offense & hp=40%>,,attack:3683,skill_1:18715,skill_2:11173,skill_4:4162,team_buff:1206,dx:457,ds:430

@@ -1,18 +1,18 @@
 -,60,_
-29111,Erik,3*,shadow,axe,4966,Summer_Paladyns,Primal_Crisis,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,<always connect hits & hit15>,,attack:3299,force_strike:211,skill_1:13659,skill_2:8820,skill_4:2772,team_buff:346
-23426,_c_Erik,3*,shadow,axe,4966,Summer_Paladyns,Primal_Crisis,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,!<always connect hits & hit15>,,attack:2635,force_strike:166,skill_1:11083,skill_2:6937,skill_4:2180,team_buff:348,dx:74
+36344,Erik,3*,shadow,axe,5724,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Delphi,Weapon,Kleimann,<always connect hits & hp100>,54% poison uptime,attack:3865,force_strike:153,skill_1:16938,skill_2:10155,skill_4:4525,s4_poison:704
+31604,_c_Erik,3*,shadow,axe,4977,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Delphi,Weapon,Kleimann,!<always connect hits & hp100>,54% poison uptime,attack:3360,force_strike:133,skill_1:14729,skill_2:8831,skill_4:3935,s4_poison:612
 -,60,affliction
-46239,Erik,3*,shadow,axe,5724,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,<always connect hits & hp100>,,attack:3700,force_strike:228,skill_1:22858,skill_2:14307,skill_4:4797,team_buff:346
-40513,_c_Erik,3*,shadow,axe,4977,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,!<always connect hits & hp100>,,attack:3169,force_strike:200,skill_1:19994,skill_2:12515,skill_4:4196,team_buff:348,dx:89
+43968,Erik,3*,shadow,axe,5724,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Delphi,Weapon,Kleimann,<always connect hits & hp100>,,attack:4163,force_strike:167,skill_1:21541,skill_2:11818,skill_4:5431,s4_poison:845
+38233,_c_Erik,3*,shadow,axe,4977,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Delphi,Weapon,Kleimann,!<always connect hits & hp100>,,attack:3620,force_strike:145,skill_1:18731,skill_2:10276,skill_4:4722,s4_poison:735
 -,120,_
-31625,Erik,3*,shadow,axe,4966,Summer_Paladyns,Primal_Crisis,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,<always connect hits & hit15>,,attack:3372,force_strike:214,skill_1:15157,skill_2:7785,skill_4:3509,team_buff:438,dx:313,ds:834
-24441,_c_Erik,3*,shadow,axe,4966,Summer_Paladyns,Primal_Crisis,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,!<always connect hits & hit15>,,attack:2506,force_strike:167,skill_1:11223,skill_2:6079,skill_4:2740,team_buff:350,dx:489,ds:884
+41913,Erik,3*,shadow,axe,5724,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Delphi,Weapon,Kleimann,<always connect hits & hp100>,64% poison uptime,attack:3855,force_strike:208,skill_1:19800,skill_2:11188,skill_4:4547,s4_poison:884,dx:389,ds:1037
+34726,_c_Erik,3*,shadow,axe,4977,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Delphi,Weapon,Kleimann,!<always connect hits & hp100>,62% poison uptime,attack:3242,force_strike:181,skill_1:15597,skill_2:9734,skill_4:3296,s4_poison:769,dx:677,ds:1225
 -,120,affliction
-49265,Erik,3*,shadow,axe,5724,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,<always connect hits & hp100>,,attack:3714,force_strike:231,skill_1:24940,skill_2:12627,skill_4:6071,team_buff:438,dx:338,ds:902
-41705,_c_Erik,3*,shadow,axe,4977,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,!<always connect hits & hp100>,,attack:3013,force_strike:201,skill_1:20247,skill_2:10967,skill_4:5273,team_buff:350,dx:588,ds:1063
+47957,Erik,3*,shadow,axe,5724,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Delphi,Weapon,Kleimann,<always connect hits & hp100>,,attack:4118,force_strike:214,skill_1:23654,skill_2:12023,skill_4:5456,s4_poison:1061,dx:389,ds:1037
+39864,_c_Erik,3*,shadow,axe,4977,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Delphi,Weapon,Kleimann,!<always connect hits & hp100>,,attack:3481,force_strike:187,skill_1:18950,skill_2:10461,skill_4:3956,s4_poison:923,dx:677,ds:1225
 -,180,_
-30718,Erik,3*,shadow,axe,4966,Summer_Paladyns,Primal_Crisis,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,<always connect hits & hit15>,,attack:3296,force_strike:190,skill_1:13727,skill_2:8160,skill_4:3740,team_buff:408,dx:428,ds:764
-20321,_c_Erik,3*,shadow,axe,4966,Summer_Paladyns,Primal_Crisis,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,!<always connect hits & hit15>,,attack:2609,force_strike:149,skill_1:8777,skill_2:5268,skill_4:2454,team_buff:408,dx:334,ds:318
+43216,Erik,3*,shadow,axe,5724,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Delphi,Weapon,Kleimann,<always connect hits & hp100>,67% poison uptime,attack:3857,force_strike:219,skill_1:20088,skill_2:12214,skill_4:4547,s4_poison:944,dx:459,ds:882
+32210,_c_Erik,3*,shadow,axe,4977,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Delphi,Weapon,Kleimann,!<always connect hits & hp100>,67% poison uptime,attack:3412,force_strike:140,skill_1:15180,skill_2:8718,skill_4:3389,s4_poison:688,dx:348,ds:331
 -,180,affliction
-47725,Erik,3*,shadow,axe,5724,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,<always connect hits & hp100>,,attack:3609,force_strike:206,skill_1:22503,skill_2:13236,skill_4:6471,team_buff:408,dx:462,ds:827
-34574,_c_Erik,3*,shadow,axe,4977,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,!<always connect hits & hp100>,,attack:3138,force_strike:179,skill_1:15833,skill_2:9504,skill_4:4722,team_buff:408,dx:402,ds:383
+48818,Erik,3*,shadow,axe,5724,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Delphi,Weapon,Kleimann,<always connect hits & hp100>,,attack:4077,force_strike:228,skill_1:23172,skill_2:13328,skill_4:5457,s4_poison:1132,dx:500,ds:920
+35661,_c_Erik,3*,shadow,axe,4977,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Delphi,Weapon,Kleimann,!<always connect hits & hp100>,,attack:3587,force_strike:148,skill_1:16840,skill_2:9375,skill_4:4066,s4_poison:826,dx:418,ds:397

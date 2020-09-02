@@ -1,18 +1,18 @@
 -,60,_
-20078,Victor,5*,wind,blade,6433,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hp70 & hit10>,,attack:3268,skill_1:5991,s1_bleed:4819,skill_2:1062,skill_4:1310,team_buff:174,dx:1649,ds:1802
-13620,_c_Victor,5*,wind,blade,5398,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hp70 & hit10>,,attack:2219,skill_1:4010,s1_bleed:3309,skill_2:708,skill_4:878,team_buff:174,dx:1109,ds:1209
+22269,Victor,5*,wind,blade,5988,Resounding_Rendition,Primal_Crisis,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hp70 & hit10 & hit15>,,attack:3688,skill_1:6309,s1_bleed:5409,skill_2:1146,skill_4:2739,team_buff:173,dx:859,ds:1943
+12844,_c_Victor,5*,wind,blade,5402,Resounding_Rendition,Primal_Crisis,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hp70 & hit10 & hit15>,,attack:2283,skill_1:3762,s1_bleed:2626,skill_2:682,skill_4:1636,team_buff:173,dx:515,ds:1164
 -,60,affliction
-25064,Victor,5*,wind,blade,6679,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hp70 & hit10 & hp100>,,attack:3952,skill_1:7246,s1_bleed:5696,skill_2:1285,skill_4:2535,team_buff:174,dx:1994,ds:2179
-17495,_c_Victor,5*,wind,blade,5415,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hp70 & hit10 & hp100>,,attack:2582,skill_1:4667,s1_bleed:4911,skill_2:824,skill_4:1636,team_buff:174,dx:1291,ds:1407
+26755,Victor,5*,wind,blade,6679,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hp70 & hit10 & hp100>,,attack:4219,skill_1:7044,s1_bleed:6014,skill_2:1279,skill_4:4893,team_buff:173,dx:960,ds:2170
+18614,_c_Victor,5*,wind,blade,5415,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hp70 & hit10 & hp100>,,attack:2746,skill_1:4526,s1_bleed:5176,skill_2:821,skill_4:3149,team_buff:173,dx:619,ds:1400
 -,120,_
-22525,Victor,5*,wind,blade,6433,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hp70 & hit10>,,attack:3579,skill_1:5808,s1_bleed:6268,skill_2:1898,skill_4:1933,team_buff:262,dx:850,ds:1922
-16379,_c_Victor,5*,wind,blade,5398,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hp70 & hit10>,,attack:2412,skill_1:3889,s1_bleed:5382,skill_2:1271,skill_4:1294,team_buff:262,dx:572,ds:1293
+24054,Victor,5*,wind,blade,5988,Resounding_Rendition,Primal_Crisis,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hp70 & hit10 & hit15>,,attack:3847,skill_1:5955,s1_bleed:6943,skill_2:1775,skill_4:2339,team_buff:262,dx:898,ds:2031
+14494,_c_Victor,5*,wind,blade,5402,Resounding_Rendition,Primal_Crisis,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hp70 & hit10 & hit15>,,attack:2339,skill_1:3552,s1_bleed:4122,skill_2:1059,skill_4:1396,team_buff:262,dx:540,ds:1220
 -,120,affliction
-28462,Victor,5*,wind,blade,6679,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hp70 & hit10 & hp100>,,attack:4329,skill_1:7025,s1_bleed:7453,skill_2:2296,skill_4:3741,team_buff:262,dx:1028,ds:2325
-18437,_c_Victor,5*,wind,blade,5415,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hp70 & hit10 & hp100>,,attack:2807,skill_1:4525,s1_bleed:4779,skill_2:1479,skill_4:2410,team_buff:262,dx:666,ds:1505
+28302,Victor,5*,wind,blade,6679,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hp70 & hit10 & hp100>,,attack:4347,skill_1:6649,s1_bleed:7609,skill_2:1982,skill_4:4180,team_buff:262,dx:1003,ds:2267
+19163,_c_Victor,5*,wind,blade,5415,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hp70 & hit10 & hp100>,,attack:2814,skill_1:4273,s1_bleed:5731,skill_2:1274,skill_4:2688,team_buff:262,dx:649,ds:1468
 -,180,_
-23390,Victor,5*,wind,blade,6433,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hp70 & hit10>,,attack:3698,skill_1:6148,s1_bleed:6899,skill_2:2397,skill_4:2161,team_buff:290,dx:550,ds:1243
-16238,_c_Victor,5*,wind,blade,5398,Resounding_Rendition,Beautiful_Nothingness,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hp70 & hit10>,,attack:2487,skill_1:4118,s1_bleed:5078,skill_2:1607,skill_4:1448,team_buff:290,dx:370,ds:836
+25601,Victor,5*,wind,blade,5988,Resounding_Rendition,Primal_Crisis,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hp70 & hit10 & hit15>,,attack:4066,skill_1:6481,s1_bleed:7564,skill_2:2047,skill_4:3207,team_buff:290,dx:596,ds:1347
+15949,_c_Victor,5*,wind,blade,5402,Resounding_Rendition,Primal_Crisis,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hp70 & hit10 & hit15>,,attack:2459,skill_1:3874,s1_bleed:5011,skill_2:1225,skill_4:1920,team_buff:290,dx:358,ds:809
 -,180,affliction
-29808,Victor,5*,wind,blade,6679,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hp70 & hit10 & hp100>,,attack:4472,skill_1:7436,s1_bleed:8356,skill_2:2899,skill_4:4183,team_buff:290,dx:665,ds:1503
-20519,_c_Victor,5*,wind,blade,5415,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hp70 & hit10 & hp100>,,attack:2894,skill_1:4792,s1_bleed:6568,skill_2:1870,skill_4:2697,team_buff:290,dx:430,ds:973
+30745,Victor,5*,wind,blade,6679,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,<hp70 & hit10 & hp100>,,attack:4574,skill_1:7236,s1_bleed:8457,skill_2:2285,skill_4:5729,team_buff:290,dx:665,ds:1504
+19287,_c_Victor,5*,wind,blade,5415,Resounding_Rendition,The_Fires_of_Hate,Vayu,Agito1,Akasha,Dragonyule_Xainfried,Lin_You,Weapon,Curran,!<hp70 & hit10 & hp100>,,attack:2958,skill_1:4660,s1_bleed:4802,skill_2:1473,skill_4:3696,team_buff:290,dx:430,ds:973

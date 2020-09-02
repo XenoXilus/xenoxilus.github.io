@@ -1,18 +1,18 @@
 -,60,_
-38651,Heinwald,5*,shadow,staff,4642,Resounding_Rendition,Breakfast_at_Valerios,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,<always connect hits & hp70 & hit15 & buff all teammates>,,attack:3001,skill_1:17543,skill_4:7510,team_buff:3523,dx:1674,ds:5396
-20203,_c_Heinwald,5*,shadow,staff,4642,Resounding_Rendition,Breakfast_at_Valerios,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,!<always connect hits & hp70 & hit15 & buff all teammates>,,attack:2043,skill_1:9308,skill_4:4225,team_buff:700,dx:1132,ds:2791
+46105,Heinwald,5*,shadow,staff,5338,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Kleimann,<always connect hits & hp70 & hp100 & buff all teammates>,92% poison uptime,attack:3526,skill_1:19319,skill_4:13794,s4_poison:2657,team_buff:2481,dx:1136,ds:3190
+25831,_c_Heinwald,5*,shadow,staff,4642,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Kleimann,!<always connect hits & hp70 & hp100 & buff all teammates>,92% poison uptime,attack:2640,skill_1:11221,skill_4:7804,s4_poison:1501,dx:846,ds:1816
 -,60,affliction
 47972,Heinwald,5*,shadow,staff,5338,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,<always connect hits & hp70 & hp100 & buff all teammates>,,attack:3342,skill_1:19609,skill_4:13709,team_buff:3523,dx:1843,ds:5942
 27146,_c_Heinwald,5*,shadow,staff,4642,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,!<always connect hits & hp70 & hp100 & buff all teammates>,,attack:2452,skill_1:11170,skill_4:8113,team_buff:700,dx:1358,ds:3349
 -,120,_
-40754,Heinwald,5*,shadow,staff,4642,Resounding_Rendition,Breakfast_at_Valerios,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,<always connect hits & hp70 & hit15 & buff all teammates>,,attack:3190,skill_1:19572,skill_4:10412,team_buff:3857,dx:878,ds:2843
-20050,_c_Heinwald,5*,shadow,staff,4642,Resounding_Rendition,Breakfast_at_Valerios,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,!<always connect hits & hp70 & hit15 & buff all teammates>,,attack:2162,skill_1:10188,skill_4:5405,team_buff:701,dx:594,ds:997
+50594,Heinwald,5*,shadow,staff,5338,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Kleimann,<always connect hits & hp70 & hp100 & buff all teammates>,92% poison uptime,attack:3650,skill_1:22119,skill_4:14897,s4_poison:3023,team_buff:2748,dx:981,ds:3174
+26880,_c_Heinwald,5*,shadow,staff,4642,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Kleimann,!<always connect hits & hp70 & hp100 & buff all teammates>,92% poison uptime,attack:2725,skill_1:12652,skill_4:7918,s4_poison:1613,dx:729,ds:1239
 -,120,affliction
 51770,Heinwald,5*,shadow,staff,5338,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,<always connect hits & hp70 & hp100 & buff all teammates>,,attack:3531,skill_1:21697,skill_4:18584,team_buff:3857,dx:967,ds:3130
 27811,_c_Heinwald,5*,shadow,staff,4642,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,!<always connect hits & hp70 & hp100 & buff all teammates>,,attack:2595,skill_1:12226,skill_4:10377,team_buff:701,dx:713,ds:1197
 -,180,_
-40594,Heinwald,5*,shadow,staff,4642,Resounding_Rendition,Breakfast_at_Valerios,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,<always connect hits & hp70 & hit15 & buff all teammates>,,attack:3354,skill_1:20282,skill_4:10404,team_buff:4070,dx:585,ds:1895
-16408,_c_Heinwald,5*,shadow,staff,4642,Resounding_Rendition,Breakfast_at_Valerios,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,!<always connect hits & hp70 & hit15 & buff all teammates>,,attack:2263,skill_1:8427,skill_4:4269,team_buff:701,dx:396,ds:350
+49151,Heinwald,5*,shadow,staff,5338,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Kleimann,<always connect hits & hp70 & hp100 & buff all teammates>,86% poison uptime,attack:3771,skill_1:22392,skill_4:15195,s4_poison:2891,team_buff:3162,dx:603,ds:1132
+22149,_c_Heinwald,5*,shadow,staff,4642,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Kleimann,!<always connect hits & hp70 & hp100 & buff all teammates>,86% poison uptime,attack:2798,skill_1:10564,skill_4:6676,s4_poison:1277,dx:455,ds:376
 -,180,affliction
 51432,Heinwald,5*,shadow,staff,5338,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,<always connect hits & hp70 & hp100 & buff all teammates>,,attack:3706,skill_1:22432,skill_4:18490,team_buff:4070,dx:645,ds:2087
 22624,_c_Heinwald,5*,shadow,staff,4642,Resounding_Rendition,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Wand,Bow,Weapon,Curran,!<always connect hits & hp70 & hp100 & buff all teammates>,,attack:2715,skill_1:10113,skill_4:8197,team_buff:701,dx:475,ds:420

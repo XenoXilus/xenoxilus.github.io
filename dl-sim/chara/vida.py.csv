@@ -1,18 +1,18 @@
 -,60,_
-19419,Vida,3*,shadow,dagger,4526,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Forte,Weapon,Curran,<always connect hits & hit15>,no s2,attack:2454,force_strike:369,skill_1:8125,skill_4:2863,team_buff:350,dx:1434,ds:3822
-15546,_c_Vida,3*,shadow,dagger,4526,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Forte,Weapon,Curran,!<always connect hits & hit15>,no s2,attack:1979,force_strike:301,skill_1:6458,skill_4:2276,team_buff:350,dx:1140,ds:3039
+20812,Vida,3*,shadow,dagger,4526,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Forte,Weapon,Kleimann,<always connect hits & hit15>,no s2; 58% poison uptime,attack:2372,force_strike:418,skill_1:6986,skill_4:5065,s4_poison:838,dx:1399,ds:3730
+16582,_c_Vida,3*,shadow,dagger,4526,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Forte,Weapon,Kleimann,!<always connect hits & hit15>,no s2; 58% poison uptime,attack:1915,force_strike:340,skill_1:5552,skill_4:4027,s4_poison:666,dx:1112,ds:2965
 -,60,affliction
 23475,Vida,3*,shadow,dagger,4752,Twinfold_Bonds,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Forte,Weapon,Curran,<always connect hits & hit15 & hp100>,no s2,attack:2745,force_strike:414,skill_1:9032,skill_4:5090,team_buff:350,dx:1593,ds:4247
 19647,_c_Vida,3*,shadow,dagger,4526,Twinfold_Bonds,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Forte,Weapon,Curran,!<always connect hits & hit15 & hp100>,no s2,attack:2308,force_strike:351,skill_1:7527,skill_4:4242,team_buff:350,dx:1328,ds:3539
 -,120,_
-19343,Vida,3*,shadow,dagger,4526,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Forte,Weapon,Curran,<always connect hits & hit15>,no s2,attack:2691,force_strike:493,skill_1:8664,skill_4:4495,team_buff:437,dx:698,ds:1862
-15486,_c_Vida,3*,shadow,dagger,4526,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Forte,Weapon,Curran,!<always connect hits & hit15>,no s2,attack:2153,force_strike:396,skill_1:6887,skill_4:3574,team_buff:437,dx:555,ds:1480
+21150,Vida,3*,shadow,dagger,4526,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Forte,Weapon,Kleimann,<always connect hits & hit15>,no s2; 78% poison uptime,attack:2600,force_strike:477,skill_1:8501,skill_4:5830,s4_poison:1174,dx:699,ds:1864
+16833,_c_Vida,3*,shadow,dagger,4526,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Forte,Weapon,Kleimann,!<always connect hits & hit15>,no s2; 78% poison uptime,attack:2082,force_strike:383,skill_1:6758,skill_4:4636,s4_poison:934,dx:556,ds:1482
 -,120,affliction
 24455,Vida,3*,shadow,dagger,4752,Twinfold_Bonds,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Forte,Weapon,Curran,<always connect hits & hit15 & hp100>,no s2,attack:2999,force_strike:550,skill_1:9629,skill_4:7992,team_buff:437,dx:776,ds:2069
 20465,_c_Vida,3*,shadow,dagger,4526,Twinfold_Bonds,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Forte,Weapon,Curran,!<always connect hits & hit15 & hp100>,no s2,attack:2509,force_strike:461,skill_1:8024,skill_4:6660,team_buff:437,dx:647,ds:1724
 -,180,_
-19199,Vida,3*,shadow,dagger,4526,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Forte,Weapon,Curran,<always connect hits & hit15>,no s2,attack:2786,force_strike:514,skill_1:9223,skill_4:4452,team_buff:467,dx:479,ds:1276
-13237,_c_Vida,3*,shadow,dagger,4526,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Forte,Weapon,Curran,!<always connect hits & hit15>,no s2,attack:2225,force_strike:411,skill_1:6360,skill_4:3029,team_buff:467,dx:380,ds:362
+20944,Vida,3*,shadow,dagger,4526,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Forte,Weapon,Kleimann,<always connect hits & hit15>,no s2; 78% poison uptime,attack:2707,force_strike:518,skill_1:8665,skill_4:6132,s4_poison:1212,dx:465,ds:1241
+14294,_c_Vida,3*,shadow,dagger,4526,Twinfold_Bonds,Howling_to_the_Heavens,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Forte,Weapon,Kleimann,!<always connect hits & hit15>,no s2; 78% poison uptime,attack:2162,force_strike:414,skill_1:5823,skill_4:4274,s4_poison:896,dx:370,ds:352
 -,180,affliction
 24259,Vida,3*,shadow,dagger,4752,Twinfold_Bonds,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Forte,Weapon,Curran,<always connect hits & hit15 & hp100>,no s2,attack:3102,force_strike:572,skill_1:10249,skill_4:7916,team_buff:467,dx:532,ds:1418
 17458,_c_Vida,3*,shadow,dagger,4526,Twinfold_Bonds,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Forte,Weapon,Curran,!<always connect hits & hit15 & hp100>,no s2,attack:2592,force_strike:479,skill_1:7409,skill_4:5644,team_buff:467,dx:443,ds:422

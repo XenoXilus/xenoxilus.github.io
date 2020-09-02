@@ -1,18 +1,18 @@
 -,60,_
-22447,Sazanka,4*,shadow,axe,4694,Summer_Paladyns,Primal_Crisis,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<80 sleep res & always connect hits & hit15>,,attack:2651,skill_1:7440,s1_bleed:5031,skill_4:2646,team_buff:349,dx:1180,ds:3146
-18430,_c_Sazanka,4*,shadow,axe,4694,Summer_Paladyns,Primal_Crisis,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<80 sleep res & always connect hits & hit15>,,attack:2151,skill_1:5817,s1_bleed:4660,skill_4:2068,team_buff:349,dx:923,ds:2459
+24387,Sazanka,4*,shadow,axe,5411,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Kleimann,<80 sleep res & always connect hits & hp100>,56% poison uptime,attack:2595,skill_1:7711,s1_bleed:5050,skill_4:4036,s4_poison:691,dx:1173,ds:3127
+22083,_c_Sazanka,4*,shadow,axe,4705,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Kleimann,!<80 sleep res & always connect hits & hp100>,56% poison uptime,attack:2257,skill_1:6705,s1_bleed:5268,skill_4:3510,s4_poison:601,dx:1020,ds:2719
 -,60,affliction
-26082,Sazanka,4*,shadow,axe,5411,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<80 sleep res & always connect hits & hp100>,,attack:2975,skill_1:8047,s1_bleed:5451,skill_4:4578,team_buff:349,dx:1276,ds:3402
+26087,Sazanka,4*,shadow,axe,5411,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<80 sleep res & always connect hits & hp100>,,attack:2975,skill_1:8047,s1_bleed:5456,skill_4:4578,team_buff:349,dx:1276,ds:3402
 22665,_c_Sazanka,4*,shadow,axe,4705,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<80 sleep res & always connect hits & hp100>,,attack:2587,skill_1:6997,s1_bleed:4680,skill_4:3981,team_buff:349,dx:1110,ds:2958
 -,120,_
-24846,Sazanka,4*,shadow,axe,4694,Summer_Paladyns,Primal_Crisis,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<80 sleep res & always connect hits & hit15>,,attack:2951,skill_1:8735,s1_bleed:7263,skill_4:3300,team_buff:436,dx:588,ds:1569
-19294,_c_Sazanka,4*,shadow,axe,4694,Summer_Paladyns,Primal_Crisis,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<80 sleep res & always connect hits & hit15>,,attack:2346,skill_1:6829,s1_bleed:5414,skill_4:2579,team_buff:436,dx:460,ds:1226
+25485,Sazanka,4*,shadow,axe,5411,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Kleimann,<80 sleep res & always connect hits & hp100>,74% poison uptime,attack:2999,skill_1:8447,s1_bleed:6935,skill_4:4025,s4_poison:932,dx:585,ds:1559
+20704,_c_Sazanka,4*,shadow,axe,4705,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Kleimann,!<80 sleep res & always connect hits & hp100>,74% poison uptime,attack:2607,skill_1:7344,s1_bleed:4575,skill_4:3500,s4_poison:810,dx:508,ds:1356
 -,120,affliction
-28948,Sazanka,4*,shadow,axe,5411,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<80 sleep res & always connect hits & hp100>,,attack:3245,skill_1:9447,s1_bleed:7774,skill_4:5710,team_buff:436,dx:636,ds:1697
-25585,_c_Sazanka,4*,shadow,axe,4705,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<80 sleep res & always connect hits & hp100>,,attack:2822,skill_1:8214,s1_bleed:7116,skill_4:4965,team_buff:436,dx:553,ds:1475
+28966,Sazanka,4*,shadow,axe,5411,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<80 sleep res & always connect hits & hp100>,,attack:3246,skill_1:9447,s1_bleed:7792,skill_4:5710,team_buff:436,dx:636,ds:1697
+25117,_c_Sazanka,4*,shadow,axe,4705,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<80 sleep res & always connect hits & hp100>,,attack:2822,skill_1:8214,s1_bleed:6649,skill_4:4965,team_buff:436,dx:553,ds:1475
 -,180,_
-25052,Sazanka,4*,shadow,axe,4694,Summer_Paladyns,Primal_Crisis,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<80 sleep res & always connect hits & hit15>,,attack:3048,skill_1:9194,s1_bleed:7358,skill_4:3536,team_buff:467,dx:394,ds:1051
-19739,_c_Sazanka,4*,shadow,axe,4694,Summer_Paladyns,Primal_Crisis,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<80 sleep res & always connect hits & hit15>,,attack:2409,skill_1:7188,s1_bleed:6041,skill_4:2765,team_buff:467,dx:308,ds:557
+26618,Sazanka,4*,shadow,axe,5411,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Kleimann,<80 sleep res & always connect hits & hp100>,76% poison uptime,attack:3070,skill_1:9069,s1_bleed:7640,skill_4:4482,s4_poison:940,dx:385,ds:1028
+22223,_c_Sazanka,4*,shadow,axe,4705,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Kleimann,!<80 sleep res & always connect hits & hp100>,76% poison uptime,attack:2669,skill_1:7646,s1_bleed:6271,skill_4:3897,s4_poison:818,dx:335,ds:584
 -,180,affliction
-29364,Sazanka,4*,shadow,axe,5411,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<80 sleep res & always connect hits & hp100>,,attack:3333,skill_1:9943,s1_bleed:7936,skill_4:6119,team_buff:467,dx:426,ds:1136
-24978,_c_Sazanka,4*,shadow,axe,4705,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<80 sleep res & always connect hits & hp100>,,attack:2898,skill_1:8646,s1_bleed:6601,skill_4:5321,team_buff:467,dx:370,ds:670
+29392,Sazanka,4*,shadow,axe,5411,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,<80 sleep res & always connect hits & hp100>,,attack:3333,skill_1:9943,s1_bleed:7964,skill_4:6119,team_buff:467,dx:426,ds:1136
+24120,_c_Sazanka,4*,shadow,axe,4705,Summer_Paladyns,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Ieyasu,Wand,Bow,Weapon,Curran,!<80 sleep res & always connect hits & hp100>,,attack:2898,skill_1:8646,s1_bleed:5743,skill_4:5321,team_buff:467,dx:370,ds:670
