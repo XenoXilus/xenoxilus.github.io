@@ -1,18 +1,18 @@
 -,60,_
-26629,Patia,4*,shadow,lance,5248,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp70>,10.00s team doublebuff interval,attack:4523,skill_2:5735,s2_bleed:8275,team_buff:8094
-25206,_c_Patia,4*,shadow,lance,4998,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp70>,10.00s team doublebuff interval,attack:4171,skill_2:5299,s2_bleed:7641,team_buff:8094
+22953,Patia,4*,shadow,lance,5270,Proper_Maintenance,From_Whence_He_Comes,Azazel,Agito2,Audric,Bow,Tobias,Weapon,Karl,<hp60 & hp100>,54% poison uptime; 6.67s team doublebuff interval,attack:4447,force_strike:315,team_buff:15748,dx:1407,ds_poison:293,ds:741
+21836,_c_Patia,4*,shadow,lance,4365,Proper_Maintenance,From_Whence_He_Comes,Azazel,Agito2,Audric,Bow,Tobias,Weapon,Karl,!<hp60 & hp100>,54% poison uptime; 6.67s team doublebuff interval,attack:3754,force_strike:266,team_buff:15748,dx:1190,ds_poison:247,ds:627
 -,60,affliction
-30694,Patia,4*,shadow,lance,5819,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp100>,10.00s team doublebuff interval,attack:5522,skill_2:6985,s2_bleed:10091,team_buff:8094
-27161,_c_Patia,4*,shadow,lance,4819,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp100>,10.00s team doublebuff interval,attack:4657,skill_2:5897,s2_bleed:8511,team_buff:8094
+22953,Patia,4*,shadow,lance,5270,Proper_Maintenance,From_Whence_He_Comes,Azazel,Agito2,Audric,Bow,Tobias,Weapon,Karl,<hp60 & hp100>,6.67s team doublebuff interval,attack:4447,force_strike:315,team_buff:15748,dx:1407,ds_poison:293,ds:741
+21836,_c_Patia,4*,shadow,lance,4365,Proper_Maintenance,From_Whence_He_Comes,Azazel,Agito2,Audric,Bow,Tobias,Weapon,Karl,!<hp60 & hp100>,6.67s team doublebuff interval,attack:3754,force_strike:266,team_buff:15748,dx:1190,ds_poison:247,ds:627
 -,120,_
-33124,Patia,4*,shadow,lance,5248,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp70>,9.23s team doublebuff interval,attack:4832,skill_2:6613,s2_bleed:11991,team_buff:9685
-31360,_c_Patia,4*,shadow,lance,4998,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp70>,9.23s team doublebuff interval,attack:4467,skill_2:6118,s2_bleed:11088,team_buff:9685
+26467,Patia,4*,shadow,lance,5270,Proper_Maintenance,From_Whence_He_Comes,Azazel,Agito2,Audric,Bow,Tobias,Weapon,Karl,<hp60 & hp100>,48% poison uptime; 6.00s team doublebuff interval,attack:5216,force_strike:469,team_buff:19483,dx:706,ds_poison:200,ds:391
+25398,_c_Patia,4*,shadow,lance,4365,Proper_Maintenance,From_Whence_He_Comes,Azazel,Agito2,Audric,Bow,Tobias,Weapon,Karl,!<hp60 & hp100>,48% poison uptime; 6.00s team doublebuff interval,attack:4416,force_strike:397,team_buff:19483,dx:599,ds_poison:169,ds:331
 -,120,affliction
-38215,Patia,4*,shadow,lance,5819,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp100>,9.23s team doublebuff interval,attack:5882,skill_2:8046,s2_bleed:14599,team_buff:9685
-33800,_c_Patia,4*,shadow,lance,4819,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp100>,9.23s team doublebuff interval,attack:4971,skill_2:6803,s2_bleed:12339,team_buff:9685
+27258,Patia,4*,shadow,lance,5270,Proper_Maintenance,From_Whence_He_Comes,Azazel,Agito2,Audric,Bow,Tobias,Weapon,Karl,<hp60 & hp100>,6.00s team doublebuff interval,attack:5331,force_strike:479,team_buff:20078,dx:761,ds_poison:215,ds:391
+26159,_c_Patia,4*,shadow,lance,4365,Proper_Maintenance,From_Whence_He_Comes,Azazel,Agito2,Audric,Bow,Tobias,Weapon,Karl,!<hp60 & hp100>,6.00s team doublebuff interval,attack:4514,force_strike:406,team_buff:20078,dx:645,ds_poison:182,ds:331
 -,180,_
-35351,Patia,4*,shadow,lance,5248,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp70>,9.00s team doublebuff interval,attack:4983,skill_2:6448,s2_bleed:13518,team_buff:10400
-33889,_c_Patia,4*,shadow,lance,4998,Resounding_Rendition,Brothers_in_Arms,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp70>,9.47s team doublebuff interval,attack:4421,skill_2:5926,s2_bleed:12222,team_buff:10276,dx:330,ds:711
+27091,Patia,4*,shadow,lance,5270,Proper_Maintenance,From_Whence_He_Comes,Azazel,Agito2,Audric,Bow,Tobias,Weapon,Karl,<hp60 & hp100>,33% poison uptime; 6.00s team doublebuff interval,attack:5346,force_strike:474,team_buff:20362,dx:484,ds_poison:148,ds:273
+26066,_c_Patia,4*,shadow,lance,4365,Proper_Maintenance,From_Whence_He_Comes,Azazel,Agito2,Audric,Bow,Tobias,Weapon,Karl,!<hp60 & hp100>,33% poison uptime; 6.00s team doublebuff interval,attack:4531,force_strike:402,team_buff:20362,dx:411,ds_poison:125,ds:232
 -,180,affliction
-40758,Patia,4*,shadow,lance,5819,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,<always connect hits & hp60 & hp100>,9.00s team doublebuff interval,attack:6062,skill_2:7844,s2_bleed:16450,team_buff:10400
-36533,_c_Patia,4*,shadow,lance,4819,Valiant_Crown,The_Fires_of_Hate,Gala_Cat_Sith,Agito2,Blade,Bow,Tobias,Weapon,Karl,!<always connect hits & hp60 & hp100>,9.47s team doublebuff interval,attack:4921,skill_2:6588,s2_bleed:13594,team_buff:10276,dx:365,ds:786
+28417,Patia,4*,shadow,lance,5270,Proper_Maintenance,From_Whence_He_Comes,Azazel,Agito2,Audric,Bow,Tobias,Weapon,Karl,<hp60 & hp100>,6.00s team doublebuff interval,attack:5560,force_strike:496,team_buff:21406,dx:521,ds_poison:159,ds:273
+27349,_c_Patia,4*,shadow,lance,4365,Proper_Maintenance,From_Whence_He_Comes,Azazel,Agito2,Audric,Bow,Tobias,Weapon,Karl,!<hp60 & hp100>,6.00s team doublebuff interval,attack:4712,force_strike:420,team_buff:21406,dx:442,ds_poison:135,ds:232
