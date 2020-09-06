@@ -1,18 +1,18 @@
 -,60,_
-11587,Summer_Amane,5*,wind,axe,6994,Resounding_Rendition,Memory_of_a_Friend,Ariel,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Ranzal,Curran,<hp60 & hit10 & hp70 & hit15>,no s1; 25% poison uptime,attack:3609,skill_3:1133,s3_poison:211,skill_4:2038,team_buff:1671,dx:1436,ds:1484
-8872,_c_Summer_Amane,5*,wind,axe,6598,Resounding_Rendition,Memory_of_a_Friend,Ariel,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Ranzal,Curran,!<hp60 & hit10 & hp70 & hit15>,no s1; 25% poison uptime,attack:2681,skill_3:812,s3_poison:151,skill_4:1454,team_buff:1671,dx:1035,ds:1064
+9660,Summer_Amane,5*,wind,axe,4648,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,<hp60>,no s1; 20.00s team doublebuff interval,attack:2946,force_strike:191,team_buff:6521
+9502,_c_Summer_Amane,5*,wind,axe,4385,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,!<hp60>,no s1; 20.00s team doublebuff interval,attack:2798,force_strike:181,team_buff:6521
 -,60,affliction
-13337,Summer_Amane,5*,wind,axe,7695,Resounding_Rendition,The_Fires_of_Hate,Ariel,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Ranzal,Curran,<hp60 & hit10 & hp70 & hp100>,no s1,attack:4710,skill_3:1303,s3_poison:243,skill_4:2693,team_buff:1649,dx:1028,ds:1708
-10286,_c_Summer_Amane,5*,wind,axe,6600,Resounding_Rendition,The_Fires_of_Hate,Ariel,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Ranzal,Curran,!<hp60 & hit10 & hp70 & hp100>,no s1,attack:3501,skill_3:963,s3_poison:180,skill_4:1970,team_buff:1649,dx:759,ds:1262
+9660,Summer_Amane,5*,wind,axe,4648,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,<hp60>,no s1; 20.00s team doublebuff interval,attack:2946,force_strike:191,team_buff:6521
+9502,_c_Summer_Amane,5*,wind,axe,4385,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,!<hp60>,no s1; 20.00s team doublebuff interval,attack:2798,force_strike:181,team_buff:6521
 -,120,_
-12671,Summer_Amane,5*,wind,axe,6994,Resounding_Rendition,Memory_of_a_Friend,Ariel,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Ranzal,Curran,<hp60 & hit10 & hp70 & hit15>,no s1; 37% poison uptime,attack:3873,skill_3:1656,s3_poison:309,skill_4:2357,team_buff:2075,dx:851,ds:1546
-9698,_c_Summer_Amane,5*,wind,axe,6598,Resounding_Rendition,Memory_of_a_Friend,Ariel,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Ranzal,Curran,!<hp60 & hit10 & hp70 & hit15>,no s1; 37% poison uptime,attack:2812,skill_3:1180,s3_poison:220,skill_4:1678,team_buff:2075,dx:614,ds:1116
+10355,Summer_Amane,5*,wind,axe,4648,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,<hp60>,no s1; 20.00s team doublebuff interval,attack:3096,force_strike:95,team_buff:7162
+10195,_c_Summer_Amane,5*,wind,axe,4385,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,!<hp60>,no s1; 20.00s team doublebuff interval,attack:2942,force_strike:90,team_buff:7162
 -,120,affliction
-14277,Summer_Amane,5*,wind,axe,7695,Resounding_Rendition,The_Fires_of_Hate,Ariel,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Ranzal,Curran,<hp60 & hit10 & hp70 & hp100>,no s1,attack:4849,skill_3:1964,s3_poison:367,skill_4:3391,team_buff:2010,dx:830,ds:863
-11042,_c_Summer_Amane,5*,wind,axe,6600,Resounding_Rendition,The_Fires_of_Hate,Ariel,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Ranzal,Curran,!<hp60 & hit10 & hp70 & hp100>,no s1,attack:3578,skill_3:1445,s3_poison:270,skill_4:2483,team_buff:2010,dx:616,ds:637
+10355,Summer_Amane,5*,wind,axe,4648,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,<hp60>,no s1; 20.00s team doublebuff interval,attack:3096,force_strike:95,team_buff:7162
+10195,_c_Summer_Amane,5*,wind,axe,4385,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,!<hp60>,no s1; 20.00s team doublebuff interval,attack:2942,force_strike:90,team_buff:7162
 -,180,_
-13095,Summer_Amane,5*,wind,axe,6994,Resounding_Rendition,Memory_of_a_Friend,Ariel,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Ranzal,Curran,<hp60 & hit10 & hp70 & hit15>,no s1; 43% poison uptime,attack:4048,skill_3:2231,s3_poison:346,skill_4:2657,team_buff:2160,dx:620,ds:1030
-10006,_c_Summer_Amane,5*,wind,axe,6598,Resounding_Rendition,Memory_of_a_Friend,Ariel,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Ranzal,Curran,!<hp60 & hit10 & hp70 & hit15>,no s1; 43% poison uptime,attack:2919,skill_3:1593,s3_poison:246,skill_4:1895,team_buff:2160,dx:447,ds:743
+10729,Summer_Amane,5*,wind,axe,4648,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,<hp60>,no s1; 22.50s team doublebuff interval,attack:3207,force_strike:64,team_buff:7457
+10566,_c_Summer_Amane,5*,wind,axe,4385,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,!<hp60>,no s1; 22.50s team doublebuff interval,attack:3048,force_strike:60,team_buff:7457
 -,180,affliction
-15043,Summer_Amane,5*,wind,axe,7695,Resounding_Rendition,The_Fires_of_Hate,Ariel,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Ranzal,Curran,<hp60 & hit10 & hp70 & hp100>,no s1,attack:4876,skill_3:2092,s3_poison:391,skill_4:3687,team_buff:2021,dx:741,ds:1231
-11608,_c_Summer_Amane,5*,wind,axe,6600,Resounding_Rendition,The_Fires_of_Hate,Ariel,Agito1,Blade,Dragonyule_Xainfried,Lin_You,Ranzal,Curran,!<hp60 & hit10 & hp70 & hp100>,no s1,attack:3592,skill_3:1536,s3_poison:287,skill_4:2703,team_buff:2021,dx:551,ds:915
+10729,Summer_Amane,5*,wind,axe,4648,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,<hp60>,no s1; 22.50s team doublebuff interval,attack:3207,force_strike:64,team_buff:7457
+10566,_c_Summer_Amane,5*,wind,axe,4385,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,!<hp60>,no s1; 22.50s team doublebuff interval,attack:3048,force_strike:60,team_buff:7457
