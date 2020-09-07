@@ -11,8 +11,8 @@
 36084,Chrom,5*,flame,sword,9637,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Nadine,<hp100 & hit10 & hp50 & 2 teammates in s1>,,attack:3431,force_strike:1786,skill_1:2316,skill_2:17502,skill_4:2001,s4_burn:722,dx:4990,ds:3330
 24981,_c_Chrom,5*,flame,sword,7992,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Nadine,!<hp100 & hit10 & hp50 & 2 teammates in s1>,,attack:2590,force_strike:1313,skill_1:1735,skill_2:11206,skill_4:1076,s4_burn:544,dx:3993,ds:2520
 -,180,_
-35624,Chrom,5*,flame,sword,10345,The_Shining_Overlord,The_Fires_of_Hate,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Kleimann,<hp100 & hit10 & hp50>,68% poison uptime,attack:3331,force_strike:1659,skill_1:2176,skill_2:17986,skill_4:3845,s4_poison:784,dx:3664,ds:2176
-25125,_c_Chrom,5*,flame,sword,7994,The_Shining_Overlord,The_Fires_of_Hate,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Kleimann,!<hp100 & hit10 & hp50>,68% poison uptime,attack:2339,force_strike:1164,skill_1:1526,skill_2:12685,skill_4:2707,s4_poison:550,dx:2611,ds:1539
+35660,Chrom,5*,flame,sword,10345,The_Shining_Overlord,The_Fires_of_Hate,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Kleimann,<hp100 & hit10 & hp50>,68% poison uptime,attack:3367,force_strike:1690,skill_1:2174,skill_2:17968,skill_4:3841,s4_poison:783,dx:3661,ds:2173
+25151,_c_Chrom,5*,flame,sword,7994,The_Shining_Overlord,The_Fires_of_Hate,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Kleimann,!<hp100 & hit10 & hp50>,68% poison uptime,attack:2366,force_strike:1187,skill_1:1524,skill_2:12672,skill_4:2704,s4_poison:550,dx:2609,ds:1537
 -,180,affliction
 38720,Chrom,5*,flame,sword,9637,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Nadine,<hp100 & hit10 & hp50 & 2 teammates in s1>,,attack:3695,force_strike:1954,skill_1:2438,skill_2:21298,skill_4:2388,s4_burn:795,dx:3925,ds:2223
 26582,_c_Chrom,5*,flame,sword,7992,The_Shining_Overlord,Me_and_My_Bestie,Gala_Mars,Agito2,Blade,Wand,Marth,Weapon,Nadine,!<hp100 & hit10 & hp50 & 2 teammates in s1>,,attack:2798,force_strike:1468,skill_1:1817,skill_2:13955,skill_4:1290,s4_burn:564,dx:3000,ds:1686
