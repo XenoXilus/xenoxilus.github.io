@@ -1,18 +1,12 @@
 -,60,_
-9660,Summer_Amane,5*,wind,axe,4648,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,<hp60>,no s1; 20.00s team doublebuff interval,attack:2946,force_strike:191,team_buff:6521
-9502,_c_Summer_Amane,5*,wind,axe,4385,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,!<hp60>,no s1; 20.00s team doublebuff interval,attack:2798,force_strike:181,team_buff:6521
+2942,Summer Amane,110041_02_r05,wind,axe,4014,A Dog's Day,400409_02,Castle Cheer Corps,400380_02,Freyja,210084_01,Marmyadose ,304129_01_60301,Blade,,Tobias,110352_01_r05,Bow,,Patia,110335_01_r04,Summer Luca,100006_03_r04,hp60,no s1,team:25.35911%;doublebuff:every 30.05s,attack:2560,fs:381
 -,60,affliction
-9660,Summer_Amane,5*,wind,axe,4648,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,<hp60>,no s1; 20.00s team doublebuff interval,attack:2946,force_strike:191,team_buff:6521
-9502,_c_Summer_Amane,5*,wind,axe,4385,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,!<hp60>,no s1; 20.00s team doublebuff interval,attack:2798,force_strike:181,team_buff:6521
+2942,Summer Amane,110041_02_r05,wind,axe,4014,A Dog's Day,400409_02,Castle Cheer Corps,400380_02,Freyja,210084_01,Marmyadose ,304129_01_60301,Blade,,Tobias,110352_01_r05,Bow,,Patia,110335_01_r04,Summer Luca,100006_03_r04,hp60,no s1,poison:100.0%;team:25.35911%;doublebuff:every 30.05s,attack:2560,fs:381
 -,120,_
-10355,Summer_Amane,5*,wind,axe,4648,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,<hp60>,no s1; 20.00s team doublebuff interval,attack:3096,force_strike:95,team_buff:7162
-10195,_c_Summer_Amane,5*,wind,axe,4385,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,!<hp60>,no s1; 20.00s team doublebuff interval,attack:2942,force_strike:90,team_buff:7162
+3044,Summer Amane,110041_02_r05,wind,axe,4014,A Dog's Day,400409_02,Castle Cheer Corps,400380_02,Freyja,210084_01,Marmyadose ,304129_01_60301,Blade,,Tobias,110352_01_r05,Bow,,Patia,110335_01_r04,Summer Luca,100006_03_r04,hp60,no s1,team:30.08661%;doublebuff:every 24.03s,attack:2598,fs:445
 -,120,affliction
-10355,Summer_Amane,5*,wind,axe,4648,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,<hp60>,no s1; 20.00s team doublebuff interval,attack:3096,force_strike:95,team_buff:7162
-10195,_c_Summer_Amane,5*,wind,axe,4385,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,!<hp60>,no s1; 20.00s team doublebuff interval,attack:2942,force_strike:90,team_buff:7162
+3044,Summer Amane,110041_02_r05,wind,axe,4014,A Dog's Day,400409_02,Castle Cheer Corps,400380_02,Freyja,210084_01,Marmyadose ,304129_01_60301,Blade,,Tobias,110352_01_r05,Bow,,Patia,110335_01_r04,Summer Luca,100006_03_r04,hp60,no s1,poison:100.0%;team:30.08661%;doublebuff:every 24.03s,attack:2598,fs:445
 -,180,_
-10729,Summer_Amane,5*,wind,axe,4648,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,<hp60>,no s1; 22.50s team doublebuff interval,attack:3207,force_strike:64,team_buff:7457
-10566,_c_Summer_Amane,5*,wind,axe,4385,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,!<hp60>,no s1; 22.50s team doublebuff interval,attack:3048,force_strike:60,team_buff:7457
+3087,Summer Amane,110041_02_r05,wind,axe,4014,A Dog's Day,400409_02,Castle Cheer Corps,400380_02,Freyja,210084_01,Marmyadose ,304129_01_60301,Blade,,Tobias,110352_01_r05,Bow,,Patia,110335_01_r04,Summer Luca,100006_03_r04,hp60,no s1,team:32.06124%;doublebuff:every 25.74s,attack:2649,fs:438
 -,180,affliction
-10729,Summer_Amane,5*,wind,axe,4648,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,<hp60>,no s1; 22.50s team doublebuff interval,attack:3207,force_strike:64,team_buff:7457
-10566,_c_Summer_Amane,5*,wind,axe,4385,A_Dogs_Day,Castle_Cheer_Corps,Freyja,Agito1,Blade,Tobias,Bow,Patia,Summer_Luca,!<hp60>,no s1; 22.50s team doublebuff interval,attack:3048,force_strike:60,team_buff:7457
+3087,Summer Amane,110041_02_r05,wind,axe,4014,A Dog's Day,400409_02,Castle Cheer Corps,400380_02,Freyja,210084_01,Marmyadose ,304129_01_60301,Blade,,Tobias,110352_01_r05,Bow,,Patia,110335_01_r04,Summer Luca,100006_03_r04,hp60,no s1,poison:100.0%;team:32.06124%;doublebuff:every 25.74s,attack:2649,fs:438

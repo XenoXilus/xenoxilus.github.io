@@ -1,18 +1,12 @@
 -,60,_
-16214,Pipple,4*,water,wand,6699,Proper_Maintenance,Brothers_in_Arms,Gaibhne_and_Creidhne,Agito1,Tiki,Renee,Tobias,Summer_Luca,Patia,<hp100>,8.57s team doublebuff interval,attack:11315,team_buff:2038,team_energy:332,dx:2528
-15113,_c_Pipple,4*,water,wand,6071,Proper_Maintenance,Brothers_in_Arms,Gaibhne_and_Creidhne,Agito1,Tiki,Renee,Tobias,Summer_Luca,Patia,!<hp100>,8.57s team doublebuff interval,attack:10414,team_buff:2038,team_energy:332,dx:2327
+14365,Pipple,110300_01_r04,water,wand,4037,Proper Maintenance,400423_02,Brothers in Arms,400402_02,Gaibhne & Creidhne,210120_01,Omizununo,307136_01_60201,Tiki,110360_01_r05,Renee,110265_01_r04,Tobias,110352_01_r05,Summer Luca,100006_03_r04,Patia,110335_01_r04,hp100,,team:14.23660%;doublebuff:every 8.60s;energy:5,attack:12153,dx:2211
 -,60,affliction
-16214,Pipple,4*,water,wand,6699,Proper_Maintenance,Brothers_in_Arms,Gaibhne_and_Creidhne,Agito1,Tiki,Renee,Tobias,Summer_Luca,Patia,<hp100>,8.57s team doublebuff interval,attack:11315,team_buff:2038,team_energy:332,dx:2528
-15113,_c_Pipple,4*,water,wand,6071,Proper_Maintenance,Brothers_in_Arms,Gaibhne_and_Creidhne,Agito1,Tiki,Renee,Tobias,Summer_Luca,Patia,!<hp100>,8.57s team doublebuff interval,attack:10414,team_buff:2038,team_energy:332,dx:2327
+14365,Pipple,110300_01_r04,water,wand,4037,Proper Maintenance,400423_02,Brothers in Arms,400402_02,Gaibhne & Creidhne,210120_01,Omizununo,307136_01_60201,Tiki,110360_01_r05,Renee,110265_01_r04,Tobias,110352_01_r05,Summer Luca,100006_03_r04,Patia,110335_01_r04,hp100,,frostbite:100.0%;team:14.23660%;doublebuff:every 8.60s;energy:5,attack:12153,dx:2211
 -,120,_
-21604,Pipple,4*,water,wand,6699,Proper_Maintenance,Brothers_in_Arms,Gaibhne_and_Creidhne,Agito1,Tiki,Renee,Tobias,Summer_Luca,Patia,<hp100>,6.00s team doublebuff interval,attack:16521,team_buff:3366,team_energy:165,dx:1549
-20224,_c_Pipple,4*,water,wand,6071,Proper_Maintenance,Brothers_in_Arms,Gaibhne_and_Creidhne,Agito1,Tiki,Renee,Tobias,Summer_Luca,Patia,!<hp100>,6.00s team doublebuff interval,attack:15257,team_buff:3366,team_energy:165,dx:1433
+18557,Pipple,110300_01_r04,water,wand,4037,Proper Maintenance,400423_02,Brothers in Arms,400402_02,Gaibhne & Creidhne,210120_01,Omizununo,307136_01_60201,Tiki,110360_01_r05,Renee,110265_01_r04,Tobias,110352_01_r05,Summer Luca,100006_03_r04,Patia,110335_01_r04,hp100,,team:19.72084%;doublebuff:every 5.72s;energy:8,attack:17296,dx:1260
 -,120,affliction
-21604,Pipple,4*,water,wand,6699,Proper_Maintenance,Brothers_in_Arms,Gaibhne_and_Creidhne,Agito1,Tiki,Renee,Tobias,Summer_Luca,Patia,<hp100>,6.00s team doublebuff interval,attack:16521,team_buff:3366,team_energy:165,dx:1549
-20224,_c_Pipple,4*,water,wand,6071,Proper_Maintenance,Brothers_in_Arms,Gaibhne_and_Creidhne,Agito1,Tiki,Renee,Tobias,Summer_Luca,Patia,!<hp100>,6.00s team doublebuff interval,attack:15257,team_buff:3366,team_energy:165,dx:1433
+18557,Pipple,110300_01_r04,water,wand,4037,Proper Maintenance,400423_02,Brothers in Arms,400402_02,Gaibhne & Creidhne,210120_01,Omizununo,307136_01_60201,Tiki,110360_01_r05,Renee,110265_01_r04,Tobias,110352_01_r05,Summer Luca,100006_03_r04,Patia,110335_01_r04,hp100,,frostbite:100.0%;team:19.72084%;doublebuff:every 5.72s;energy:8,attack:17296,dx:1260
 -,180,_
-22538,Pipple,4*,water,wand,6699,Proper_Maintenance,Brothers_in_Arms,Gaibhne_and_Creidhne,Agito1,Tiki,Renee,Tobias,Summer_Luca,Patia,<hp100>,6.21s team doublebuff interval,attack:17657,team_buff:3348,team_energy:110,dx:1421
-21090,_c_Pipple,4*,water,wand,6071,Proper_Maintenance,Brothers_in_Arms,Gaibhne_and_Creidhne,Agito1,Tiki,Renee,Tobias,Summer_Luca,Patia,!<hp100>,6.21s team doublebuff interval,attack:16316,team_buff:3348,team_energy:110,dx:1314
+19280,Pipple,110300_01_r04,water,wand,4037,Proper Maintenance,400423_02,Brothers in Arms,400402_02,Gaibhne & Creidhne,210120_01,Omizununo,307136_01_60201,Tiki,110360_01_r05,Renee,110265_01_r04,Tobias,110352_01_r05,Summer Luca,100006_03_r04,Patia,110335_01_r04,hp100,,team:18.61986%;doublebuff:every 5.81s;energy:11,attack:18048,dx:1231
 -,180,affliction
-22538,Pipple,4*,water,wand,6699,Proper_Maintenance,Brothers_in_Arms,Gaibhne_and_Creidhne,Agito1,Tiki,Renee,Tobias,Summer_Luca,Patia,<hp100>,6.21s team doublebuff interval,attack:17657,team_buff:3348,team_energy:110,dx:1421
-21090,_c_Pipple,4*,water,wand,6071,Proper_Maintenance,Brothers_in_Arms,Gaibhne_and_Creidhne,Agito1,Tiki,Renee,Tobias,Summer_Luca,Patia,!<hp100>,6.21s team doublebuff interval,attack:16316,team_buff:3348,team_energy:110,dx:1314
+19280,Pipple,110300_01_r04,water,wand,4037,Proper Maintenance,400423_02,Brothers in Arms,400402_02,Gaibhne & Creidhne,210120_01,Omizununo,307136_01_60201,Tiki,110360_01_r05,Renee,110265_01_r04,Tobias,110352_01_r05,Summer Luca,100006_03_r04,Patia,110335_01_r04,hp100,,frostbite:100.0%;team:18.61986%;doublebuff:every 5.81s;energy:11,attack:18048,dx:1231

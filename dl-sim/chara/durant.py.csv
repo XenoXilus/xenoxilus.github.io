@@ -1,18 +1,12 @@
 -,60,_
-35735,Durant,4*,shadow,blade,10112,The_Fires_of_Hate,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Kleimann,<hp100 & hit15>,72% poison uptime,attack:25545,skill_4:8389,s4_poison:1800
-26846,_c_Durant,4*,shadow,blade,8751,The_Fires_of_Hate,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Kleimann,!<hp100 & hit15>,72% poison uptime,attack:19210,skill_4:6286,s4_poison:1348
+37432,Durant,110343_01_r04,shadow,blade,4421,The Fires of Hate,400413_02,Howling to the Heavens,400395_02,Fatalis,210123_01,Qixing Baodao,302133_01_60502,Dagger2,,Tobias,110352_01_r05,Axe2,,Weapon,,Kleimann,110051_01_r04,hp100 & hit15,,poison:70.8%,attack:25138,s4:10592,s4_poison:1701
 -,60,affliction
-39630,Durant,4*,shadow,blade,8623,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,<hp100>,,attack:14110,skill_4:4733,team_buff:174,dx:17428,ds_poison:1005,ds:2177
-31625,_c_Durant,4*,shadow,blade,7266,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,!<hp100>,,attack:11376,skill_4:3813,team_buff:174,dx:13749,ds_poison:793,ds:1717
+43822,Durant,110343_01_r04,shadow,blade,4405,Proper Maintenance,400423_02,The Plaguebringer,400410_02,Epimetheus,210112_01,Qixing Baodao,302133_01_60502,Dagger2,,Tobias,110352_01_r05,Axe2,,Weapon,,Curran,110281_01_r05,hp100,,poison:100.0%;team:1.75434%,attack:14444,s4:5184,dx:20529,ds_poison:1075,ds:2587
 -,120,_
-44195,Durant,4*,shadow,blade,10112,The_Fires_of_Hate,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Kleimann,<hp100 & hit15>,84% poison uptime,attack:29012,skill_4:12672,s4_poison:2509
-33149,_c_Durant,4*,shadow,blade,8751,The_Fires_of_Hate,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Kleimann,!<hp100 & hit15>,84% poison uptime,attack:21767,skill_4:9499,s4_poison:1881
+44174,Durant,110343_01_r04,shadow,blade,4421,The Fires of Hate,400413_02,Howling to the Heavens,400395_02,Fatalis,210123_01,Qixing Baodao,302133_01_60502,Dagger2,,Tobias,110352_01_r05,Axe2,,Weapon,,Kleimann,110051_01_r04,hp100 & hit15,,poison:83.3%,attack:29582,s4:12085,s4_poison:2506
 -,120,affliction
-49351,Durant,4*,shadow,blade,8623,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,<hp100>,,attack:26802,skill_4:11033,team_buff:434,dx:9204,ds_poison:592,ds:1283
-39073,_c_Durant,4*,shadow,blade,7266,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,!<hp100>,,attack:21176,skill_4:8686,team_buff:434,dx:7296,ds_poison:467,ds:1012
+48862,Durant,110343_01_r04,shadow,blade,4405,Proper Maintenance,400423_02,The Plaguebringer,400410_02,Epimetheus,210112_01,Qixing Baodao,302133_01_60502,Dagger2,,Tobias,110352_01_r05,Axe2,,Weapon,,Curran,110281_01_r05,hp100,,poison:100.0%;team:2.34727%,attack:25093,s4:10802,dx:11079,ds_poison:595,ds:1290
 -,180,_
-45208,Durant,4*,shadow,blade,10112,The_Fires_of_Hate,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Kleimann,<hp100 & hit15>,83% poison uptime,attack:29864,skill_4:12846,s4_poison:2496
-33895,_c_Durant,4*,shadow,blade,8751,The_Fires_of_Hate,Howling_to_the_Heavens,Fatalis,Agito2,Dagger2,Tobias,Axe2,Weapon,Kleimann,!<hp100 & hit15>,83% poison uptime,attack:22393,skill_4:9630,s4_poison:1871
+46659,Durant,110343_01_r04,shadow,blade,4421,The Fires of Hate,400413_02,Howling to the Heavens,400395_02,Fatalis,210123_01,Qixing Baodao,302133_01_60502,Dagger2,,Tobias,110352_01_r05,Axe2,,Weapon,,Kleimann,110051_01_r04,hp100 & hit15,,poison:81.9%,attack:30527,s4:13519,s4_poison:2612
 -,180,affliction
-54658,Durant,4*,shadow,blade,8623,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,<hp100>,,attack:29100,skill_4:11000,team_buff:467,dx:11847,ds_poison:517,ds:1723
-43218,_c_Durant,4*,shadow,blade,7266,Proper_Maintenance,The_Plaguebringer,Epimetheus,Agito2,Dagger2,Tobias,Axe2,Weapon,Curran,!<hp100>,,attack:22925,skill_4:8631,team_buff:467,dx:9425,ds_poison:408,ds:1360
+53461,Durant,110343_01_r04,shadow,blade,4405,Proper Maintenance,400423_02,The Plaguebringer,400410_02,Epimetheus,210112_01,Qixing Baodao,302133_01_60502,Dagger2,,Tobias,110352_01_r05,Axe2,,Weapon,,Curran,110281_01_r05,hp100,,poison:100.0%;team:2.33478%,attack:27168,s4:10686,dx:13366,ds_poison:517,ds:1722

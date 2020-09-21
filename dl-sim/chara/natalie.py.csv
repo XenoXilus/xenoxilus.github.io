@@ -1,18 +1,12 @@
 -,60,_
-35407,Natalie,5*,shadow,blade,6347,The_Chocolatiers,Primal_Crisis,Gala_Cat_Sith,Agito2,Wand,Curran,Summer_Patia,Weapon,Veronica,<always connect hits & hp≤40 & hit15 & hp=20.0%>,,attack:5470,skill_1:19733,skill_4:10202
-16150,_c_Natalie,5*,shadow,blade,4882,The_Chocolatiers,Primal_Crisis,Gala_Cat_Sith,Agito2,Wand,Curran,Summer_Patia,Weapon,Veronica,!<always connect hits & hp≤40 & hit15 & hp=20.0%>,,attack:3467,skill_1:7791,skill_4:4891
+40287,Natalie,110326_01_r05,shadow,blade,4439,The Chocolatiers,400092_02,Primal Crisis,400424_02,Gala Cat Sìth,200017_01,Qixing Baodao,302133_01_60502,Wand,,Curran,110281_01_r05,Summer Patia,110335_02_r05,Weapon,,Veronica,110333_01_r05,always connect hits & hp≤40 & hp=20.0% & hit15,,,attack:5168,s1:21863,s4:13254
 -,60,affliction
-37447,Natalie,5*,shadow,blade,6347,The_Chocolatiers,Primal_Crisis,Gala_Cat_Sith,Agito2,Wand,Curran,Summer_Patia,Weapon,Veronica,<always connect hits & hp≤40 & hit15 & hp=20.0%>,,attack:5470,skill_1:19733,skill_4:12242
-17128,_c_Natalie,5*,shadow,blade,4882,The_Chocolatiers,Primal_Crisis,Gala_Cat_Sith,Agito2,Wand,Curran,Summer_Patia,Weapon,Veronica,!<always connect hits & hp≤40 & hit15 & hp=20.0%>,,attack:3467,skill_1:7791,skill_4:5869
+42938,Natalie,110326_01_r05,shadow,blade,4439,The Chocolatiers,400092_02,Primal Crisis,400424_02,Gala Cat Sìth,200017_01,Qixing Baodao,302133_01_60502,Wand,,Curran,110281_01_r05,Summer Patia,110335_02_r05,Weapon,,Veronica,110333_01_r05,always connect hits & hp≤40 & hp=20.0% & hit15,,poison:100.0%,attack:5168,s1:21863,s4:15904
 -,120,_
-45736,Natalie,5*,shadow,blade,6350,Heralds_of_Hinomoto,Primal_Crisis,Gala_Cat_Sith,Agito2,Wand,Curran,Summer_Patia,Weapon,Veronica,<always connect hits & hp≤40 & hit15 & hp=20.0%>,,attack:5579,skill_1:28568,skill_4:11587
-20096,_c_Natalie,5*,shadow,blade,4885,Heralds_of_Hinomoto,Primal_Crisis,Gala_Cat_Sith,Agito2,Wand,Curran,Summer_Patia,Weapon,Veronica,!<always connect hits & hp≤40 & hit15 & hp=20.0%>,,attack:3400,skill_1:10140,skill_4:5062,dx:375,ds:1116
+45328,Natalie,110326_01_r05,shadow,blade,4441,Heralds of Hinomoto,400125_02,Primal Crisis,400424_02,Gala Cat Sìth,200017_01,Qixing Baodao,302133_01_60502,Wand,,Curran,110281_01_r05,Summer Patia,110335_02_r05,Weapon,,Veronica,110333_01_r05,always connect hits & hp≤40 & hit15 & hp=20.0%,,,attack:5021,s1:28255,s4:12051
 -,120,affliction
-48053,Natalie,5*,shadow,blade,6350,Heralds_of_Hinomoto,Primal_Crisis,Gala_Cat_Sith,Agito2,Wand,Curran,Summer_Patia,Weapon,Veronica,<always connect hits & hp≤40 & hit15 & hp=20.0%>,,attack:5579,skill_1:28568,skill_4:13904
-21109,_c_Natalie,5*,shadow,blade,4885,Heralds_of_Hinomoto,Primal_Crisis,Gala_Cat_Sith,Agito2,Wand,Curran,Summer_Patia,Weapon,Veronica,!<always connect hits & hp≤40 & hit15 & hp=20.0%>,,attack:3400,skill_1:10140,skill_4:6075,dx:375,ds:1116
+47739,Natalie,110326_01_r05,shadow,blade,4441,Heralds of Hinomoto,400125_02,Primal Crisis,400424_02,Gala Cat Sìth,200017_01,Qixing Baodao,302133_01_60502,Wand,,Curran,110281_01_r05,Summer Patia,110335_02_r05,Weapon,,Veronica,110333_01_r05,always connect hits & hp≤40 & hit15 & hp=20.0%,,poison:100.0%,attack:5021,s1:28255,s4:14462
 -,180,_
-46380,Natalie,5*,shadow,blade,6350,Heralds_of_Hinomoto,Primal_Crisis,Gala_Cat_Sith,Agito2,Wand,Curran,Summer_Patia,Weapon,Veronica,<always connect hits & hp≤40 & hit15 & hp=20.0%>,,attack:5593,skill_1:28713,skill_4:11005,dx:307,ds:760
-18810,_c_Natalie,5*,shadow,blade,4885,Heralds_of_Hinomoto,Primal_Crisis,Gala_Cat_Sith,Agito2,Wand,Curran,Summer_Patia,Weapon,Veronica,!<always connect hits & hp≤40 & hit15 & hp=20.0%>,,attack:3459,skill_1:9724,skill_4:4561,dx:406,ds:659
+44534,Natalie,110326_01_r05,shadow,blade,4441,Heralds of Hinomoto,400125_02,Primal Crisis,400424_02,Gala Cat Sìth,200017_01,Qixing Baodao,302133_01_60502,Wand,,Curran,110281_01_r05,Summer Patia,110335_02_r05,Weapon,,Veronica,110333_01_r05,always connect hits & hp≤40 & hit15 & hp=20.0%,,sleep:2.0%,attack:5068,s1:27751,s4:10591,dx:342,ds:779
 -,180,affliction
-48582,Natalie,5*,shadow,blade,6350,Heralds_of_Hinomoto,Primal_Crisis,Gala_Cat_Sith,Agito2,Wand,Curran,Summer_Patia,Weapon,Veronica,<always connect hits & hp≤40 & hit15 & hp=20.0%>,,attack:5593,skill_1:28713,skill_4:13206,dx:307,ds:760
-19723,_c_Natalie,5*,shadow,blade,4885,Heralds_of_Hinomoto,Primal_Crisis,Gala_Cat_Sith,Agito2,Wand,Curran,Summer_Patia,Weapon,Veronica,!<always connect hits & hp≤40 & hit15 & hp=20.0%>,,attack:3459,skill_1:9724,skill_4:5473,dx:406,ds:659
+46653,Natalie,110326_01_r05,shadow,blade,4441,Heralds of Hinomoto,400125_02,Primal Crisis,400424_02,Gala Cat Sìth,200017_01,Qixing Baodao,302133_01_60502,Wand,,Curran,110281_01_r05,Summer Patia,110335_02_r05,Weapon,,Veronica,110333_01_r05,always connect hits & hp≤40 & hit15 & hp=20.0%,,poison:100.0%;sleep:2.0%,attack:5068,s1:27751,s4:12709,dx:342,ds:779

@@ -1,18 +1,12 @@
 -,60,_
-16690,Nicolas,3*,wind,wand,5491,Candy_Couriers,Primal_Crisis,Vayu,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,<hit10 & hit15>,,attack:3116,skill_1:5115,skill_2:2827,skill_4:3005,team_buff:173,dx:729,ds:1722
-11284,_c_Nicolas,3*,wind,wand,5491,Candy_Couriers,Primal_Crisis,Vayu,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,!<hit10 & hit15>,,attack:2132,skill_1:3427,skill_2:1894,skill_4:2014,team_buff:173,dx:488,ds:1154
+16496,Nicolas,110025_01_r03,wind,wand,4009,Candy Couriers,400135_02,Primal Crisis,400424_02,Vayu,210098_01,Camelot,307137_01_60301,Blade,,Akasha,110341_01_r05,Lin You,110268_01_r05,Weapon,,Curran,110281_01_r05,hit10 & hit15,,stun:2.2%;team:1.38857%,attack:3235,s1:5173,s2:2657,s4:2949,dx:737,ds:1742
 -,60,affliction
-20210,Nicolas,3*,wind,wand,6193,Candy_Couriers,The_Fires_of_Hate,Vayu,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,<hit10 & hp100>,,attack:3450,skill_1:5580,skill_2:3084,skill_4:5246,team_buff:173,dx:795,ds:1879
-14993,_c_Nicolas,3*,wind,wand,5505,Candy_Couriers,The_Fires_of_Hate,Vayu,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,!<hit10 & hp100>,,attack:2565,skill_1:4122,skill_2:2279,skill_4:3876,team_buff:173,dx:587,ds:1388
+19980,Nicolas,110025_01_r03,wind,wand,4019,Candy Couriers,400135_02,The Fires of Hate,400413_02,Vayu,210098_01,Camelot,307137_01_60301,Blade,,Akasha,110341_01_r05,Lin You,110268_01_r05,Weapon,,Curran,110281_01_r05,hp100 & hit10,,poison:100.0%;stun:2.2%;team:1.38857%,attack:3583,s1:5643,s2:2899,s4:5147,dx:804,ds:1900
 -,120,_
-16519,Nicolas,3*,wind,wand,5491,Candy_Couriers,Primal_Crisis,Vayu,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,<hit10 & hit15>,,attack:3219,skill_1:5170,skill_2:2349,skill_4:3038,team_buff:262,dx:737,ds:1741
-11177,_c_Nicolas,3*,wind,wand,5491,Candy_Couriers,Primal_Crisis,Vayu,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,!<hit10 & hit15>,,attack:2179,skill_1:3464,skill_2:1574,skill_4:2035,team_buff:262,dx:493,ds:1166
+15824,Nicolas,110025_01_r03,wind,wand,4009,Candy Couriers,400135_02,Primal Crisis,400424_02,Vayu,210098_01,Camelot,307137_01_60301,Blade,,Akasha,110341_01_r05,Lin You,110268_01_r05,Weapon,,Curran,110281_01_r05,hit10 & hit15,,stun:2.5%;team:1.75374%,attack:3538,s1:5684,s2:2657,s4:2703,dx:368,ds:871
 -,120,affliction
-20011,Nicolas,3*,wind,wand,6193,Candy_Couriers,The_Fires_of_Hate,Vayu,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,<hit10 & hp100>,,attack:3537,skill_1:5640,skill_2:2563,skill_4:5303,team_buff:262,dx:804,ds:1899
-14862,_c_Nicolas,3*,wind,wand,5505,Candy_Couriers,The_Fires_of_Hate,Vayu,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,!<hit10 & hp100>,,attack:2621,skill_1:4167,skill_2:1893,skill_4:3918,team_buff:262,dx:594,ds:1403
+19059,Nicolas,110025_01_r03,wind,wand,4019,Candy Couriers,400135_02,The Fires of Hate,400413_02,Vayu,210098_01,Camelot,307137_01_60301,Blade,,Akasha,110341_01_r05,Lin You,110268_01_r05,Weapon,,Curran,110281_01_r05,hp100 & hit10,,poison:100.0%;stun:2.5%;team:1.75374%,attack:3887,s1:6201,s2:2899,s4:4718,dx:402,ds:950
 -,180,_
-16577,Nicolas,3*,wind,wand,5491,Candy_Couriers,Primal_Crisis,Vayu,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,<hit10 & hit15>,,attack:3315,skill_1:5554,skill_2:2829,skill_4:2873,team_buff:350,dx:491,ds:1162
-11238,_c_Nicolas,3*,wind,wand,5491,Candy_Couriers,Primal_Crisis,Vayu,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,!<hit10 & hit15>,,attack:2236,skill_1:3721,skill_2:1895,skill_4:1925,team_buff:350,dx:329,ds:778
+16444,Nicolas,110025_01_r03,wind,wand,4009,Candy Couriers,400135_02,Primal Crisis,400424_02,Vayu,210098_01,Camelot,307137_01_60301,Blade,,Akasha,110341_01_r05,Lin You,110268_01_r05,Weapon,,Curran,110281_01_r05,hit10 & hit15,,stun:2.2%;team:1.75007%,attack:3501,s1:5861,s2:2651,s4:2779,dx:490,ds:1159
 -,180,affliction
-19950,Nicolas,3*,wind,wand,6193,Candy_Couriers,The_Fires_of_Hate,Vayu,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,<hit10 & hp100>,,attack:3634,skill_1:6059,skill_2:3086,skill_4:5014,team_buff:350,dx:536,ds:1268
-14837,_c_Nicolas,3*,wind,wand,5505,Candy_Couriers,The_Fires_of_Hate,Vayu,Agito1,Blade,Akasha,Lin_You,Weapon,Curran,!<hit10 & hp100>,,attack:2690,skill_1:4476,skill_2:2280,skill_4:3705,team_buff:350,dx:396,ds:936
+19776,Nicolas,110025_01_r03,wind,wand,4019,Candy Couriers,400135_02,The Fires of Hate,400413_02,Vayu,210098_01,Camelot,307137_01_60301,Blade,,Akasha,110341_01_r05,Lin You,110268_01_r05,Weapon,,Curran,110281_01_r05,hp100 & hit10,,poison:100.0%;stun:2.2%;team:1.75007%,attack:3838,s1:6394,s2:2893,s4:4851,dx:535,ds:1264
