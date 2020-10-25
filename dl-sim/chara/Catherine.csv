@@ -3,11 +3,7 @@
 -,60,affliction
 57665,Catherine,110364_01_r05,water,lance,4284,Nimis,210053_01,Ame no Nuhoko,305136_01_60201,Memory of a Friend,400429_02,Moonlight Party,400448_02,The Prince of Dragonyule,400115_02,From Whence He Comes,400390_02,His Clever Brother,400169_02,Blade,,Renee,110265_01_r04,Tiki,110360_01_r05,Weapon,,Mikoto,110010_01_r05,hp70 & hit10 & hit15,,frostbite:100.0%,x:1550,x_escort1:2980,x_escort2:5524,x_escort3:40965,s2_escort3:6644
 -,120,_
-<<<<<<< HEAD:dl-sim/chara/catherine.py.csv
-25974,Catherine,110364_01_r05,water,lance,4279,Gaibhne & Creidhne,210120_01,Ame no Nuhoko,305136_01_60201,Dragon and Tamer,400128_02,Memory of a Friend,400429_02,The Red Impulse,400088_02,A Small Courage,400421_02,Dueling Dancers,400050_02,Dragonyule Cleo,100004_02_r05,Hunter Sarisse,100029_03_r05,Summer Estelle,110063_02_r04,Weapon,,Ranzal,100003_01_r04,0 poison res & always connect hits & hit10 & hit15,,poison:57.5%,x:1021,x_escort1:1687,x_escort2:1799,x_escort3:3252,s2_escort3:8902,s4:6418,s4_poison:796,dx:2096
-=======
-17402,Catherine,110364_01_r05,water,lance,4279,Gaibhne & Creidhne,210120_01,Ame no Nuhoko,305136_01_60201,Dragon and Tamer,400128_02,Memory of a Friend,400429_02,The Red Impulse,400088_02,A Small Courage,400421_02,Dueling Dancers,400050_02,,,,,,,Weapon,,,,hit10 & hit15,,,x:1255,x_escort1:1596,x_escort2:1748,x_escort3:4372,s2_escort3:8428
->>>>>>> 64400c2f3d07691789b4015746b305c176f8fe15:dl-sim/chara/Catherine.csv
+17402,Catherine,110364_01_r05,water,lance,4279,Gaibhne &amp; Creidhne,210120_01,Ame no Nuhoko,305136_01_60201,Dragon and Tamer,400128_02,Memory of a Friend,400429_02,The Red Impulse,400088_02,A Small Courage,400421_02,Dueling Dancers,400050_02,,,,,,,Weapon,,,,hit10 & hit15,,,x:1255,x_escort1:1596,x_escort2:1748,x_escort3:4372,s2_escort3:8428
 -,120,affliction
 64494,Catherine,110364_01_r05,water,lance,4284,Nimis,210053_01,Ame no Nuhoko,305136_01_60201,Memory of a Friend,400429_02,Proper Maintenance,400423_02,The Prince of Dragonyule,400115_02,From Whence He Comes,400390_02,His Clever Brother,400169_02,Blade,,Renee,110265_01_r04,Dagger2,,Weapon,,Mikoto,110010_01_r05,hit10 & hit15,,frostbite:100.0%,x:763,x_escort1:1429,x_escort2:2667,x_escort3:55822,s2_escort3:3811
 -,180,_
