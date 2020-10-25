@@ -1,0 +1,16 @@
+-,60,_
+88135,Durant,110343_01_r04,shadow,blade,4606,Epimetheus,210112_01,Qixing Baodao,302133_01_60501,Howling to the Heavens,400395_02,Memory of a Friend,400429_02,Moonlight Party,400448_02,Luck of the Draw,400127_02,The Plaguebringer,400410_02,Axe2,,Dagger2,,Tobias,110352_01_r05,Weapon,,Mikoto,110010_01_r05,0 poison res & hp100 & hp70 & hit15,,poison:49.6%;team:11.95621%,x:21384,dx:61201,ds_poison:1041,ds:4508
+-,60,affliction
+101107,Durant,110343_01_r04,shadow,blade,4606,Epimetheus,210112_01,Qixing Baodao,302133_01_60501,Howling to the Heavens,400395_02,Memory of a Friend,400429_02,Moonlight Party,400448_02,Luck of the Draw,400127_02,The Plaguebringer,400410_02,Axe2,,Dagger2,,Tobias,110352_01_r05,Weapon,,Mikoto,110010_01_r05,0 poison res & hp100 & hp70 & hit15,,poison:100.0%;team:11.34676%,x:26299,dx:65881,ds_poison:1536,ds:7390
+-,120,_
+85221,Durant,110343_01_r04,shadow,blade,4606,Epimetheus,210112_01,Qixing Baodao,302133_01_60501,Howling to the Heavens,400395_02,Memory of a Friend,400429_02,Moonlight Party,400448_02,Luck of the Draw,400127_02,The Plaguebringer,400410_02,Axe2,,Dagger2,,Tobias,110352_01_r05,Weapon,,Kleimann,110051_01_r04,0 poison res & hp100 & hp70 & hit15,,poison:83.7%;team:15.84625%,x:34305,s4:10893,s4_poison:2274,dx:30062,ds_poison:821,ds:6863
+-,120,affliction
+102681,Durant,110343_01_r04,shadow,blade,4606,Epimetheus,210112_01,Qixing Baodao,302133_01_60501,Howling to the Heavens,400395_02,Memory of a Friend,400429_02,Moonlight Party,400448_02,Luck of the Draw,400127_02,The Plaguebringer,400410_02,Axe2,,Dagger2,,Tobias,110352_01_r05,Weapon,,Mikoto,110010_01_r05,0 poison res & hp100 & hp70 & hit15,,poison:100.0%;team:16.85248%,x:45709,dx:47382,ds_poison:992,ds:8596
+-,180,_
+<<<<<<< HEAD:dl-sim/chara/durant.py.csv
+91300,Durant,110343_01_r04,shadow,blade,4606,Epimetheus,210112_01,Qixing Baodao,302133_01_60501,Howling to the Heavens,400395_02,Memory of a Friend,400429_02,Moonlight Party,400448_02,Luck of the Draw,400127_02,The Plaguebringer,400410_02,Axe2,,Dagger2,,Tobias,110352_01_r05,Weapon,,Kleimann,110051_01_r04,0 poison res & hp100 & hp70 & hit15,,poison:80.9%;team:16.45835%,x:38894,s4:9055,s4_poison:1941,dx:36803,ds_poison:590,ds:4014
+=======
+95473,Durant,110343_01_r04,shadow,blade,4606,Epimetheus,210112_01,Qixing Baodao,302133_01_60501,Howling to the Heavens,400395_02,Memory of a Friend,400429_02,Moonlight Party,400448_02,Luck of the Draw,400127_02,The Plaguebringer,400410_02,Axe2,,Dagger2,,Tobias,110352_01_r05,Weapon,,Rodrigo,110046_01_r03,0 poison res & hp100 & hp70 & hit15,,poison:79.3%;team:17.28477%,x:42989,s4:7208,s4_poison:2241,dx:36666,ds_poison:873,ds:5493
+>>>>>>> 64400c2f3d07691789b4015746b305c176f8fe15:dl-sim/chara/Durant.csv
+-,180,affliction
+107390,Durant,110343_01_r04,shadow,blade,4606,Epimetheus,210112_01,Qixing Baodao,302133_01_60501,Howling to the Heavens,400395_02,Memory of a Friend,400429_02,Moonlight Party,400448_02,Luck of the Draw,400127_02,The Plaguebringer,400410_02,Axe2,,Dagger2,,Tobias,110352_01_r05,Weapon,,Mikoto,110010_01_r05,0 poison res & hp100 & hp70 & hit15,,poison:100.0%;team:18.81042%,x:52394,dx:48337,ds_poison:926,ds:5731
